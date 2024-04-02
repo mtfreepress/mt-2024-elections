@@ -1,0 +1,126 @@
+---
+# TODO - decide whether to specify candidate-race relationships here or in candidate file
+# Did in candidate data last time; this would make for simpler edits
+# Slug form of name - needs to match candidate file
+# OR - automate from SOS export
+
+# FEDERAL
+
+- raceSlug: us-senate
+  displayName: U.S. Senate
+  level: Federal
+  category: us-senate
+  description: One of Montana's two U.S. Senate seats, elected with a statewide vote. Elected to a six-year term.
+  note: Montana's other U.S. Senator, Steve Daines, is up for re-election in 2026.
+  candidates:
+    - jon-tester
+    - tim-sheehy
+    - brad-johnson
+
+- raceSlug: us-house-1
+  displayName: U.S. House District 1 (West)
+  level: Federal
+  category: us-house
+  description: Western Montana representative in Congress. District includes Missoula, Bozeman, Kalispell and Butte. Elected to a two-year term.
+  note: Prior to 2022, Montana was represented by a single congressman elected on a statewide basis.
+  candidates:
+
+- raceSlug: us-house-2
+  displayName: U.S. House District 1 (East)
+  level: Federal
+  category: us-house
+  description: Eastern Montana representative in Congress. District includes Billings, Helena, Havre and Miles City. Elected to a two-year term.
+  note: Prior to 2022, Montana was represented by a single congressman elected on a statewide basis.
+  candidates:
+
+# STATEWIDE
+
+- raceSlug: governor
+  displayName: Montana Governor
+  level: Statewide
+  category: governor
+  description: Montana's chief executive, the governor appoints the heads of most agencies, signs legislation into law and acts as state government's most visible elected official. Elected to a four-year term.
+  note:
+  candidates:
+
+- raceSlug: secretary-of-state
+  displayName: Montana Secretary of State
+  level: Statewide
+  category: sos
+  description: Montana's top election official, the secretary of state also oversees business registration and maintains many state records. Elected to a four-year term.
+  note:
+  candidates:
+
+- raceSlug: attorney-general
+  displayName: Montana Attorney General
+  level: Statewide
+  category: attorney-general
+  description: The state's top law enforcement officer and prosecutor. The head of the state Department of Justice, the AG also represents Montana in litigation and leads the Montana Highway Patrol. Elected to a four-year term.
+  note:
+  candidates:
+
+- raceSlug: superintendent
+  displayName: Montana Superintendent of Public Instruction
+  level: Statewide
+  category: superintendent
+  description: The state’s top education official. Elected to a four-year term.
+  note:
+  candidates:
+
+- raceSlug: state-auditor
+  displayName: Montana State Auditor
+  level: Statewide
+  category: auditor
+  description: Montana’s Commissioner of Securities and Insurance. Regulates the insurance industry and investigates fraud. Elected to a four-year term.
+  note:
+  candidates:
+
+- raceSlug: clerk-of-court
+  displayName: Clerk of the Montana Supreme Court
+  level: Statewide
+  category: supco-clerk
+  description: TK TK TK
+  note:
+  candidates:
+
+- raceSlug: supco-chief-justice
+  displayName: Montana Supreme Court (Chief Jutice)
+  level: Statewide
+  category: "supco-chief"
+  description: The chief of the state's high court, which takes appeals from lower courts and administers the Montana legal system. Elected to an eight-year term.
+  note:
+  candidates:
+
+- raceSlug: supco-3
+  displayName: Montana Supreme Court (Seat 3)
+  level: Statewide
+  category: supco-3
+  description: One of seven seats on the state's high court, which takes appeals from lower courts and administers the Montana legal system. Elected to an eight-year term.
+  note:
+  candidates:
+
+# STATE DISTRICT
+
+- raceSlug: psc-2
+  displayName: Public Service Commission (Seat 2)
+  level: State District
+  category: psc
+  description: One of five seats on the state's utility regulation board. Elected to a four-year term.
+  note:
+  candidates:
+
+- raceSlug: psc-3
+  displayName: Public Service Commission (Seat 3)
+  level: State District
+  category: psc
+  description: One of five seats on the state's utility regulation board. Elected to a four-year term.
+  note:
+  candidates:
+
+- raceSlug: psc-4
+  displayName: Public Service Commission (Seat 4)
+  level: State District
+  category: psc
+  description: One of five seats on the state's utility regulation board. Elected to a four-year term.
+  note:
+  candidates:

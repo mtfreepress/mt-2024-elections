@@ -1,78 +1,72 @@
 import { css } from "@emotion/react";
 
 import Head from 'next/head';
-import Image from 'next/image';
-import Link from 'next/link';
 
-import styles from './layout.module.css';
-import utilStyles from '../styles/utils.module.css';
+import Header from '../design/Header'
+import Nav from '../design/Nav'
+import Footer from '../design/Footer'
 
-import { metaData } from '../config'
+import { metaData } from "@/config";
 
-
-const name = 'Montana Free Press';
-
-const headerStyle = css`
-  /* display: flex; */
-  /* flex-direction: column; */
-  /* align-items: center; */
-  color: red;
+const bodyStyle = css`
+    position: relative;
 `
 
+const contentStyle = css`
+    padding: 10px;
+    padding-top: 0;
+    max-width: 800px;
+    margin: auto;
+`
+
+// TODO
+// - Implement favicon
+// - Implement feature image
+// - Wire up Google Analytics
+// - Wire up Parsely
+
 export default function Layout({ children, home }) {
-  const { siteTitle } = metaData
+  const { seoTitle, seoDescription, url } = metaData
   return (
-    <div className={styles.container}>
+    <div>
       <Head>
-        <link rel="icon" href="/favicon.ico" />
+        <link
+          rel="shortcut icon"
+          href="../public/mtfp-icon.png"
+        />
         <meta
           name="description"
-          content="Learn how to build a personal website using Next.js"
+          content={seoDescription}
         />
-        {/* TODO - fill out metadata here */}
 
-        <meta name="og:title" content={siteTitle} />
+        <meta property="og:url" content={url} />
+        <meta property="og:locale" content="en_US" />
+        <meta property="og:site_name" content="Montana Free Press" />
+        <meta property="og:title" content={seoTitle} />
+        {/* <meta property="og:image" content={metaImage} /> */}
+        {/* <meta property="og:image:width" content="1200" /> */}
+        {/* <meta property="og:image:height" content="630" /> */}
+        <meta property="og:type" content="website" />
+
+        {/* Twitter */}
         <meta name="twitter:card" content="summary_large_image" />
+        <meta name="twitter:creator" content="@mtfreepress" />
+        <meta name="twitter:title" content={seoTitle} />
+        {/* <meta name="twitter:image" content={metaImage} /> */}
+        <meta name="twitter:description" content={seoDescription} />
+
+        <meta name="og:title" content={seoTitle} />
+        <meta name="twitter:card" content="summary_large_image" />
+
       </Head>
-      <header css={headerStyle}>
-        {home ? (
-          <>
-            <Image
-              priority
-              src="/images/profile.jpg"
-              className={utilStyles.borderCircle}
-              height={144}
-              width={144}
-              alt={name}
-            />
-            <h1>{siteTitle}</h1>
-          </>
-        ) : (
-          <>
-            <Link href="/">
-              <Image
-                priority
-                src="/images/profile.jpg"
-                className={utilStyles.borderCircle}
-                height={108}
-                width={108}
-                alt={name}
-              />
-            </Link>
-            <h2 className={utilStyles.headingLg}>
-              <Link href="/" className={utilStyles.colorInherit}>
-                {siteTitle}
-              </Link>
-            </h2>
-          </>
-        )}
-      </header>
-      <main>{children}</main>
-      {!home && (
-        <div className={styles.backToHome}>
-          <Link href="/">← Back to home</Link>
-        </div>
-      )}
+
+      <div css={bodyStyle}>
+        <Header />
+        <Nav />
+        <main css={contentStyle}>{children}</main>
+        <Footer />
+      </div>
+
 
     </div>
   );

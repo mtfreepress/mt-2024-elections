@@ -10,9 +10,14 @@
   },
   "dependencies": {
     "@emotion/react": "^11.11.4",
+    "d3-format": "^3.1.0",
+    "d3-time-format": "^4.1.0",
+    "glob": "^10.3.12",
     "next": "14.1.4",
     "react": "^18",
-    "react-dom": "^18"
+    "react-dom": "^18",
+    "react-markdown": "^9.0.1",
+    "yaml": "^2.4.1"
   },
   "devDependencies": {
     "autoprefixer": "^10.0.1",
