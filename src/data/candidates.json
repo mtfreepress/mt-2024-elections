@@ -7,6 +7,12 @@
     "summaryNarrative": "A former Navy SEAL originally from Minnesota, Sheehy is the CEO of Bridger Aerospace, a Belgrade-based aerial firefighting company. His wealth and military background make him an attractive candidate for national Republicans and he has been endorsed by Montana U.S. Sen. Steve Daines, the chair of the National Republican Senatorial Committee, Gov. Greg Gianforte and U.S. Rep. Ryan Zinke. But, by many of those same virtues, he's a target of criticism from some in the Montana GOP. \"I think Americans are feeling underrepresented,” he told Fox News Digital shortly after launching his campaign. “They're tired of a government that they don't feel is working for them.\"\n",
     "party": "R",
     "isIncumbent": false,
+    "campaignWebsite": null,
+    "campaignFB": null,
+    "campaignTW": null,
+    "campaignIG": null,
+    "campaignYT": null,
+    "campaignTT": null,
     "raceSlug": "us-senate",
     "raceDisplayName": "U.S. Senate",
     "opponents": [
@@ -21,6 +27,280 @@
         "displayName": "Brad Johnson",
         "summaryLine": "Former Montana Secretary of State",
         "party": "R"
+      },
+      {
+        "slug": "sid-daud",
+        "displayName": "Sid Daud",
+        "summaryLine": "Kalispell City Council member",
+        "party": "L"
+      },
+      {
+        "slug": "michael-hummert",
+        "displayName": "Michael Hummert",
+        "summaryLine": "U.S. Navy Veteran",
+        "party": "D"
+      },
+      {
+        "slug": "charles-walkingchild",
+        "displayName": "Charles Walkingchild",
+        "summaryLine": "Helena environmental contractor",
+        "party": "R"
+      },
+      {
+        "slug": "michael-downey",
+        "displayName": "Michael Downey",
+        "summaryLine": "Helena resident",
+        "party": "G"
+      },
+      {
+        "slug": "robert-barb",
+        "displayName": "Robert Barb",
+        "summaryLine": "Billings resident",
+        "party": "G"
+      }
+    ]
+  },
+  {
+    "slug": "sid-daud",
+    "displayName": "Sid Daud",
+    "lastName": "Daud",
+    "summaryLine": "Kalispell City Council member",
+    "summaryNarrative": "",
+    "party": "L",
+    "isIncumbent": false,
+    "campaignWebsite": null,
+    "campaignFB": null,
+    "campaignTW": null,
+    "campaignIG": null,
+    "campaignYT": null,
+    "campaignTT": null,
+    "raceSlug": "us-senate",
+    "raceDisplayName": "U.S. Senate",
+    "opponents": [
+      {
+        "slug": "jon-tester",
+        "displayName": "Jon Tester",
+        "summaryLine": "Incumbent U.S. Senator",
+        "party": "D"
+      },
+      {
+        "slug": "tim-sheehy",
+        "displayName": "Tim Sheehy",
+        "summaryLine": "Bozeman businessman",
+        "party": "R"
+      },
+      {
+        "slug": "brad-johnson",
+        "displayName": "Brad Johnson",
+        "summaryLine": "Former Montana Secretary of State",
+        "party": "R"
+      },
+      {
+        "slug": "michael-hummert",
+        "displayName": "Michael Hummert",
+        "summaryLine": "U.S. Navy Veteran",
+        "party": "D"
+      },
+      {
+        "slug": "charles-walkingchild",
+        "displayName": "Charles Walkingchild",
+        "summaryLine": "Helena environmental contractor",
+        "party": "R"
+      },
+      {
+        "slug": "michael-downey",
+        "displayName": "Michael Downey",
+        "summaryLine": "Helena resident",
+        "party": "G"
+      },
+      {
+        "slug": "robert-barb",
+        "displayName": "Robert Barb",
+        "summaryLine": "Billings resident",
+        "party": "G"
+      }
+    ]
+  },
+  {
+    "slug": "robert-barb",
+    "displayName": "Robert Barb",
+    "lastName": "Barb",
+    "summaryLine": "Billings resident",
+    "summaryNarrative": "",
+    "party": "G",
+    "isIncumbent": false,
+    "campaignWebsite": null,
+    "campaignFB": null,
+    "campaignTW": null,
+    "campaignIG": null,
+    "campaignYT": null,
+    "campaignTT": null,
+    "raceSlug": "us-senate",
+    "raceDisplayName": "U.S. Senate",
+    "opponents": [
+      {
+        "slug": "jon-tester",
+        "displayName": "Jon Tester",
+        "summaryLine": "Incumbent U.S. Senator",
+        "party": "D"
+      },
+      {
+        "slug": "tim-sheehy",
+        "displayName": "Tim Sheehy",
+        "summaryLine": "Bozeman businessman",
+        "party": "R"
+      },
+      {
+        "slug": "brad-johnson",
+        "displayName": "Brad Johnson",
+        "summaryLine": "Former Montana Secretary of State",
+        "party": "R"
+      },
+      {
+        "slug": "sid-daud",
+        "displayName": "Sid Daud",
+        "summaryLine": "Kalispell City Council member",
+        "party": "L"
+      },
+      {
+        "slug": "michael-hummert",
+        "displayName": "Michael Hummert",
+        "summaryLine": "U.S. Navy Veteran",
+        "party": "D"
+      },
+      {
+        "slug": "charles-walkingchild",
+        "displayName": "Charles Walkingchild",
+        "summaryLine": "Helena environmental contractor",
+        "party": "R"
+      },
+      {
+        "slug": "michael-downey",
+        "displayName": "Michael Downey",
+        "summaryLine": "Helena resident",
+        "party": "G"
+      }
+    ]
+  },
+  {
+    "slug": "michael-hummert",
+    "displayName": "Michael Hummert",
+    "lastName": "Hummert",
+    "summaryLine": "U.S. Navy Veteran",
+    "summaryNarrative": "",
+    "party": "D",
+    "isIncumbent": false,
+    "campaignWebsite": null,
+    "campaignFB": null,
+    "campaignTW": null,
+    "campaignIG": null,
+    "campaignYT": null,
+    "campaignTT": null,
+    "raceSlug": "us-senate",
+    "raceDisplayName": "U.S. Senate",
+    "opponents": [
+      {
+        "slug": "jon-tester",
+        "displayName": "Jon Tester",
+        "summaryLine": "Incumbent U.S. Senator",
+        "party": "D"
+      },
+      {
+        "slug": "tim-sheehy",
+        "displayName": "Tim Sheehy",
+        "summaryLine": "Bozeman businessman",
+        "party": "R"
+      },
+      {
+        "slug": "brad-johnson",
+        "displayName": "Brad Johnson",
+        "summaryLine": "Former Montana Secretary of State",
+        "party": "R"
+      },
+      {
+        "slug": "sid-daud",
+        "displayName": "Sid Daud",
+        "summaryLine": "Kalispell City Council member",
+        "party": "L"
+      },
+      {
+        "slug": "charles-walkingchild",
+        "displayName": "Charles Walkingchild",
+        "summaryLine": "Helena environmental contractor",
+        "party": "R"
+      },
+      {
+        "slug": "michael-downey",
+        "displayName": "Michael Downey",
+        "summaryLine": "Helena resident",
+        "party": "G"
+      },
+      {
+        "slug": "robert-barb",
+        "displayName": "Robert Barb",
+        "summaryLine": "Billings resident",
+        "party": "G"
+      }
+    ]
+  },
+  {
+    "slug": "michael-downey",
+    "displayName": "Michael Downey",
+    "lastName": "Downey",
+    "summaryLine": "Helena resident",
+    "summaryNarrative": "",
+    "party": "G",
+    "isIncumbent": false,
+    "campaignWebsite": null,
+    "campaignFB": null,
+    "campaignTW": null,
+    "campaignIG": null,
+    "campaignYT": null,
+    "campaignTT": null,
+    "raceSlug": "us-senate",
+    "raceDisplayName": "U.S. Senate",
+    "opponents": [
+      {
+        "slug": "jon-tester",
+        "displayName": "Jon Tester",
+        "summaryLine": "Incumbent U.S. Senator",
+        "party": "D"
+      },
+      {
+        "slug": "tim-sheehy",
+        "displayName": "Tim Sheehy",
+        "summaryLine": "Bozeman businessman",
+        "party": "R"
+      },
+      {
+        "slug": "brad-johnson",
+        "displayName": "Brad Johnson",
+        "summaryLine": "Former Montana Secretary of State",
+        "party": "R"
+      },
+      {
+        "slug": "sid-daud",
+        "displayName": "Sid Daud",
+        "summaryLine": "Kalispell City Council member",
+        "party": "L"
+      },
+      {
+        "slug": "michael-hummert",
+        "displayName": "Michael Hummert",
+        "summaryLine": "U.S. Navy Veteran",
+        "party": "D"
+      },
+      {
+        "slug": "charles-walkingchild",
+        "displayName": "Charles Walkingchild",
+        "summaryLine": "Helena environmental contractor",
+        "party": "R"
+      },
+      {
+        "slug": "robert-barb",
+        "displayName": "Robert Barb",
+        "summaryLine": "Billings resident",
+        "party": "G"
       }
     ]
   },
@@ -32,6 +312,12 @@
     "summaryNarrative": "Tester, a farmer from Big Sandy and onetime president of the Montana Senate, has long been a known quantity in the state. But he's also served in Washington, D.C. for almost 18 years, and could face stiff political headwinds this cycle.\n\n“I know that people in Washington don't understand what a hard day's work looks like or the challenges working families are facing in Montana,” Tester said in a statement [announcing his reelection campaign](https://montanafreepress.org/2023/02/22/tester-announces-2024-reelection-bid/) in February. \"Montanans need a fighter holding Washington accountable.\"\n",
     "party": "D",
     "isIncumbent": true,
+    "campaignWebsite": "https://jontester.com/",
+    "campaignFB": "https://www.facebook.com/jontester",
+    "campaignTW": "https://twitter.com/jontester",
+    "campaignIG": "https://www.instagram.com/jontester",
+    "campaignYT": "https://www.youtube.com/user/jontester",
+    "campaignTT": null,
     "raceSlug": "us-senate",
     "raceDisplayName": "U.S. Senate",
     "opponents": [
@@ -46,17 +332,67 @@
         "displayName": "Brad Johnson",
         "summaryLine": "Former Montana Secretary of State",
         "party": "R"
+      },
+      {
+        "slug": "sid-daud",
+        "displayName": "Sid Daud",
+        "summaryLine": "Kalispell City Council member",
+        "party": "L"
+      },
+      {
+        "slug": "michael-hummert",
+        "displayName": "Michael Hummert",
+        "summaryLine": "U.S. Navy Veteran",
+        "party": "D"
+      },
+      {
+        "slug": "charles-walkingchild",
+        "displayName": "Charles Walkingchild",
+        "summaryLine": "Helena environmental contractor",
+        "party": "R"
+      },
+      {
+        "slug": "michael-downey",
+        "displayName": "Michael Downey",
+        "summaryLine": "Helena resident",
+        "party": "G"
+      },
+      {
+        "slug": "robert-barb",
+        "displayName": "Robert Barb",
+        "summaryLine": "Billings resident",
+        "party": "G"
       }
-    ]
+    ],
+    "questionnaire": {
+      "race": "us-senate",
+      "name": "jon-tester",
+      "responses": [
+        {
+          "question": "This is a dummy question?",
+          "answer": "Lorem ipsum dolor sit amet, consectetur adipiscing elit, sed do eiusmod tempor incididunt ut labore et dolore magna aliqua. In massa tempor nec feugiat nisl pretium. Facilisis leo vel fringilla est. Sit amet consectetur adipiscing elit ut aliquam purus sit. Nisl nunc mi ipsum faucibus vitae. Ullamcorper velit sed ullamcorper morbi. Vel facilisis volutpat est velit egestas dui id ornare arcu. Faucibus pulvinar elementum integer enim. Congue eu consequat ac felis donec et. Augue interdum velit euismod in pellentesque massa placerat duis. Feugiat scelerisque varius morbi enim nunc faucibus a pellentesque.\n\nDignissim enim sit amet venenatis urna. In hac habitasse platea dictumst quisque sagittis purus. Vitae suscipit tellus mauris a diam maecenas sed enim ut. Velit aliquet sagittis id consectetur. Et magnis dis parturient montes nascetur ridiculus. Vitae nunc sed velit dignissim sodales ut. Scelerisque eleifend donec pretium vulputate sapien. Amet facilisis magna etiam tempor orci eu. Ornare lectus sit amet est placerat in egestas erat. Proin sed libero enim sed faucibus turpis in eu. Proin sed libero enim sed faucibus turpis in eu."
+        },
+        {
+          "question": "This is a dummy question.",
+          "answer": "Lorem ipsum dolor sit amet, consectetur adipiscing elit, sed do eiusmod tempor incididunt ut labore et dolore magna aliqua. In massa tempor nec feugiat nisl pretium. Facilisis leo vel fringilla est. Sit amet consectetur adipiscing elit ut aliquam purus sit. Nisl nunc mi ipsum faucibus vitae. Ullamcorper velit sed ullamcorper morbi. Vel facilisis volutpat est velit egestas dui id ornare arcu. Faucibus pulvinar elementum integer enim. Congue eu consequat ac felis donec et. Augue interdum velit euismod in pellentesque massa placerat duis. Feugiat scelerisque varius morbi enim nunc faucibus a pellentesque.\n\nDignissim enim sit amet venenatis urna. In hac habitasse platea dictumst quisque sagittis purus. Vitae suscipit tellus mauris a diam maecenas sed enim ut. Velit aliquet sagittis id consectetur. Et magnis dis parturient montes nascetur ridiculus. Vitae nunc sed velit dignissim sodales ut. Scelerisque eleifend donec pretium vulputate sapien. Amet facilisis magna etiam tempor orci eu. Ornare lectus sit amet est placerat in egestas erat. Proin sed libero enim sed faucibus turpis in eu. Proin sed libero enim sed faucibus turpis in eu."
+        }
+      ]
+    }
   },
   {
-    "slug": "brad-johnson",
-    "displayName": "Brad Johnson",
-    "lastName": "Johnson",
-    "summaryLine": "Former Montana Secretary of State",
-    "summaryNarrative": "A former Public Service Commission member and Montana Secretary of State Brad Johnson entered the Republican field in October. In a November interview with MTFP, he said he feels he has a better chance of beating Tester than anyone else in the race.\n",
+    "slug": "charles-walkingchild",
+    "displayName": "Charles Walkingchild",
+    "lastName": "Walkingchild",
+    "summaryLine": "Helena environmental contractor",
+    "summaryNarrative": "",
     "party": "R",
     "isIncumbent": false,
+    "campaignWebsite": null,
+    "campaignFB": null,
+    "campaignTW": null,
+    "campaignIG": null,
+    "campaignYT": null,
+    "campaignTT": null,
     "raceSlug": "us-senate",
     "raceDisplayName": "U.S. Senate",
     "opponents": [
@@ -71,6 +407,97 @@
         "displayName": "Tim Sheehy",
         "summaryLine": "Bozeman businessman",
         "party": "R"
+      },
+      {
+        "slug": "brad-johnson",
+        "displayName": "Brad Johnson",
+        "summaryLine": "Former Montana Secretary of State",
+        "party": "R"
+      },
+      {
+        "slug": "sid-daud",
+        "displayName": "Sid Daud",
+        "summaryLine": "Kalispell City Council member",
+        "party": "L"
+      },
+      {
+        "slug": "michael-hummert",
+        "displayName": "Michael Hummert",
+        "summaryLine": "U.S. Navy Veteran",
+        "party": "D"
+      },
+      {
+        "slug": "michael-downey",
+        "displayName": "Michael Downey",
+        "summaryLine": "Helena resident",
+        "party": "G"
+      },
+      {
+        "slug": "robert-barb",
+        "displayName": "Robert Barb",
+        "summaryLine": "Billings resident",
+        "party": "G"
+      }
+    ]
+  },
+  {
+    "slug": "brad-johnson",
+    "displayName": "Brad Johnson",
+    "lastName": "Johnson",
+    "summaryLine": "Former Montana Secretary of State",
+    "summaryNarrative": "A former Public Service Commission member and Montana Secretary of State Brad Johnson entered the Republican field in October. In a November interview with MTFP, he said he feels he has a better chance of beating Tester than anyone else in the race.\n",
+    "party": "R",
+    "isIncumbent": false,
+    "campaignWebsite": null,
+    "campaignFB": null,
+    "campaignTW": null,
+    "campaignIG": null,
+    "campaignYT": null,
+    "campaignTT": null,
+    "raceSlug": "us-senate",
+    "raceDisplayName": "U.S. Senate",
+    "opponents": [
+      {
+        "slug": "jon-tester",
+        "displayName": "Jon Tester",
+        "summaryLine": "Incumbent U.S. Senator",
+        "party": "D"
+      },
+      {
+        "slug": "tim-sheehy",
+        "displayName": "Tim Sheehy",
+        "summaryLine": "Bozeman businessman",
+        "party": "R"
+      },
+      {
+        "slug": "sid-daud",
+        "displayName": "Sid Daud",
+        "summaryLine": "Kalispell City Council member",
+        "party": "L"
+      },
+      {
+        "slug": "michael-hummert",
+        "displayName": "Michael Hummert",
+        "summaryLine": "U.S. Navy Veteran",
+        "party": "D"
+      },
+      {
+        "slug": "charles-walkingchild",
+        "displayName": "Charles Walkingchild",
+        "summaryLine": "Helena environmental contractor",
+        "party": "R"
+      },
+      {
+        "slug": "michael-downey",
+        "displayName": "Michael Downey",
+        "summaryLine": "Helena resident",
+        "party": "G"
+      },
+      {
+        "slug": "robert-barb",
+        "displayName": "Robert Barb",
+        "summaryLine": "Billings resident",
+        "party": "G"
       }
     ]
   }

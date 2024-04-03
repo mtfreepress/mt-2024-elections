@@ -3,14 +3,14 @@ import Link from 'next/link'
 
 
 const navContainerStyle = css`
-  position: sticky;
-  top: 0px;
-  background-color: white;
-  margin: -10px;
-  padding: 10px;
-  margin-bottom: 0;
-  padding-bottom: 0;
-  z-index: 1000;
+    position: sticky;
+    top: 0px;
+    background-color: white;
+    margin: -10px;
+    padding: 10px;
+    margin-bottom: 0;
+    padding-bottom: 0;
+    z-index: 1000;
 `
 
 const navStyle = css`
@@ -21,6 +21,7 @@ const navStyle = css`
     padding-left: 2px;
     padding-right: 2px;
     box-shadow: 0px 3px 3px -3px #000;
+    width: 100%;
 `
 const navRowStyle = css`
     display: flex;
@@ -105,12 +106,12 @@ const activeStyle = css`
 // Hover drop downs with each active candidate name
 const PAGE_LINKS = [
     { path: '/', label: 'Overview' },
-    { path: '/', label: 'Federal Delegation' },
-    { path: '/', label: 'Governor' },
-    { path: '/', label: 'Legislature' },
-    { path: '/', label: 'Ballot Initiatives' },
-    { path: '/', label: 'Other races' },
-    { path: '/', label: 'How to vote' },
+    { path: '/#federal-delegation', label: 'Federal Delegation' },
+    { path: '/#state-officials', label: 'State Officials' },
+    { path: '/#legislature', label: 'State Legislature' },
+    { path: '/#ballot-initiatives', label: 'Ballot Initiatives' },
+    { path: '/#montana-supreme-court', label: 'Other races' },
+    { path: '/how-to-vote', label: 'How to vote' },
 ]
 
 const Nav = ({ location }) => {

@@ -7,3 +7,13 @@ summaryNarrative: |
   A former Public Service Commission member and Montana Secretary of State Brad Johnson entered the Republican field in October. In a November interview with MTFP, he said he feels he has a better chance of beating Tester than anyone else in the race.
 party: R
 isIncumbent: false
+## Campaign web links
+campaignWebsite:
+campaignFB:
+campaignTW:
+campaignIG:
+campaignYT:
+campaignTT:
+# ## Merging tags
+# mtfpCoverageTag: brad-johnson # Tag we're using in CMS, hyphens subbed for spaces
+# # TODO - add FEC/COPP campaign finance tags

@@ -2,6 +2,7 @@ const fs = require('fs')
 const glob = require('glob')
 const YAML = require('yaml')
 
+const getJson = (path) => JSON.parse(fs.readFileSync(path, 'utf8'))
 const getYml = (path) => YAML.parse(fs.readFileSync(path, 'utf8'))
 const collectYmls = (glob_path) => glob.sync(glob_path).map(getYml)
 
@@ -13,10 +14,11 @@ const writeJson = (path, data) => {
     );
 }
 
-
 const races = getYml('./inputs/content/races.yml')
 const text = getYml('./inputs/content/text.yml')
 const candidates = collectYmls('./inputs/content/candidates/*.yml')
+
+const questionnaires = getJson('./inputs/questionnaire/dummy-answers.json')
 
 races.forEach(race => {
     if (race.candidates === null) race.candidates = [] // fallback for unpopulated races
@@ -30,14 +32,24 @@ candidates.forEach(candidate => {
     candidate.raceDisplayName = race.displayName
     candidate.opponents = race.candidates
         .filter(candidateSlug => candidateSlug !== candidate.slug) // exclude this candidate
-        .map(candidateSlug => candidates.find(c => c.slug === candidateSlug))
-        .map(c => ({
-            // include only fields necessary for opponent listings on candidate pages
-            slug: c.slug,
-            displayName: c.displayName,
-            summaryLine: c.summaryLine,
-            party: c.party,
-        }))
+        .map(candidateSlug => {
+            const match = candidates.find(c => c.slug === candidateSlug)
+            if (!match) console.log('No candidateSlug match for', candidateSlug)
+            return match
+        })
+        .map(c => {
+            return {// include only fields necessary for opponent listings on candidate pages
+                slug: c.slug,
+                displayName: c.displayName,
+                summaryLine: c.summaryLine,
+                party: c.party,
+            }
+        })
+
+    // marge in questionnaire answqers
+    const questionnaireMatch = questionnaires.find(d => d.name === candidate.slug)
+    if (!questionnaireMatch) console.log(`${candidate.slug} missing questionnaire answers`)
+    candidate.questionnaire = questionnaireMatch
 })
 
 const overviewRaces = races.map(race => {

@@ -2,9 +2,9 @@ import { css } from "@emotion/react";
 
 import Head from 'next/head';
 
-import Header from '../design/Header'
-import Nav from '../design/Nav'
-import Footer from '../design/Footer'
+import Header from './Header'
+import Nav from './Nav'
+import Footer from './Footer'
 
 import { metaData } from "@/config";
 
@@ -25,11 +25,12 @@ const contentStyle = css`
 // - Wire up Google Analytics
 // - Wire up Parsely
 
-export default function Layout({ children, home }) {
+export default function Layout({ pageTitle, children, home, pageCss }) {
   const { seoTitle, seoDescription, url } = metaData
   return (
     <div>
       <Head>
+        <title>{pageTitle}</title>
         <link
           rel="shortcut icon"
           href="../public/mtfp-icon.png"
@@ -60,10 +61,10 @@ export default function Layout({ children, home }) {
 
       </Head>
 
-      <div css={bodyStyle}>
+      <div css={[bodyStyle]}>
         <Header />
         <Nav />
-        <main css={contentStyle}>{children}</main>
+        <main css={[contentStyle, pageCss]}>{children}</main>
         <Footer />
       </div>
 

@@ -6,6 +6,7 @@
 /* Colors */
 :root {
     --link: #ce5a00;
+    --highlight: #F85028;
 
     --gray1: #e8e8e8;
     --gray2: #c1c1c1;
@@ -88,9 +89,13 @@ h4 {
 
 }
 
-.text {
-    padding-left: 0.5rem;
-    padding-right: 0.5rem;
+.placeholder {
+    color: white;
+    background-color: #666;
+    display: flex;
+    justify-content: center;
+    align-items: center;
+    color: white;
 }
 
 .note {

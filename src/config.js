@@ -5,7 +5,7 @@ export const metaData = {
     url: 'https://apps.montanafreepress.org/election-guide-2024',
     // On-page display
     webTitle: '2024 Election Guide',
-    webSubtitle: 'Subtitle TK TK TK [Background image, new donation link TK]',
+    webSubtitle: 'Montana\'s candidates for state and federal office.',
 
     // SEO
     seoTitle: '2024 Montana Free Press Election Guide'

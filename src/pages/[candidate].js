@@ -1,11 +1,37 @@
 
+import { css } from '@emotion/react'
+
 import Link from 'next/link';
 
-import Layout from '../components/layout';
+import Layout from '../design/Layout';
 
 import Markdown from 'react-markdown'
 
+import CandidatePageSummary from '../components/CandidatePageSummary'
+import CandidateWebLinks from '../components/CandidateWebLinks'
+import CandidatePageOpponents from '../components/CandidatePageOpponents'
+import CandidateQuestionnaire from '../components/CandidateQuestionnaire'
+
 import { getAllCandidateIds, getCandidateData } from '../lib/candidates';
+
+const candidatePageStyle = css`
+    h2 {
+        text-transform: uppercase;
+        text-align: center;
+        padding: 0.3em 0.5em;
+        background-color: var(--tan6);
+        color: white;
+    }
+
+
+    .link-block {
+        margin: 0.5em 0;
+
+        a:not(:last-child):after{
+            content: ' • '
+        }
+    }
+`
 
 export async function getStaticPaths() {
     // Define routes that should be used for /[candidate] pages
@@ -27,71 +53,61 @@ export async function getStaticProps({ params }) {
 }
 
 export default function CandidatePage({ pageData }) {
-    console.log(pageData)
-    // Page layout
     const {
-        displayName,
-        lastName,
         party,
-        summaryLine,
+        displayName,
         summaryNarrative,
         opponents,
-        raceDisplayName
+        questionnaire
     } = pageData
     return (
-        <Layout>
+        <Layout pageCss={candidatePageStyle}>
             {/* HEADER SECTION */}
-            <div>
-                <div>Candidate for {raceDisplayName}</div>
-                <h1>{displayName}</h1>
-                <div>[PORTRAIT TK]</div>
-                <div>[CAMPAIGN WEB LINKS TK]</div>
-                <div>{party}</div>
-                <div>{summaryLine}</div>
+            <CandidatePageSummary {...pageData} />
+            <div className="link-block">
+                {/* <Link href="#opponents">Opponents</Link> */}
+                <Link href="#issues">On the Issues</Link>
+                <Link href="#coverage">MTFP coverage</Link>
             </div>
-            <div>
-                <div>Opponents</div>
-                <ul>
-                    {
-                        opponents.map(c => <li key={c.slug}>
-                            <div><Link href={`/${c.slug}`}>{c.displayName} ({c.party})</Link></div>
-                            <div>{c.summaryLine}</div>
-                        </li>)
-                    }
-                </ul>
-            </div>
+
+            <section id="opponents">
+                <h4>OPPONENTS</h4>
+                <CandidatePageOpponents opponents={opponents} candidateParty={party} />
+            </section>
+
+
 
             {/* NARRATIVE SECTION */}
             <section>
                 <Markdown>{summaryNarrative}</Markdown>
+                <CandidateWebLinks {...pageData} />
             </section>
+
+            <div className="placeholder" style={{ height: 100 }}>[POSSIBLE CTA HERE]</div>
+
+
+
 
 
             {/* QUESTIONNAIRE RESPONSES */}
 
-            <section>
-                <h3>ON THE ISSUES</h3>
-                <div>[QUESTIONNAIRE RESPONSES HERE]</div>
+            <section id="issues">
+                <h2>ON THE ISSUES</h2>
+                {questionnaire ?
+                    <CandidateQuestionnaire
+                        responses={questionnaire.responses}
+                        displayName={displayName}
+                    /> :
+                    <div className="note">No responses at this time.</div>
+                }
             </section>
-
-            {/* POSSIBLE CTA */}
-
-            <h2>[POSSIBLE CTA HERE]</h2>
 
             {/* MTFP COVERAGE */}
 
-            <section>
-                <h3>MTFP COVERAGE</h3>
+            <section id="coverage">
+                <h2>MTFP COVERAGE</h2>
                 <div>[MTFP COVERAGE LINKS HERE]</div>
             </section>
-
-            {/* ELECTION RESULTS */}
-
-            <section>
-                <div>[TK FIGURE OUT HOW TO HANDLE ELECTION RESULTS]</div>
-            </section>
-
-
 
         </Layout>
     );
