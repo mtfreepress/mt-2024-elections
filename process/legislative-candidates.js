@@ -1,0 +1,162 @@
+const fs = require('fs')
+const csv = require('async-csv')
+
+const writeJson = (path, data) => {
+    fs.writeFile(path, JSON.stringify(data, null, 2), err => {
+        if (err) throw err
+        console.log('JSON written to', path)
+    }
+    );
+}
+
+const getCsv = async (path) => {
+    const string = fs.readFileSync(path, 'utf-8')
+    return csv.parse(string, {
+        bom: true,
+        columns: true,
+        relax_column_count: true,
+    })
+}
+
+const urlize = str => str.toLowerCase().replaceAll(/\s/g, '-')
+
+const NAME_REPLACE = {
+    'JODEE MACDONALD ETCHART': 'JODEE ETCHART',
+}
+
+const LEGE_QUESTIONS = [
+    'Question 1: \n Please briefly provide the following information: place (town or county and state) of birth, age as of election day 2024, place (town or county) of permanent residency, occupation/employer, and education. How do these things and your other life experiences qualify you to be an effective legislator?',
+    'Question 2:\n What do you consider to be the most pressing issues facing Montana heading into the 2025 session and what legislation would you propose and/or support to address these issues?',
+    'Question 3:  \nMany Montanans are concerned about rising residential property taxes, which primarily fund local government services such as schools, counties and city/town programs but are calculated through a system set by the Legislature. What changes to the state tax system, if any, would you support to provide property tax relief while maintaining sufficient revenue for essential services?',
+    'Question 4:  \nConsidering the state’s role in mental and physical health care services, especially in helping cover the costs of services available to lower-income Montanans, what additional steps, if any, do you believe the Legislature should take to enhance health care access and promote Montanans’ health?',
+    'Question 5:  \nMany education leaders are concerned that the state’s existing school funding formula isn’t keeping up with the costs of educating students. What proposals, if any, would you support to ensure adequate and sustainable long-term funding is available for public pre-K–12, college/university, and vocational education programs?',
+]
+
+async function main() {
+    const candidates = await getCsv('./inputs/filings/CandidateList.csv',)
+    const candidateAnnotations = await getCsv('./inputs/content/lege-candidate-annotations.csv',)
+    const legeDistricts = await getCsv('./inputs/legislative-districts/districts.csv',)
+    const legeQuestions = await getCsv('./inputs/lvw-questionnaire/lwvmt24-races.csv',)
+
+
+    // cleaning
+    candidates.forEach(d => {
+        d.Name = d.Name.trim()
+        d.Name = NAME_REPLACE[d.Name] || d.Name
+        d.slug = urlize(d.Name)
+        d.raceSlug = d.District.replace('SENATE DISTRICT ', 'sd-').replace('HOUSE DISTRICT ', 'hd-')
+    })
+    const legislativeCandidates = candidates
+        .filter(d => d.Status === 'FILED')
+        .filter(d => ['Senate', 'House'].includes(d['District Type']))
+
+    // cleaning
+    legeDistricts.forEach(d => {
+        d.key = d.district.replace('HD ', 'hd-').replace('SD ', 'sd-')
+    })
+
+    // cleaning
+    legeQuestions.forEach(d => {
+        if (Object.keys(NAME_REPLACE).includes(d['Full Name'])) {
+            d['Full Name'] = NAME_REPLACE[d['Full Name']]
+        }
+    })
+
+    // Check for mis-matches matches
+    const legeNames = legislativeCandidates.map(d => d.Name)
+    const questionNames = legeQuestions.map(d => d['Full Name'])
+    const namesMissingInQuestionData = legeNames.filter(d => !questionNames.includes(d))
+    const namesMissingInFilingData = questionNames.filter(d => !legeNames.includes(d))
+
+    console.log('Legislative Questionnaire merge check', {
+        namesMissingInQuestionData,
+        namesMissingInFilingData
+    })
+
+    // merging
+    const candidateOutput = legislativeCandidates.map(l => {
+
+        // TODO - add website/social merge in here
+
+        // Annotations
+        const annotationMatch = candidateAnnotations.find(d => d.name === l.Name)
+        if (!annotationMatch) throw `Error: Missing annotation for ${l.Name}`
+
+        // District
+        const districtMatch = legeDistricts.find(d => l.raceSlug === d.key)
+        if (!districtMatch) throw `Error: Missing district for ${l.raceSlug}`
+        const district = {
+            id: districtMatch.district,
+            region: districtMatch.region,
+            counties: districtMatch.counties,
+            locale: districtMatch.locale,
+            in_cycle_2024: districtMatch.in_cycle_2024 === 'yes',
+            holdover_senator: districtMatch.holdover_senator,
+        }
+
+        // Questionnaire
+        const questionnaireMatch = legeQuestions.find(d => d['Full Name'] === l.Name)
+        if (!questionnaireMatch) throw `Error: Missing questionnaire for ${l.Name}`
+        const hasResponses = (questionnaireMatch[LEGE_QUESTIONS[0]] !== '')
+            || (questionnaireMatch[LEGE_QUESTIONS[1]] !== '') // True if there's an answer to either Q1 or Q2
+        const questionnaire = {
+            race: questionnaireMatch['Race/Referendum']
+                .replace('MONTANA HOUSE DISTRICT ', 'hd-')
+                .replace('MONTANA SENATE DISTRICT ', 'sd-'),
+            name: l.slug,
+            hasResponses,
+            responses: LEGE_QUESTIONS.map(question => ({
+                question: question.replace(/Question \d\:\s*\n/, '').replaceAll('  ', ' ').trim(),
+                answer: questionnaireMatch[question].replaceAll('  ', ' '),
+            }))
+        }
+
+        return {
+            raceSlug: l.raceSlug,
+            raceDisplayName: l.raceSlug.replace('hd-', 'House District ').replace('sd-', 'Senate District '),
+
+            slug: l.slug,
+            displayName: l.Name,
+            lastName: 'TK_LAST', // TODO - via annotations workflow
+
+            party: l['Party Preference'][0],
+            summaryLine: null, // none for legislative candidates
+            summaryNarrative: null, // none for legislative candidates
+
+            isIncumbent: false, // False for all 2024 lege candidates because of redistricting
+            cap_tracker_2023_link: annotationMatch.cap_tracker_2023_link || null,
+
+            campaignWebsite: questionnaireMatch['Campaign Website'] || null,
+            campaignFB: questionnaireMatch['Campaign Facebook URL'] || null,
+            campaignTW: questionnaireMatch['Campaign Twitter Handle'] || null,
+            campaignIG: questionnaireMatch['Campaign Instagram URL'] || null,
+            campaignYT: questionnaireMatch['Campaign YouTube URL'] || null,
+            campaignTT: null, // Not available from 2024 LWV questionnaire
+
+            district,
+            questionnaire,
+            opponents: [] // TODO - populate this
+        }
+
+    })
+
+    const districtOutput = legeDistricts.map(district => {
+        const matchingCandidates = candidateOutput
+            .filter(c => c.raceSlug === district.key)
+            .map(c => ({
+                // filter to fields necessary for summary info here
+                slug: c.slug,
+                displayName: c.displayName,
+                party: c.party,
+            }))
+        return {
+            ...district,
+            candidates: matchingCandidates
+        }
+    })
+
+    writeJson('./src/data/legislative-candidates.json', candidateOutput)
+    writeJson('./src/data/legislative-districts.json', districtOutput)
+}
+
+main()

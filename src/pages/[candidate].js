@@ -61,8 +61,7 @@ export default function CandidatePage({ pageData }) {
         questionnaire
     } = pageData
     return (
-        <Layout pageCss={candidatePageStyle}>
-            {/* HEADER SECTION */}
+        <Layout pageCss={candidatePageStyle} pageTitle={`${displayName} | MTFP 2024 Election Guide`}>
             <CandidatePageSummary {...pageData} />
             <div className="link-block">
                 {/* <Link href="#opponents">Opponents</Link> */}

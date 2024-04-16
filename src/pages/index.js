@@ -1,7 +1,6 @@
 import React from 'react'
 import { css } from "@emotion/react";
 
-import Head from 'next/head'
 import Layout from '../design/Layout'
 
 import Markdown from 'react-markdown'
@@ -90,10 +89,8 @@ export default function Home({ races, text }) {
     })
 
     return (
-        <Layout home pageCss={overviewStyles}>
-            <Head>
-                <title>TITLE TK</title>
-            </Head>
+        <Layout home pageCss={overviewStyles}
+            pageTitle={"Montana's 2024 Candidates | MFTP 2024 Election Guide"}>
 
             <Markdown>{overviewLedeIn}</Markdown>
 

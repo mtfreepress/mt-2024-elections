@@ -2,6 +2,7 @@ const fs = require('fs')
 const glob = require('glob')
 const YAML = require('yaml')
 
+const getMD = path => ({ content: fs.readFileSync(path, 'utf8') })
 const getJson = (path) => JSON.parse(fs.readFileSync(path, 'utf8'))
 const getYml = (path) => YAML.parse(fs.readFileSync(path, 'utf8'))
 const collectYmls = (glob_path) => glob.sync(glob_path).map(getYml)
@@ -17,6 +18,8 @@ const writeJson = (path, data) => {
 const races = getYml('./inputs/content/races.yml')
 const text = getYml('./inputs/content/text.yml')
 const candidates = collectYmls('./inputs/content/candidates/*.yml')
+const howToVoteContent = getMD('./inputs/content/how-to-vote.md')
+
 
 const questionnaires = getJson('./inputs/questionnaire/dummy-answers.json')
 
@@ -73,6 +76,8 @@ const overviewText = text // simple pass through logic for now
 writeJson('./src/data/candidates.json', candidates) // Data for candidate pages
 writeJson('./src/data/overview-races.json', overviewRaces) // Data for landing page
 writeJson('./src/data/overview-text.json', overviewText)
+writeJson('./src/data/how-to-vote.json', howToVoteContent)
 writeJson('./src/data/update-time.json', { updateTime: new Date() })
+
 
 
