@@ -51,7 +51,7 @@ const SocialTag = ({ url, type, icon, replace }) => {
         label = 'YouTube'
     }
 
-    return <a css={socialTagStyle} href={url}>
+    return <a css={socialTagStyle} href={`https://${url}`}>
         <span className="icon">{icon}</span>
         <span className="icon-label">{label}</span>
     </a>

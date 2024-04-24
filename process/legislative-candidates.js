@@ -32,19 +32,20 @@ const LEGE_QUESTIONS = [
     'Question 5:  \nMany education leaders are concerned that the state’s existing school funding formula isn’t keeping up with the costs of educating students. What proposals, if any, would you support to ensure adequate and sustainable long-term funding is available for public pre-K–12, college/university, and vocational education programs?',
 ]
 
+const PARTY_ORDER = ['R', 'D', 'L', 'G']
+
 async function main() {
     const candidates = await getCsv('./inputs/filings/CandidateList.csv',)
     const candidateAnnotations = await getCsv('./inputs/content/lege-candidate-annotations.csv',)
     const legeDistricts = await getCsv('./inputs/legislative-districts/districts.csv',)
     const legeQuestions = await getCsv('./inputs/lvw-questionnaire/lwvmt24-races.csv',)
 
-
     // cleaning
     candidates.forEach(d => {
         d.Name = d.Name.trim()
         d.Name = NAME_REPLACE[d.Name] || d.Name
         d.slug = urlize(d.Name)
-        d.raceSlug = d.District.replace('SENATE DISTRICT ', 'sd-').replace('HOUSE DISTRICT ', 'hd-')
+        d.raceSlug = d.District.replace('SENATE DISTRICT ', 'SD-').replace('HOUSE DISTRICT ', 'HD-')
     })
     const legislativeCandidates = candidates
         .filter(d => d.Status === 'FILED')
@@ -52,7 +53,7 @@ async function main() {
 
     // cleaning
     legeDistricts.forEach(d => {
-        d.key = d.district.replace('HD ', 'hd-').replace('SD ', 'sd-')
+        d.districtKey = d.district.replace('HD ', 'HD-').replace('SD ', 'SD-')
     })
 
     // cleaning
@@ -83,7 +84,7 @@ async function main() {
         if (!annotationMatch) throw `Error: Missing annotation for ${l.Name}`
 
         // District
-        const districtMatch = legeDistricts.find(d => l.raceSlug === d.key)
+        const districtMatch = legeDistricts.find(d => l.raceSlug === d.districtKey)
         if (!districtMatch) throw `Error: Missing district for ${l.raceSlug}`
         const district = {
             id: districtMatch.district,
@@ -91,9 +92,10 @@ async function main() {
             counties: districtMatch.counties,
             locale: districtMatch.locale,
             in_cycle_2024: districtMatch.in_cycle_2024 === 'yes',
-            holdover_senator: districtMatch.holdover_senator,
+            holdover_senator: districtMatch.holdover_senator || null,
+            holdover_party: districtMatch.holdover_party || null,
+            holdover_link: districtMatch.holdover_link || null,
         }
-
         // Questionnaire
         const questionnaireMatch = legeQuestions.find(d => d['Full Name'] === l.Name)
         if (!questionnaireMatch) throw `Error: Missing questionnaire for ${l.Name}`
@@ -101,8 +103,8 @@ async function main() {
             || (questionnaireMatch[LEGE_QUESTIONS[1]] !== '') // True if there's an answer to either Q1 or Q2
         const questionnaire = {
             race: questionnaireMatch['Race/Referendum']
-                .replace('MONTANA HOUSE DISTRICT ', 'hd-')
-                .replace('MONTANA SENATE DISTRICT ', 'sd-'),
+                .replace('MONTANA HOUSE DISTRICT ', 'HD-')
+                .replace('MONTANA SENATE DISTRICT ', 'SD-'),
             name: l.slug,
             hasResponses,
             responses: LEGE_QUESTIONS.map(question => ({
@@ -113,7 +115,7 @@ async function main() {
 
         return {
             raceSlug: l.raceSlug,
-            raceDisplayName: l.raceSlug.replace('hd-', 'House District ').replace('sd-', 'Senate District '),
+            raceDisplayName: l.raceSlug.replace('HD-', 'House District ').replace('SD-', 'Senate District '),
 
             slug: l.slug,
             displayName: l.Name,
@@ -139,19 +141,32 @@ async function main() {
         }
 
     })
+    candidateOutput.forEach(c => {
+        c.opponents = candidateOutput
+            .filter(d => d.raceSlug === c.raceSlug)
+            .map(d => ({
+                slug: d.slug,
+                displayName: d.displayName,
+                summaryLine: null, // Not populated for lege candidates
+                party: d.party,
+            }))
+    })
 
     const districtOutput = legeDistricts.map(district => {
         const matchingCandidates = candidateOutput
-            .filter(c => c.raceSlug === district.key)
+            .filter(c => c.raceSlug === district.districtKey)
             .map(c => ({
+
                 // filter to fields necessary for summary info here
                 slug: c.slug,
                 displayName: c.displayName,
                 party: c.party,
+                cap_tracker_2023_link: c.cap_tracker_2023_link // flags for current lawmker
             }))
         return {
             ...district,
             candidates: matchingCandidates
+                .sort((a, b) => PARTY_ORDER.indexOf(a.party) - PARTY_ORDER.indexOf(b.party))
         }
     })
 

@@ -18,10 +18,12 @@ const writeJson = (path, data) => {
 const races = getYml('./inputs/content/races.yml')
 const text = getYml('./inputs/content/text.yml')
 const candidates = collectYmls('./inputs/content/candidates/*.yml')
+const coverage = getJson('./inputs/coverage/dummy-articles.json') // TODO - replace with real stuff
 const howToVoteContent = getMD('./inputs/content/how-to-vote.md')
 
 
-const questionnaires = getJson('./inputs/questionnaire/dummy-answers.json')
+
+const questionnaires = getJson('./inputs/mtfp-questionnaire/dummy-answers.json')
 
 races.forEach(race => {
     if (race.candidates === null) race.candidates = [] // fallback for unpopulated races
@@ -34,7 +36,8 @@ candidates.forEach(candidate => {
     candidate.raceSlug = race.raceSlug
     candidate.raceDisplayName = race.displayName
     candidate.opponents = race.candidates
-        .filter(candidateSlug => candidateSlug !== candidate.slug) // exclude this candidate
+        // .filter(candidateSlug => candidateSlug !== candidate.slug) // exclude this candidate
+        // Skipping exclude to do 'contenders' v. 'opponents'
         .map(candidateSlug => {
             const match = candidates.find(c => c.slug === candidateSlug)
             if (!match) console.log('No candidateSlug match for', candidateSlug)
@@ -48,8 +51,8 @@ candidates.forEach(candidate => {
                 party: c.party,
             }
         })
-
-    // marge in questionnaire answqers
+    candidate.coverage = coverage // TODO - implement sorting articles to candidates once we have real data
+        .sort((a, b) => new Date(b.date) - new Date(a.date))
     const questionnaireMatch = questionnaires.find(d => d.name === candidate.slug)
     if (!questionnaireMatch) console.log(`${candidate.slug} missing questionnaire answers`)
     candidate.questionnaire = questionnaireMatch
@@ -71,11 +74,9 @@ const overviewRaces = races.map(race => {
     }
 })
 
-const overviewText = text // simple pass through logic for now
-
 writeJson('./src/data/candidates.json', candidates) // Data for candidate pages
 writeJson('./src/data/overview-races.json', overviewRaces) // Data for landing page
-writeJson('./src/data/overview-text.json', overviewText)
+writeJson('./src/data/text.json', text) // simple pass through logic for now
 writeJson('./src/data/how-to-vote.json', howToVoteContent)
 writeJson('./src/data/update-time.json', { updateTime: new Date() })
 

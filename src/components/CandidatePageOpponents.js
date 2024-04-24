@@ -5,27 +5,35 @@ import Link from "next/link";
 import { PARTIES } from "@/lib/styles";
 import { pluralize } from "@/lib/utils";
 
-const opponentsStyle = css`
+const opponentsContainerStyle = css`
+    border: 1px solid var(--gray2);
+    padding: 0.5em;
+    margin-bottom: 0.5em;
+
+    h4 {
+        margin-top: 0;
+    }
     .party-buckets {
         display: flex;
         flex-wrap: wrap;
+        /* Note RE justifyy-content: what works well for 4x-party races doesn't work for two-party races */
         justify-content: space-around;
      }
     .party-bucket {
-        padding: 0 0.5em;
         h4 {
             margin: 0;
             text-transform: uppercase;
         }
-        border-left: 3px solid gray;    
         margin-bottom: 1em;
+        margin-right: 1em;
     } 
 `
 
 const candidateStyle = css`
     margin-top: 0.5em;
+    width: 140px;
     a {
-        width: 180px;
+        
         height: 40px;
         display: flex;
         align-items: stretch;
@@ -39,7 +47,6 @@ const candidateStyle = css`
         /* border: 2px solid black; */
         color: var(--link);
     }
-    
     .portrait-col {
         flex: 0 0 40px;
     }
@@ -50,6 +57,15 @@ const candidateStyle = css`
         display: flex;
         justify-content: center;
         align-items: center;
+        color: white;
+    }
+    .party {
+        width: 40px;
+        height: 40px;
+        display: flex;
+        justify-content: center;
+        align-items: center;
+        font-size: 1.2em;
         color: white;
     }
     .info-col {
@@ -77,25 +93,43 @@ const candidateStyle = css`
 `
 
 function Candidate(props) {
-    const { slug, displayName, summaryLine, party } = props
+    const { slug, displayName, summaryLine, party, route, isCurrentPage, hasPortraits } = props
     const partyInfo = PARTIES.find(d => d.key === party)
-    return <div css={candidateStyle} style={{ borderTop: `3px solid ${partyInfo.color}` }}><Link href={`/${slug}`}>
-        <div className="portrait-col">
-            <div className="portrait-placeholder">[TK]</div>
-        </div>
-        <div className="info-col">
-            <div className="name">{displayName}</div>
-            {/* <div className="summary-line">{summaryLine}</div> */}
-        </div>
-    </Link ></div >
+    return <div css={candidateStyle}
+        style={{
+            borderTop: `3px solid ${partyInfo.color}`,
+            fontWeight: isCurrentPage ? 'bold' : null,
+        }}
+    >
+        <Link href={`/${route}/${slug}`}>
+            <div className="portrait-col">
+                {hasPortraits && <div className="portrait-placeholder">[TK]</div>}
+                {!hasPortraits && <div className="party" style={{ background: partyInfo.color }}>{party}</div>}
+            </div>
+            <div className="info-col">
+                <div className="name">{displayName}</div>
+                {/* <div className="summary-line">{summaryLine}</div> */}
+            </div>
+        </Link >
+    </div >
 }
 
-export default function CandidatePageOpponents({ opponents, candidateParty }) {
-    return <div css={opponentsStyle}>
+export default function CandidatePageOpponents({
+    opponents,
+    // candidateParty,
+    route,
+    raceDisplayName,
+    currentPage,
+    hasPortraits
+}) {
+    return <div css={opponentsContainerStyle}>
+        <h4>Active candidates for {raceDisplayName}</h4>
+        <div className="note">Each party will select their General Election nominee via the June 4, 2024 primary.</div>
         <div className="party-buckets">
             {
                 PARTIES
-                    .sort((a, b) => a.key === candidateParty ? -1 : 1)
+                    // .sort((a, b) => a.key === candidateParty ? -1 : 1) // sort candidate's party first
+                    .sort((a, b) => PARTIES.map(d => d.key).indexOf(a.key) - PARTIES.map(d => d.key).indexOf(b.key)) // sort to match usual array
                     .map(party => {
                         const opponentsInParty = opponents.filter(d => d.party === party.key)
                         if (opponentsInParty.length === 0) return null
@@ -103,11 +137,15 @@ export default function CandidatePageOpponents({ opponents, candidateParty }) {
                             <h4 style={{
                                 color: party.color
                             }}>{pluralize(party.noun, opponentsInParty.length)}</h4>
-                            <div>{opponentsInParty.map(d => <Candidate key={d.slug} {...d} />)}</div>
+                            <div className="party-list">{opponentsInParty.map(d => <Candidate key={d.slug} {...d} hasPortraits={hasPortraits}
+                                route={route}
+                                isCurrentPage={currentPage === d.slug}
+                            />)}</div>
                         </div>
                     })
             }
 
         </div>
+
     </div>
 }

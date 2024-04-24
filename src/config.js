@@ -2,17 +2,14 @@
 //     siteTitle: 
 
 export const metaData = {
-    url: 'https://apps.montanafreepress.org/election-guide-2024',
+    baseUrl: 'https://apps.montanafreepress.org/election-guide-2024',
     // On-page display
-    webTitle: '2024 Election Guide',
+    webTitle: '[DRAFT] 2024 Election Guide',
     webSubtitle: 'Montana\'s candidates for state and federal office.',
 
     // SEO
-    seoTitle: '2024 Montana Free Press Election Guide'
+    siteSeoTitle: '2024 Montana Free Press Election Guide'
 
-    // SOCIAL
-
-    // TODO - SEO + other metadata here
 }
 
 // TODO - update this link to a to a new one
@@ -25,16 +22,21 @@ export const footerMenus = [
         label: 'Projects',
         items: [
             {
-                label: 'COVID-19 Pandemic',
-                url: 'https://montanafreepress.org/covid-19-pandemic/',
+                label: 'The Long Streets Project',
+                url: 'https://montanafreepress.org/long-streets/',
+            },
+            {
+                label: '2023 Capitol Tracker',
+                url: 'https://montanafreepress.org/2023-capitol-tracker/',
             },
             {
                 label: 'Shared State',
                 url: 'https://montanafreepress.org/election/',
             },
+
             {
-                label: 'The Long Streets Project',
-                url: 'https://montanafreepress.org/long-streets/',
+                label: 'The Session',
+                url: 'https://montanafreepress.org/the-session/',
             },
         ]
     },
@@ -44,6 +46,10 @@ export const footerMenus = [
             {
                 label: 'About MTFP',
                 url: 'https://montanafreepress.org/about-mtfp/',
+            },
+            {
+                label: 'Jobs',
+                url: 'https://montanafreepress.org/jobs/',
             },
             {
                 label: 'Publish our work',

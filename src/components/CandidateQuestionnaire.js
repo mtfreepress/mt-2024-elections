@@ -30,10 +30,11 @@ const Question = props => {
     const { question, answer, displayName } = props
 
     return <div className="question">
-        <div className="query">MTFP: {question}</div>
+        <div className="query">{question}</div>
         <div className="answer">
             <div className="name">{displayName}:</div>
             <Markdown>{answer}</Markdown>
+            {!answer && <p><em>No answer provided.</em></p>}
         </div>
     </div>
 }

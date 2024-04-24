@@ -8,3 +8,17 @@ export const formatTimeLong = timeFormat('%-I:%M %p %b %-d, %Y')
 
 
 export const pluralize = (text, value) => value === 1 ? text : `${text}s`
+
+
+export const getDistrictNumber = (key) => {
+    return +key.replace('-', '').replace('SD', '').replace('HD', '')
+}
+export const getCorrespondingHouseDistrictNumbers = (sd) => {
+    const number = getDistrictNumber(sd)
+    return [number * 2 - 1, number * 2]
+}
+
+export const getCorrespondingSenateDistrictNumber = (hd) => {
+    const number = getDistrictNumber(hd)
+    return Math.ceil(number / 2)
+}

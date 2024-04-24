@@ -8,10 +8,11 @@ import Markdown from 'react-markdown'
 import AddressLookup from '../components/AddressLookup'
 import MajorRaceOverview from '../components/MajorRaceOverview'
 import LegislativeRaceOverview from '../components/LegislativeRaceOverview'
+import LegislativeDistrictSelector from '../components/LegislativeDistrictSelector'
 import BallotInitiativeOverview from '../components/BallotInitiativeOverview'
 
 import { urlize } from '../lib/utils'
-import { getRaceOverviews, getOverviewText } from '../lib/overview'
+import { getRaceOverviews, getOverviewText, getLegislativeDistrictOverviews } from '../lib/overview'
 
 const RACE_LEVELS = [
     'Federal Delegation',
@@ -52,24 +53,27 @@ const overviewStyles = css`
 
 export async function getStaticProps() {
     const races = getRaceOverviews()
+    const legislativeRaces = getLegislativeDistrictOverviews()
     const text = getOverviewText()
     return {
         props: {
             races,
+            legislativeRaces,
             text,
         }
     }
 }
 
-export default function Home({ races, text }) {
+export default function Home({ races, legislativeRaces, text }) {
 
     // State for filtering overview to candidates for a given voter address
     // Design approach here is to make this optional for readers who won't engage with interactivity
     const [selDistricts, setSelDistricts] = React.useState({
-        usHouse: null, // 'us-house-1' or 'us-house-3'
+        usHouse: null, // 'us-house-1' or 'us-house-2'
         psc: null, // 'psc-2','psc-3','psc-4'
-        mtHouse: null, // e.g. 'HD-1',
-        mtSenate: null, // e.g. 'SD-1'
+        mtHouse: 'HD-1', // e.g. 'HD-1',
+        mtSenate: 'SD-1', // e.g. 'SD-1'
+        matchedAddress: null
     })
 
     const {
@@ -88,19 +92,31 @@ export default function Home({ races, text }) {
         }
     })
 
+    const selHouseDistrict = legislativeRaces.find(d => d.districtKey === selDistricts.mtHouse)
+    const selSenateDistrict = legislativeRaces.find(d => d.districtKey === selDistricts.mtSenate)
+
     return (
         <Layout home pageCss={overviewStyles}
-            pageTitle={"Montana's 2024 Candidates | MFTP 2024 Election Guide"}>
+            relativePath='/'
+            pageTitle={"Montana's 2024 Candidates | MFTP 2024 Election Guide"}
+            pageDescription={"Federal, state and legislative candidates seeking office in 2024"}
+            pageFeatureImage={"https://apps.montanafreepress.org/capitol-tracker-2023/cap-tracker-banner-dark.png"} // TODO
+            siteSeoTitle={"Montana's 2024 Candidates | MFTP 2024 Election Guide"}
+            seoDescription={"Federal, state and legislative candidates seeking office in 2024."}
+            socialTitle={"The MTFP 2024 Election Guide"}
+            socialDescription={"Federal, state and legislative candidates seeking office in 2024."}
+        >
 
             <Markdown>{overviewLedeIn}</Markdown>
 
-            <AddressLookup setSelDistricts={setSelDistricts} />
+            <AddressLookup selDistricts={selDistricts} setSelDistricts={setSelDistricts} />
 
 
             <section>
                 <div>
                     {raceLevels.map(rl => {
-                        return <div key={rl.level} id={urlize(rl.level)}>
+                        return <div key={rl.level}>
+                            <a className="link-anchor" id={urlize(rl.level)}></a>
                             <h2>{rl.level}</h2>
                             {
                                 rl.races
@@ -127,12 +143,30 @@ export default function Home({ races, text }) {
             <hr />
 
             <section>
-                <h2>State Legislature</h2>
+                <a className="link-anchor" id="legislature"></a>
+                <h2>Montana State Legislature</h2>
                 <Markdown>{overviewLegislatureLedeIn}</Markdown>
-                <LegislativeRaceOverview />
+                <LegislativeDistrictSelector
+                    houseDistrictOptions={legislativeRaces.filter(d => d.chamber === 'house').map(d => d.districtKey)}
+                    senateDistrictOptions={legislativeRaces.filter(d => d.chamber === 'senate').map(d => d.districtKey)}
+                    selHd={selDistricts.mtHouse}
+                    selSd={selDistricts.mtSenate}
+                    setLegislativeDistricts={(mtHouse, mtSenate) => {
+                        setSelDistricts({
+                            ...selDistricts,
+                            mtHouse,
+                            mtSenate,
+                        })
+                    }}
+                />
+                <LegislativeRaceOverview
+                    selHouseDistrict={selHouseDistrict}
+                    selSenateDistrict={selSenateDistrict}
+                />
             </section>
 
             <section>
+                <a className="link-anchor" id="ballot-initiatives"></a>
                 <h2>Ballot initiatives</h2>
                 <Markdown>{overviewBallotInitiatives}</Markdown>
                 <BallotInitiativeOverview />
@@ -144,6 +178,7 @@ export default function Home({ races, text }) {
             </section>
 
             <section>
+                <a className="link-anchor" id="about"></a>
                 <h2>About this project</h2>
                 <Markdown>{overviewAboutThisProject}</Markdown>
             </section>

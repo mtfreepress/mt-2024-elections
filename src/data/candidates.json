@@ -23,6 +23,12 @@
         "party": "D"
       },
       {
+        "slug": "tim-sheehy",
+        "displayName": "Tim Sheehy",
+        "summaryLine": "Bozeman businessman",
+        "party": "R"
+      },
+      {
         "slug": "brad-johnson",
         "displayName": "Brad Johnson",
         "summaryLine": "Former Montana Secretary of State",
@@ -57,6 +63,245 @@
         "displayName": "Robert Barb",
         "summaryLine": "Billings resident",
         "party": "G"
+      }
+    ],
+    "coverage": [
+      {
+        "title": "TK story 1",
+        "date": "2022-11-15T13:15:16",
+        "link": "https://montanafreepress.org/2022/11/15/how-montanas-lr-131-born-alive-referendum-failed/",
+        "status": "publish",
+        "tags": {
+          "nodes": [
+            {
+              "name": "2022 elections"
+            },
+            {
+              "name": "Born-Alive Infant Protection Act"
+            },
+            {
+              "name": "LR-131"
+            },
+            {
+              "name": "Matt Regier"
+            },
+            {
+              "name": "Planned Parenthood of Montana"
+            },
+            {
+              "name": "tracker 2022 campaign"
+            }
+          ]
+        },
+        "categories": {
+          "nodes": [
+            {
+              "name": "2022 Elections"
+            }
+          ]
+        },
+        "featuredImage": {
+          "node": {
+            "link": "https://montanafreepress.org/untitled-design-6-3/"
+          }
+        },
+        "author": {
+          "node": {
+            "name": "Mara Silvers"
+          }
+        },
+        "excerpt": "<p>Organized opposition to the initiative spent hundreds of thousands of dollars and countless volunteer hours trying to get its message to as many Montana voters as possible. As the dust settled on last week’s election, the campaign’s defeat of LR-131 became one of a handful of nationwide wins for the reproductive rights movement, and a possible signal of caution for Republican lawmakers hoping to put similar bills before voters in upcoming election cycles.</p>\n<div class=\"sharedaddy sd-sharing-enabled\"><div class=\"robots-nocontent sd-block sd-social sd-social-icon sd-sharing\"><div class=\"sd-content\"><ul><li class=\"share-twitter\"><a rel=\"nofollow noopener noreferrer\" data-shared=\"sharing-twitter-104823\" class=\"share-twitter sd-button share-icon no-text\" href=\"https://montanafreepress.org/2022/11/15/how-montanas-lr-131-born-alive-referendum-failed/?share=twitter\" target=\"_blank\" title=\"Click to share on Twitter\" ><span></span><span class=\"sharing-screen-reader-text\">Click to share on Twitter (Opens in new window)</span></a></li><li class=\"share-facebook\"><a rel=\"nofollow noopener noreferrer\" data-shared=\"sharing-facebook-104823\" class=\"share-facebook sd-button share-icon no-text\" href=\"https://montanafreepress.org/2022/11/15/how-montanas-lr-131-born-alive-referendum-failed/?share=facebook\" target=\"_blank\" title=\"Click to share on Facebook\" ><span></span><span class=\"sharing-screen-reader-text\">Click to share on Facebook (Opens in new window)</span></a></li><li class=\"share-email\"><a rel=\"nofollow noopener noreferrer\" data-shared=\"\" class=\"share-email sd-button share-icon no-text\" href=\"mailto:?subject=%5BShared%20Post%5D%20How%20Montana%E2%80%99s%20LR-131%20%E2%80%98Born-Alive%E2%80%99%20referendum%20failed&body=https%3A%2F%2Fmontanafreepress.org%2F2022%2F11%2F15%2Fhow-montanas-lr-131-born-alive-referendum-failed%2F&share=email\" target=\"_blank\" title=\"Click to email a link to a friend\" data-email-share-error-title=\"Do you have email set up?\" data-email-share-error-text=\"If you&#039;re having problems sharing via email, you might not have email set up for your browser. You may need to create a new email yourself.\" data-email-share-nonce=\"71c1e7d30f\" data-email-share-track-url=\"https://montanafreepress.org/2022/11/15/how-montanas-lr-131-born-alive-referendum-failed/?share=email\"><span></span><span class=\"sharing-screen-reader-text\">Click to email a link to a friend (Opens in new window)</span></a></li><li class=\"share-end\"></li></ul></div></div></div>"
+      },
+      {
+        "title": "TK story 2",
+        "date": "2022-11-09T09:43:14",
+        "link": "https://montanafreepress.org/2022/11/09/incumbent-ingrid-gustafson-retains-montana-supreme-court-seat/",
+        "status": "publish",
+        "tags": {
+          "nodes": [
+            {
+              "name": "Ingrid Gustafson"
+            },
+            {
+              "name": "James Brown"
+            },
+            {
+              "name": "Montana Supreme Court"
+            },
+            {
+              "name": "tracker 2022 campaign"
+            }
+          ]
+        },
+        "categories": {
+          "nodes": [
+            {
+              "name": "2022 Elections"
+            }
+          ]
+        },
+        "featuredImage": {
+          "node": {
+            "link": "https://montanafreepress.org/2022/11/09/incumbent-ingrid-gustafson-retains-montana-supreme-court-seat/untitled-design-2-7/"
+          }
+        },
+        "author": {
+          "node": {
+            "name": "Mara Silvers"
+          }
+        },
+        "excerpt": "<p>Incumbent Supreme Court Justice Ingrid Gustafson will serve a second term on Montana’s high court after winning her race for re-election against attorney and Republican Public Service Commission President James Brown, who conceded the race Wednesday morning. </p>\n<div class=\"sharedaddy sd-sharing-enabled\"><div class=\"robots-nocontent sd-block sd-social sd-social-icon sd-sharing\"><div class=\"sd-content\"><ul><li class=\"share-twitter\"><a rel=\"nofollow noopener noreferrer\" data-shared=\"sharing-twitter-104445\" class=\"share-twitter sd-button share-icon no-text\" href=\"https://montanafreepress.org/2022/11/09/incumbent-ingrid-gustafson-retains-montana-supreme-court-seat/?share=twitter\" target=\"_blank\" title=\"Click to share on Twitter\" ><span></span><span class=\"sharing-screen-reader-text\">Click to share on Twitter (Opens in new window)</span></a></li><li class=\"share-facebook\"><a rel=\"nofollow noopener noreferrer\" data-shared=\"sharing-facebook-104445\" class=\"share-facebook sd-button share-icon no-text\" href=\"https://montanafreepress.org/2022/11/09/incumbent-ingrid-gustafson-retains-montana-supreme-court-seat/?share=facebook\" target=\"_blank\" title=\"Click to share on Facebook\" ><span></span><span class=\"sharing-screen-reader-text\">Click to share on Facebook (Opens in new window)</span></a></li><li class=\"share-email\"><a rel=\"nofollow noopener noreferrer\" data-shared=\"\" class=\"share-email sd-button share-icon no-text\" href=\"mailto:?subject=%5BShared%20Post%5D%20Gustafson%20retains%20state%20Supreme%20Court%20seat%20over%20challenger%20Brown&body=https%3A%2F%2Fmontanafreepress.org%2F2022%2F11%2F09%2Fincumbent-ingrid-gustafson-retains-montana-supreme-court-seat%2F&share=email\" target=\"_blank\" title=\"Click to email a link to a friend\" data-email-share-error-title=\"Do you have email set up?\" data-email-share-error-text=\"If you&#039;re having problems sharing via email, you might not have email set up for your browser. You may need to create a new email yourself.\" data-email-share-nonce=\"b4d56519e6\" data-email-share-track-url=\"https://montanafreepress.org/2022/11/09/incumbent-ingrid-gustafson-retains-montana-supreme-court-seat/?share=email\"><span></span><span class=\"sharing-screen-reader-text\">Click to email a link to a friend (Opens in new window)</span></a></li><li class=\"share-end\"></li></ul></div></div></div>"
+      },
+      {
+        "title": "TK story 3",
+        "date": "2022-11-08T23:32:23",
+        "link": "https://montanafreepress.org/2022/11/08/montana-2022-election-results-so-far/",
+        "status": "publish",
+        "tags": {
+          "nodes": [
+            {
+              "name": "2022 elections"
+            },
+            {
+              "name": "tracker 2022 campaign"
+            }
+          ]
+        },
+        "categories": {
+          "nodes": [
+            {
+              "name": "2022 Elections"
+            }
+          ]
+        },
+        "featuredImage": {
+          "node": {
+            "link": "https://montanafreepress.org/untitled-design-1-5/"
+          }
+        },
+        "author": {
+          "node": {
+            "name": "MTFP Staff"
+          }
+        },
+        "excerpt": "<p>U.S HOUSE MT-01 Republican Ryan Zinke on Wednesday night declared victory in the race for Montana’s newly created western U.S. House district following a call by election tracker Decision Desk HQ.&nbsp; With all precincts fully reported, Zinke, who formerly represented Montana’s at-large House district and served as U.S. Secretary of the Interior under President Donald [&hellip;]</p>\n<div class=\"sharedaddy sd-sharing-enabled\"><div class=\"robots-nocontent sd-block sd-social sd-social-icon sd-sharing\"><div class=\"sd-content\"><ul><li class=\"share-twitter\"><a rel=\"nofollow noopener noreferrer\" data-shared=\"sharing-twitter-104382\" class=\"share-twitter sd-button share-icon no-text\" href=\"https://montanafreepress.org/2022/11/08/montana-2022-election-results-so-far/?share=twitter\" target=\"_blank\" title=\"Click to share on Twitter\" ><span></span><span class=\"sharing-screen-reader-text\">Click to share on Twitter (Opens in new window)</span></a></li><li class=\"share-facebook\"><a rel=\"nofollow noopener noreferrer\" data-shared=\"sharing-facebook-104382\" class=\"share-facebook sd-button share-icon no-text\" href=\"https://montanafreepress.org/2022/11/08/montana-2022-election-results-so-far/?share=facebook\" target=\"_blank\" title=\"Click to share on Facebook\" ><span></span><span class=\"sharing-screen-reader-text\">Click to share on Facebook (Opens in new window)</span></a></li><li class=\"share-email\"><a rel=\"nofollow noopener noreferrer\" data-shared=\"\" class=\"share-email sd-button share-icon no-text\" href=\"mailto:?subject=%5BShared%20Post%5D%20Montana%27s%202022%20election%20results&body=https%3A%2F%2Fmontanafreepress.org%2F2022%2F11%2F08%2Fmontana-2022-election-results-so-far%2F&share=email\" target=\"_blank\" title=\"Click to email a link to a friend\" data-email-share-error-title=\"Do you have email set up?\" data-email-share-error-text=\"If you&#039;re having problems sharing via email, you might not have email set up for your browser. You may need to create a new email yourself.\" data-email-share-nonce=\"07b6ccc1cd\" data-email-share-track-url=\"https://montanafreepress.org/2022/11/08/montana-2022-election-results-so-far/?share=email\"><span></span><span class=\"sharing-screen-reader-text\">Click to email a link to a friend (Opens in new window)</span></a></li><li class=\"share-end\"></li></ul></div></div></div>"
+      },
+      {
+        "title": "TK Story 3.5",
+        "date": "2022-11-04T11:56:42",
+        "link": "https://montanafreepress.org/2022/11/04/montana-supreme-court-race-2-9-million-third-party-spending-last-month-of-campaign/",
+        "status": "publish",
+        "tags": {
+          "nodes": [
+            {
+              "name": "Ingrid Gustafson"
+            },
+            {
+              "name": "James Brown"
+            },
+            {
+              "name": "tracker 2022 campaign"
+            }
+          ]
+        },
+        "categories": {
+          "nodes": [
+            {
+              "name": "2022 Elections"
+            }
+          ]
+        },
+        "featuredImage": {
+          "node": {
+            "link": "https://montanafreepress.org/montana-supreme-court-entrance_1200x675-copy/"
+          }
+        },
+        "author": {
+          "node": {
+            "name": "Mara Silvers"
+          }
+        },
+        "excerpt": "<p>With the Nov. 8 election less than a week away, Montana’s most expensive Supreme Court race in history, between incumbent Justice Ingrid Gustafson and attorney James Brown, continues to draw donations and release a firehose of last-minute spending in an effort to sway voters.</p>\n<div class=\"sharedaddy sd-sharing-enabled\"><div class=\"robots-nocontent sd-block sd-social sd-social-icon sd-sharing\"><div class=\"sd-content\"><ul><li class=\"share-twitter\"><a rel=\"nofollow noopener noreferrer\" data-shared=\"sharing-twitter-104104\" class=\"share-twitter sd-button share-icon no-text\" href=\"https://montanafreepress.org/2022/11/04/montana-supreme-court-race-2-9-million-third-party-spending-last-month-of-campaign/?share=twitter\" target=\"_blank\" title=\"Click to share on Twitter\" ><span></span><span class=\"sharing-screen-reader-text\">Click to share on Twitter (Opens in new window)</span></a></li><li class=\"share-facebook\"><a rel=\"nofollow noopener noreferrer\" data-shared=\"sharing-facebook-104104\" class=\"share-facebook sd-button share-icon no-text\" href=\"https://montanafreepress.org/2022/11/04/montana-supreme-court-race-2-9-million-third-party-spending-last-month-of-campaign/?share=facebook\" target=\"_blank\" title=\"Click to share on Facebook\" ><span></span><span class=\"sharing-screen-reader-text\">Click to share on Facebook (Opens in new window)</span></a></li><li class=\"share-email\"><a rel=\"nofollow noopener noreferrer\" data-shared=\"\" class=\"share-email sd-button share-icon no-text\" href=\"mailto:?subject=%5BShared%20Post%5D%20State%20Supreme%20Court%20race%20draws%20%242.9%20million%20in%20outside%20spending%20in%20last%20month%20of%20campaign&body=https%3A%2F%2Fmontanafreepress.org%2F2022%2F11%2F04%2Fmontana-supreme-court-race-2-9-million-third-party-spending-last-month-of-campaign%2F&share=email\" target=\"_blank\" title=\"Click to email a link to a friend\" data-email-share-error-title=\"Do you have email set up?\" data-email-share-error-text=\"If you&#039;re having problems sharing via email, you might not have email set up for your browser. You may need to create a new email yourself.\" data-email-share-nonce=\"fd0faf786d\" data-email-share-track-url=\"https://montanafreepress.org/2022/11/04/montana-supreme-court-race-2-9-million-third-party-spending-last-month-of-campaign/?share=email\"><span></span><span class=\"sharing-screen-reader-text\">Click to email a link to a friend (Opens in new window)</span></a></li><li class=\"share-end\"></li></ul></div></div></div>"
+      },
+      {
+        "title": "TK Story 4",
+        "date": "2022-11-04T10:45:54",
+        "link": "https://montanafreepress.org/2022/11/04/ronning-buchanan-try-to-unseat-rosendale-montanas-eastern-house-district/",
+        "status": "publish",
+        "tags": {
+          "nodes": [
+            {
+              "name": "gary buchanan"
+            },
+            {
+              "name": "Matt Rosendale"
+            },
+            {
+              "name": "Penny Ronning"
+            },
+            {
+              "name": "tracker 2022 campaign"
+            }
+          ]
+        },
+        "categories": {
+          "nodes": [
+            {
+              "name": "2022 Elections"
+            }
+          ]
+        },
+        "featuredImage": {
+          "node": {
+            "link": "https://montanafreepress.org/2022/11/04/ronning-buchanan-try-to-unseat-rosendale-montanas-eastern-house-district/easternconference/"
+          }
+        },
+        "author": {
+          "node": {
+            "name": "Brad Tyer"
+          }
+        },
+        "excerpt": "<p>Rep. Matt Rosendale’s record has fueled a slate of challengers in the race for Montana’s newly created eastern U.S. House district who say voters want an alternative to the incumbent’s partisan obstinance. Will they?</p>\n<div class=\"sharedaddy sd-sharing-enabled\"><div class=\"robots-nocontent sd-block sd-social sd-social-icon sd-sharing\"><div class=\"sd-content\"><ul><li class=\"share-twitter\"><a rel=\"nofollow noopener noreferrer\" data-shared=\"sharing-twitter-104061\" class=\"share-twitter sd-button share-icon no-text\" href=\"https://montanafreepress.org/2022/11/04/ronning-buchanan-try-to-unseat-rosendale-montanas-eastern-house-district/?share=twitter\" target=\"_blank\" title=\"Click to share on Twitter\" ><span></span><span class=\"sharing-screen-reader-text\">Click to share on Twitter (Opens in new window)</span></a></li><li class=\"share-facebook\"><a rel=\"nofollow noopener noreferrer\" data-shared=\"sharing-facebook-104061\" class=\"share-facebook sd-button share-icon no-text\" href=\"https://montanafreepress.org/2022/11/04/ronning-buchanan-try-to-unseat-rosendale-montanas-eastern-house-district/?share=facebook\" target=\"_blank\" title=\"Click to share on Facebook\" ><span></span><span class=\"sharing-screen-reader-text\">Click to share on Facebook (Opens in new window)</span></a></li><li class=\"share-email\"><a rel=\"nofollow noopener noreferrer\" data-shared=\"\" class=\"share-email sd-button share-icon no-text\" href=\"mailto:?subject=%5BShared%20Post%5D%20Rosendale%20fights%20Biden.%20Ronning%20and%20Buchanan%20take%20the%20fight%20to%20him.&body=https%3A%2F%2Fmontanafreepress.org%2F2022%2F11%2F04%2Fronning-buchanan-try-to-unseat-rosendale-montanas-eastern-house-district%2F&share=email\" target=\"_blank\" title=\"Click to email a link to a friend\" data-email-share-error-title=\"Do you have email set up?\" data-email-share-error-text=\"If you&#039;re having problems sharing via email, you might not have email set up for your browser. You may need to create a new email yourself.\" data-email-share-nonce=\"a729133ae0\" data-email-share-track-url=\"https://montanafreepress.org/2022/11/04/ronning-buchanan-try-to-unseat-rosendale-montanas-eastern-house-district/?share=email\"><span></span><span class=\"sharing-screen-reader-text\">Click to email a link to a friend (Opens in new window)</span></a></li><li class=\"share-end\"></li></ul></div></div></div>"
+      },
+      {
+        "title": "TK Story 5",
+        "date": "2022-10-26T16:26:59",
+        "link": "https://montanafreepress.org/2022/10/26/zinke-tranel-lamb-race-for-montanas-western-us-house-seat/",
+        "status": "publish",
+        "tags": {
+          "nodes": [
+            {
+              "name": "John Lamb"
+            },
+            {
+              "name": "Monica Tranel"
+            },
+            {
+              "name": "Ryan Zinke"
+            },
+            {
+              "name": "tracker 2022 campaign"
+            }
+          ]
+        },
+        "categories": {
+          "nodes": [
+            {
+              "name": "2022 Elections"
+            }
+          ]
+        },
+        "featuredImage": {
+          "node": {
+            "link": "https://montanafreepress.org/screen-shot-2022-10-25-at-3-44-31-pm/"
+          }
+        },
+        "author": {
+          "node": {
+            "name": "Arren Kimbel-Sannit"
+          }
+        },
+        "excerpt": "<p>Ryan Zinke and Monica Tranel are the two main contenders for Montana’s new western U.S. House district. The presence of Libertarian John Lamb and Zinke’s long, variable record in government could make things complicated. </p>\n<div class=\"sharedaddy sd-sharing-enabled\"><div class=\"robots-nocontent sd-block sd-social sd-social-icon sd-sharing\"><div class=\"sd-content\"><ul><li class=\"share-twitter\"><a rel=\"nofollow noopener noreferrer\" data-shared=\"sharing-twitter-103747\" class=\"share-twitter sd-button share-icon no-text\" href=\"https://montanafreepress.org/2022/10/26/zinke-tranel-lamb-race-for-montanas-western-us-house-seat/?share=twitter\" target=\"_blank\" title=\"Click to share on Twitter\" ><span></span><span class=\"sharing-screen-reader-text\">Click to share on Twitter (Opens in new window)</span></a></li><li class=\"share-facebook\"><a rel=\"nofollow noopener noreferrer\" data-shared=\"sharing-facebook-103747\" class=\"share-facebook sd-button share-icon no-text\" href=\"https://montanafreepress.org/2022/10/26/zinke-tranel-lamb-race-for-montanas-western-us-house-seat/?share=facebook\" target=\"_blank\" title=\"Click to share on Facebook\" ><span></span><span class=\"sharing-screen-reader-text\">Click to share on Facebook (Opens in new window)</span></a></li><li class=\"share-email\"><a rel=\"nofollow noopener noreferrer\" data-shared=\"\" class=\"share-email sd-button share-icon no-text\" href=\"mailto:?subject=%5BShared%20Post%5D%20The%20Zinke%2C%20Tranel%20%28and%20Lamb%29%20show&body=https%3A%2F%2Fmontanafreepress.org%2F2022%2F10%2F26%2Fzinke-tranel-lamb-race-for-montanas-western-us-house-seat%2F&share=email\" target=\"_blank\" title=\"Click to email a link to a friend\" data-email-share-error-title=\"Do you have email set up?\" data-email-share-error-text=\"If you&#039;re having problems sharing via email, you might not have email set up for your browser. You may need to create a new email yourself.\" data-email-share-nonce=\"0af0572cf8\" data-email-share-track-url=\"https://montanafreepress.org/2022/10/26/zinke-tranel-lamb-race-for-montanas-western-us-house-seat/?share=email\"><span></span><span class=\"sharing-screen-reader-text\">Click to email a link to a friend (Opens in new window)</span></a></li><li class=\"share-end\"></li></ul></div></div></div>"
       }
     ]
   },
@@ -96,6 +341,12 @@
         "party": "R"
       },
       {
+        "slug": "sid-daud",
+        "displayName": "Sid Daud",
+        "summaryLine": "Kalispell City Council member",
+        "party": "L"
+      },
+      {
         "slug": "michael-hummert",
         "displayName": "Michael Hummert",
         "summaryLine": "U.S. Navy Veteran",
@@ -118,6 +369,245 @@
         "displayName": "Robert Barb",
         "summaryLine": "Billings resident",
         "party": "G"
+      }
+    ],
+    "coverage": [
+      {
+        "title": "TK story 1",
+        "date": "2022-11-15T13:15:16",
+        "link": "https://montanafreepress.org/2022/11/15/how-montanas-lr-131-born-alive-referendum-failed/",
+        "status": "publish",
+        "tags": {
+          "nodes": [
+            {
+              "name": "2022 elections"
+            },
+            {
+              "name": "Born-Alive Infant Protection Act"
+            },
+            {
+              "name": "LR-131"
+            },
+            {
+              "name": "Matt Regier"
+            },
+            {
+              "name": "Planned Parenthood of Montana"
+            },
+            {
+              "name": "tracker 2022 campaign"
+            }
+          ]
+        },
+        "categories": {
+          "nodes": [
+            {
+              "name": "2022 Elections"
+            }
+          ]
+        },
+        "featuredImage": {
+          "node": {
+            "link": "https://montanafreepress.org/untitled-design-6-3/"
+          }
+        },
+        "author": {
+          "node": {
+            "name": "Mara Silvers"
+          }
+        },
+        "excerpt": "<p>Organized opposition to the initiative spent hundreds of thousands of dollars and countless volunteer hours trying to get its message to as many Montana voters as possible. As the dust settled on last week’s election, the campaign’s defeat of LR-131 became one of a handful of nationwide wins for the reproductive rights movement, and a possible signal of caution for Republican lawmakers hoping to put similar bills before voters in upcoming election cycles.</p>\n<div class=\"sharedaddy sd-sharing-enabled\"><div class=\"robots-nocontent sd-block sd-social sd-social-icon sd-sharing\"><div class=\"sd-content\"><ul><li class=\"share-twitter\"><a rel=\"nofollow noopener noreferrer\" data-shared=\"sharing-twitter-104823\" class=\"share-twitter sd-button share-icon no-text\" href=\"https://montanafreepress.org/2022/11/15/how-montanas-lr-131-born-alive-referendum-failed/?share=twitter\" target=\"_blank\" title=\"Click to share on Twitter\" ><span></span><span class=\"sharing-screen-reader-text\">Click to share on Twitter (Opens in new window)</span></a></li><li class=\"share-facebook\"><a rel=\"nofollow noopener noreferrer\" data-shared=\"sharing-facebook-104823\" class=\"share-facebook sd-button share-icon no-text\" href=\"https://montanafreepress.org/2022/11/15/how-montanas-lr-131-born-alive-referendum-failed/?share=facebook\" target=\"_blank\" title=\"Click to share on Facebook\" ><span></span><span class=\"sharing-screen-reader-text\">Click to share on Facebook (Opens in new window)</span></a></li><li class=\"share-email\"><a rel=\"nofollow noopener noreferrer\" data-shared=\"\" class=\"share-email sd-button share-icon no-text\" href=\"mailto:?subject=%5BShared%20Post%5D%20How%20Montana%E2%80%99s%20LR-131%20%E2%80%98Born-Alive%E2%80%99%20referendum%20failed&body=https%3A%2F%2Fmontanafreepress.org%2F2022%2F11%2F15%2Fhow-montanas-lr-131-born-alive-referendum-failed%2F&share=email\" target=\"_blank\" title=\"Click to email a link to a friend\" data-email-share-error-title=\"Do you have email set up?\" data-email-share-error-text=\"If you&#039;re having problems sharing via email, you might not have email set up for your browser. You may need to create a new email yourself.\" data-email-share-nonce=\"71c1e7d30f\" data-email-share-track-url=\"https://montanafreepress.org/2022/11/15/how-montanas-lr-131-born-alive-referendum-failed/?share=email\"><span></span><span class=\"sharing-screen-reader-text\">Click to email a link to a friend (Opens in new window)</span></a></li><li class=\"share-end\"></li></ul></div></div></div>"
+      },
+      {
+        "title": "TK story 2",
+        "date": "2022-11-09T09:43:14",
+        "link": "https://montanafreepress.org/2022/11/09/incumbent-ingrid-gustafson-retains-montana-supreme-court-seat/",
+        "status": "publish",
+        "tags": {
+          "nodes": [
+            {
+              "name": "Ingrid Gustafson"
+            },
+            {
+              "name": "James Brown"
+            },
+            {
+              "name": "Montana Supreme Court"
+            },
+            {
+              "name": "tracker 2022 campaign"
+            }
+          ]
+        },
+        "categories": {
+          "nodes": [
+            {
+              "name": "2022 Elections"
+            }
+          ]
+        },
+        "featuredImage": {
+          "node": {
+            "link": "https://montanafreepress.org/2022/11/09/incumbent-ingrid-gustafson-retains-montana-supreme-court-seat/untitled-design-2-7/"
+          }
+        },
+        "author": {
+          "node": {
+            "name": "Mara Silvers"
+          }
+        },
+        "excerpt": "<p>Incumbent Supreme Court Justice Ingrid Gustafson will serve a second term on Montana’s high court after winning her race for re-election against attorney and Republican Public Service Commission President James Brown, who conceded the race Wednesday morning. </p>\n<div class=\"sharedaddy sd-sharing-enabled\"><div class=\"robots-nocontent sd-block sd-social sd-social-icon sd-sharing\"><div class=\"sd-content\"><ul><li class=\"share-twitter\"><a rel=\"nofollow noopener noreferrer\" data-shared=\"sharing-twitter-104445\" class=\"share-twitter sd-button share-icon no-text\" href=\"https://montanafreepress.org/2022/11/09/incumbent-ingrid-gustafson-retains-montana-supreme-court-seat/?share=twitter\" target=\"_blank\" title=\"Click to share on Twitter\" ><span></span><span class=\"sharing-screen-reader-text\">Click to share on Twitter (Opens in new window)</span></a></li><li class=\"share-facebook\"><a rel=\"nofollow noopener noreferrer\" data-shared=\"sharing-facebook-104445\" class=\"share-facebook sd-button share-icon no-text\" href=\"https://montanafreepress.org/2022/11/09/incumbent-ingrid-gustafson-retains-montana-supreme-court-seat/?share=facebook\" target=\"_blank\" title=\"Click to share on Facebook\" ><span></span><span class=\"sharing-screen-reader-text\">Click to share on Facebook (Opens in new window)</span></a></li><li class=\"share-email\"><a rel=\"nofollow noopener noreferrer\" data-shared=\"\" class=\"share-email sd-button share-icon no-text\" href=\"mailto:?subject=%5BShared%20Post%5D%20Gustafson%20retains%20state%20Supreme%20Court%20seat%20over%20challenger%20Brown&body=https%3A%2F%2Fmontanafreepress.org%2F2022%2F11%2F09%2Fincumbent-ingrid-gustafson-retains-montana-supreme-court-seat%2F&share=email\" target=\"_blank\" title=\"Click to email a link to a friend\" data-email-share-error-title=\"Do you have email set up?\" data-email-share-error-text=\"If you&#039;re having problems sharing via email, you might not have email set up for your browser. You may need to create a new email yourself.\" data-email-share-nonce=\"b4d56519e6\" data-email-share-track-url=\"https://montanafreepress.org/2022/11/09/incumbent-ingrid-gustafson-retains-montana-supreme-court-seat/?share=email\"><span></span><span class=\"sharing-screen-reader-text\">Click to email a link to a friend (Opens in new window)</span></a></li><li class=\"share-end\"></li></ul></div></div></div>"
+      },
+      {
+        "title": "TK story 3",
+        "date": "2022-11-08T23:32:23",
+        "link": "https://montanafreepress.org/2022/11/08/montana-2022-election-results-so-far/",
+        "status": "publish",
+        "tags": {
+          "nodes": [
+            {
+              "name": "2022 elections"
+            },
+            {
+              "name": "tracker 2022 campaign"
+            }
+          ]
+        },
+        "categories": {
+          "nodes": [
+            {
+              "name": "2022 Elections"
+            }
+          ]
+        },
+        "featuredImage": {
+          "node": {
+            "link": "https://montanafreepress.org/untitled-design-1-5/"
+          }
+        },
+        "author": {
+          "node": {
+            "name": "MTFP Staff"
+          }
+        },
+        "excerpt": "<p>U.S HOUSE MT-01 Republican Ryan Zinke on Wednesday night declared victory in the race for Montana’s newly created western U.S. House district following a call by election tracker Decision Desk HQ.&nbsp; With all precincts fully reported, Zinke, who formerly represented Montana’s at-large House district and served as U.S. Secretary of the Interior under President Donald [&hellip;]</p>\n<div class=\"sharedaddy sd-sharing-enabled\"><div class=\"robots-nocontent sd-block sd-social sd-social-icon sd-sharing\"><div class=\"sd-content\"><ul><li class=\"share-twitter\"><a rel=\"nofollow noopener noreferrer\" data-shared=\"sharing-twitter-104382\" class=\"share-twitter sd-button share-icon no-text\" href=\"https://montanafreepress.org/2022/11/08/montana-2022-election-results-so-far/?share=twitter\" target=\"_blank\" title=\"Click to share on Twitter\" ><span></span><span class=\"sharing-screen-reader-text\">Click to share on Twitter (Opens in new window)</span></a></li><li class=\"share-facebook\"><a rel=\"nofollow noopener noreferrer\" data-shared=\"sharing-facebook-104382\" class=\"share-facebook sd-button share-icon no-text\" href=\"https://montanafreepress.org/2022/11/08/montana-2022-election-results-so-far/?share=facebook\" target=\"_blank\" title=\"Click to share on Facebook\" ><span></span><span class=\"sharing-screen-reader-text\">Click to share on Facebook (Opens in new window)</span></a></li><li class=\"share-email\"><a rel=\"nofollow noopener noreferrer\" data-shared=\"\" class=\"share-email sd-button share-icon no-text\" href=\"mailto:?subject=%5BShared%20Post%5D%20Montana%27s%202022%20election%20results&body=https%3A%2F%2Fmontanafreepress.org%2F2022%2F11%2F08%2Fmontana-2022-election-results-so-far%2F&share=email\" target=\"_blank\" title=\"Click to email a link to a friend\" data-email-share-error-title=\"Do you have email set up?\" data-email-share-error-text=\"If you&#039;re having problems sharing via email, you might not have email set up for your browser. You may need to create a new email yourself.\" data-email-share-nonce=\"07b6ccc1cd\" data-email-share-track-url=\"https://montanafreepress.org/2022/11/08/montana-2022-election-results-so-far/?share=email\"><span></span><span class=\"sharing-screen-reader-text\">Click to email a link to a friend (Opens in new window)</span></a></li><li class=\"share-end\"></li></ul></div></div></div>"
+      },
+      {
+        "title": "TK Story 3.5",
+        "date": "2022-11-04T11:56:42",
+        "link": "https://montanafreepress.org/2022/11/04/montana-supreme-court-race-2-9-million-third-party-spending-last-month-of-campaign/",
+        "status": "publish",
+        "tags": {
+          "nodes": [
+            {
+              "name": "Ingrid Gustafson"
+            },
+            {
+              "name": "James Brown"
+            },
+            {
+              "name": "tracker 2022 campaign"
+            }
+          ]
+        },
+        "categories": {
+          "nodes": [
+            {
+              "name": "2022 Elections"
+            }
+          ]
+        },
+        "featuredImage": {
+          "node": {
+            "link": "https://montanafreepress.org/montana-supreme-court-entrance_1200x675-copy/"
+          }
+        },
+        "author": {
+          "node": {
+            "name": "Mara Silvers"
+          }
+        },
+        "excerpt": "<p>With the Nov. 8 election less than a week away, Montana’s most expensive Supreme Court race in history, between incumbent Justice Ingrid Gustafson and attorney James Brown, continues to draw donations and release a firehose of last-minute spending in an effort to sway voters.</p>\n<div class=\"sharedaddy sd-sharing-enabled\"><div class=\"robots-nocontent sd-block sd-social sd-social-icon sd-sharing\"><div class=\"sd-content\"><ul><li class=\"share-twitter\"><a rel=\"nofollow noopener noreferrer\" data-shared=\"sharing-twitter-104104\" class=\"share-twitter sd-button share-icon no-text\" href=\"https://montanafreepress.org/2022/11/04/montana-supreme-court-race-2-9-million-third-party-spending-last-month-of-campaign/?share=twitter\" target=\"_blank\" title=\"Click to share on Twitter\" ><span></span><span class=\"sharing-screen-reader-text\">Click to share on Twitter (Opens in new window)</span></a></li><li class=\"share-facebook\"><a rel=\"nofollow noopener noreferrer\" data-shared=\"sharing-facebook-104104\" class=\"share-facebook sd-button share-icon no-text\" href=\"https://montanafreepress.org/2022/11/04/montana-supreme-court-race-2-9-million-third-party-spending-last-month-of-campaign/?share=facebook\" target=\"_blank\" title=\"Click to share on Facebook\" ><span></span><span class=\"sharing-screen-reader-text\">Click to share on Facebook (Opens in new window)</span></a></li><li class=\"share-email\"><a rel=\"nofollow noopener noreferrer\" data-shared=\"\" class=\"share-email sd-button share-icon no-text\" href=\"mailto:?subject=%5BShared%20Post%5D%20State%20Supreme%20Court%20race%20draws%20%242.9%20million%20in%20outside%20spending%20in%20last%20month%20of%20campaign&body=https%3A%2F%2Fmontanafreepress.org%2F2022%2F11%2F04%2Fmontana-supreme-court-race-2-9-million-third-party-spending-last-month-of-campaign%2F&share=email\" target=\"_blank\" title=\"Click to email a link to a friend\" data-email-share-error-title=\"Do you have email set up?\" data-email-share-error-text=\"If you&#039;re having problems sharing via email, you might not have email set up for your browser. You may need to create a new email yourself.\" data-email-share-nonce=\"fd0faf786d\" data-email-share-track-url=\"https://montanafreepress.org/2022/11/04/montana-supreme-court-race-2-9-million-third-party-spending-last-month-of-campaign/?share=email\"><span></span><span class=\"sharing-screen-reader-text\">Click to email a link to a friend (Opens in new window)</span></a></li><li class=\"share-end\"></li></ul></div></div></div>"
+      },
+      {
+        "title": "TK Story 4",
+        "date": "2022-11-04T10:45:54",
+        "link": "https://montanafreepress.org/2022/11/04/ronning-buchanan-try-to-unseat-rosendale-montanas-eastern-house-district/",
+        "status": "publish",
+        "tags": {
+          "nodes": [
+            {
+              "name": "gary buchanan"
+            },
+            {
+              "name": "Matt Rosendale"
+            },
+            {
+              "name": "Penny Ronning"
+            },
+            {
+              "name": "tracker 2022 campaign"
+            }
+          ]
+        },
+        "categories": {
+          "nodes": [
+            {
+              "name": "2022 Elections"
+            }
+          ]
+        },
+        "featuredImage": {
+          "node": {
+            "link": "https://montanafreepress.org/2022/11/04/ronning-buchanan-try-to-unseat-rosendale-montanas-eastern-house-district/easternconference/"
+          }
+        },
+        "author": {
+          "node": {
+            "name": "Brad Tyer"
+          }
+        },
+        "excerpt": "<p>Rep. Matt Rosendale’s record has fueled a slate of challengers in the race for Montana’s newly created eastern U.S. House district who say voters want an alternative to the incumbent’s partisan obstinance. Will they?</p>\n<div class=\"sharedaddy sd-sharing-enabled\"><div class=\"robots-nocontent sd-block sd-social sd-social-icon sd-sharing\"><div class=\"sd-content\"><ul><li class=\"share-twitter\"><a rel=\"nofollow noopener noreferrer\" data-shared=\"sharing-twitter-104061\" class=\"share-twitter sd-button share-icon no-text\" href=\"https://montanafreepress.org/2022/11/04/ronning-buchanan-try-to-unseat-rosendale-montanas-eastern-house-district/?share=twitter\" target=\"_blank\" title=\"Click to share on Twitter\" ><span></span><span class=\"sharing-screen-reader-text\">Click to share on Twitter (Opens in new window)</span></a></li><li class=\"share-facebook\"><a rel=\"nofollow noopener noreferrer\" data-shared=\"sharing-facebook-104061\" class=\"share-facebook sd-button share-icon no-text\" href=\"https://montanafreepress.org/2022/11/04/ronning-buchanan-try-to-unseat-rosendale-montanas-eastern-house-district/?share=facebook\" target=\"_blank\" title=\"Click to share on Facebook\" ><span></span><span class=\"sharing-screen-reader-text\">Click to share on Facebook (Opens in new window)</span></a></li><li class=\"share-email\"><a rel=\"nofollow noopener noreferrer\" data-shared=\"\" class=\"share-email sd-button share-icon no-text\" href=\"mailto:?subject=%5BShared%20Post%5D%20Rosendale%20fights%20Biden.%20Ronning%20and%20Buchanan%20take%20the%20fight%20to%20him.&body=https%3A%2F%2Fmontanafreepress.org%2F2022%2F11%2F04%2Fronning-buchanan-try-to-unseat-rosendale-montanas-eastern-house-district%2F&share=email\" target=\"_blank\" title=\"Click to email a link to a friend\" data-email-share-error-title=\"Do you have email set up?\" data-email-share-error-text=\"If you&#039;re having problems sharing via email, you might not have email set up for your browser. You may need to create a new email yourself.\" data-email-share-nonce=\"a729133ae0\" data-email-share-track-url=\"https://montanafreepress.org/2022/11/04/ronning-buchanan-try-to-unseat-rosendale-montanas-eastern-house-district/?share=email\"><span></span><span class=\"sharing-screen-reader-text\">Click to email a link to a friend (Opens in new window)</span></a></li><li class=\"share-end\"></li></ul></div></div></div>"
+      },
+      {
+        "title": "TK Story 5",
+        "date": "2022-10-26T16:26:59",
+        "link": "https://montanafreepress.org/2022/10/26/zinke-tranel-lamb-race-for-montanas-western-us-house-seat/",
+        "status": "publish",
+        "tags": {
+          "nodes": [
+            {
+              "name": "John Lamb"
+            },
+            {
+              "name": "Monica Tranel"
+            },
+            {
+              "name": "Ryan Zinke"
+            },
+            {
+              "name": "tracker 2022 campaign"
+            }
+          ]
+        },
+        "categories": {
+          "nodes": [
+            {
+              "name": "2022 Elections"
+            }
+          ]
+        },
+        "featuredImage": {
+          "node": {
+            "link": "https://montanafreepress.org/screen-shot-2022-10-25-at-3-44-31-pm/"
+          }
+        },
+        "author": {
+          "node": {
+            "name": "Arren Kimbel-Sannit"
+          }
+        },
+        "excerpt": "<p>Ryan Zinke and Monica Tranel are the two main contenders for Montana’s new western U.S. House district. The presence of Libertarian John Lamb and Zinke’s long, variable record in government could make things complicated. </p>\n<div class=\"sharedaddy sd-sharing-enabled\"><div class=\"robots-nocontent sd-block sd-social sd-social-icon sd-sharing\"><div class=\"sd-content\"><ul><li class=\"share-twitter\"><a rel=\"nofollow noopener noreferrer\" data-shared=\"sharing-twitter-103747\" class=\"share-twitter sd-button share-icon no-text\" href=\"https://montanafreepress.org/2022/10/26/zinke-tranel-lamb-race-for-montanas-western-us-house-seat/?share=twitter\" target=\"_blank\" title=\"Click to share on Twitter\" ><span></span><span class=\"sharing-screen-reader-text\">Click to share on Twitter (Opens in new window)</span></a></li><li class=\"share-facebook\"><a rel=\"nofollow noopener noreferrer\" data-shared=\"sharing-facebook-103747\" class=\"share-facebook sd-button share-icon no-text\" href=\"https://montanafreepress.org/2022/10/26/zinke-tranel-lamb-race-for-montanas-western-us-house-seat/?share=facebook\" target=\"_blank\" title=\"Click to share on Facebook\" ><span></span><span class=\"sharing-screen-reader-text\">Click to share on Facebook (Opens in new window)</span></a></li><li class=\"share-email\"><a rel=\"nofollow noopener noreferrer\" data-shared=\"\" class=\"share-email sd-button share-icon no-text\" href=\"mailto:?subject=%5BShared%20Post%5D%20The%20Zinke%2C%20Tranel%20%28and%20Lamb%29%20show&body=https%3A%2F%2Fmontanafreepress.org%2F2022%2F10%2F26%2Fzinke-tranel-lamb-race-for-montanas-western-us-house-seat%2F&share=email\" target=\"_blank\" title=\"Click to email a link to a friend\" data-email-share-error-title=\"Do you have email set up?\" data-email-share-error-text=\"If you&#039;re having problems sharing via email, you might not have email set up for your browser. You may need to create a new email yourself.\" data-email-share-nonce=\"0af0572cf8\" data-email-share-track-url=\"https://montanafreepress.org/2022/10/26/zinke-tranel-lamb-race-for-montanas-western-us-house-seat/?share=email\"><span></span><span class=\"sharing-screen-reader-text\">Click to email a link to a friend (Opens in new window)</span></a></li><li class=\"share-end\"></li></ul></div></div></div>"
       }
     ]
   },
@@ -179,6 +669,251 @@
         "displayName": "Michael Downey",
         "summaryLine": "Helena resident",
         "party": "G"
+      },
+      {
+        "slug": "robert-barb",
+        "displayName": "Robert Barb",
+        "summaryLine": "Billings resident",
+        "party": "G"
+      }
+    ],
+    "coverage": [
+      {
+        "title": "TK story 1",
+        "date": "2022-11-15T13:15:16",
+        "link": "https://montanafreepress.org/2022/11/15/how-montanas-lr-131-born-alive-referendum-failed/",
+        "status": "publish",
+        "tags": {
+          "nodes": [
+            {
+              "name": "2022 elections"
+            },
+            {
+              "name": "Born-Alive Infant Protection Act"
+            },
+            {
+              "name": "LR-131"
+            },
+            {
+              "name": "Matt Regier"
+            },
+            {
+              "name": "Planned Parenthood of Montana"
+            },
+            {
+              "name": "tracker 2022 campaign"
+            }
+          ]
+        },
+        "categories": {
+          "nodes": [
+            {
+              "name": "2022 Elections"
+            }
+          ]
+        },
+        "featuredImage": {
+          "node": {
+            "link": "https://montanafreepress.org/untitled-design-6-3/"
+          }
+        },
+        "author": {
+          "node": {
+            "name": "Mara Silvers"
+          }
+        },
+        "excerpt": "<p>Organized opposition to the initiative spent hundreds of thousands of dollars and countless volunteer hours trying to get its message to as many Montana voters as possible. As the dust settled on last week’s election, the campaign’s defeat of LR-131 became one of a handful of nationwide wins for the reproductive rights movement, and a possible signal of caution for Republican lawmakers hoping to put similar bills before voters in upcoming election cycles.</p>\n<div class=\"sharedaddy sd-sharing-enabled\"><div class=\"robots-nocontent sd-block sd-social sd-social-icon sd-sharing\"><div class=\"sd-content\"><ul><li class=\"share-twitter\"><a rel=\"nofollow noopener noreferrer\" data-shared=\"sharing-twitter-104823\" class=\"share-twitter sd-button share-icon no-text\" href=\"https://montanafreepress.org/2022/11/15/how-montanas-lr-131-born-alive-referendum-failed/?share=twitter\" target=\"_blank\" title=\"Click to share on Twitter\" ><span></span><span class=\"sharing-screen-reader-text\">Click to share on Twitter (Opens in new window)</span></a></li><li class=\"share-facebook\"><a rel=\"nofollow noopener noreferrer\" data-shared=\"sharing-facebook-104823\" class=\"share-facebook sd-button share-icon no-text\" href=\"https://montanafreepress.org/2022/11/15/how-montanas-lr-131-born-alive-referendum-failed/?share=facebook\" target=\"_blank\" title=\"Click to share on Facebook\" ><span></span><span class=\"sharing-screen-reader-text\">Click to share on Facebook (Opens in new window)</span></a></li><li class=\"share-email\"><a rel=\"nofollow noopener noreferrer\" data-shared=\"\" class=\"share-email sd-button share-icon no-text\" href=\"mailto:?subject=%5BShared%20Post%5D%20How%20Montana%E2%80%99s%20LR-131%20%E2%80%98Born-Alive%E2%80%99%20referendum%20failed&body=https%3A%2F%2Fmontanafreepress.org%2F2022%2F11%2F15%2Fhow-montanas-lr-131-born-alive-referendum-failed%2F&share=email\" target=\"_blank\" title=\"Click to email a link to a friend\" data-email-share-error-title=\"Do you have email set up?\" data-email-share-error-text=\"If you&#039;re having problems sharing via email, you might not have email set up for your browser. You may need to create a new email yourself.\" data-email-share-nonce=\"71c1e7d30f\" data-email-share-track-url=\"https://montanafreepress.org/2022/11/15/how-montanas-lr-131-born-alive-referendum-failed/?share=email\"><span></span><span class=\"sharing-screen-reader-text\">Click to email a link to a friend (Opens in new window)</span></a></li><li class=\"share-end\"></li></ul></div></div></div>"
+      },
+      {
+        "title": "TK story 2",
+        "date": "2022-11-09T09:43:14",
+        "link": "https://montanafreepress.org/2022/11/09/incumbent-ingrid-gustafson-retains-montana-supreme-court-seat/",
+        "status": "publish",
+        "tags": {
+          "nodes": [
+            {
+              "name": "Ingrid Gustafson"
+            },
+            {
+              "name": "James Brown"
+            },
+            {
+              "name": "Montana Supreme Court"
+            },
+            {
+              "name": "tracker 2022 campaign"
+            }
+          ]
+        },
+        "categories": {
+          "nodes": [
+            {
+              "name": "2022 Elections"
+            }
+          ]
+        },
+        "featuredImage": {
+          "node": {
+            "link": "https://montanafreepress.org/2022/11/09/incumbent-ingrid-gustafson-retains-montana-supreme-court-seat/untitled-design-2-7/"
+          }
+        },
+        "author": {
+          "node": {
+            "name": "Mara Silvers"
+          }
+        },
+        "excerpt": "<p>Incumbent Supreme Court Justice Ingrid Gustafson will serve a second term on Montana’s high court after winning her race for re-election against attorney and Republican Public Service Commission President James Brown, who conceded the race Wednesday morning. </p>\n<div class=\"sharedaddy sd-sharing-enabled\"><div class=\"robots-nocontent sd-block sd-social sd-social-icon sd-sharing\"><div class=\"sd-content\"><ul><li class=\"share-twitter\"><a rel=\"nofollow noopener noreferrer\" data-shared=\"sharing-twitter-104445\" class=\"share-twitter sd-button share-icon no-text\" href=\"https://montanafreepress.org/2022/11/09/incumbent-ingrid-gustafson-retains-montana-supreme-court-seat/?share=twitter\" target=\"_blank\" title=\"Click to share on Twitter\" ><span></span><span class=\"sharing-screen-reader-text\">Click to share on Twitter (Opens in new window)</span></a></li><li class=\"share-facebook\"><a rel=\"nofollow noopener noreferrer\" data-shared=\"sharing-facebook-104445\" class=\"share-facebook sd-button share-icon no-text\" href=\"https://montanafreepress.org/2022/11/09/incumbent-ingrid-gustafson-retains-montana-supreme-court-seat/?share=facebook\" target=\"_blank\" title=\"Click to share on Facebook\" ><span></span><span class=\"sharing-screen-reader-text\">Click to share on Facebook (Opens in new window)</span></a></li><li class=\"share-email\"><a rel=\"nofollow noopener noreferrer\" data-shared=\"\" class=\"share-email sd-button share-icon no-text\" href=\"mailto:?subject=%5BShared%20Post%5D%20Gustafson%20retains%20state%20Supreme%20Court%20seat%20over%20challenger%20Brown&body=https%3A%2F%2Fmontanafreepress.org%2F2022%2F11%2F09%2Fincumbent-ingrid-gustafson-retains-montana-supreme-court-seat%2F&share=email\" target=\"_blank\" title=\"Click to email a link to a friend\" data-email-share-error-title=\"Do you have email set up?\" data-email-share-error-text=\"If you&#039;re having problems sharing via email, you might not have email set up for your browser. You may need to create a new email yourself.\" data-email-share-nonce=\"b4d56519e6\" data-email-share-track-url=\"https://montanafreepress.org/2022/11/09/incumbent-ingrid-gustafson-retains-montana-supreme-court-seat/?share=email\"><span></span><span class=\"sharing-screen-reader-text\">Click to email a link to a friend (Opens in new window)</span></a></li><li class=\"share-end\"></li></ul></div></div></div>"
+      },
+      {
+        "title": "TK story 3",
+        "date": "2022-11-08T23:32:23",
+        "link": "https://montanafreepress.org/2022/11/08/montana-2022-election-results-so-far/",
+        "status": "publish",
+        "tags": {
+          "nodes": [
+            {
+              "name": "2022 elections"
+            },
+            {
+              "name": "tracker 2022 campaign"
+            }
+          ]
+        },
+        "categories": {
+          "nodes": [
+            {
+              "name": "2022 Elections"
+            }
+          ]
+        },
+        "featuredImage": {
+          "node": {
+            "link": "https://montanafreepress.org/untitled-design-1-5/"
+          }
+        },
+        "author": {
+          "node": {
+            "name": "MTFP Staff"
+          }
+        },
+        "excerpt": "<p>U.S HOUSE MT-01 Republican Ryan Zinke on Wednesday night declared victory in the race for Montana’s newly created western U.S. House district following a call by election tracker Decision Desk HQ.&nbsp; With all precincts fully reported, Zinke, who formerly represented Montana’s at-large House district and served as U.S. Secretary of the Interior under President Donald [&hellip;]</p>\n<div class=\"sharedaddy sd-sharing-enabled\"><div class=\"robots-nocontent sd-block sd-social sd-social-icon sd-sharing\"><div class=\"sd-content\"><ul><li class=\"share-twitter\"><a rel=\"nofollow noopener noreferrer\" data-shared=\"sharing-twitter-104382\" class=\"share-twitter sd-button share-icon no-text\" href=\"https://montanafreepress.org/2022/11/08/montana-2022-election-results-so-far/?share=twitter\" target=\"_blank\" title=\"Click to share on Twitter\" ><span></span><span class=\"sharing-screen-reader-text\">Click to share on Twitter (Opens in new window)</span></a></li><li class=\"share-facebook\"><a rel=\"nofollow noopener noreferrer\" data-shared=\"sharing-facebook-104382\" class=\"share-facebook sd-button share-icon no-text\" href=\"https://montanafreepress.org/2022/11/08/montana-2022-election-results-so-far/?share=facebook\" target=\"_blank\" title=\"Click to share on Facebook\" ><span></span><span class=\"sharing-screen-reader-text\">Click to share on Facebook (Opens in new window)</span></a></li><li class=\"share-email\"><a rel=\"nofollow noopener noreferrer\" data-shared=\"\" class=\"share-email sd-button share-icon no-text\" href=\"mailto:?subject=%5BShared%20Post%5D%20Montana%27s%202022%20election%20results&body=https%3A%2F%2Fmontanafreepress.org%2F2022%2F11%2F08%2Fmontana-2022-election-results-so-far%2F&share=email\" target=\"_blank\" title=\"Click to email a link to a friend\" data-email-share-error-title=\"Do you have email set up?\" data-email-share-error-text=\"If you&#039;re having problems sharing via email, you might not have email set up for your browser. You may need to create a new email yourself.\" data-email-share-nonce=\"07b6ccc1cd\" data-email-share-track-url=\"https://montanafreepress.org/2022/11/08/montana-2022-election-results-so-far/?share=email\"><span></span><span class=\"sharing-screen-reader-text\">Click to email a link to a friend (Opens in new window)</span></a></li><li class=\"share-end\"></li></ul></div></div></div>"
+      },
+      {
+        "title": "TK Story 3.5",
+        "date": "2022-11-04T11:56:42",
+        "link": "https://montanafreepress.org/2022/11/04/montana-supreme-court-race-2-9-million-third-party-spending-last-month-of-campaign/",
+        "status": "publish",
+        "tags": {
+          "nodes": [
+            {
+              "name": "Ingrid Gustafson"
+            },
+            {
+              "name": "James Brown"
+            },
+            {
+              "name": "tracker 2022 campaign"
+            }
+          ]
+        },
+        "categories": {
+          "nodes": [
+            {
+              "name": "2022 Elections"
+            }
+          ]
+        },
+        "featuredImage": {
+          "node": {
+            "link": "https://montanafreepress.org/montana-supreme-court-entrance_1200x675-copy/"
+          }
+        },
+        "author": {
+          "node": {
+            "name": "Mara Silvers"
+          }
+        },
+        "excerpt": "<p>With the Nov. 8 election less than a week away, Montana’s most expensive Supreme Court race in history, between incumbent Justice Ingrid Gustafson and attorney James Brown, continues to draw donations and release a firehose of last-minute spending in an effort to sway voters.</p>\n<div class=\"sharedaddy sd-sharing-enabled\"><div class=\"robots-nocontent sd-block sd-social sd-social-icon sd-sharing\"><div class=\"sd-content\"><ul><li class=\"share-twitter\"><a rel=\"nofollow noopener noreferrer\" data-shared=\"sharing-twitter-104104\" class=\"share-twitter sd-button share-icon no-text\" href=\"https://montanafreepress.org/2022/11/04/montana-supreme-court-race-2-9-million-third-party-spending-last-month-of-campaign/?share=twitter\" target=\"_blank\" title=\"Click to share on Twitter\" ><span></span><span class=\"sharing-screen-reader-text\">Click to share on Twitter (Opens in new window)</span></a></li><li class=\"share-facebook\"><a rel=\"nofollow noopener noreferrer\" data-shared=\"sharing-facebook-104104\" class=\"share-facebook sd-button share-icon no-text\" href=\"https://montanafreepress.org/2022/11/04/montana-supreme-court-race-2-9-million-third-party-spending-last-month-of-campaign/?share=facebook\" target=\"_blank\" title=\"Click to share on Facebook\" ><span></span><span class=\"sharing-screen-reader-text\">Click to share on Facebook (Opens in new window)</span></a></li><li class=\"share-email\"><a rel=\"nofollow noopener noreferrer\" data-shared=\"\" class=\"share-email sd-button share-icon no-text\" href=\"mailto:?subject=%5BShared%20Post%5D%20State%20Supreme%20Court%20race%20draws%20%242.9%20million%20in%20outside%20spending%20in%20last%20month%20of%20campaign&body=https%3A%2F%2Fmontanafreepress.org%2F2022%2F11%2F04%2Fmontana-supreme-court-race-2-9-million-third-party-spending-last-month-of-campaign%2F&share=email\" target=\"_blank\" title=\"Click to email a link to a friend\" data-email-share-error-title=\"Do you have email set up?\" data-email-share-error-text=\"If you&#039;re having problems sharing via email, you might not have email set up for your browser. You may need to create a new email yourself.\" data-email-share-nonce=\"fd0faf786d\" data-email-share-track-url=\"https://montanafreepress.org/2022/11/04/montana-supreme-court-race-2-9-million-third-party-spending-last-month-of-campaign/?share=email\"><span></span><span class=\"sharing-screen-reader-text\">Click to email a link to a friend (Opens in new window)</span></a></li><li class=\"share-end\"></li></ul></div></div></div>"
+      },
+      {
+        "title": "TK Story 4",
+        "date": "2022-11-04T10:45:54",
+        "link": "https://montanafreepress.org/2022/11/04/ronning-buchanan-try-to-unseat-rosendale-montanas-eastern-house-district/",
+        "status": "publish",
+        "tags": {
+          "nodes": [
+            {
+              "name": "gary buchanan"
+            },
+            {
+              "name": "Matt Rosendale"
+            },
+            {
+              "name": "Penny Ronning"
+            },
+            {
+              "name": "tracker 2022 campaign"
+            }
+          ]
+        },
+        "categories": {
+          "nodes": [
+            {
+              "name": "2022 Elections"
+            }
+          ]
+        },
+        "featuredImage": {
+          "node": {
+            "link": "https://montanafreepress.org/2022/11/04/ronning-buchanan-try-to-unseat-rosendale-montanas-eastern-house-district/easternconference/"
+          }
+        },
+        "author": {
+          "node": {
+            "name": "Brad Tyer"
+          }
+        },
+        "excerpt": "<p>Rep. Matt Rosendale’s record has fueled a slate of challengers in the race for Montana’s newly created eastern U.S. House district who say voters want an alternative to the incumbent’s partisan obstinance. Will they?</p>\n<div class=\"sharedaddy sd-sharing-enabled\"><div class=\"robots-nocontent sd-block sd-social sd-social-icon sd-sharing\"><div class=\"sd-content\"><ul><li class=\"share-twitter\"><a rel=\"nofollow noopener noreferrer\" data-shared=\"sharing-twitter-104061\" class=\"share-twitter sd-button share-icon no-text\" href=\"https://montanafreepress.org/2022/11/04/ronning-buchanan-try-to-unseat-rosendale-montanas-eastern-house-district/?share=twitter\" target=\"_blank\" title=\"Click to share on Twitter\" ><span></span><span class=\"sharing-screen-reader-text\">Click to share on Twitter (Opens in new window)</span></a></li><li class=\"share-facebook\"><a rel=\"nofollow noopener noreferrer\" data-shared=\"sharing-facebook-104061\" class=\"share-facebook sd-button share-icon no-text\" href=\"https://montanafreepress.org/2022/11/04/ronning-buchanan-try-to-unseat-rosendale-montanas-eastern-house-district/?share=facebook\" target=\"_blank\" title=\"Click to share on Facebook\" ><span></span><span class=\"sharing-screen-reader-text\">Click to share on Facebook (Opens in new window)</span></a></li><li class=\"share-email\"><a rel=\"nofollow noopener noreferrer\" data-shared=\"\" class=\"share-email sd-button share-icon no-text\" href=\"mailto:?subject=%5BShared%20Post%5D%20Rosendale%20fights%20Biden.%20Ronning%20and%20Buchanan%20take%20the%20fight%20to%20him.&body=https%3A%2F%2Fmontanafreepress.org%2F2022%2F11%2F04%2Fronning-buchanan-try-to-unseat-rosendale-montanas-eastern-house-district%2F&share=email\" target=\"_blank\" title=\"Click to email a link to a friend\" data-email-share-error-title=\"Do you have email set up?\" data-email-share-error-text=\"If you&#039;re having problems sharing via email, you might not have email set up for your browser. You may need to create a new email yourself.\" data-email-share-nonce=\"a729133ae0\" data-email-share-track-url=\"https://montanafreepress.org/2022/11/04/ronning-buchanan-try-to-unseat-rosendale-montanas-eastern-house-district/?share=email\"><span></span><span class=\"sharing-screen-reader-text\">Click to email a link to a friend (Opens in new window)</span></a></li><li class=\"share-end\"></li></ul></div></div></div>"
+      },
+      {
+        "title": "TK Story 5",
+        "date": "2022-10-26T16:26:59",
+        "link": "https://montanafreepress.org/2022/10/26/zinke-tranel-lamb-race-for-montanas-western-us-house-seat/",
+        "status": "publish",
+        "tags": {
+          "nodes": [
+            {
+              "name": "John Lamb"
+            },
+            {
+              "name": "Monica Tranel"
+            },
+            {
+              "name": "Ryan Zinke"
+            },
+            {
+              "name": "tracker 2022 campaign"
+            }
+          ]
+        },
+        "categories": {
+          "nodes": [
+            {
+              "name": "2022 Elections"
+            }
+          ]
+        },
+        "featuredImage": {
+          "node": {
+            "link": "https://montanafreepress.org/screen-shot-2022-10-25-at-3-44-31-pm/"
+          }
+        },
+        "author": {
+          "node": {
+            "name": "Arren Kimbel-Sannit"
+          }
+        },
+        "excerpt": "<p>Ryan Zinke and Monica Tranel are the two main contenders for Montana’s new western U.S. House district. The presence of Libertarian John Lamb and Zinke’s long, variable record in government could make things complicated. </p>\n<div class=\"sharedaddy sd-sharing-enabled\"><div class=\"robots-nocontent sd-block sd-social sd-social-icon sd-sharing\"><div class=\"sd-content\"><ul><li class=\"share-twitter\"><a rel=\"nofollow noopener noreferrer\" data-shared=\"sharing-twitter-103747\" class=\"share-twitter sd-button share-icon no-text\" href=\"https://montanafreepress.org/2022/10/26/zinke-tranel-lamb-race-for-montanas-western-us-house-seat/?share=twitter\" target=\"_blank\" title=\"Click to share on Twitter\" ><span></span><span class=\"sharing-screen-reader-text\">Click to share on Twitter (Opens in new window)</span></a></li><li class=\"share-facebook\"><a rel=\"nofollow noopener noreferrer\" data-shared=\"sharing-facebook-103747\" class=\"share-facebook sd-button share-icon no-text\" href=\"https://montanafreepress.org/2022/10/26/zinke-tranel-lamb-race-for-montanas-western-us-house-seat/?share=facebook\" target=\"_blank\" title=\"Click to share on Facebook\" ><span></span><span class=\"sharing-screen-reader-text\">Click to share on Facebook (Opens in new window)</span></a></li><li class=\"share-email\"><a rel=\"nofollow noopener noreferrer\" data-shared=\"\" class=\"share-email sd-button share-icon no-text\" href=\"mailto:?subject=%5BShared%20Post%5D%20The%20Zinke%2C%20Tranel%20%28and%20Lamb%29%20show&body=https%3A%2F%2Fmontanafreepress.org%2F2022%2F10%2F26%2Fzinke-tranel-lamb-race-for-montanas-western-us-house-seat%2F&share=email\" target=\"_blank\" title=\"Click to email a link to a friend\" data-email-share-error-title=\"Do you have email set up?\" data-email-share-error-text=\"If you&#039;re having problems sharing via email, you might not have email set up for your browser. You may need to create a new email yourself.\" data-email-share-nonce=\"0af0572cf8\" data-email-share-track-url=\"https://montanafreepress.org/2022/10/26/zinke-tranel-lamb-race-for-montanas-western-us-house-seat/?share=email\"><span></span><span class=\"sharing-screen-reader-text\">Click to email a link to a friend (Opens in new window)</span></a></li><li class=\"share-end\"></li></ul></div></div></div>"
       }
     ]
   },
@@ -224,6 +959,12 @@
         "party": "L"
       },
       {
+        "slug": "michael-hummert",
+        "displayName": "Michael Hummert",
+        "summaryLine": "U.S. Navy Veteran",
+        "party": "D"
+      },
+      {
         "slug": "charles-walkingchild",
         "displayName": "Charles Walkingchild",
         "summaryLine": "Helena environmental contractor",
@@ -240,6 +981,245 @@
         "displayName": "Robert Barb",
         "summaryLine": "Billings resident",
         "party": "G"
+      }
+    ],
+    "coverage": [
+      {
+        "title": "TK story 1",
+        "date": "2022-11-15T13:15:16",
+        "link": "https://montanafreepress.org/2022/11/15/how-montanas-lr-131-born-alive-referendum-failed/",
+        "status": "publish",
+        "tags": {
+          "nodes": [
+            {
+              "name": "2022 elections"
+            },
+            {
+              "name": "Born-Alive Infant Protection Act"
+            },
+            {
+              "name": "LR-131"
+            },
+            {
+              "name": "Matt Regier"
+            },
+            {
+              "name": "Planned Parenthood of Montana"
+            },
+            {
+              "name": "tracker 2022 campaign"
+            }
+          ]
+        },
+        "categories": {
+          "nodes": [
+            {
+              "name": "2022 Elections"
+            }
+          ]
+        },
+        "featuredImage": {
+          "node": {
+            "link": "https://montanafreepress.org/untitled-design-6-3/"
+          }
+        },
+        "author": {
+          "node": {
+            "name": "Mara Silvers"
+          }
+        },
+        "excerpt": "<p>Organized opposition to the initiative spent hundreds of thousands of dollars and countless volunteer hours trying to get its message to as many Montana voters as possible. As the dust settled on last week’s election, the campaign’s defeat of LR-131 became one of a handful of nationwide wins for the reproductive rights movement, and a possible signal of caution for Republican lawmakers hoping to put similar bills before voters in upcoming election cycles.</p>\n<div class=\"sharedaddy sd-sharing-enabled\"><div class=\"robots-nocontent sd-block sd-social sd-social-icon sd-sharing\"><div class=\"sd-content\"><ul><li class=\"share-twitter\"><a rel=\"nofollow noopener noreferrer\" data-shared=\"sharing-twitter-104823\" class=\"share-twitter sd-button share-icon no-text\" href=\"https://montanafreepress.org/2022/11/15/how-montanas-lr-131-born-alive-referendum-failed/?share=twitter\" target=\"_blank\" title=\"Click to share on Twitter\" ><span></span><span class=\"sharing-screen-reader-text\">Click to share on Twitter (Opens in new window)</span></a></li><li class=\"share-facebook\"><a rel=\"nofollow noopener noreferrer\" data-shared=\"sharing-facebook-104823\" class=\"share-facebook sd-button share-icon no-text\" href=\"https://montanafreepress.org/2022/11/15/how-montanas-lr-131-born-alive-referendum-failed/?share=facebook\" target=\"_blank\" title=\"Click to share on Facebook\" ><span></span><span class=\"sharing-screen-reader-text\">Click to share on Facebook (Opens in new window)</span></a></li><li class=\"share-email\"><a rel=\"nofollow noopener noreferrer\" data-shared=\"\" class=\"share-email sd-button share-icon no-text\" href=\"mailto:?subject=%5BShared%20Post%5D%20How%20Montana%E2%80%99s%20LR-131%20%E2%80%98Born-Alive%E2%80%99%20referendum%20failed&body=https%3A%2F%2Fmontanafreepress.org%2F2022%2F11%2F15%2Fhow-montanas-lr-131-born-alive-referendum-failed%2F&share=email\" target=\"_blank\" title=\"Click to email a link to a friend\" data-email-share-error-title=\"Do you have email set up?\" data-email-share-error-text=\"If you&#039;re having problems sharing via email, you might not have email set up for your browser. You may need to create a new email yourself.\" data-email-share-nonce=\"71c1e7d30f\" data-email-share-track-url=\"https://montanafreepress.org/2022/11/15/how-montanas-lr-131-born-alive-referendum-failed/?share=email\"><span></span><span class=\"sharing-screen-reader-text\">Click to email a link to a friend (Opens in new window)</span></a></li><li class=\"share-end\"></li></ul></div></div></div>"
+      },
+      {
+        "title": "TK story 2",
+        "date": "2022-11-09T09:43:14",
+        "link": "https://montanafreepress.org/2022/11/09/incumbent-ingrid-gustafson-retains-montana-supreme-court-seat/",
+        "status": "publish",
+        "tags": {
+          "nodes": [
+            {
+              "name": "Ingrid Gustafson"
+            },
+            {
+              "name": "James Brown"
+            },
+            {
+              "name": "Montana Supreme Court"
+            },
+            {
+              "name": "tracker 2022 campaign"
+            }
+          ]
+        },
+        "categories": {
+          "nodes": [
+            {
+              "name": "2022 Elections"
+            }
+          ]
+        },
+        "featuredImage": {
+          "node": {
+            "link": "https://montanafreepress.org/2022/11/09/incumbent-ingrid-gustafson-retains-montana-supreme-court-seat/untitled-design-2-7/"
+          }
+        },
+        "author": {
+          "node": {
+            "name": "Mara Silvers"
+          }
+        },
+        "excerpt": "<p>Incumbent Supreme Court Justice Ingrid Gustafson will serve a second term on Montana’s high court after winning her race for re-election against attorney and Republican Public Service Commission President James Brown, who conceded the race Wednesday morning. </p>\n<div class=\"sharedaddy sd-sharing-enabled\"><div class=\"robots-nocontent sd-block sd-social sd-social-icon sd-sharing\"><div class=\"sd-content\"><ul><li class=\"share-twitter\"><a rel=\"nofollow noopener noreferrer\" data-shared=\"sharing-twitter-104445\" class=\"share-twitter sd-button share-icon no-text\" href=\"https://montanafreepress.org/2022/11/09/incumbent-ingrid-gustafson-retains-montana-supreme-court-seat/?share=twitter\" target=\"_blank\" title=\"Click to share on Twitter\" ><span></span><span class=\"sharing-screen-reader-text\">Click to share on Twitter (Opens in new window)</span></a></li><li class=\"share-facebook\"><a rel=\"nofollow noopener noreferrer\" data-shared=\"sharing-facebook-104445\" class=\"share-facebook sd-button share-icon no-text\" href=\"https://montanafreepress.org/2022/11/09/incumbent-ingrid-gustafson-retains-montana-supreme-court-seat/?share=facebook\" target=\"_blank\" title=\"Click to share on Facebook\" ><span></span><span class=\"sharing-screen-reader-text\">Click to share on Facebook (Opens in new window)</span></a></li><li class=\"share-email\"><a rel=\"nofollow noopener noreferrer\" data-shared=\"\" class=\"share-email sd-button share-icon no-text\" href=\"mailto:?subject=%5BShared%20Post%5D%20Gustafson%20retains%20state%20Supreme%20Court%20seat%20over%20challenger%20Brown&body=https%3A%2F%2Fmontanafreepress.org%2F2022%2F11%2F09%2Fincumbent-ingrid-gustafson-retains-montana-supreme-court-seat%2F&share=email\" target=\"_blank\" title=\"Click to email a link to a friend\" data-email-share-error-title=\"Do you have email set up?\" data-email-share-error-text=\"If you&#039;re having problems sharing via email, you might not have email set up for your browser. You may need to create a new email yourself.\" data-email-share-nonce=\"b4d56519e6\" data-email-share-track-url=\"https://montanafreepress.org/2022/11/09/incumbent-ingrid-gustafson-retains-montana-supreme-court-seat/?share=email\"><span></span><span class=\"sharing-screen-reader-text\">Click to email a link to a friend (Opens in new window)</span></a></li><li class=\"share-end\"></li></ul></div></div></div>"
+      },
+      {
+        "title": "TK story 3",
+        "date": "2022-11-08T23:32:23",
+        "link": "https://montanafreepress.org/2022/11/08/montana-2022-election-results-so-far/",
+        "status": "publish",
+        "tags": {
+          "nodes": [
+            {
+              "name": "2022 elections"
+            },
+            {
+              "name": "tracker 2022 campaign"
+            }
+          ]
+        },
+        "categories": {
+          "nodes": [
+            {
+              "name": "2022 Elections"
+            }
+          ]
+        },
+        "featuredImage": {
+          "node": {
+            "link": "https://montanafreepress.org/untitled-design-1-5/"
+          }
+        },
+        "author": {
+          "node": {
+            "name": "MTFP Staff"
+          }
+        },
+        "excerpt": "<p>U.S HOUSE MT-01 Republican Ryan Zinke on Wednesday night declared victory in the race for Montana’s newly created western U.S. House district following a call by election tracker Decision Desk HQ.&nbsp; With all precincts fully reported, Zinke, who formerly represented Montana’s at-large House district and served as U.S. Secretary of the Interior under President Donald [&hellip;]</p>\n<div class=\"sharedaddy sd-sharing-enabled\"><div class=\"robots-nocontent sd-block sd-social sd-social-icon sd-sharing\"><div class=\"sd-content\"><ul><li class=\"share-twitter\"><a rel=\"nofollow noopener noreferrer\" data-shared=\"sharing-twitter-104382\" class=\"share-twitter sd-button share-icon no-text\" href=\"https://montanafreepress.org/2022/11/08/montana-2022-election-results-so-far/?share=twitter\" target=\"_blank\" title=\"Click to share on Twitter\" ><span></span><span class=\"sharing-screen-reader-text\">Click to share on Twitter (Opens in new window)</span></a></li><li class=\"share-facebook\"><a rel=\"nofollow noopener noreferrer\" data-shared=\"sharing-facebook-104382\" class=\"share-facebook sd-button share-icon no-text\" href=\"https://montanafreepress.org/2022/11/08/montana-2022-election-results-so-far/?share=facebook\" target=\"_blank\" title=\"Click to share on Facebook\" ><span></span><span class=\"sharing-screen-reader-text\">Click to share on Facebook (Opens in new window)</span></a></li><li class=\"share-email\"><a rel=\"nofollow noopener noreferrer\" data-shared=\"\" class=\"share-email sd-button share-icon no-text\" href=\"mailto:?subject=%5BShared%20Post%5D%20Montana%27s%202022%20election%20results&body=https%3A%2F%2Fmontanafreepress.org%2F2022%2F11%2F08%2Fmontana-2022-election-results-so-far%2F&share=email\" target=\"_blank\" title=\"Click to email a link to a friend\" data-email-share-error-title=\"Do you have email set up?\" data-email-share-error-text=\"If you&#039;re having problems sharing via email, you might not have email set up for your browser. You may need to create a new email yourself.\" data-email-share-nonce=\"07b6ccc1cd\" data-email-share-track-url=\"https://montanafreepress.org/2022/11/08/montana-2022-election-results-so-far/?share=email\"><span></span><span class=\"sharing-screen-reader-text\">Click to email a link to a friend (Opens in new window)</span></a></li><li class=\"share-end\"></li></ul></div></div></div>"
+      },
+      {
+        "title": "TK Story 3.5",
+        "date": "2022-11-04T11:56:42",
+        "link": "https://montanafreepress.org/2022/11/04/montana-supreme-court-race-2-9-million-third-party-spending-last-month-of-campaign/",
+        "status": "publish",
+        "tags": {
+          "nodes": [
+            {
+              "name": "Ingrid Gustafson"
+            },
+            {
+              "name": "James Brown"
+            },
+            {
+              "name": "tracker 2022 campaign"
+            }
+          ]
+        },
+        "categories": {
+          "nodes": [
+            {
+              "name": "2022 Elections"
+            }
+          ]
+        },
+        "featuredImage": {
+          "node": {
+            "link": "https://montanafreepress.org/montana-supreme-court-entrance_1200x675-copy/"
+          }
+        },
+        "author": {
+          "node": {
+            "name": "Mara Silvers"
+          }
+        },
+        "excerpt": "<p>With the Nov. 8 election less than a week away, Montana’s most expensive Supreme Court race in history, between incumbent Justice Ingrid Gustafson and attorney James Brown, continues to draw donations and release a firehose of last-minute spending in an effort to sway voters.</p>\n<div class=\"sharedaddy sd-sharing-enabled\"><div class=\"robots-nocontent sd-block sd-social sd-social-icon sd-sharing\"><div class=\"sd-content\"><ul><li class=\"share-twitter\"><a rel=\"nofollow noopener noreferrer\" data-shared=\"sharing-twitter-104104\" class=\"share-twitter sd-button share-icon no-text\" href=\"https://montanafreepress.org/2022/11/04/montana-supreme-court-race-2-9-million-third-party-spending-last-month-of-campaign/?share=twitter\" target=\"_blank\" title=\"Click to share on Twitter\" ><span></span><span class=\"sharing-screen-reader-text\">Click to share on Twitter (Opens in new window)</span></a></li><li class=\"share-facebook\"><a rel=\"nofollow noopener noreferrer\" data-shared=\"sharing-facebook-104104\" class=\"share-facebook sd-button share-icon no-text\" href=\"https://montanafreepress.org/2022/11/04/montana-supreme-court-race-2-9-million-third-party-spending-last-month-of-campaign/?share=facebook\" target=\"_blank\" title=\"Click to share on Facebook\" ><span></span><span class=\"sharing-screen-reader-text\">Click to share on Facebook (Opens in new window)</span></a></li><li class=\"share-email\"><a rel=\"nofollow noopener noreferrer\" data-shared=\"\" class=\"share-email sd-button share-icon no-text\" href=\"mailto:?subject=%5BShared%20Post%5D%20State%20Supreme%20Court%20race%20draws%20%242.9%20million%20in%20outside%20spending%20in%20last%20month%20of%20campaign&body=https%3A%2F%2Fmontanafreepress.org%2F2022%2F11%2F04%2Fmontana-supreme-court-race-2-9-million-third-party-spending-last-month-of-campaign%2F&share=email\" target=\"_blank\" title=\"Click to email a link to a friend\" data-email-share-error-title=\"Do you have email set up?\" data-email-share-error-text=\"If you&#039;re having problems sharing via email, you might not have email set up for your browser. You may need to create a new email yourself.\" data-email-share-nonce=\"fd0faf786d\" data-email-share-track-url=\"https://montanafreepress.org/2022/11/04/montana-supreme-court-race-2-9-million-third-party-spending-last-month-of-campaign/?share=email\"><span></span><span class=\"sharing-screen-reader-text\">Click to email a link to a friend (Opens in new window)</span></a></li><li class=\"share-end\"></li></ul></div></div></div>"
+      },
+      {
+        "title": "TK Story 4",
+        "date": "2022-11-04T10:45:54",
+        "link": "https://montanafreepress.org/2022/11/04/ronning-buchanan-try-to-unseat-rosendale-montanas-eastern-house-district/",
+        "status": "publish",
+        "tags": {
+          "nodes": [
+            {
+              "name": "gary buchanan"
+            },
+            {
+              "name": "Matt Rosendale"
+            },
+            {
+              "name": "Penny Ronning"
+            },
+            {
+              "name": "tracker 2022 campaign"
+            }
+          ]
+        },
+        "categories": {
+          "nodes": [
+            {
+              "name": "2022 Elections"
+            }
+          ]
+        },
+        "featuredImage": {
+          "node": {
+            "link": "https://montanafreepress.org/2022/11/04/ronning-buchanan-try-to-unseat-rosendale-montanas-eastern-house-district/easternconference/"
+          }
+        },
+        "author": {
+          "node": {
+            "name": "Brad Tyer"
+          }
+        },
+        "excerpt": "<p>Rep. Matt Rosendale’s record has fueled a slate of challengers in the race for Montana’s newly created eastern U.S. House district who say voters want an alternative to the incumbent’s partisan obstinance. Will they?</p>\n<div class=\"sharedaddy sd-sharing-enabled\"><div class=\"robots-nocontent sd-block sd-social sd-social-icon sd-sharing\"><div class=\"sd-content\"><ul><li class=\"share-twitter\"><a rel=\"nofollow noopener noreferrer\" data-shared=\"sharing-twitter-104061\" class=\"share-twitter sd-button share-icon no-text\" href=\"https://montanafreepress.org/2022/11/04/ronning-buchanan-try-to-unseat-rosendale-montanas-eastern-house-district/?share=twitter\" target=\"_blank\" title=\"Click to share on Twitter\" ><span></span><span class=\"sharing-screen-reader-text\">Click to share on Twitter (Opens in new window)</span></a></li><li class=\"share-facebook\"><a rel=\"nofollow noopener noreferrer\" data-shared=\"sharing-facebook-104061\" class=\"share-facebook sd-button share-icon no-text\" href=\"https://montanafreepress.org/2022/11/04/ronning-buchanan-try-to-unseat-rosendale-montanas-eastern-house-district/?share=facebook\" target=\"_blank\" title=\"Click to share on Facebook\" ><span></span><span class=\"sharing-screen-reader-text\">Click to share on Facebook (Opens in new window)</span></a></li><li class=\"share-email\"><a rel=\"nofollow noopener noreferrer\" data-shared=\"\" class=\"share-email sd-button share-icon no-text\" href=\"mailto:?subject=%5BShared%20Post%5D%20Rosendale%20fights%20Biden.%20Ronning%20and%20Buchanan%20take%20the%20fight%20to%20him.&body=https%3A%2F%2Fmontanafreepress.org%2F2022%2F11%2F04%2Fronning-buchanan-try-to-unseat-rosendale-montanas-eastern-house-district%2F&share=email\" target=\"_blank\" title=\"Click to email a link to a friend\" data-email-share-error-title=\"Do you have email set up?\" data-email-share-error-text=\"If you&#039;re having problems sharing via email, you might not have email set up for your browser. You may need to create a new email yourself.\" data-email-share-nonce=\"a729133ae0\" data-email-share-track-url=\"https://montanafreepress.org/2022/11/04/ronning-buchanan-try-to-unseat-rosendale-montanas-eastern-house-district/?share=email\"><span></span><span class=\"sharing-screen-reader-text\">Click to email a link to a friend (Opens in new window)</span></a></li><li class=\"share-end\"></li></ul></div></div></div>"
+      },
+      {
+        "title": "TK Story 5",
+        "date": "2022-10-26T16:26:59",
+        "link": "https://montanafreepress.org/2022/10/26/zinke-tranel-lamb-race-for-montanas-western-us-house-seat/",
+        "status": "publish",
+        "tags": {
+          "nodes": [
+            {
+              "name": "John Lamb"
+            },
+            {
+              "name": "Monica Tranel"
+            },
+            {
+              "name": "Ryan Zinke"
+            },
+            {
+              "name": "tracker 2022 campaign"
+            }
+          ]
+        },
+        "categories": {
+          "nodes": [
+            {
+              "name": "2022 Elections"
+            }
+          ]
+        },
+        "featuredImage": {
+          "node": {
+            "link": "https://montanafreepress.org/screen-shot-2022-10-25-at-3-44-31-pm/"
+          }
+        },
+        "author": {
+          "node": {
+            "name": "Arren Kimbel-Sannit"
+          }
+        },
+        "excerpt": "<p>Ryan Zinke and Monica Tranel are the two main contenders for Montana’s new western U.S. House district. The presence of Libertarian John Lamb and Zinke’s long, variable record in government could make things complicated. </p>\n<div class=\"sharedaddy sd-sharing-enabled\"><div class=\"robots-nocontent sd-block sd-social sd-social-icon sd-sharing\"><div class=\"sd-content\"><ul><li class=\"share-twitter\"><a rel=\"nofollow noopener noreferrer\" data-shared=\"sharing-twitter-103747\" class=\"share-twitter sd-button share-icon no-text\" href=\"https://montanafreepress.org/2022/10/26/zinke-tranel-lamb-race-for-montanas-western-us-house-seat/?share=twitter\" target=\"_blank\" title=\"Click to share on Twitter\" ><span></span><span class=\"sharing-screen-reader-text\">Click to share on Twitter (Opens in new window)</span></a></li><li class=\"share-facebook\"><a rel=\"nofollow noopener noreferrer\" data-shared=\"sharing-facebook-103747\" class=\"share-facebook sd-button share-icon no-text\" href=\"https://montanafreepress.org/2022/10/26/zinke-tranel-lamb-race-for-montanas-western-us-house-seat/?share=facebook\" target=\"_blank\" title=\"Click to share on Facebook\" ><span></span><span class=\"sharing-screen-reader-text\">Click to share on Facebook (Opens in new window)</span></a></li><li class=\"share-email\"><a rel=\"nofollow noopener noreferrer\" data-shared=\"\" class=\"share-email sd-button share-icon no-text\" href=\"mailto:?subject=%5BShared%20Post%5D%20The%20Zinke%2C%20Tranel%20%28and%20Lamb%29%20show&body=https%3A%2F%2Fmontanafreepress.org%2F2022%2F10%2F26%2Fzinke-tranel-lamb-race-for-montanas-western-us-house-seat%2F&share=email\" target=\"_blank\" title=\"Click to email a link to a friend\" data-email-share-error-title=\"Do you have email set up?\" data-email-share-error-text=\"If you&#039;re having problems sharing via email, you might not have email set up for your browser. You may need to create a new email yourself.\" data-email-share-nonce=\"0af0572cf8\" data-email-share-track-url=\"https://montanafreepress.org/2022/10/26/zinke-tranel-lamb-race-for-montanas-western-us-house-seat/?share=email\"><span></span><span class=\"sharing-screen-reader-text\">Click to email a link to a friend (Opens in new window)</span></a></li><li class=\"share-end\"></li></ul></div></div></div>"
       }
     ]
   },
@@ -297,10 +1277,255 @@
         "party": "R"
       },
       {
+        "slug": "michael-downey",
+        "displayName": "Michael Downey",
+        "summaryLine": "Helena resident",
+        "party": "G"
+      },
+      {
         "slug": "robert-barb",
         "displayName": "Robert Barb",
         "summaryLine": "Billings resident",
         "party": "G"
+      }
+    ],
+    "coverage": [
+      {
+        "title": "TK story 1",
+        "date": "2022-11-15T13:15:16",
+        "link": "https://montanafreepress.org/2022/11/15/how-montanas-lr-131-born-alive-referendum-failed/",
+        "status": "publish",
+        "tags": {
+          "nodes": [
+            {
+              "name": "2022 elections"
+            },
+            {
+              "name": "Born-Alive Infant Protection Act"
+            },
+            {
+              "name": "LR-131"
+            },
+            {
+              "name": "Matt Regier"
+            },
+            {
+              "name": "Planned Parenthood of Montana"
+            },
+            {
+              "name": "tracker 2022 campaign"
+            }
+          ]
+        },
+        "categories": {
+          "nodes": [
+            {
+              "name": "2022 Elections"
+            }
+          ]
+        },
+        "featuredImage": {
+          "node": {
+            "link": "https://montanafreepress.org/untitled-design-6-3/"
+          }
+        },
+        "author": {
+          "node": {
+            "name": "Mara Silvers"
+          }
+        },
+        "excerpt": "<p>Organized opposition to the initiative spent hundreds of thousands of dollars and countless volunteer hours trying to get its message to as many Montana voters as possible. As the dust settled on last week’s election, the campaign’s defeat of LR-131 became one of a handful of nationwide wins for the reproductive rights movement, and a possible signal of caution for Republican lawmakers hoping to put similar bills before voters in upcoming election cycles.</p>\n<div class=\"sharedaddy sd-sharing-enabled\"><div class=\"robots-nocontent sd-block sd-social sd-social-icon sd-sharing\"><div class=\"sd-content\"><ul><li class=\"share-twitter\"><a rel=\"nofollow noopener noreferrer\" data-shared=\"sharing-twitter-104823\" class=\"share-twitter sd-button share-icon no-text\" href=\"https://montanafreepress.org/2022/11/15/how-montanas-lr-131-born-alive-referendum-failed/?share=twitter\" target=\"_blank\" title=\"Click to share on Twitter\" ><span></span><span class=\"sharing-screen-reader-text\">Click to share on Twitter (Opens in new window)</span></a></li><li class=\"share-facebook\"><a rel=\"nofollow noopener noreferrer\" data-shared=\"sharing-facebook-104823\" class=\"share-facebook sd-button share-icon no-text\" href=\"https://montanafreepress.org/2022/11/15/how-montanas-lr-131-born-alive-referendum-failed/?share=facebook\" target=\"_blank\" title=\"Click to share on Facebook\" ><span></span><span class=\"sharing-screen-reader-text\">Click to share on Facebook (Opens in new window)</span></a></li><li class=\"share-email\"><a rel=\"nofollow noopener noreferrer\" data-shared=\"\" class=\"share-email sd-button share-icon no-text\" href=\"mailto:?subject=%5BShared%20Post%5D%20How%20Montana%E2%80%99s%20LR-131%20%E2%80%98Born-Alive%E2%80%99%20referendum%20failed&body=https%3A%2F%2Fmontanafreepress.org%2F2022%2F11%2F15%2Fhow-montanas-lr-131-born-alive-referendum-failed%2F&share=email\" target=\"_blank\" title=\"Click to email a link to a friend\" data-email-share-error-title=\"Do you have email set up?\" data-email-share-error-text=\"If you&#039;re having problems sharing via email, you might not have email set up for your browser. You may need to create a new email yourself.\" data-email-share-nonce=\"71c1e7d30f\" data-email-share-track-url=\"https://montanafreepress.org/2022/11/15/how-montanas-lr-131-born-alive-referendum-failed/?share=email\"><span></span><span class=\"sharing-screen-reader-text\">Click to email a link to a friend (Opens in new window)</span></a></li><li class=\"share-end\"></li></ul></div></div></div>"
+      },
+      {
+        "title": "TK story 2",
+        "date": "2022-11-09T09:43:14",
+        "link": "https://montanafreepress.org/2022/11/09/incumbent-ingrid-gustafson-retains-montana-supreme-court-seat/",
+        "status": "publish",
+        "tags": {
+          "nodes": [
+            {
+              "name": "Ingrid Gustafson"
+            },
+            {
+              "name": "James Brown"
+            },
+            {
+              "name": "Montana Supreme Court"
+            },
+            {
+              "name": "tracker 2022 campaign"
+            }
+          ]
+        },
+        "categories": {
+          "nodes": [
+            {
+              "name": "2022 Elections"
+            }
+          ]
+        },
+        "featuredImage": {
+          "node": {
+            "link": "https://montanafreepress.org/2022/11/09/incumbent-ingrid-gustafson-retains-montana-supreme-court-seat/untitled-design-2-7/"
+          }
+        },
+        "author": {
+          "node": {
+            "name": "Mara Silvers"
+          }
+        },
+        "excerpt": "<p>Incumbent Supreme Court Justice Ingrid Gustafson will serve a second term on Montana’s high court after winning her race for re-election against attorney and Republican Public Service Commission President James Brown, who conceded the race Wednesday morning. </p>\n<div class=\"sharedaddy sd-sharing-enabled\"><div class=\"robots-nocontent sd-block sd-social sd-social-icon sd-sharing\"><div class=\"sd-content\"><ul><li class=\"share-twitter\"><a rel=\"nofollow noopener noreferrer\" data-shared=\"sharing-twitter-104445\" class=\"share-twitter sd-button share-icon no-text\" href=\"https://montanafreepress.org/2022/11/09/incumbent-ingrid-gustafson-retains-montana-supreme-court-seat/?share=twitter\" target=\"_blank\" title=\"Click to share on Twitter\" ><span></span><span class=\"sharing-screen-reader-text\">Click to share on Twitter (Opens in new window)</span></a></li><li class=\"share-facebook\"><a rel=\"nofollow noopener noreferrer\" data-shared=\"sharing-facebook-104445\" class=\"share-facebook sd-button share-icon no-text\" href=\"https://montanafreepress.org/2022/11/09/incumbent-ingrid-gustafson-retains-montana-supreme-court-seat/?share=facebook\" target=\"_blank\" title=\"Click to share on Facebook\" ><span></span><span class=\"sharing-screen-reader-text\">Click to share on Facebook (Opens in new window)</span></a></li><li class=\"share-email\"><a rel=\"nofollow noopener noreferrer\" data-shared=\"\" class=\"share-email sd-button share-icon no-text\" href=\"mailto:?subject=%5BShared%20Post%5D%20Gustafson%20retains%20state%20Supreme%20Court%20seat%20over%20challenger%20Brown&body=https%3A%2F%2Fmontanafreepress.org%2F2022%2F11%2F09%2Fincumbent-ingrid-gustafson-retains-montana-supreme-court-seat%2F&share=email\" target=\"_blank\" title=\"Click to email a link to a friend\" data-email-share-error-title=\"Do you have email set up?\" data-email-share-error-text=\"If you&#039;re having problems sharing via email, you might not have email set up for your browser. You may need to create a new email yourself.\" data-email-share-nonce=\"b4d56519e6\" data-email-share-track-url=\"https://montanafreepress.org/2022/11/09/incumbent-ingrid-gustafson-retains-montana-supreme-court-seat/?share=email\"><span></span><span class=\"sharing-screen-reader-text\">Click to email a link to a friend (Opens in new window)</span></a></li><li class=\"share-end\"></li></ul></div></div></div>"
+      },
+      {
+        "title": "TK story 3",
+        "date": "2022-11-08T23:32:23",
+        "link": "https://montanafreepress.org/2022/11/08/montana-2022-election-results-so-far/",
+        "status": "publish",
+        "tags": {
+          "nodes": [
+            {
+              "name": "2022 elections"
+            },
+            {
+              "name": "tracker 2022 campaign"
+            }
+          ]
+        },
+        "categories": {
+          "nodes": [
+            {
+              "name": "2022 Elections"
+            }
+          ]
+        },
+        "featuredImage": {
+          "node": {
+            "link": "https://montanafreepress.org/untitled-design-1-5/"
+          }
+        },
+        "author": {
+          "node": {
+            "name": "MTFP Staff"
+          }
+        },
+        "excerpt": "<p>U.S HOUSE MT-01 Republican Ryan Zinke on Wednesday night declared victory in the race for Montana’s newly created western U.S. House district following a call by election tracker Decision Desk HQ.&nbsp; With all precincts fully reported, Zinke, who formerly represented Montana’s at-large House district and served as U.S. Secretary of the Interior under President Donald [&hellip;]</p>\n<div class=\"sharedaddy sd-sharing-enabled\"><div class=\"robots-nocontent sd-block sd-social sd-social-icon sd-sharing\"><div class=\"sd-content\"><ul><li class=\"share-twitter\"><a rel=\"nofollow noopener noreferrer\" data-shared=\"sharing-twitter-104382\" class=\"share-twitter sd-button share-icon no-text\" href=\"https://montanafreepress.org/2022/11/08/montana-2022-election-results-so-far/?share=twitter\" target=\"_blank\" title=\"Click to share on Twitter\" ><span></span><span class=\"sharing-screen-reader-text\">Click to share on Twitter (Opens in new window)</span></a></li><li class=\"share-facebook\"><a rel=\"nofollow noopener noreferrer\" data-shared=\"sharing-facebook-104382\" class=\"share-facebook sd-button share-icon no-text\" href=\"https://montanafreepress.org/2022/11/08/montana-2022-election-results-so-far/?share=facebook\" target=\"_blank\" title=\"Click to share on Facebook\" ><span></span><span class=\"sharing-screen-reader-text\">Click to share on Facebook (Opens in new window)</span></a></li><li class=\"share-email\"><a rel=\"nofollow noopener noreferrer\" data-shared=\"\" class=\"share-email sd-button share-icon no-text\" href=\"mailto:?subject=%5BShared%20Post%5D%20Montana%27s%202022%20election%20results&body=https%3A%2F%2Fmontanafreepress.org%2F2022%2F11%2F08%2Fmontana-2022-election-results-so-far%2F&share=email\" target=\"_blank\" title=\"Click to email a link to a friend\" data-email-share-error-title=\"Do you have email set up?\" data-email-share-error-text=\"If you&#039;re having problems sharing via email, you might not have email set up for your browser. You may need to create a new email yourself.\" data-email-share-nonce=\"07b6ccc1cd\" data-email-share-track-url=\"https://montanafreepress.org/2022/11/08/montana-2022-election-results-so-far/?share=email\"><span></span><span class=\"sharing-screen-reader-text\">Click to email a link to a friend (Opens in new window)</span></a></li><li class=\"share-end\"></li></ul></div></div></div>"
+      },
+      {
+        "title": "TK Story 3.5",
+        "date": "2022-11-04T11:56:42",
+        "link": "https://montanafreepress.org/2022/11/04/montana-supreme-court-race-2-9-million-third-party-spending-last-month-of-campaign/",
+        "status": "publish",
+        "tags": {
+          "nodes": [
+            {
+              "name": "Ingrid Gustafson"
+            },
+            {
+              "name": "James Brown"
+            },
+            {
+              "name": "tracker 2022 campaign"
+            }
+          ]
+        },
+        "categories": {
+          "nodes": [
+            {
+              "name": "2022 Elections"
+            }
+          ]
+        },
+        "featuredImage": {
+          "node": {
+            "link": "https://montanafreepress.org/montana-supreme-court-entrance_1200x675-copy/"
+          }
+        },
+        "author": {
+          "node": {
+            "name": "Mara Silvers"
+          }
+        },
+        "excerpt": "<p>With the Nov. 8 election less than a week away, Montana’s most expensive Supreme Court race in history, between incumbent Justice Ingrid Gustafson and attorney James Brown, continues to draw donations and release a firehose of last-minute spending in an effort to sway voters.</p>\n<div class=\"sharedaddy sd-sharing-enabled\"><div class=\"robots-nocontent sd-block sd-social sd-social-icon sd-sharing\"><div class=\"sd-content\"><ul><li class=\"share-twitter\"><a rel=\"nofollow noopener noreferrer\" data-shared=\"sharing-twitter-104104\" class=\"share-twitter sd-button share-icon no-text\" href=\"https://montanafreepress.org/2022/11/04/montana-supreme-court-race-2-9-million-third-party-spending-last-month-of-campaign/?share=twitter\" target=\"_blank\" title=\"Click to share on Twitter\" ><span></span><span class=\"sharing-screen-reader-text\">Click to share on Twitter (Opens in new window)</span></a></li><li class=\"share-facebook\"><a rel=\"nofollow noopener noreferrer\" data-shared=\"sharing-facebook-104104\" class=\"share-facebook sd-button share-icon no-text\" href=\"https://montanafreepress.org/2022/11/04/montana-supreme-court-race-2-9-million-third-party-spending-last-month-of-campaign/?share=facebook\" target=\"_blank\" title=\"Click to share on Facebook\" ><span></span><span class=\"sharing-screen-reader-text\">Click to share on Facebook (Opens in new window)</span></a></li><li class=\"share-email\"><a rel=\"nofollow noopener noreferrer\" data-shared=\"\" class=\"share-email sd-button share-icon no-text\" href=\"mailto:?subject=%5BShared%20Post%5D%20State%20Supreme%20Court%20race%20draws%20%242.9%20million%20in%20outside%20spending%20in%20last%20month%20of%20campaign&body=https%3A%2F%2Fmontanafreepress.org%2F2022%2F11%2F04%2Fmontana-supreme-court-race-2-9-million-third-party-spending-last-month-of-campaign%2F&share=email\" target=\"_blank\" title=\"Click to email a link to a friend\" data-email-share-error-title=\"Do you have email set up?\" data-email-share-error-text=\"If you&#039;re having problems sharing via email, you might not have email set up for your browser. You may need to create a new email yourself.\" data-email-share-nonce=\"fd0faf786d\" data-email-share-track-url=\"https://montanafreepress.org/2022/11/04/montana-supreme-court-race-2-9-million-third-party-spending-last-month-of-campaign/?share=email\"><span></span><span class=\"sharing-screen-reader-text\">Click to email a link to a friend (Opens in new window)</span></a></li><li class=\"share-end\"></li></ul></div></div></div>"
+      },
+      {
+        "title": "TK Story 4",
+        "date": "2022-11-04T10:45:54",
+        "link": "https://montanafreepress.org/2022/11/04/ronning-buchanan-try-to-unseat-rosendale-montanas-eastern-house-district/",
+        "status": "publish",
+        "tags": {
+          "nodes": [
+            {
+              "name": "gary buchanan"
+            },
+            {
+              "name": "Matt Rosendale"
+            },
+            {
+              "name": "Penny Ronning"
+            },
+            {
+              "name": "tracker 2022 campaign"
+            }
+          ]
+        },
+        "categories": {
+          "nodes": [
+            {
+              "name": "2022 Elections"
+            }
+          ]
+        },
+        "featuredImage": {
+          "node": {
+            "link": "https://montanafreepress.org/2022/11/04/ronning-buchanan-try-to-unseat-rosendale-montanas-eastern-house-district/easternconference/"
+          }
+        },
+        "author": {
+          "node": {
+            "name": "Brad Tyer"
+          }
+        },
+        "excerpt": "<p>Rep. Matt Rosendale’s record has fueled a slate of challengers in the race for Montana’s newly created eastern U.S. House district who say voters want an alternative to the incumbent’s partisan obstinance. Will they?</p>\n<div class=\"sharedaddy sd-sharing-enabled\"><div class=\"robots-nocontent sd-block sd-social sd-social-icon sd-sharing\"><div class=\"sd-content\"><ul><li class=\"share-twitter\"><a rel=\"nofollow noopener noreferrer\" data-shared=\"sharing-twitter-104061\" class=\"share-twitter sd-button share-icon no-text\" href=\"https://montanafreepress.org/2022/11/04/ronning-buchanan-try-to-unseat-rosendale-montanas-eastern-house-district/?share=twitter\" target=\"_blank\" title=\"Click to share on Twitter\" ><span></span><span class=\"sharing-screen-reader-text\">Click to share on Twitter (Opens in new window)</span></a></li><li class=\"share-facebook\"><a rel=\"nofollow noopener noreferrer\" data-shared=\"sharing-facebook-104061\" class=\"share-facebook sd-button share-icon no-text\" href=\"https://montanafreepress.org/2022/11/04/ronning-buchanan-try-to-unseat-rosendale-montanas-eastern-house-district/?share=facebook\" target=\"_blank\" title=\"Click to share on Facebook\" ><span></span><span class=\"sharing-screen-reader-text\">Click to share on Facebook (Opens in new window)</span></a></li><li class=\"share-email\"><a rel=\"nofollow noopener noreferrer\" data-shared=\"\" class=\"share-email sd-button share-icon no-text\" href=\"mailto:?subject=%5BShared%20Post%5D%20Rosendale%20fights%20Biden.%20Ronning%20and%20Buchanan%20take%20the%20fight%20to%20him.&body=https%3A%2F%2Fmontanafreepress.org%2F2022%2F11%2F04%2Fronning-buchanan-try-to-unseat-rosendale-montanas-eastern-house-district%2F&share=email\" target=\"_blank\" title=\"Click to email a link to a friend\" data-email-share-error-title=\"Do you have email set up?\" data-email-share-error-text=\"If you&#039;re having problems sharing via email, you might not have email set up for your browser. You may need to create a new email yourself.\" data-email-share-nonce=\"a729133ae0\" data-email-share-track-url=\"https://montanafreepress.org/2022/11/04/ronning-buchanan-try-to-unseat-rosendale-montanas-eastern-house-district/?share=email\"><span></span><span class=\"sharing-screen-reader-text\">Click to email a link to a friend (Opens in new window)</span></a></li><li class=\"share-end\"></li></ul></div></div></div>"
+      },
+      {
+        "title": "TK Story 5",
+        "date": "2022-10-26T16:26:59",
+        "link": "https://montanafreepress.org/2022/10/26/zinke-tranel-lamb-race-for-montanas-western-us-house-seat/",
+        "status": "publish",
+        "tags": {
+          "nodes": [
+            {
+              "name": "John Lamb"
+            },
+            {
+              "name": "Monica Tranel"
+            },
+            {
+              "name": "Ryan Zinke"
+            },
+            {
+              "name": "tracker 2022 campaign"
+            }
+          ]
+        },
+        "categories": {
+          "nodes": [
+            {
+              "name": "2022 Elections"
+            }
+          ]
+        },
+        "featuredImage": {
+          "node": {
+            "link": "https://montanafreepress.org/screen-shot-2022-10-25-at-3-44-31-pm/"
+          }
+        },
+        "author": {
+          "node": {
+            "name": "Arren Kimbel-Sannit"
+          }
+        },
+        "excerpt": "<p>Ryan Zinke and Monica Tranel are the two main contenders for Montana’s new western U.S. House district. The presence of Libertarian John Lamb and Zinke’s long, variable record in government could make things complicated. </p>\n<div class=\"sharedaddy sd-sharing-enabled\"><div class=\"robots-nocontent sd-block sd-social sd-social-icon sd-sharing\"><div class=\"sd-content\"><ul><li class=\"share-twitter\"><a rel=\"nofollow noopener noreferrer\" data-shared=\"sharing-twitter-103747\" class=\"share-twitter sd-button share-icon no-text\" href=\"https://montanafreepress.org/2022/10/26/zinke-tranel-lamb-race-for-montanas-western-us-house-seat/?share=twitter\" target=\"_blank\" title=\"Click to share on Twitter\" ><span></span><span class=\"sharing-screen-reader-text\">Click to share on Twitter (Opens in new window)</span></a></li><li class=\"share-facebook\"><a rel=\"nofollow noopener noreferrer\" data-shared=\"sharing-facebook-103747\" class=\"share-facebook sd-button share-icon no-text\" href=\"https://montanafreepress.org/2022/10/26/zinke-tranel-lamb-race-for-montanas-western-us-house-seat/?share=facebook\" target=\"_blank\" title=\"Click to share on Facebook\" ><span></span><span class=\"sharing-screen-reader-text\">Click to share on Facebook (Opens in new window)</span></a></li><li class=\"share-email\"><a rel=\"nofollow noopener noreferrer\" data-shared=\"\" class=\"share-email sd-button share-icon no-text\" href=\"mailto:?subject=%5BShared%20Post%5D%20The%20Zinke%2C%20Tranel%20%28and%20Lamb%29%20show&body=https%3A%2F%2Fmontanafreepress.org%2F2022%2F10%2F26%2Fzinke-tranel-lamb-race-for-montanas-western-us-house-seat%2F&share=email\" target=\"_blank\" title=\"Click to email a link to a friend\" data-email-share-error-title=\"Do you have email set up?\" data-email-share-error-text=\"If you&#039;re having problems sharing via email, you might not have email set up for your browser. You may need to create a new email yourself.\" data-email-share-nonce=\"0af0572cf8\" data-email-share-track-url=\"https://montanafreepress.org/2022/10/26/zinke-tranel-lamb-race-for-montanas-western-us-house-seat/?share=email\"><span></span><span class=\"sharing-screen-reader-text\">Click to email a link to a friend (Opens in new window)</span></a></li><li class=\"share-end\"></li></ul></div></div></div>"
       }
     ]
   },
@@ -321,6 +1546,12 @@
     "raceSlug": "us-senate",
     "raceDisplayName": "U.S. Senate",
     "opponents": [
+      {
+        "slug": "jon-tester",
+        "displayName": "Jon Tester",
+        "summaryLine": "Incumbent U.S. Senator",
+        "party": "D"
+      },
       {
         "slug": "tim-sheehy",
         "displayName": "Tim Sheehy",
@@ -362,6 +1593,245 @@
         "displayName": "Robert Barb",
         "summaryLine": "Billings resident",
         "party": "G"
+      }
+    ],
+    "coverage": [
+      {
+        "title": "TK story 1",
+        "date": "2022-11-15T13:15:16",
+        "link": "https://montanafreepress.org/2022/11/15/how-montanas-lr-131-born-alive-referendum-failed/",
+        "status": "publish",
+        "tags": {
+          "nodes": [
+            {
+              "name": "2022 elections"
+            },
+            {
+              "name": "Born-Alive Infant Protection Act"
+            },
+            {
+              "name": "LR-131"
+            },
+            {
+              "name": "Matt Regier"
+            },
+            {
+              "name": "Planned Parenthood of Montana"
+            },
+            {
+              "name": "tracker 2022 campaign"
+            }
+          ]
+        },
+        "categories": {
+          "nodes": [
+            {
+              "name": "2022 Elections"
+            }
+          ]
+        },
+        "featuredImage": {
+          "node": {
+            "link": "https://montanafreepress.org/untitled-design-6-3/"
+          }
+        },
+        "author": {
+          "node": {
+            "name": "Mara Silvers"
+          }
+        },
+        "excerpt": "<p>Organized opposition to the initiative spent hundreds of thousands of dollars and countless volunteer hours trying to get its message to as many Montana voters as possible. As the dust settled on last week’s election, the campaign’s defeat of LR-131 became one of a handful of nationwide wins for the reproductive rights movement, and a possible signal of caution for Republican lawmakers hoping to put similar bills before voters in upcoming election cycles.</p>\n<div class=\"sharedaddy sd-sharing-enabled\"><div class=\"robots-nocontent sd-block sd-social sd-social-icon sd-sharing\"><div class=\"sd-content\"><ul><li class=\"share-twitter\"><a rel=\"nofollow noopener noreferrer\" data-shared=\"sharing-twitter-104823\" class=\"share-twitter sd-button share-icon no-text\" href=\"https://montanafreepress.org/2022/11/15/how-montanas-lr-131-born-alive-referendum-failed/?share=twitter\" target=\"_blank\" title=\"Click to share on Twitter\" ><span></span><span class=\"sharing-screen-reader-text\">Click to share on Twitter (Opens in new window)</span></a></li><li class=\"share-facebook\"><a rel=\"nofollow noopener noreferrer\" data-shared=\"sharing-facebook-104823\" class=\"share-facebook sd-button share-icon no-text\" href=\"https://montanafreepress.org/2022/11/15/how-montanas-lr-131-born-alive-referendum-failed/?share=facebook\" target=\"_blank\" title=\"Click to share on Facebook\" ><span></span><span class=\"sharing-screen-reader-text\">Click to share on Facebook (Opens in new window)</span></a></li><li class=\"share-email\"><a rel=\"nofollow noopener noreferrer\" data-shared=\"\" class=\"share-email sd-button share-icon no-text\" href=\"mailto:?subject=%5BShared%20Post%5D%20How%20Montana%E2%80%99s%20LR-131%20%E2%80%98Born-Alive%E2%80%99%20referendum%20failed&body=https%3A%2F%2Fmontanafreepress.org%2F2022%2F11%2F15%2Fhow-montanas-lr-131-born-alive-referendum-failed%2F&share=email\" target=\"_blank\" title=\"Click to email a link to a friend\" data-email-share-error-title=\"Do you have email set up?\" data-email-share-error-text=\"If you&#039;re having problems sharing via email, you might not have email set up for your browser. You may need to create a new email yourself.\" data-email-share-nonce=\"71c1e7d30f\" data-email-share-track-url=\"https://montanafreepress.org/2022/11/15/how-montanas-lr-131-born-alive-referendum-failed/?share=email\"><span></span><span class=\"sharing-screen-reader-text\">Click to email a link to a friend (Opens in new window)</span></a></li><li class=\"share-end\"></li></ul></div></div></div>"
+      },
+      {
+        "title": "TK story 2",
+        "date": "2022-11-09T09:43:14",
+        "link": "https://montanafreepress.org/2022/11/09/incumbent-ingrid-gustafson-retains-montana-supreme-court-seat/",
+        "status": "publish",
+        "tags": {
+          "nodes": [
+            {
+              "name": "Ingrid Gustafson"
+            },
+            {
+              "name": "James Brown"
+            },
+            {
+              "name": "Montana Supreme Court"
+            },
+            {
+              "name": "tracker 2022 campaign"
+            }
+          ]
+        },
+        "categories": {
+          "nodes": [
+            {
+              "name": "2022 Elections"
+            }
+          ]
+        },
+        "featuredImage": {
+          "node": {
+            "link": "https://montanafreepress.org/2022/11/09/incumbent-ingrid-gustafson-retains-montana-supreme-court-seat/untitled-design-2-7/"
+          }
+        },
+        "author": {
+          "node": {
+            "name": "Mara Silvers"
+          }
+        },
+        "excerpt": "<p>Incumbent Supreme Court Justice Ingrid Gustafson will serve a second term on Montana’s high court after winning her race for re-election against attorney and Republican Public Service Commission President James Brown, who conceded the race Wednesday morning. </p>\n<div class=\"sharedaddy sd-sharing-enabled\"><div class=\"robots-nocontent sd-block sd-social sd-social-icon sd-sharing\"><div class=\"sd-content\"><ul><li class=\"share-twitter\"><a rel=\"nofollow noopener noreferrer\" data-shared=\"sharing-twitter-104445\" class=\"share-twitter sd-button share-icon no-text\" href=\"https://montanafreepress.org/2022/11/09/incumbent-ingrid-gustafson-retains-montana-supreme-court-seat/?share=twitter\" target=\"_blank\" title=\"Click to share on Twitter\" ><span></span><span class=\"sharing-screen-reader-text\">Click to share on Twitter (Opens in new window)</span></a></li><li class=\"share-facebook\"><a rel=\"nofollow noopener noreferrer\" data-shared=\"sharing-facebook-104445\" class=\"share-facebook sd-button share-icon no-text\" href=\"https://montanafreepress.org/2022/11/09/incumbent-ingrid-gustafson-retains-montana-supreme-court-seat/?share=facebook\" target=\"_blank\" title=\"Click to share on Facebook\" ><span></span><span class=\"sharing-screen-reader-text\">Click to share on Facebook (Opens in new window)</span></a></li><li class=\"share-email\"><a rel=\"nofollow noopener noreferrer\" data-shared=\"\" class=\"share-email sd-button share-icon no-text\" href=\"mailto:?subject=%5BShared%20Post%5D%20Gustafson%20retains%20state%20Supreme%20Court%20seat%20over%20challenger%20Brown&body=https%3A%2F%2Fmontanafreepress.org%2F2022%2F11%2F09%2Fincumbent-ingrid-gustafson-retains-montana-supreme-court-seat%2F&share=email\" target=\"_blank\" title=\"Click to email a link to a friend\" data-email-share-error-title=\"Do you have email set up?\" data-email-share-error-text=\"If you&#039;re having problems sharing via email, you might not have email set up for your browser. You may need to create a new email yourself.\" data-email-share-nonce=\"b4d56519e6\" data-email-share-track-url=\"https://montanafreepress.org/2022/11/09/incumbent-ingrid-gustafson-retains-montana-supreme-court-seat/?share=email\"><span></span><span class=\"sharing-screen-reader-text\">Click to email a link to a friend (Opens in new window)</span></a></li><li class=\"share-end\"></li></ul></div></div></div>"
+      },
+      {
+        "title": "TK story 3",
+        "date": "2022-11-08T23:32:23",
+        "link": "https://montanafreepress.org/2022/11/08/montana-2022-election-results-so-far/",
+        "status": "publish",
+        "tags": {
+          "nodes": [
+            {
+              "name": "2022 elections"
+            },
+            {
+              "name": "tracker 2022 campaign"
+            }
+          ]
+        },
+        "categories": {
+          "nodes": [
+            {
+              "name": "2022 Elections"
+            }
+          ]
+        },
+        "featuredImage": {
+          "node": {
+            "link": "https://montanafreepress.org/untitled-design-1-5/"
+          }
+        },
+        "author": {
+          "node": {
+            "name": "MTFP Staff"
+          }
+        },
+        "excerpt": "<p>U.S HOUSE MT-01 Republican Ryan Zinke on Wednesday night declared victory in the race for Montana’s newly created western U.S. House district following a call by election tracker Decision Desk HQ.&nbsp; With all precincts fully reported, Zinke, who formerly represented Montana’s at-large House district and served as U.S. Secretary of the Interior under President Donald [&hellip;]</p>\n<div class=\"sharedaddy sd-sharing-enabled\"><div class=\"robots-nocontent sd-block sd-social sd-social-icon sd-sharing\"><div class=\"sd-content\"><ul><li class=\"share-twitter\"><a rel=\"nofollow noopener noreferrer\" data-shared=\"sharing-twitter-104382\" class=\"share-twitter sd-button share-icon no-text\" href=\"https://montanafreepress.org/2022/11/08/montana-2022-election-results-so-far/?share=twitter\" target=\"_blank\" title=\"Click to share on Twitter\" ><span></span><span class=\"sharing-screen-reader-text\">Click to share on Twitter (Opens in new window)</span></a></li><li class=\"share-facebook\"><a rel=\"nofollow noopener noreferrer\" data-shared=\"sharing-facebook-104382\" class=\"share-facebook sd-button share-icon no-text\" href=\"https://montanafreepress.org/2022/11/08/montana-2022-election-results-so-far/?share=facebook\" target=\"_blank\" title=\"Click to share on Facebook\" ><span></span><span class=\"sharing-screen-reader-text\">Click to share on Facebook (Opens in new window)</span></a></li><li class=\"share-email\"><a rel=\"nofollow noopener noreferrer\" data-shared=\"\" class=\"share-email sd-button share-icon no-text\" href=\"mailto:?subject=%5BShared%20Post%5D%20Montana%27s%202022%20election%20results&body=https%3A%2F%2Fmontanafreepress.org%2F2022%2F11%2F08%2Fmontana-2022-election-results-so-far%2F&share=email\" target=\"_blank\" title=\"Click to email a link to a friend\" data-email-share-error-title=\"Do you have email set up?\" data-email-share-error-text=\"If you&#039;re having problems sharing via email, you might not have email set up for your browser. You may need to create a new email yourself.\" data-email-share-nonce=\"07b6ccc1cd\" data-email-share-track-url=\"https://montanafreepress.org/2022/11/08/montana-2022-election-results-so-far/?share=email\"><span></span><span class=\"sharing-screen-reader-text\">Click to email a link to a friend (Opens in new window)</span></a></li><li class=\"share-end\"></li></ul></div></div></div>"
+      },
+      {
+        "title": "TK Story 3.5",
+        "date": "2022-11-04T11:56:42",
+        "link": "https://montanafreepress.org/2022/11/04/montana-supreme-court-race-2-9-million-third-party-spending-last-month-of-campaign/",
+        "status": "publish",
+        "tags": {
+          "nodes": [
+            {
+              "name": "Ingrid Gustafson"
+            },
+            {
+              "name": "James Brown"
+            },
+            {
+              "name": "tracker 2022 campaign"
+            }
+          ]
+        },
+        "categories": {
+          "nodes": [
+            {
+              "name": "2022 Elections"
+            }
+          ]
+        },
+        "featuredImage": {
+          "node": {
+            "link": "https://montanafreepress.org/montana-supreme-court-entrance_1200x675-copy/"
+          }
+        },
+        "author": {
+          "node": {
+            "name": "Mara Silvers"
+          }
+        },
+        "excerpt": "<p>With the Nov. 8 election less than a week away, Montana’s most expensive Supreme Court race in history, between incumbent Justice Ingrid Gustafson and attorney James Brown, continues to draw donations and release a firehose of last-minute spending in an effort to sway voters.</p>\n<div class=\"sharedaddy sd-sharing-enabled\"><div class=\"robots-nocontent sd-block sd-social sd-social-icon sd-sharing\"><div class=\"sd-content\"><ul><li class=\"share-twitter\"><a rel=\"nofollow noopener noreferrer\" data-shared=\"sharing-twitter-104104\" class=\"share-twitter sd-button share-icon no-text\" href=\"https://montanafreepress.org/2022/11/04/montana-supreme-court-race-2-9-million-third-party-spending-last-month-of-campaign/?share=twitter\" target=\"_blank\" title=\"Click to share on Twitter\" ><span></span><span class=\"sharing-screen-reader-text\">Click to share on Twitter (Opens in new window)</span></a></li><li class=\"share-facebook\"><a rel=\"nofollow noopener noreferrer\" data-shared=\"sharing-facebook-104104\" class=\"share-facebook sd-button share-icon no-text\" href=\"https://montanafreepress.org/2022/11/04/montana-supreme-court-race-2-9-million-third-party-spending-last-month-of-campaign/?share=facebook\" target=\"_blank\" title=\"Click to share on Facebook\" ><span></span><span class=\"sharing-screen-reader-text\">Click to share on Facebook (Opens in new window)</span></a></li><li class=\"share-email\"><a rel=\"nofollow noopener noreferrer\" data-shared=\"\" class=\"share-email sd-button share-icon no-text\" href=\"mailto:?subject=%5BShared%20Post%5D%20State%20Supreme%20Court%20race%20draws%20%242.9%20million%20in%20outside%20spending%20in%20last%20month%20of%20campaign&body=https%3A%2F%2Fmontanafreepress.org%2F2022%2F11%2F04%2Fmontana-supreme-court-race-2-9-million-third-party-spending-last-month-of-campaign%2F&share=email\" target=\"_blank\" title=\"Click to email a link to a friend\" data-email-share-error-title=\"Do you have email set up?\" data-email-share-error-text=\"If you&#039;re having problems sharing via email, you might not have email set up for your browser. You may need to create a new email yourself.\" data-email-share-nonce=\"fd0faf786d\" data-email-share-track-url=\"https://montanafreepress.org/2022/11/04/montana-supreme-court-race-2-9-million-third-party-spending-last-month-of-campaign/?share=email\"><span></span><span class=\"sharing-screen-reader-text\">Click to email a link to a friend (Opens in new window)</span></a></li><li class=\"share-end\"></li></ul></div></div></div>"
+      },
+      {
+        "title": "TK Story 4",
+        "date": "2022-11-04T10:45:54",
+        "link": "https://montanafreepress.org/2022/11/04/ronning-buchanan-try-to-unseat-rosendale-montanas-eastern-house-district/",
+        "status": "publish",
+        "tags": {
+          "nodes": [
+            {
+              "name": "gary buchanan"
+            },
+            {
+              "name": "Matt Rosendale"
+            },
+            {
+              "name": "Penny Ronning"
+            },
+            {
+              "name": "tracker 2022 campaign"
+            }
+          ]
+        },
+        "categories": {
+          "nodes": [
+            {
+              "name": "2022 Elections"
+            }
+          ]
+        },
+        "featuredImage": {
+          "node": {
+            "link": "https://montanafreepress.org/2022/11/04/ronning-buchanan-try-to-unseat-rosendale-montanas-eastern-house-district/easternconference/"
+          }
+        },
+        "author": {
+          "node": {
+            "name": "Brad Tyer"
+          }
+        },
+        "excerpt": "<p>Rep. Matt Rosendale’s record has fueled a slate of challengers in the race for Montana’s newly created eastern U.S. House district who say voters want an alternative to the incumbent’s partisan obstinance. Will they?</p>\n<div class=\"sharedaddy sd-sharing-enabled\"><div class=\"robots-nocontent sd-block sd-social sd-social-icon sd-sharing\"><div class=\"sd-content\"><ul><li class=\"share-twitter\"><a rel=\"nofollow noopener noreferrer\" data-shared=\"sharing-twitter-104061\" class=\"share-twitter sd-button share-icon no-text\" href=\"https://montanafreepress.org/2022/11/04/ronning-buchanan-try-to-unseat-rosendale-montanas-eastern-house-district/?share=twitter\" target=\"_blank\" title=\"Click to share on Twitter\" ><span></span><span class=\"sharing-screen-reader-text\">Click to share on Twitter (Opens in new window)</span></a></li><li class=\"share-facebook\"><a rel=\"nofollow noopener noreferrer\" data-shared=\"sharing-facebook-104061\" class=\"share-facebook sd-button share-icon no-text\" href=\"https://montanafreepress.org/2022/11/04/ronning-buchanan-try-to-unseat-rosendale-montanas-eastern-house-district/?share=facebook\" target=\"_blank\" title=\"Click to share on Facebook\" ><span></span><span class=\"sharing-screen-reader-text\">Click to share on Facebook (Opens in new window)</span></a></li><li class=\"share-email\"><a rel=\"nofollow noopener noreferrer\" data-shared=\"\" class=\"share-email sd-button share-icon no-text\" href=\"mailto:?subject=%5BShared%20Post%5D%20Rosendale%20fights%20Biden.%20Ronning%20and%20Buchanan%20take%20the%20fight%20to%20him.&body=https%3A%2F%2Fmontanafreepress.org%2F2022%2F11%2F04%2Fronning-buchanan-try-to-unseat-rosendale-montanas-eastern-house-district%2F&share=email\" target=\"_blank\" title=\"Click to email a link to a friend\" data-email-share-error-title=\"Do you have email set up?\" data-email-share-error-text=\"If you&#039;re having problems sharing via email, you might not have email set up for your browser. You may need to create a new email yourself.\" data-email-share-nonce=\"a729133ae0\" data-email-share-track-url=\"https://montanafreepress.org/2022/11/04/ronning-buchanan-try-to-unseat-rosendale-montanas-eastern-house-district/?share=email\"><span></span><span class=\"sharing-screen-reader-text\">Click to email a link to a friend (Opens in new window)</span></a></li><li class=\"share-end\"></li></ul></div></div></div>"
+      },
+      {
+        "title": "TK Story 5",
+        "date": "2022-10-26T16:26:59",
+        "link": "https://montanafreepress.org/2022/10/26/zinke-tranel-lamb-race-for-montanas-western-us-house-seat/",
+        "status": "publish",
+        "tags": {
+          "nodes": [
+            {
+              "name": "John Lamb"
+            },
+            {
+              "name": "Monica Tranel"
+            },
+            {
+              "name": "Ryan Zinke"
+            },
+            {
+              "name": "tracker 2022 campaign"
+            }
+          ]
+        },
+        "categories": {
+          "nodes": [
+            {
+              "name": "2022 Elections"
+            }
+          ]
+        },
+        "featuredImage": {
+          "node": {
+            "link": "https://montanafreepress.org/screen-shot-2022-10-25-at-3-44-31-pm/"
+          }
+        },
+        "author": {
+          "node": {
+            "name": "Arren Kimbel-Sannit"
+          }
+        },
+        "excerpt": "<p>Ryan Zinke and Monica Tranel are the two main contenders for Montana’s new western U.S. House district. The presence of Libertarian John Lamb and Zinke’s long, variable record in government could make things complicated. </p>\n<div class=\"sharedaddy sd-sharing-enabled\"><div class=\"robots-nocontent sd-block sd-social sd-social-icon sd-sharing\"><div class=\"sd-content\"><ul><li class=\"share-twitter\"><a rel=\"nofollow noopener noreferrer\" data-shared=\"sharing-twitter-103747\" class=\"share-twitter sd-button share-icon no-text\" href=\"https://montanafreepress.org/2022/10/26/zinke-tranel-lamb-race-for-montanas-western-us-house-seat/?share=twitter\" target=\"_blank\" title=\"Click to share on Twitter\" ><span></span><span class=\"sharing-screen-reader-text\">Click to share on Twitter (Opens in new window)</span></a></li><li class=\"share-facebook\"><a rel=\"nofollow noopener noreferrer\" data-shared=\"sharing-facebook-103747\" class=\"share-facebook sd-button share-icon no-text\" href=\"https://montanafreepress.org/2022/10/26/zinke-tranel-lamb-race-for-montanas-western-us-house-seat/?share=facebook\" target=\"_blank\" title=\"Click to share on Facebook\" ><span></span><span class=\"sharing-screen-reader-text\">Click to share on Facebook (Opens in new window)</span></a></li><li class=\"share-email\"><a rel=\"nofollow noopener noreferrer\" data-shared=\"\" class=\"share-email sd-button share-icon no-text\" href=\"mailto:?subject=%5BShared%20Post%5D%20The%20Zinke%2C%20Tranel%20%28and%20Lamb%29%20show&body=https%3A%2F%2Fmontanafreepress.org%2F2022%2F10%2F26%2Fzinke-tranel-lamb-race-for-montanas-western-us-house-seat%2F&share=email\" target=\"_blank\" title=\"Click to email a link to a friend\" data-email-share-error-title=\"Do you have email set up?\" data-email-share-error-text=\"If you&#039;re having problems sharing via email, you might not have email set up for your browser. You may need to create a new email yourself.\" data-email-share-nonce=\"0af0572cf8\" data-email-share-track-url=\"https://montanafreepress.org/2022/10/26/zinke-tranel-lamb-race-for-montanas-western-us-house-seat/?share=email\"><span></span><span class=\"sharing-screen-reader-text\">Click to email a link to a friend (Opens in new window)</span></a></li><li class=\"share-end\"></li></ul></div></div></div>"
       }
     ],
     "questionnaire": {
@@ -427,6 +1897,12 @@
         "party": "D"
       },
       {
+        "slug": "charles-walkingchild",
+        "displayName": "Charles Walkingchild",
+        "summaryLine": "Helena environmental contractor",
+        "party": "R"
+      },
+      {
         "slug": "michael-downey",
         "displayName": "Michael Downey",
         "summaryLine": "Helena resident",
@@ -437,6 +1913,245 @@
         "displayName": "Robert Barb",
         "summaryLine": "Billings resident",
         "party": "G"
+      }
+    ],
+    "coverage": [
+      {
+        "title": "TK story 1",
+        "date": "2022-11-15T13:15:16",
+        "link": "https://montanafreepress.org/2022/11/15/how-montanas-lr-131-born-alive-referendum-failed/",
+        "status": "publish",
+        "tags": {
+          "nodes": [
+            {
+              "name": "2022 elections"
+            },
+            {
+              "name": "Born-Alive Infant Protection Act"
+            },
+            {
+              "name": "LR-131"
+            },
+            {
+              "name": "Matt Regier"
+            },
+            {
+              "name": "Planned Parenthood of Montana"
+            },
+            {
+              "name": "tracker 2022 campaign"
+            }
+          ]
+        },
+        "categories": {
+          "nodes": [
+            {
+              "name": "2022 Elections"
+            }
+          ]
+        },
+        "featuredImage": {
+          "node": {
+            "link": "https://montanafreepress.org/untitled-design-6-3/"
+          }
+        },
+        "author": {
+          "node": {
+            "name": "Mara Silvers"
+          }
+        },
+        "excerpt": "<p>Organized opposition to the initiative spent hundreds of thousands of dollars and countless volunteer hours trying to get its message to as many Montana voters as possible. As the dust settled on last week’s election, the campaign’s defeat of LR-131 became one of a handful of nationwide wins for the reproductive rights movement, and a possible signal of caution for Republican lawmakers hoping to put similar bills before voters in upcoming election cycles.</p>\n<div class=\"sharedaddy sd-sharing-enabled\"><div class=\"robots-nocontent sd-block sd-social sd-social-icon sd-sharing\"><div class=\"sd-content\"><ul><li class=\"share-twitter\"><a rel=\"nofollow noopener noreferrer\" data-shared=\"sharing-twitter-104823\" class=\"share-twitter sd-button share-icon no-text\" href=\"https://montanafreepress.org/2022/11/15/how-montanas-lr-131-born-alive-referendum-failed/?share=twitter\" target=\"_blank\" title=\"Click to share on Twitter\" ><span></span><span class=\"sharing-screen-reader-text\">Click to share on Twitter (Opens in new window)</span></a></li><li class=\"share-facebook\"><a rel=\"nofollow noopener noreferrer\" data-shared=\"sharing-facebook-104823\" class=\"share-facebook sd-button share-icon no-text\" href=\"https://montanafreepress.org/2022/11/15/how-montanas-lr-131-born-alive-referendum-failed/?share=facebook\" target=\"_blank\" title=\"Click to share on Facebook\" ><span></span><span class=\"sharing-screen-reader-text\">Click to share on Facebook (Opens in new window)</span></a></li><li class=\"share-email\"><a rel=\"nofollow noopener noreferrer\" data-shared=\"\" class=\"share-email sd-button share-icon no-text\" href=\"mailto:?subject=%5BShared%20Post%5D%20How%20Montana%E2%80%99s%20LR-131%20%E2%80%98Born-Alive%E2%80%99%20referendum%20failed&body=https%3A%2F%2Fmontanafreepress.org%2F2022%2F11%2F15%2Fhow-montanas-lr-131-born-alive-referendum-failed%2F&share=email\" target=\"_blank\" title=\"Click to email a link to a friend\" data-email-share-error-title=\"Do you have email set up?\" data-email-share-error-text=\"If you&#039;re having problems sharing via email, you might not have email set up for your browser. You may need to create a new email yourself.\" data-email-share-nonce=\"71c1e7d30f\" data-email-share-track-url=\"https://montanafreepress.org/2022/11/15/how-montanas-lr-131-born-alive-referendum-failed/?share=email\"><span></span><span class=\"sharing-screen-reader-text\">Click to email a link to a friend (Opens in new window)</span></a></li><li class=\"share-end\"></li></ul></div></div></div>"
+      },
+      {
+        "title": "TK story 2",
+        "date": "2022-11-09T09:43:14",
+        "link": "https://montanafreepress.org/2022/11/09/incumbent-ingrid-gustafson-retains-montana-supreme-court-seat/",
+        "status": "publish",
+        "tags": {
+          "nodes": [
+            {
+              "name": "Ingrid Gustafson"
+            },
+            {
+              "name": "James Brown"
+            },
+            {
+              "name": "Montana Supreme Court"
+            },
+            {
+              "name": "tracker 2022 campaign"
+            }
+          ]
+        },
+        "categories": {
+          "nodes": [
+            {
+              "name": "2022 Elections"
+            }
+          ]
+        },
+        "featuredImage": {
+          "node": {
+            "link": "https://montanafreepress.org/2022/11/09/incumbent-ingrid-gustafson-retains-montana-supreme-court-seat/untitled-design-2-7/"
+          }
+        },
+        "author": {
+          "node": {
+            "name": "Mara Silvers"
+          }
+        },
+        "excerpt": "<p>Incumbent Supreme Court Justice Ingrid Gustafson will serve a second term on Montana’s high court after winning her race for re-election against attorney and Republican Public Service Commission President James Brown, who conceded the race Wednesday morning. </p>\n<div class=\"sharedaddy sd-sharing-enabled\"><div class=\"robots-nocontent sd-block sd-social sd-social-icon sd-sharing\"><div class=\"sd-content\"><ul><li class=\"share-twitter\"><a rel=\"nofollow noopener noreferrer\" data-shared=\"sharing-twitter-104445\" class=\"share-twitter sd-button share-icon no-text\" href=\"https://montanafreepress.org/2022/11/09/incumbent-ingrid-gustafson-retains-montana-supreme-court-seat/?share=twitter\" target=\"_blank\" title=\"Click to share on Twitter\" ><span></span><span class=\"sharing-screen-reader-text\">Click to share on Twitter (Opens in new window)</span></a></li><li class=\"share-facebook\"><a rel=\"nofollow noopener noreferrer\" data-shared=\"sharing-facebook-104445\" class=\"share-facebook sd-button share-icon no-text\" href=\"https://montanafreepress.org/2022/11/09/incumbent-ingrid-gustafson-retains-montana-supreme-court-seat/?share=facebook\" target=\"_blank\" title=\"Click to share on Facebook\" ><span></span><span class=\"sharing-screen-reader-text\">Click to share on Facebook (Opens in new window)</span></a></li><li class=\"share-email\"><a rel=\"nofollow noopener noreferrer\" data-shared=\"\" class=\"share-email sd-button share-icon no-text\" href=\"mailto:?subject=%5BShared%20Post%5D%20Gustafson%20retains%20state%20Supreme%20Court%20seat%20over%20challenger%20Brown&body=https%3A%2F%2Fmontanafreepress.org%2F2022%2F11%2F09%2Fincumbent-ingrid-gustafson-retains-montana-supreme-court-seat%2F&share=email\" target=\"_blank\" title=\"Click to email a link to a friend\" data-email-share-error-title=\"Do you have email set up?\" data-email-share-error-text=\"If you&#039;re having problems sharing via email, you might not have email set up for your browser. You may need to create a new email yourself.\" data-email-share-nonce=\"b4d56519e6\" data-email-share-track-url=\"https://montanafreepress.org/2022/11/09/incumbent-ingrid-gustafson-retains-montana-supreme-court-seat/?share=email\"><span></span><span class=\"sharing-screen-reader-text\">Click to email a link to a friend (Opens in new window)</span></a></li><li class=\"share-end\"></li></ul></div></div></div>"
+      },
+      {
+        "title": "TK story 3",
+        "date": "2022-11-08T23:32:23",
+        "link": "https://montanafreepress.org/2022/11/08/montana-2022-election-results-so-far/",
+        "status": "publish",
+        "tags": {
+          "nodes": [
+            {
+              "name": "2022 elections"
+            },
+            {
+              "name": "tracker 2022 campaign"
+            }
+          ]
+        },
+        "categories": {
+          "nodes": [
+            {
+              "name": "2022 Elections"
+            }
+          ]
+        },
+        "featuredImage": {
+          "node": {
+            "link": "https://montanafreepress.org/untitled-design-1-5/"
+          }
+        },
+        "author": {
+          "node": {
+            "name": "MTFP Staff"
+          }
+        },
+        "excerpt": "<p>U.S HOUSE MT-01 Republican Ryan Zinke on Wednesday night declared victory in the race for Montana’s newly created western U.S. House district following a call by election tracker Decision Desk HQ.&nbsp; With all precincts fully reported, Zinke, who formerly represented Montana’s at-large House district and served as U.S. Secretary of the Interior under President Donald [&hellip;]</p>\n<div class=\"sharedaddy sd-sharing-enabled\"><div class=\"robots-nocontent sd-block sd-social sd-social-icon sd-sharing\"><div class=\"sd-content\"><ul><li class=\"share-twitter\"><a rel=\"nofollow noopener noreferrer\" data-shared=\"sharing-twitter-104382\" class=\"share-twitter sd-button share-icon no-text\" href=\"https://montanafreepress.org/2022/11/08/montana-2022-election-results-so-far/?share=twitter\" target=\"_blank\" title=\"Click to share on Twitter\" ><span></span><span class=\"sharing-screen-reader-text\">Click to share on Twitter (Opens in new window)</span></a></li><li class=\"share-facebook\"><a rel=\"nofollow noopener noreferrer\" data-shared=\"sharing-facebook-104382\" class=\"share-facebook sd-button share-icon no-text\" href=\"https://montanafreepress.org/2022/11/08/montana-2022-election-results-so-far/?share=facebook\" target=\"_blank\" title=\"Click to share on Facebook\" ><span></span><span class=\"sharing-screen-reader-text\">Click to share on Facebook (Opens in new window)</span></a></li><li class=\"share-email\"><a rel=\"nofollow noopener noreferrer\" data-shared=\"\" class=\"share-email sd-button share-icon no-text\" href=\"mailto:?subject=%5BShared%20Post%5D%20Montana%27s%202022%20election%20results&body=https%3A%2F%2Fmontanafreepress.org%2F2022%2F11%2F08%2Fmontana-2022-election-results-so-far%2F&share=email\" target=\"_blank\" title=\"Click to email a link to a friend\" data-email-share-error-title=\"Do you have email set up?\" data-email-share-error-text=\"If you&#039;re having problems sharing via email, you might not have email set up for your browser. You may need to create a new email yourself.\" data-email-share-nonce=\"07b6ccc1cd\" data-email-share-track-url=\"https://montanafreepress.org/2022/11/08/montana-2022-election-results-so-far/?share=email\"><span></span><span class=\"sharing-screen-reader-text\">Click to email a link to a friend (Opens in new window)</span></a></li><li class=\"share-end\"></li></ul></div></div></div>"
+      },
+      {
+        "title": "TK Story 3.5",
+        "date": "2022-11-04T11:56:42",
+        "link": "https://montanafreepress.org/2022/11/04/montana-supreme-court-race-2-9-million-third-party-spending-last-month-of-campaign/",
+        "status": "publish",
+        "tags": {
+          "nodes": [
+            {
+              "name": "Ingrid Gustafson"
+            },
+            {
+              "name": "James Brown"
+            },
+            {
+              "name": "tracker 2022 campaign"
+            }
+          ]
+        },
+        "categories": {
+          "nodes": [
+            {
+              "name": "2022 Elections"
+            }
+          ]
+        },
+        "featuredImage": {
+          "node": {
+            "link": "https://montanafreepress.org/montana-supreme-court-entrance_1200x675-copy/"
+          }
+        },
+        "author": {
+          "node": {
+            "name": "Mara Silvers"
+          }
+        },
+        "excerpt": "<p>With the Nov. 8 election less than a week away, Montana’s most expensive Supreme Court race in history, between incumbent Justice Ingrid Gustafson and attorney James Brown, continues to draw donations and release a firehose of last-minute spending in an effort to sway voters.</p>\n<div class=\"sharedaddy sd-sharing-enabled\"><div class=\"robots-nocontent sd-block sd-social sd-social-icon sd-sharing\"><div class=\"sd-content\"><ul><li class=\"share-twitter\"><a rel=\"nofollow noopener noreferrer\" data-shared=\"sharing-twitter-104104\" class=\"share-twitter sd-button share-icon no-text\" href=\"https://montanafreepress.org/2022/11/04/montana-supreme-court-race-2-9-million-third-party-spending-last-month-of-campaign/?share=twitter\" target=\"_blank\" title=\"Click to share on Twitter\" ><span></span><span class=\"sharing-screen-reader-text\">Click to share on Twitter (Opens in new window)</span></a></li><li class=\"share-facebook\"><a rel=\"nofollow noopener noreferrer\" data-shared=\"sharing-facebook-104104\" class=\"share-facebook sd-button share-icon no-text\" href=\"https://montanafreepress.org/2022/11/04/montana-supreme-court-race-2-9-million-third-party-spending-last-month-of-campaign/?share=facebook\" target=\"_blank\" title=\"Click to share on Facebook\" ><span></span><span class=\"sharing-screen-reader-text\">Click to share on Facebook (Opens in new window)</span></a></li><li class=\"share-email\"><a rel=\"nofollow noopener noreferrer\" data-shared=\"\" class=\"share-email sd-button share-icon no-text\" href=\"mailto:?subject=%5BShared%20Post%5D%20State%20Supreme%20Court%20race%20draws%20%242.9%20million%20in%20outside%20spending%20in%20last%20month%20of%20campaign&body=https%3A%2F%2Fmontanafreepress.org%2F2022%2F11%2F04%2Fmontana-supreme-court-race-2-9-million-third-party-spending-last-month-of-campaign%2F&share=email\" target=\"_blank\" title=\"Click to email a link to a friend\" data-email-share-error-title=\"Do you have email set up?\" data-email-share-error-text=\"If you&#039;re having problems sharing via email, you might not have email set up for your browser. You may need to create a new email yourself.\" data-email-share-nonce=\"fd0faf786d\" data-email-share-track-url=\"https://montanafreepress.org/2022/11/04/montana-supreme-court-race-2-9-million-third-party-spending-last-month-of-campaign/?share=email\"><span></span><span class=\"sharing-screen-reader-text\">Click to email a link to a friend (Opens in new window)</span></a></li><li class=\"share-end\"></li></ul></div></div></div>"
+      },
+      {
+        "title": "TK Story 4",
+        "date": "2022-11-04T10:45:54",
+        "link": "https://montanafreepress.org/2022/11/04/ronning-buchanan-try-to-unseat-rosendale-montanas-eastern-house-district/",
+        "status": "publish",
+        "tags": {
+          "nodes": [
+            {
+              "name": "gary buchanan"
+            },
+            {
+              "name": "Matt Rosendale"
+            },
+            {
+              "name": "Penny Ronning"
+            },
+            {
+              "name": "tracker 2022 campaign"
+            }
+          ]
+        },
+        "categories": {
+          "nodes": [
+            {
+              "name": "2022 Elections"
+            }
+          ]
+        },
+        "featuredImage": {
+          "node": {
+            "link": "https://montanafreepress.org/2022/11/04/ronning-buchanan-try-to-unseat-rosendale-montanas-eastern-house-district/easternconference/"
+          }
+        },
+        "author": {
+          "node": {
+            "name": "Brad Tyer"
+          }
+        },
+        "excerpt": "<p>Rep. Matt Rosendale’s record has fueled a slate of challengers in the race for Montana’s newly created eastern U.S. House district who say voters want an alternative to the incumbent’s partisan obstinance. Will they?</p>\n<div class=\"sharedaddy sd-sharing-enabled\"><div class=\"robots-nocontent sd-block sd-social sd-social-icon sd-sharing\"><div class=\"sd-content\"><ul><li class=\"share-twitter\"><a rel=\"nofollow noopener noreferrer\" data-shared=\"sharing-twitter-104061\" class=\"share-twitter sd-button share-icon no-text\" href=\"https://montanafreepress.org/2022/11/04/ronning-buchanan-try-to-unseat-rosendale-montanas-eastern-house-district/?share=twitter\" target=\"_blank\" title=\"Click to share on Twitter\" ><span></span><span class=\"sharing-screen-reader-text\">Click to share on Twitter (Opens in new window)</span></a></li><li class=\"share-facebook\"><a rel=\"nofollow noopener noreferrer\" data-shared=\"sharing-facebook-104061\" class=\"share-facebook sd-button share-icon no-text\" href=\"https://montanafreepress.org/2022/11/04/ronning-buchanan-try-to-unseat-rosendale-montanas-eastern-house-district/?share=facebook\" target=\"_blank\" title=\"Click to share on Facebook\" ><span></span><span class=\"sharing-screen-reader-text\">Click to share on Facebook (Opens in new window)</span></a></li><li class=\"share-email\"><a rel=\"nofollow noopener noreferrer\" data-shared=\"\" class=\"share-email sd-button share-icon no-text\" href=\"mailto:?subject=%5BShared%20Post%5D%20Rosendale%20fights%20Biden.%20Ronning%20and%20Buchanan%20take%20the%20fight%20to%20him.&body=https%3A%2F%2Fmontanafreepress.org%2F2022%2F11%2F04%2Fronning-buchanan-try-to-unseat-rosendale-montanas-eastern-house-district%2F&share=email\" target=\"_blank\" title=\"Click to email a link to a friend\" data-email-share-error-title=\"Do you have email set up?\" data-email-share-error-text=\"If you&#039;re having problems sharing via email, you might not have email set up for your browser. You may need to create a new email yourself.\" data-email-share-nonce=\"a729133ae0\" data-email-share-track-url=\"https://montanafreepress.org/2022/11/04/ronning-buchanan-try-to-unseat-rosendale-montanas-eastern-house-district/?share=email\"><span></span><span class=\"sharing-screen-reader-text\">Click to email a link to a friend (Opens in new window)</span></a></li><li class=\"share-end\"></li></ul></div></div></div>"
+      },
+      {
+        "title": "TK Story 5",
+        "date": "2022-10-26T16:26:59",
+        "link": "https://montanafreepress.org/2022/10/26/zinke-tranel-lamb-race-for-montanas-western-us-house-seat/",
+        "status": "publish",
+        "tags": {
+          "nodes": [
+            {
+              "name": "John Lamb"
+            },
+            {
+              "name": "Monica Tranel"
+            },
+            {
+              "name": "Ryan Zinke"
+            },
+            {
+              "name": "tracker 2022 campaign"
+            }
+          ]
+        },
+        "categories": {
+          "nodes": [
+            {
+              "name": "2022 Elections"
+            }
+          ]
+        },
+        "featuredImage": {
+          "node": {
+            "link": "https://montanafreepress.org/screen-shot-2022-10-25-at-3-44-31-pm/"
+          }
+        },
+        "author": {
+          "node": {
+            "name": "Arren Kimbel-Sannit"
+          }
+        },
+        "excerpt": "<p>Ryan Zinke and Monica Tranel are the two main contenders for Montana’s new western U.S. House district. The presence of Libertarian John Lamb and Zinke’s long, variable record in government could make things complicated. </p>\n<div class=\"sharedaddy sd-sharing-enabled\"><div class=\"robots-nocontent sd-block sd-social sd-social-icon sd-sharing\"><div class=\"sd-content\"><ul><li class=\"share-twitter\"><a rel=\"nofollow noopener noreferrer\" data-shared=\"sharing-twitter-103747\" class=\"share-twitter sd-button share-icon no-text\" href=\"https://montanafreepress.org/2022/10/26/zinke-tranel-lamb-race-for-montanas-western-us-house-seat/?share=twitter\" target=\"_blank\" title=\"Click to share on Twitter\" ><span></span><span class=\"sharing-screen-reader-text\">Click to share on Twitter (Opens in new window)</span></a></li><li class=\"share-facebook\"><a rel=\"nofollow noopener noreferrer\" data-shared=\"sharing-facebook-103747\" class=\"share-facebook sd-button share-icon no-text\" href=\"https://montanafreepress.org/2022/10/26/zinke-tranel-lamb-race-for-montanas-western-us-house-seat/?share=facebook\" target=\"_blank\" title=\"Click to share on Facebook\" ><span></span><span class=\"sharing-screen-reader-text\">Click to share on Facebook (Opens in new window)</span></a></li><li class=\"share-email\"><a rel=\"nofollow noopener noreferrer\" data-shared=\"\" class=\"share-email sd-button share-icon no-text\" href=\"mailto:?subject=%5BShared%20Post%5D%20The%20Zinke%2C%20Tranel%20%28and%20Lamb%29%20show&body=https%3A%2F%2Fmontanafreepress.org%2F2022%2F10%2F26%2Fzinke-tranel-lamb-race-for-montanas-western-us-house-seat%2F&share=email\" target=\"_blank\" title=\"Click to email a link to a friend\" data-email-share-error-title=\"Do you have email set up?\" data-email-share-error-text=\"If you&#039;re having problems sharing via email, you might not have email set up for your browser. You may need to create a new email yourself.\" data-email-share-nonce=\"0af0572cf8\" data-email-share-track-url=\"https://montanafreepress.org/2022/10/26/zinke-tranel-lamb-race-for-montanas-western-us-house-seat/?share=email\"><span></span><span class=\"sharing-screen-reader-text\">Click to email a link to a friend (Opens in new window)</span></a></li><li class=\"share-end\"></li></ul></div></div></div>"
       }
     ]
   },
@@ -470,6 +2185,12 @@
         "party": "R"
       },
       {
+        "slug": "brad-johnson",
+        "displayName": "Brad Johnson",
+        "summaryLine": "Former Montana Secretary of State",
+        "party": "R"
+      },
+      {
         "slug": "sid-daud",
         "displayName": "Sid Daud",
         "summaryLine": "Kalispell City Council member",
@@ -498,6 +2219,245 @@
         "displayName": "Robert Barb",
         "summaryLine": "Billings resident",
         "party": "G"
+      }
+    ],
+    "coverage": [
+      {
+        "title": "TK story 1",
+        "date": "2022-11-15T13:15:16",
+        "link": "https://montanafreepress.org/2022/11/15/how-montanas-lr-131-born-alive-referendum-failed/",
+        "status": "publish",
+        "tags": {
+          "nodes": [
+            {
+              "name": "2022 elections"
+            },
+            {
+              "name": "Born-Alive Infant Protection Act"
+            },
+            {
+              "name": "LR-131"
+            },
+            {
+              "name": "Matt Regier"
+            },
+            {
+              "name": "Planned Parenthood of Montana"
+            },
+            {
+              "name": "tracker 2022 campaign"
+            }
+          ]
+        },
+        "categories": {
+          "nodes": [
+            {
+              "name": "2022 Elections"
+            }
+          ]
+        },
+        "featuredImage": {
+          "node": {
+            "link": "https://montanafreepress.org/untitled-design-6-3/"
+          }
+        },
+        "author": {
+          "node": {
+            "name": "Mara Silvers"
+          }
+        },
+        "excerpt": "<p>Organized opposition to the initiative spent hundreds of thousands of dollars and countless volunteer hours trying to get its message to as many Montana voters as possible. As the dust settled on last week’s election, the campaign’s defeat of LR-131 became one of a handful of nationwide wins for the reproductive rights movement, and a possible signal of caution for Republican lawmakers hoping to put similar bills before voters in upcoming election cycles.</p>\n<div class=\"sharedaddy sd-sharing-enabled\"><div class=\"robots-nocontent sd-block sd-social sd-social-icon sd-sharing\"><div class=\"sd-content\"><ul><li class=\"share-twitter\"><a rel=\"nofollow noopener noreferrer\" data-shared=\"sharing-twitter-104823\" class=\"share-twitter sd-button share-icon no-text\" href=\"https://montanafreepress.org/2022/11/15/how-montanas-lr-131-born-alive-referendum-failed/?share=twitter\" target=\"_blank\" title=\"Click to share on Twitter\" ><span></span><span class=\"sharing-screen-reader-text\">Click to share on Twitter (Opens in new window)</span></a></li><li class=\"share-facebook\"><a rel=\"nofollow noopener noreferrer\" data-shared=\"sharing-facebook-104823\" class=\"share-facebook sd-button share-icon no-text\" href=\"https://montanafreepress.org/2022/11/15/how-montanas-lr-131-born-alive-referendum-failed/?share=facebook\" target=\"_blank\" title=\"Click to share on Facebook\" ><span></span><span class=\"sharing-screen-reader-text\">Click to share on Facebook (Opens in new window)</span></a></li><li class=\"share-email\"><a rel=\"nofollow noopener noreferrer\" data-shared=\"\" class=\"share-email sd-button share-icon no-text\" href=\"mailto:?subject=%5BShared%20Post%5D%20How%20Montana%E2%80%99s%20LR-131%20%E2%80%98Born-Alive%E2%80%99%20referendum%20failed&body=https%3A%2F%2Fmontanafreepress.org%2F2022%2F11%2F15%2Fhow-montanas-lr-131-born-alive-referendum-failed%2F&share=email\" target=\"_blank\" title=\"Click to email a link to a friend\" data-email-share-error-title=\"Do you have email set up?\" data-email-share-error-text=\"If you&#039;re having problems sharing via email, you might not have email set up for your browser. You may need to create a new email yourself.\" data-email-share-nonce=\"71c1e7d30f\" data-email-share-track-url=\"https://montanafreepress.org/2022/11/15/how-montanas-lr-131-born-alive-referendum-failed/?share=email\"><span></span><span class=\"sharing-screen-reader-text\">Click to email a link to a friend (Opens in new window)</span></a></li><li class=\"share-end\"></li></ul></div></div></div>"
+      },
+      {
+        "title": "TK story 2",
+        "date": "2022-11-09T09:43:14",
+        "link": "https://montanafreepress.org/2022/11/09/incumbent-ingrid-gustafson-retains-montana-supreme-court-seat/",
+        "status": "publish",
+        "tags": {
+          "nodes": [
+            {
+              "name": "Ingrid Gustafson"
+            },
+            {
+              "name": "James Brown"
+            },
+            {
+              "name": "Montana Supreme Court"
+            },
+            {
+              "name": "tracker 2022 campaign"
+            }
+          ]
+        },
+        "categories": {
+          "nodes": [
+            {
+              "name": "2022 Elections"
+            }
+          ]
+        },
+        "featuredImage": {
+          "node": {
+            "link": "https://montanafreepress.org/2022/11/09/incumbent-ingrid-gustafson-retains-montana-supreme-court-seat/untitled-design-2-7/"
+          }
+        },
+        "author": {
+          "node": {
+            "name": "Mara Silvers"
+          }
+        },
+        "excerpt": "<p>Incumbent Supreme Court Justice Ingrid Gustafson will serve a second term on Montana’s high court after winning her race for re-election against attorney and Republican Public Service Commission President James Brown, who conceded the race Wednesday morning. </p>\n<div class=\"sharedaddy sd-sharing-enabled\"><div class=\"robots-nocontent sd-block sd-social sd-social-icon sd-sharing\"><div class=\"sd-content\"><ul><li class=\"share-twitter\"><a rel=\"nofollow noopener noreferrer\" data-shared=\"sharing-twitter-104445\" class=\"share-twitter sd-button share-icon no-text\" href=\"https://montanafreepress.org/2022/11/09/incumbent-ingrid-gustafson-retains-montana-supreme-court-seat/?share=twitter\" target=\"_blank\" title=\"Click to share on Twitter\" ><span></span><span class=\"sharing-screen-reader-text\">Click to share on Twitter (Opens in new window)</span></a></li><li class=\"share-facebook\"><a rel=\"nofollow noopener noreferrer\" data-shared=\"sharing-facebook-104445\" class=\"share-facebook sd-button share-icon no-text\" href=\"https://montanafreepress.org/2022/11/09/incumbent-ingrid-gustafson-retains-montana-supreme-court-seat/?share=facebook\" target=\"_blank\" title=\"Click to share on Facebook\" ><span></span><span class=\"sharing-screen-reader-text\">Click to share on Facebook (Opens in new window)</span></a></li><li class=\"share-email\"><a rel=\"nofollow noopener noreferrer\" data-shared=\"\" class=\"share-email sd-button share-icon no-text\" href=\"mailto:?subject=%5BShared%20Post%5D%20Gustafson%20retains%20state%20Supreme%20Court%20seat%20over%20challenger%20Brown&body=https%3A%2F%2Fmontanafreepress.org%2F2022%2F11%2F09%2Fincumbent-ingrid-gustafson-retains-montana-supreme-court-seat%2F&share=email\" target=\"_blank\" title=\"Click to email a link to a friend\" data-email-share-error-title=\"Do you have email set up?\" data-email-share-error-text=\"If you&#039;re having problems sharing via email, you might not have email set up for your browser. You may need to create a new email yourself.\" data-email-share-nonce=\"b4d56519e6\" data-email-share-track-url=\"https://montanafreepress.org/2022/11/09/incumbent-ingrid-gustafson-retains-montana-supreme-court-seat/?share=email\"><span></span><span class=\"sharing-screen-reader-text\">Click to email a link to a friend (Opens in new window)</span></a></li><li class=\"share-end\"></li></ul></div></div></div>"
+      },
+      {
+        "title": "TK story 3",
+        "date": "2022-11-08T23:32:23",
+        "link": "https://montanafreepress.org/2022/11/08/montana-2022-election-results-so-far/",
+        "status": "publish",
+        "tags": {
+          "nodes": [
+            {
+              "name": "2022 elections"
+            },
+            {
+              "name": "tracker 2022 campaign"
+            }
+          ]
+        },
+        "categories": {
+          "nodes": [
+            {
+              "name": "2022 Elections"
+            }
+          ]
+        },
+        "featuredImage": {
+          "node": {
+            "link": "https://montanafreepress.org/untitled-design-1-5/"
+          }
+        },
+        "author": {
+          "node": {
+            "name": "MTFP Staff"
+          }
+        },
+        "excerpt": "<p>U.S HOUSE MT-01 Republican Ryan Zinke on Wednesday night declared victory in the race for Montana’s newly created western U.S. House district following a call by election tracker Decision Desk HQ.&nbsp; With all precincts fully reported, Zinke, who formerly represented Montana’s at-large House district and served as U.S. Secretary of the Interior under President Donald [&hellip;]</p>\n<div class=\"sharedaddy sd-sharing-enabled\"><div class=\"robots-nocontent sd-block sd-social sd-social-icon sd-sharing\"><div class=\"sd-content\"><ul><li class=\"share-twitter\"><a rel=\"nofollow noopener noreferrer\" data-shared=\"sharing-twitter-104382\" class=\"share-twitter sd-button share-icon no-text\" href=\"https://montanafreepress.org/2022/11/08/montana-2022-election-results-so-far/?share=twitter\" target=\"_blank\" title=\"Click to share on Twitter\" ><span></span><span class=\"sharing-screen-reader-text\">Click to share on Twitter (Opens in new window)</span></a></li><li class=\"share-facebook\"><a rel=\"nofollow noopener noreferrer\" data-shared=\"sharing-facebook-104382\" class=\"share-facebook sd-button share-icon no-text\" href=\"https://montanafreepress.org/2022/11/08/montana-2022-election-results-so-far/?share=facebook\" target=\"_blank\" title=\"Click to share on Facebook\" ><span></span><span class=\"sharing-screen-reader-text\">Click to share on Facebook (Opens in new window)</span></a></li><li class=\"share-email\"><a rel=\"nofollow noopener noreferrer\" data-shared=\"\" class=\"share-email sd-button share-icon no-text\" href=\"mailto:?subject=%5BShared%20Post%5D%20Montana%27s%202022%20election%20results&body=https%3A%2F%2Fmontanafreepress.org%2F2022%2F11%2F08%2Fmontana-2022-election-results-so-far%2F&share=email\" target=\"_blank\" title=\"Click to email a link to a friend\" data-email-share-error-title=\"Do you have email set up?\" data-email-share-error-text=\"If you&#039;re having problems sharing via email, you might not have email set up for your browser. You may need to create a new email yourself.\" data-email-share-nonce=\"07b6ccc1cd\" data-email-share-track-url=\"https://montanafreepress.org/2022/11/08/montana-2022-election-results-so-far/?share=email\"><span></span><span class=\"sharing-screen-reader-text\">Click to email a link to a friend (Opens in new window)</span></a></li><li class=\"share-end\"></li></ul></div></div></div>"
+      },
+      {
+        "title": "TK Story 3.5",
+        "date": "2022-11-04T11:56:42",
+        "link": "https://montanafreepress.org/2022/11/04/montana-supreme-court-race-2-9-million-third-party-spending-last-month-of-campaign/",
+        "status": "publish",
+        "tags": {
+          "nodes": [
+            {
+              "name": "Ingrid Gustafson"
+            },
+            {
+              "name": "James Brown"
+            },
+            {
+              "name": "tracker 2022 campaign"
+            }
+          ]
+        },
+        "categories": {
+          "nodes": [
+            {
+              "name": "2022 Elections"
+            }
+          ]
+        },
+        "featuredImage": {
+          "node": {
+            "link": "https://montanafreepress.org/montana-supreme-court-entrance_1200x675-copy/"
+          }
+        },
+        "author": {
+          "node": {
+            "name": "Mara Silvers"
+          }
+        },
+        "excerpt": "<p>With the Nov. 8 election less than a week away, Montana’s most expensive Supreme Court race in history, between incumbent Justice Ingrid Gustafson and attorney James Brown, continues to draw donations and release a firehose of last-minute spending in an effort to sway voters.</p>\n<div class=\"sharedaddy sd-sharing-enabled\"><div class=\"robots-nocontent sd-block sd-social sd-social-icon sd-sharing\"><div class=\"sd-content\"><ul><li class=\"share-twitter\"><a rel=\"nofollow noopener noreferrer\" data-shared=\"sharing-twitter-104104\" class=\"share-twitter sd-button share-icon no-text\" href=\"https://montanafreepress.org/2022/11/04/montana-supreme-court-race-2-9-million-third-party-spending-last-month-of-campaign/?share=twitter\" target=\"_blank\" title=\"Click to share on Twitter\" ><span></span><span class=\"sharing-screen-reader-text\">Click to share on Twitter (Opens in new window)</span></a></li><li class=\"share-facebook\"><a rel=\"nofollow noopener noreferrer\" data-shared=\"sharing-facebook-104104\" class=\"share-facebook sd-button share-icon no-text\" href=\"https://montanafreepress.org/2022/11/04/montana-supreme-court-race-2-9-million-third-party-spending-last-month-of-campaign/?share=facebook\" target=\"_blank\" title=\"Click to share on Facebook\" ><span></span><span class=\"sharing-screen-reader-text\">Click to share on Facebook (Opens in new window)</span></a></li><li class=\"share-email\"><a rel=\"nofollow noopener noreferrer\" data-shared=\"\" class=\"share-email sd-button share-icon no-text\" href=\"mailto:?subject=%5BShared%20Post%5D%20State%20Supreme%20Court%20race%20draws%20%242.9%20million%20in%20outside%20spending%20in%20last%20month%20of%20campaign&body=https%3A%2F%2Fmontanafreepress.org%2F2022%2F11%2F04%2Fmontana-supreme-court-race-2-9-million-third-party-spending-last-month-of-campaign%2F&share=email\" target=\"_blank\" title=\"Click to email a link to a friend\" data-email-share-error-title=\"Do you have email set up?\" data-email-share-error-text=\"If you&#039;re having problems sharing via email, you might not have email set up for your browser. You may need to create a new email yourself.\" data-email-share-nonce=\"fd0faf786d\" data-email-share-track-url=\"https://montanafreepress.org/2022/11/04/montana-supreme-court-race-2-9-million-third-party-spending-last-month-of-campaign/?share=email\"><span></span><span class=\"sharing-screen-reader-text\">Click to email a link to a friend (Opens in new window)</span></a></li><li class=\"share-end\"></li></ul></div></div></div>"
+      },
+      {
+        "title": "TK Story 4",
+        "date": "2022-11-04T10:45:54",
+        "link": "https://montanafreepress.org/2022/11/04/ronning-buchanan-try-to-unseat-rosendale-montanas-eastern-house-district/",
+        "status": "publish",
+        "tags": {
+          "nodes": [
+            {
+              "name": "gary buchanan"
+            },
+            {
+              "name": "Matt Rosendale"
+            },
+            {
+              "name": "Penny Ronning"
+            },
+            {
+              "name": "tracker 2022 campaign"
+            }
+          ]
+        },
+        "categories": {
+          "nodes": [
+            {
+              "name": "2022 Elections"
+            }
+          ]
+        },
+        "featuredImage": {
+          "node": {
+            "link": "https://montanafreepress.org/2022/11/04/ronning-buchanan-try-to-unseat-rosendale-montanas-eastern-house-district/easternconference/"
+          }
+        },
+        "author": {
+          "node": {
+            "name": "Brad Tyer"
+          }
+        },
+        "excerpt": "<p>Rep. Matt Rosendale’s record has fueled a slate of challengers in the race for Montana’s newly created eastern U.S. House district who say voters want an alternative to the incumbent’s partisan obstinance. Will they?</p>\n<div class=\"sharedaddy sd-sharing-enabled\"><div class=\"robots-nocontent sd-block sd-social sd-social-icon sd-sharing\"><div class=\"sd-content\"><ul><li class=\"share-twitter\"><a rel=\"nofollow noopener noreferrer\" data-shared=\"sharing-twitter-104061\" class=\"share-twitter sd-button share-icon no-text\" href=\"https://montanafreepress.org/2022/11/04/ronning-buchanan-try-to-unseat-rosendale-montanas-eastern-house-district/?share=twitter\" target=\"_blank\" title=\"Click to share on Twitter\" ><span></span><span class=\"sharing-screen-reader-text\">Click to share on Twitter (Opens in new window)</span></a></li><li class=\"share-facebook\"><a rel=\"nofollow noopener noreferrer\" data-shared=\"sharing-facebook-104061\" class=\"share-facebook sd-button share-icon no-text\" href=\"https://montanafreepress.org/2022/11/04/ronning-buchanan-try-to-unseat-rosendale-montanas-eastern-house-district/?share=facebook\" target=\"_blank\" title=\"Click to share on Facebook\" ><span></span><span class=\"sharing-screen-reader-text\">Click to share on Facebook (Opens in new window)</span></a></li><li class=\"share-email\"><a rel=\"nofollow noopener noreferrer\" data-shared=\"\" class=\"share-email sd-button share-icon no-text\" href=\"mailto:?subject=%5BShared%20Post%5D%20Rosendale%20fights%20Biden.%20Ronning%20and%20Buchanan%20take%20the%20fight%20to%20him.&body=https%3A%2F%2Fmontanafreepress.org%2F2022%2F11%2F04%2Fronning-buchanan-try-to-unseat-rosendale-montanas-eastern-house-district%2F&share=email\" target=\"_blank\" title=\"Click to email a link to a friend\" data-email-share-error-title=\"Do you have email set up?\" data-email-share-error-text=\"If you&#039;re having problems sharing via email, you might not have email set up for your browser. You may need to create a new email yourself.\" data-email-share-nonce=\"a729133ae0\" data-email-share-track-url=\"https://montanafreepress.org/2022/11/04/ronning-buchanan-try-to-unseat-rosendale-montanas-eastern-house-district/?share=email\"><span></span><span class=\"sharing-screen-reader-text\">Click to email a link to a friend (Opens in new window)</span></a></li><li class=\"share-end\"></li></ul></div></div></div>"
+      },
+      {
+        "title": "TK Story 5",
+        "date": "2022-10-26T16:26:59",
+        "link": "https://montanafreepress.org/2022/10/26/zinke-tranel-lamb-race-for-montanas-western-us-house-seat/",
+        "status": "publish",
+        "tags": {
+          "nodes": [
+            {
+              "name": "John Lamb"
+            },
+            {
+              "name": "Monica Tranel"
+            },
+            {
+              "name": "Ryan Zinke"
+            },
+            {
+              "name": "tracker 2022 campaign"
+            }
+          ]
+        },
+        "categories": {
+          "nodes": [
+            {
+              "name": "2022 Elections"
+            }
+          ]
+        },
+        "featuredImage": {
+          "node": {
+            "link": "https://montanafreepress.org/screen-shot-2022-10-25-at-3-44-31-pm/"
+          }
+        },
+        "author": {
+          "node": {
+            "name": "Arren Kimbel-Sannit"
+          }
+        },
+        "excerpt": "<p>Ryan Zinke and Monica Tranel are the two main contenders for Montana’s new western U.S. House district. The presence of Libertarian John Lamb and Zinke’s long, variable record in government could make things complicated. </p>\n<div class=\"sharedaddy sd-sharing-enabled\"><div class=\"robots-nocontent sd-block sd-social sd-social-icon sd-sharing\"><div class=\"sd-content\"><ul><li class=\"share-twitter\"><a rel=\"nofollow noopener noreferrer\" data-shared=\"sharing-twitter-103747\" class=\"share-twitter sd-button share-icon no-text\" href=\"https://montanafreepress.org/2022/10/26/zinke-tranel-lamb-race-for-montanas-western-us-house-seat/?share=twitter\" target=\"_blank\" title=\"Click to share on Twitter\" ><span></span><span class=\"sharing-screen-reader-text\">Click to share on Twitter (Opens in new window)</span></a></li><li class=\"share-facebook\"><a rel=\"nofollow noopener noreferrer\" data-shared=\"sharing-facebook-103747\" class=\"share-facebook sd-button share-icon no-text\" href=\"https://montanafreepress.org/2022/10/26/zinke-tranel-lamb-race-for-montanas-western-us-house-seat/?share=facebook\" target=\"_blank\" title=\"Click to share on Facebook\" ><span></span><span class=\"sharing-screen-reader-text\">Click to share on Facebook (Opens in new window)</span></a></li><li class=\"share-email\"><a rel=\"nofollow noopener noreferrer\" data-shared=\"\" class=\"share-email sd-button share-icon no-text\" href=\"mailto:?subject=%5BShared%20Post%5D%20The%20Zinke%2C%20Tranel%20%28and%20Lamb%29%20show&body=https%3A%2F%2Fmontanafreepress.org%2F2022%2F10%2F26%2Fzinke-tranel-lamb-race-for-montanas-western-us-house-seat%2F&share=email\" target=\"_blank\" title=\"Click to email a link to a friend\" data-email-share-error-title=\"Do you have email set up?\" data-email-share-error-text=\"If you&#039;re having problems sharing via email, you might not have email set up for your browser. You may need to create a new email yourself.\" data-email-share-nonce=\"0af0572cf8\" data-email-share-track-url=\"https://montanafreepress.org/2022/10/26/zinke-tranel-lamb-race-for-montanas-western-us-house-seat/?share=email\"><span></span><span class=\"sharing-screen-reader-text\">Click to email a link to a friend (Opens in new window)</span></a></li><li class=\"share-end\"></li></ul></div></div></div>"
       }
     ]
   }

@@ -8,9 +8,15 @@ overviewBallotInitiatives: |
   Initiative ledein text as necessary.
 
 overviewLegislatureLedeIn: |
-  Montanans elect 100 state representatives to two-year terms and 25 of 50 state senators to four-year terms in each even-year election. This year's election is the first to be conducted using a new legislative map drawn to account for population shifts recorded by the 2020 census.
+  Montanans elect 100 state representatives to two-year terms and 25 of 50 state senators to four-year terms in each even-year election. This year's election is the first to be conducted using a new legislative map drawn to account for population shifts recorded by the 2020 census. 
 
-  TK TK TK work out detail on legislative races here.
+  Each Senate district is composed of two House districts.
+
+questionnaireStateOfficeLedein: |
+  Answers here were solicited from candidates via a written questionnaire conducted by MTFP in April 2024. Responses were limited to 1,000 characters and edited lightly for punctuation and spelling. Responses have not been exhaustively fact-checked.
+
+questionnaireLegislatureLedein: |
+  Answers here were solicited from legislative candidates via a written questionnaire in April 2024, conducted in collaboration between MTFP and the Montana League of Women Voters. Responses here are presented exactly as submitted, without fact-checking or editing for minor punctuation or spelling errors. Legislative candidates who haven't submitted answers to these questions can do so at [LINK TK].
 
 overviewAlsoOnYourBallot: |
   TK TK TK mention local races we don't have the ability to include in this guide.] Also local government review commissions, which we'll hopefully have covered.

@@ -1,4 +1,4 @@
-chamber,district,region,counties,locale,in_cycle_2024,holdover_senator,holdover_party
+chamber,district,region,counties,locale,in_cycle_2024,holdover_senator,holdover_party,holdover_link,
 house,HD 1,Western Montana,Lincoln,"Eureka, Troy",yes,
 house,HD 2,Western Montana,"Flathead, Lincoln",Libby,yes,
 house,HD 3,Flathead Valley,Flathead,"North Whitefish, West Glacier",yes,
@@ -99,53 +99,53 @@ house,HD 97,Missoula area,Missoula,West Missoula,yes,
 house,HD 98,Missoula area,Missoula,Northwest Missoula,yes,
 house,HD 99,Missoula area,Missoula,North Missoula,yes,
 house,HD 100,Missoula area,Missoula,Downtown Missoula,yes,
-senate,SD 1,Western Montana,"Flathead, Lincoln","Libby, Troy, Eureaka",no,Mike Cuffe,R
+senate,SD 1,Western Montana,"Flathead, Lincoln","Libby, Troy, Eureaka",no,Mike Cuffe,R,https://apps.montanafreepress.org/capitol-tracker-2023/lawmakers/Mike-Cuffe/
 senate,SD 2,Flathead Valley,Flathead,"Whitefish, Columbia Falls, West Glacier",yes,
 senate,SD 3,Flathead Valley,Flathead,"Hungry Horse, Central Flathead Valley",yes,
-senate,SD 4,Flathead Valley,Flathead,Central Kalispell,no,John Fuller,R
+senate,SD 4,Flathead Valley,Flathead,Central Kalispell,no,John Fuller,R,https://apps.montanafreepress.org/capitol-tracker-2023/lawmakers/John-Fuller/
 senate,SD 5,Flathead Valley,Flathead,South and West of Kalispell,yes,
-senate,SD 6,Flathead Valley,"Flathead, Lake","Bigfork, East of Kalispell",no,Mark Noland,R
+senate,SD 6,Flathead Valley,"Flathead, Lake","Bigfork, East of Kalispell",no,Mark Noland,R,https://apps.montanafreepress.org/capitol-tracker-2023/lawmakers/Mark-Noland/
 senate,SD 7,Western Montana,"Lake, Sanders","Plains, Thompson Falls, Noxon, Hot Springs",yes,
-senate,SD 8,Western Montana,"Flathead, Glacier, Lake, Pondera","Browning, Cut Bank, Heart Butte, St. Ignatius",no,Susan Webber,D
-senate,SD 9,North-central Montana,"Lewis and Clark, Pondera, Teton, Toole","Shelby, Conrad, Choteau, Wolf Creek, Lincoln",no,Bruce Gillespie,R
-senate,SD 10,Great Falls area,Cascade,Central Great Falls,no,Jeremy Trebas,R
-senate,SD 11,Great Falls area,Cascade,"North and East Great Falls, Malmstrom Air Force Base",no,Daniel Emrich,R
-senate,SD 12,Great Falls area,Cascade,South and West Great Falls,no,Wendy McKamey,R
+senate,SD 8,Western Montana,"Flathead, Glacier, Lake, Pondera","Browning, Cut Bank, Heart Butte, St. Ignatius",no,Susan Webber,D,https://apps.montanafreepress.org/capitol-tracker-2023/lawmakers/Susan-Webber/
+senate,SD 9,North-central Montana,"Lewis and Clark, Pondera, Teton, Toole","Shelby, Conrad, Choteau, Wolf Creek, Lincoln",no,Bruce Gillespie,R,https://apps.montanafreepress.org/capitol-tracker-2023/lawmakers/Bruce-Gillespie/
+senate,SD 10,Great Falls area,Cascade,Central Great Falls,no,Jeremy Trebas,R,https://apps.montanafreepress.org/capitol-tracker-2023/lawmakers/Jeremy-Trebas/
+senate,SD 11,Great Falls area,Cascade,"North and East Great Falls, Malmstrom Air Force Base",no,Daniel Emrich,R,https://apps.montanafreepress.org/capitol-tracker-2023/lawmakers/Daniel-Emrich/
+senate,SD 12,Great Falls area,Cascade,South and West Great Falls,no,Wendy McKamey,R,https://apps.montanafreepress.org/capitol-tracker-2023/lawmakers/Wendy-McKamey/
 senate,SD 13,North-central Montana,"Cascade, Chouteau","Cascade, Vaughn, Fort Benton, Big Sandy",yes,
-senate,SD 14,North-central Montana,"Blaine, Hill, Liberty, Phillips, Valley","Havre, Chester, Chinook, Malta, Opheim",no,Russ Tempel,R
+senate,SD 14,North-central Montana,"Blaine, Hill, Liberty, Phillips, Valley","Havre, Chester, Chinook, Malta, Opheim",no,Russ Tempel,R,https://apps.montanafreepress.org/capitol-tracker-2023/lawmakers/Russ-Tempel/
 senate,SD 15,Eastern Montana,"Daniels, Richland, Roosevelt, Sheridan, Valley","Sidney, Scobey, Plentywood",yes,
 senate,SD 16,Eastern Montana,"Blaine, Chouteau, Hill, Phillips, Roosevelt, Valley","Rocky Boy's, Harlem, Wolf Point, Poplar",yes,
 senate,SD 17,Eastern Montana,"Carter, Custer, Fallon, McCone, Powder River, Praire, Wibaux, Dawson, Richland","Glandive, Circle, Baker, Ekalaka, Broadus",yes,
-senate,SD 18,Eastern Montana,"Big Horn, Custer, Garfield, Rosebud, Treasure, Yellowstone","Miles City, Forsyth, Colstrip, Jordan",no,Kenneth Bogner,R
-senate,SD 19,Central Montana,"Fergus, Petroleum, Golden Valley, Musselshell, Yellowstone","Lewistown, Winifred, Winnett, Roundup",no,Barry Usher,R
+senate,SD 18,Eastern Montana,"Big Horn, Custer, Garfield, Rosebud, Treasure, Yellowstone","Miles City, Forsyth, Colstrip, Jordan",no,Kenneth Bogner,R,https://apps.montanafreepress.org/capitol-tracker-2023/lawmakers/Kenneth-Bogner/
+senate,SD 19,Central Montana,"Fergus, Petroleum, Golden Valley, Musselshell, Yellowstone","Lewistown, Winifred, Winnett, Roundup",no,Barry Usher,R,https://apps.montanafreepress.org/capitol-tracker-2023/lawmakers/Barry-Usher/
 senate,SD 20,Billings area,Yellowstone,"Billings Heights, Lockwood",yes,
 senate,SD 21,Billings area,"Yellowstone, Big Horn, Rosebud","Hardin, Crow Agency, Lame Deer, Lodge Grass, Pryor",yes,
-senate,SD 22,Billings area,Yellowstone,"North Billings, Shepherd",no,Daniel Zolnikov,R
-senate,SD 23,Billings area,Yellowstone,Central Billings,no,Kathy Kelker,D
+senate,SD 22,Billings area,Yellowstone,"North Billings, Shepherd",no,Daniel Zolnikov,R,https://apps.montanafreepress.org/capitol-tracker-2023/lawmakers/Daniel-Zolnikov/
+senate,SD 23,Billings area,Yellowstone,Central Billings,no,Kathy Kelker,D,https://apps.montanafreepress.org/capitol-tracker-2023/lawmakers/Kathy-Kelker/
 senate,SD 24,Billings area,Yellowstone,Downtown and South Billings,yes,
-senate,SD 25,Billings area,Yellowstone,West Billings,no,Dennis Lenz,R
+senate,SD 25,Billings area,Yellowstone,West Billings,no,Dennis Lenz,R,https://apps.montanafreepress.org/capitol-tracker-2023/lawmakers/Dennis-Lenz/
 senate,SD 26,Billings area,Yellowstone,Northwest Billings,yes,
 senate,SD 27,South-central Montana,Yellowstone,"Laurel, South of Billings",yes,
-senate,SD 28,South-central Montana,"Carbon, Stillwater, Sweet Grass","Red Lodge, Columbus",no,Forrest Mandeville,R
-senate,SD 29,Bozeman area,"Gallatin, Park","Livingston, Gardiner, east downtown Bozeman",no,John Esp,R
+senate,SD 28,South-central Montana,"Carbon, Stillwater, Sweet Grass","Red Lodge, Columbus",no,Forrest Mandeville,R,https://apps.montanafreepress.org/capitol-tracker-2023/lawmakers/Forrest-Mandeville/
+senate,SD 29,Bozeman area,"Gallatin, Park","Livingston, Gardiner, east downtown Bozeman",no,John Esp,R,https://apps.montanafreepress.org/capitol-tracker-2023/lawmakers/John-Esp/
 senate,SD 30,Bozeman area,"Gallatin, Madison","South Bozeman, Big Sky, West Yellowstone",yes,
-senate,SD 31,Bozeman area,Gallatin,"South Bozeman, Huffine Lane",no,Pat Flowers,D
-senate,SD 32,Bozeman area,Gallatin,Northwest Bozeman,no,Denise Hayman,D
+senate,SD 31,Bozeman area,Gallatin,"South Bozeman, Huffine Lane",no,Pat Flowers,D,https://apps.montanafreepress.org/capitol-tracker-2023/lawmakers/Pat-Flowers/
+senate,SD 32,Bozeman area,Gallatin,Northwest Bozeman,no,Denise Hayman,D,https://apps.montanafreepress.org/capitol-tracker-2023/lawmakers/Denise-Hayman/
 senate,SD 33,Bozeman area,Gallatin,"Central Bozeman, north of Bozeman",yes,
-senate,SD 34,Bozeman area,Gallatin,"Belgrade, west of Bozeman",no,Shelley Vance,R
+senate,SD 34,Bozeman area,Gallatin,"Belgrade, west of Bozeman",no,Shelley Vance,R,https://apps.montanafreepress.org/capitol-tracker-2023/lawmakers/Shelley-Vance/
 senate,SD 35,Southwest Montana,"Gallatin, Jefferson, Madison, Beaverhead, Silver Bow","Ennis, Dillon, Twin Bridges, ",yes,
 senate,SD 36,Butte/Anaconda,"Deer Lodge, Silver Bow","Anaconda, Warm Springs, west Butte",yes,
 senate,SD 37,Butte/Anaconda,Silver Bow,Central and south Butte,yes,
 senate,SD 38,Southwest Montana,"Jefferson, Deer Lodge, Granite, Lewis and Clark, Missoula, Powell","Boulder, Deer Lodge, Philipsburg, Drummond",yes,
 senate,SD 39,Central Montana,"Broadwater, Gallatin, Cascade, Fergus, Judith Basin, Meagher, Sweet Grass, Wheatland","White Sulphur Springs, Belt, Stanford, Harlowton",yes,
 senate,SD 40,Helena area,"Jefferson, Lewis and Clark",West Helena and western Helena Valley,yes,
-senate,SD 41,Helena area,Lewis and Clark,Central Helena and Helena Valley,no,Janet Ellis,D
-senate,SD 42,Helena area,Lewis and Clark,East Helena and northeast Helena Valley,no,Mary Ann Dunwell,D
-senate,SD 43,Bitterroot Valley,Ravalli,Hamilton and southern Bitterroot Valley,no,Jason Ellsworth,R
+senate,SD 41,Helena area,Lewis and Clark,Central Helena and Helena Valley,no,Janet Ellis,D,https://apps.montanafreepress.org/capitol-tracker-2023/lawmakers/Janet-Ellis/
+senate,SD 42,Helena area,Lewis and Clark,East Helena and northeast Helena Valley,no,Mary Ann Dunwell,D,https://apps.montanafreepress.org/capitol-tracker-2023/lawmakers/Mary-Ann-Dunwell/
+senate,SD 43,Bitterroot Valley,Ravalli,Hamilton and southern Bitterroot Valley,no,Jason Ellsworth,R,https://apps.montanafreepress.org/capitol-tracker-2023/lawmakers/Jason-Ellsworth/
 senate,SD 44,Bitterroot Valley,Ravalli,Northern Bitterroot Valley,yes,
 senate,SD 45,Missoula area,"Mineral, Missoula, Sanders",I-90 corridor from Frenchtown to Idaho border,yes,
 senate,SD 46,Missoula area,"Lake, Missoula, Sanders","East Missoula, Rattlesnake, Ronan",yes,
 senate,SD 47,Missoula area,Missoula,"Southeast Missoula, Clinton",yes,
-senate,SD 48,Missoula area,Missoula,"Central Missoula, west of Missoula",no,Andrea Olsen,D
-senate,SD 49,Missoula area,Missoula,West Missoula,no,Willis Curdy,D
-senate,SD 50,Missoula area,Missoula,Downtown and north of Missoula,no,Shane Morigeau,D
+senate,SD 48,Missoula area,Missoula,"Central Missoula, west of Missoula",no,Andrea Olsen,D,https://apps.montanafreepress.org/capitol-tracker-2023/lawmakers/Andrea-Olsen/
+senate,SD 49,Missoula area,Missoula,West Missoula,no,Willis Curdy,D,https://apps.montanafreepress.org/capitol-tracker-2023/lawmakers/Willis-Curdy/
+senate,SD 50,Missoula area,Missoula,Downtown and north of Missoula,no,Shane Morigeau,D,https://apps.montanafreepress.org/capitol-tracker-2023/lawmakers/Shane-Morigeau/

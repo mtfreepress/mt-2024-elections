@@ -7,17 +7,19 @@
     "locale": "Eureka, Troy",
     "in_cycle_2024": "yes",
     "holdover_senator": "",
-    "key": "hd-1",
+    "districtKey": "HD-1",
     "candidates": [
       {
         "slug": "neil-duram",
         "displayName": "NEIL DURAM",
-        "party": "R"
+        "party": "R",
+        "cap_tracker_2023_link": "https://apps.montanafreepress.org/capitol-tracker-2023/lawmakers/Neil-Duram/"
       },
       {
         "slug": "dakota-v-adams",
         "displayName": "DAKOTA V ADAMS",
-        "party": "D"
+        "party": "D",
+        "cap_tracker_2023_link": null
       }
     ]
   },
@@ -29,22 +31,25 @@
     "locale": "Libby",
     "in_cycle_2024": "yes",
     "holdover_senator": "",
-    "key": "hd-2",
+    "districtKey": "HD-2",
     "candidates": [
       {
         "slug": "tom-millett",
         "displayName": "TOM MILLETT",
-        "party": "R"
+        "party": "R",
+        "cap_tracker_2023_link": null
       },
       {
         "slug": "thomas-jenkins",
         "displayName": "THOMAS JENKINS",
-        "party": "R"
+        "party": "R",
+        "cap_tracker_2023_link": null
       },
       {
         "slug": "elizabeth-story",
         "displayName": "ELIZABETH STORY",
-        "party": "D"
+        "party": "D",
+        "cap_tracker_2023_link": null
       }
     ]
   },
@@ -56,22 +61,25 @@
     "locale": "North Whitefish, West Glacier",
     "in_cycle_2024": "yes",
     "holdover_senator": "",
-    "key": "hd-3",
+    "districtKey": "HD-3",
     "candidates": [
+      {
+        "slug": "cathy-mitchell",
+        "displayName": "CATHY MITCHELL",
+        "party": "R",
+        "cap_tracker_2023_link": null
+      },
       {
         "slug": "debo-powers",
         "displayName": "DEBO POWERS",
-        "party": "D"
+        "party": "D",
+        "cap_tracker_2023_link": null
       },
       {
         "slug": "guthrie-quist",
         "displayName": "GUTHRIE QUIST",
-        "party": "D"
-      },
-      {
-        "slug": "cathy-mitchell",
-        "displayName": "CATHY MITCHELL",
-        "party": "R"
+        "party": "D",
+        "cap_tracker_2023_link": null
       }
     ]
   },
@@ -83,17 +91,19 @@
     "locale": "Southeast Whitefish, Columbia Falls",
     "in_cycle_2024": "yes",
     "holdover_senator": "",
-    "key": "hd-4",
+    "districtKey": "HD-4",
     "candidates": [
       {
         "slug": "lyn-bennett",
         "displayName": "LYN BENNETT",
-        "party": "R"
+        "party": "R",
+        "cap_tracker_2023_link": null
       },
       {
         "slug": "lindsey-jordan",
         "displayName": "LINDSEY JORDAN",
-        "party": "D"
+        "party": "D",
+        "cap_tracker_2023_link": null
       }
     ]
   },
@@ -105,17 +115,19 @@
     "locale": "Hungry Horse",
     "in_cycle_2024": "yes",
     "holdover_senator": "",
-    "key": "hd-5",
+    "districtKey": "HD-5",
     "candidates": [
       {
         "slug": "braxton-mitchell",
         "displayName": "BRAXTON MITCHELL",
-        "party": "R"
+        "party": "R",
+        "cap_tracker_2023_link": "https://apps.montanafreepress.org/capitol-tracker-2023/lawmakers/Braxton-Mitchell/"
       },
       {
         "slug": "steve-paugh",
         "displayName": "STEVE PAUGH",
-        "party": "D"
+        "party": "D",
+        "cap_tracker_2023_link": null
       }
     ]
   },
@@ -127,17 +139,19 @@
     "locale": "Northwest of Kalispell",
     "in_cycle_2024": "yes",
     "holdover_senator": "",
-    "key": "hd-6",
+    "districtKey": "HD-6",
     "candidates": [
       {
         "slug": "amy-regier",
         "displayName": "AMY REGIER",
-        "party": "R"
+        "party": "R",
+        "cap_tracker_2023_link": "https://apps.montanafreepress.org/capitol-tracker-2023/lawmakers/Amy-Regier/"
       },
       {
         "slug": "velvet-phillipssullivan",
         "displayName": "VELVET PHILLIPSSULLIVAN",
-        "party": "D"
+        "party": "D",
+        "cap_tracker_2023_link": null
       }
     ]
   },
@@ -149,22 +163,25 @@
     "locale": "Central Kalispell",
     "in_cycle_2024": "yes",
     "holdover_senator": "",
-    "key": "hd-7",
+    "districtKey": "HD-7",
     "candidates": [
       {
         "slug": "courtenay-sprunger",
         "displayName": "COURTENAY SPRUNGER",
-        "party": "R"
+        "party": "R",
+        "cap_tracker_2023_link": "https://apps.montanafreepress.org/capitol-tracker-2023/lawmakers/Courtenay-Sprunger/"
       },
       {
         "slug": "shaun-pandina",
         "displayName": "SHAUN PANDINA",
-        "party": "R"
+        "party": "R",
+        "cap_tracker_2023_link": null
       },
       {
         "slug": "arthur-fretheim",
         "displayName": "ARTHUR FRETHEIM",
-        "party": "D"
+        "party": "D",
+        "cap_tracker_2023_link": null
       }
     ]
   },
@@ -176,22 +193,25 @@
     "locale": "Northeast Kalispell",
     "in_cycle_2024": "yes",
     "holdover_senator": "",
-    "key": "hd-8",
+    "districtKey": "HD-8",
     "candidates": [
       {
         "slug": "lukas-schubert",
         "displayName": "LUKAS SCHUBERT",
-        "party": "R"
+        "party": "R",
+        "cap_tracker_2023_link": null
       },
       {
         "slug": "tony-brockman",
         "displayName": "TONY BROCKMAN",
-        "party": "R"
+        "party": "R",
+        "cap_tracker_2023_link": "https://apps.montanafreepress.org/capitol-tracker-2023/lawmakers/Tony-Brockman/"
       },
       {
         "slug": "beth-sibert",
         "displayName": "BETH SIBERT",
-        "party": "D"
+        "party": "D",
+        "cap_tracker_2023_link": null
       }
     ]
   },
@@ -203,22 +223,25 @@
     "locale": "South of Kalispell",
     "in_cycle_2024": "yes",
     "holdover_senator": "",
-    "key": "hd-9",
+    "districtKey": "HD-9",
     "candidates": [
       {
         "slug": "lee-huestis",
         "displayName": "LEE HUESTIS",
-        "party": "R"
+        "party": "R",
+        "cap_tracker_2023_link": null
       },
       {
         "slug": "steven-c-kelly",
         "displayName": "STEVEN C KELLY",
-        "party": "R"
+        "party": "R",
+        "cap_tracker_2023_link": null
       },
       {
         "slug": "joanne-morrow",
         "displayName": "JOANNE MORROW",
-        "party": "D"
+        "party": "D",
+        "cap_tracker_2023_link": null
       }
     ]
   },
@@ -230,17 +253,19 @@
     "locale": "West Kalispell",
     "in_cycle_2024": "yes",
     "holdover_senator": "",
-    "key": "hd-10",
+    "districtKey": "HD-10",
     "candidates": [
-      {
-        "slug": "devin-t-marconi",
-        "displayName": "DEVIN T MARCONI",
-        "party": "D"
-      },
       {
         "slug": "terry-falk",
         "displayName": "TERRY FALK",
-        "party": "R"
+        "party": "R",
+        "cap_tracker_2023_link": null
+      },
+      {
+        "slug": "devin-t-marconi",
+        "displayName": "DEVIN T MARCONI",
+        "party": "D",
+        "cap_tracker_2023_link": null
       }
     ]
   },
@@ -252,22 +277,25 @@
     "locale": "East of Kalispell",
     "in_cycle_2024": "yes",
     "holdover_senator": "",
-    "key": "hd-11",
+    "districtKey": "HD-11",
     "candidates": [
       {
         "slug": "rob-tracy",
         "displayName": "ROB TRACY",
-        "party": "R"
+        "party": "R",
+        "cap_tracker_2023_link": null
       },
       {
         "slug": "ed-byrne",
         "displayName": "ED BYRNE",
-        "party": "R"
+        "party": "R",
+        "cap_tracker_2023_link": null
       },
       {
         "slug": "jennifer-allen",
         "displayName": "JENNIFER ALLEN",
-        "party": "D"
+        "party": "D",
+        "cap_tracker_2023_link": null
       }
     ]
   },
@@ -279,17 +307,19 @@
     "locale": "Bigfork, Flathead Lake",
     "in_cycle_2024": "yes",
     "holdover_senator": "",
-    "key": "hd-12",
+    "districtKey": "HD-12",
     "candidates": [
       {
         "slug": "tracy-a-sharp",
         "displayName": "TRACY A SHARP",
-        "party": "R"
+        "party": "R",
+        "cap_tracker_2023_link": null
       },
       {
         "slug": "barry-olson",
         "displayName": "BARRY OLSON",
-        "party": "D"
+        "party": "D",
+        "cap_tracker_2023_link": null
       }
     ]
   },
@@ -301,17 +331,19 @@
     "locale": "Polson",
     "in_cycle_2024": "yes",
     "holdover_senator": "",
-    "key": "hd-13",
+    "districtKey": "HD-13",
     "candidates": [
-      {
-        "slug": "shirley-azzopardi",
-        "displayName": "SHIRLEY AZZOPARDI",
-        "party": "D"
-      },
       {
         "slug": "linda-e-reksten",
         "displayName": "LINDA E REKSTEN",
-        "party": "R"
+        "party": "R",
+        "cap_tracker_2023_link": "https://apps.montanafreepress.org/capitol-tracker-2023/lawmakers/Linda-Reksten/"
+      },
+      {
+        "slug": "shirley-azzopardi",
+        "displayName": "SHIRLEY AZZOPARDI",
+        "party": "D",
+        "cap_tracker_2023_link": null
       }
     ]
   },
@@ -323,17 +355,19 @@
     "locale": "Noxon, Trout Creek, Thompson Falls, Plains",
     "in_cycle_2024": "yes",
     "holdover_senator": "",
-    "key": "hd-14",
+    "districtKey": "HD-14",
     "candidates": [
       {
         "slug": "paul-c-fielder",
         "displayName": "PAUL C FIELDER",
-        "party": "R"
+        "party": "R",
+        "cap_tracker_2023_link": "https://apps.montanafreepress.org/capitol-tracker-2023/lawmakers/Paul-Fielder/"
       },
       {
         "slug": "colleen-hinds",
         "displayName": "COLLEEN HINDS",
-        "party": "D"
+        "party": "D",
+        "cap_tracker_2023_link": null
       }
     ]
   },
@@ -345,17 +379,19 @@
     "locale": "South Browning, Heart Butte, St. Ignatius",
     "in_cycle_2024": "yes",
     "holdover_senator": "",
-    "key": "hd-15",
+    "districtKey": "HD-15",
     "candidates": [
       {
         "slug": "ralph-foster",
         "displayName": "RALPH FOSTER",
-        "party": "R"
+        "party": "R",
+        "cap_tracker_2023_link": null
       },
       {
         "slug": "thedis-crowe",
         "displayName": "THEDIS CROWE",
-        "party": "D"
+        "party": "D",
+        "cap_tracker_2023_link": null
       }
     ]
   },
@@ -367,22 +403,25 @@
     "locale": "North Browning, East Glacier, Cut Bank",
     "in_cycle_2024": "yes",
     "holdover_senator": "",
-    "key": "hd-16",
+    "districtKey": "HD-16",
     "candidates": [
-      {
-        "slug": "tyson-t-running-wolf",
-        "displayName": "TYSON T RUNNING WOLF",
-        "party": "D"
-      },
       {
         "slug": "rolland-ely-heagy",
         "displayName": "ROLLAND ELY HEAGY",
-        "party": "R"
+        "party": "R",
+        "cap_tracker_2023_link": null
       },
       {
         "slug": "elaine-utterback--mitchell",
         "displayName": "ELAINE UTTERBACK  MITCHELL",
-        "party": "R"
+        "party": "R",
+        "cap_tracker_2023_link": null
+      },
+      {
+        "slug": "tyson-t-running-wolf",
+        "displayName": "TYSON T RUNNING WOLF",
+        "party": "D",
+        "cap_tracker_2023_link": "https://apps.montanafreepress.org/capitol-tracker-2023/lawmakers/Tyson-Running-Wolf/"
       }
     ]
   },
@@ -394,17 +433,19 @@
     "locale": "Choteau, Fairfield, Wolf Creek, North Helena Valley",
     "in_cycle_2024": "yes",
     "holdover_senator": "",
-    "key": "hd-17",
+    "districtKey": "HD-17",
     "candidates": [
       {
         "slug": "zack-wirth",
         "displayName": "ZACK WIRTH",
-        "party": "R"
+        "party": "R",
+        "cap_tracker_2023_link": null
       },
       {
         "slug": "leonard-bates",
         "displayName": "LEONARD BATES",
-        "party": "D"
+        "party": "D",
+        "cap_tracker_2023_link": null
       }
     ]
   },
@@ -416,22 +457,25 @@
     "locale": "Conrad, Valier, Shelby, Dutton",
     "in_cycle_2024": "yes",
     "holdover_senator": "",
-    "key": "hd-18",
+    "districtKey": "HD-18",
     "candidates": [
-      {
-        "slug": "david-arends",
-        "displayName": "DAVID ARENDS",
-        "party": "D"
-      },
       {
         "slug": "llew-jones",
         "displayName": "LLEW JONES",
-        "party": "R"
+        "party": "R",
+        "cap_tracker_2023_link": "https://apps.montanafreepress.org/capitol-tracker-2023/lawmakers/Llew-Jones/"
       },
       {
         "slug": "james-coombs",
         "displayName": "JAMES COOMBS",
-        "party": "R"
+        "party": "R",
+        "cap_tracker_2023_link": null
+      },
+      {
+        "slug": "david-arends",
+        "displayName": "DAVID ARENDS",
+        "party": "D",
+        "cap_tracker_2023_link": null
       }
     ]
   },
@@ -443,22 +487,25 @@
     "locale": "Downtown Great Falls",
     "in_cycle_2024": "yes",
     "holdover_senator": "",
-    "key": "hd-19",
+    "districtKey": "HD-19",
     "candidates": [
-      {
-        "slug": "jane-weber",
-        "displayName": "JANE WEBER",
-        "party": "D"
-      },
       {
         "slug": "hannah-trebas",
         "displayName": "HANNAH TREBAS",
-        "party": "R"
+        "party": "R",
+        "cap_tracker_2023_link": null
       },
       {
         "slug": "derren-auger",
         "displayName": "DERREN AUGER",
-        "party": "R"
+        "party": "R",
+        "cap_tracker_2023_link": null
+      },
+      {
+        "slug": "jane-weber",
+        "displayName": "JANE WEBER",
+        "party": "D",
+        "cap_tracker_2023_link": null
       }
     ]
   },
@@ -470,22 +517,25 @@
     "locale": "East-central Great Falls",
     "in_cycle_2024": "yes",
     "holdover_senator": "",
-    "key": "hd-20",
+    "districtKey": "HD-20",
     "candidates": [
-      {
-        "slug": "rina-fontana-moore",
-        "displayName": "RINA FONTANA MOORE",
-        "party": "D"
-      },
       {
         "slug": "steven-galloway",
         "displayName": "STEVEN GALLOWAY",
-        "party": "R"
+        "party": "R",
+        "cap_tracker_2023_link": "https://apps.montanafreepress.org/capitol-tracker-2023/lawmakers/Steven-Galloway/"
       },
       {
         "slug": "melissa-nikolakakos",
         "displayName": "MELISSA NIKOLAKAKOS",
-        "party": "R"
+        "party": "R",
+        "cap_tracker_2023_link": null
+      },
+      {
+        "slug": "rina-fontana-moore",
+        "displayName": "RINA FONTANA MOORE",
+        "party": "D",
+        "cap_tracker_2023_link": null
       }
     ]
   },
@@ -497,22 +547,25 @@
     "locale": "Northwest Great Falls, Black Eagle",
     "in_cycle_2024": "yes",
     "holdover_senator": "",
-    "key": "hd-21",
+    "districtKey": "HD-21",
     "candidates": [
-      {
-        "slug": "lela-graham",
-        "displayName": "LELA GRAHAM",
-        "party": "D"
-      },
       {
         "slug": "ed-buttrey",
         "displayName": "ED BUTTREY",
-        "party": "R"
+        "party": "R",
+        "cap_tracker_2023_link": "https://apps.montanafreepress.org/capitol-tracker-2023/lawmakers/Ed-Buttrey/"
       },
       {
         "slug": "james-osterman",
         "displayName": "JAMES OSTERMAN",
-        "party": "R"
+        "party": "R",
+        "cap_tracker_2023_link": null
+      },
+      {
+        "slug": "lela-graham",
+        "displayName": "LELA GRAHAM",
+        "party": "D",
+        "cap_tracker_2023_link": null
       }
     ]
   },
@@ -524,22 +577,25 @@
     "locale": "East Great Falls, Malmstrom Air Force Base",
     "in_cycle_2024": "yes",
     "holdover_senator": "",
-    "key": "hd-22",
+    "districtKey": "HD-22",
     "candidates": [
       {
         "slug": "george-nikolakakos",
         "displayName": "GEORGE NIKOLAKAKOS",
-        "party": "R"
-      },
-      {
-        "slug": "ronald-k-paulick",
-        "displayName": "RONALD K PAULICK",
-        "party": "D"
+        "party": "R",
+        "cap_tracker_2023_link": "https://apps.montanafreepress.org/capitol-tracker-2023/lawmakers/George-Nikolakakos/"
       },
       {
         "slug": "james-g-whitaker",
         "displayName": "JAMES G WHITAKER",
-        "party": "R"
+        "party": "R",
+        "cap_tracker_2023_link": null
+      },
+      {
+        "slug": "ronald-k-paulick",
+        "displayName": "RONALD K PAULICK",
+        "party": "D",
+        "cap_tracker_2023_link": null
       }
     ]
   },
@@ -551,37 +607,43 @@
     "locale": "South Great Falls",
     "in_cycle_2024": "yes",
     "holdover_senator": "",
-    "key": "hd-23",
+    "districtKey": "HD-23",
     "candidates": [
       {
         "slug": "eric-tilleman",
         "displayName": "ERIC TILLEMAN",
-        "party": "R"
-      },
-      {
-        "slug": "sandor-r-hopkins",
-        "displayName": "SANDOR R HOPKINS",
-        "party": "D"
-      },
-      {
-        "slug": "kevin-leatherbarrow",
-        "displayName": "KEVIN LEATHERBARROW",
-        "party": "L"
+        "party": "R",
+        "cap_tracker_2023_link": null
       },
       {
         "slug": "pete-anderson",
         "displayName": "PETE ANDERSON",
-        "party": "R"
+        "party": "R",
+        "cap_tracker_2023_link": null
       },
       {
         "slug": "john-h--proud",
         "displayName": "JOHN H  PROUD",
-        "party": "R"
+        "party": "R",
+        "cap_tracker_2023_link": null
       },
       {
         "slug": "josh-denully",
         "displayName": "JOSH DENULLY",
-        "party": "R"
+        "party": "R",
+        "cap_tracker_2023_link": null
+      },
+      {
+        "slug": "sandor-r-hopkins",
+        "displayName": "SANDOR R HOPKINS",
+        "party": "D",
+        "cap_tracker_2023_link": null
+      },
+      {
+        "slug": "kevin-leatherbarrow",
+        "displayName": "KEVIN LEATHERBARROW",
+        "party": "L",
+        "cap_tracker_2023_link": null
       }
     ]
   },
@@ -593,12 +655,13 @@
     "locale": "West Great Falls",
     "in_cycle_2024": "yes",
     "holdover_senator": "",
-    "key": "hd-24",
+    "districtKey": "HD-24",
     "candidates": [
       {
         "slug": "steve-fitzpatrick",
         "displayName": "STEVE FITZPATRICK",
-        "party": "R"
+        "party": "R",
+        "cap_tracker_2023_link": "https://apps.montanafreepress.org/capitol-tracker-2023/lawmakers/Steve-Fitzpatrick/"
       }
     ]
   },
@@ -610,17 +673,19 @@
     "locale": "Cascade, Ulm, Vaughn",
     "in_cycle_2024": "yes",
     "holdover_senator": "",
-    "key": "hd-25",
+    "districtKey": "HD-25",
     "candidates": [
-      {
-        "slug": "james-rickley",
-        "displayName": "JAMES RICKLEY",
-        "party": "D"
-      },
       {
         "slug": "steve-gist",
         "displayName": "STEVE GIST",
-        "party": "R"
+        "party": "R",
+        "cap_tracker_2023_link": "https://apps.montanafreepress.org/capitol-tracker-2023/lawmakers/Steve-Gist/"
+      },
+      {
+        "slug": "james-rickley",
+        "displayName": "JAMES RICKLEY",
+        "party": "D",
+        "cap_tracker_2023_link": null
       }
     ]
   },
@@ -632,17 +697,19 @@
     "locale": "Fort Benton, Big Sandy, Geraldine",
     "in_cycle_2024": "yes",
     "holdover_senator": "",
-    "key": "hd-26",
+    "districtKey": "HD-26",
     "candidates": [
       {
         "slug": "russel-miner",
         "displayName": "RUSSEL MINER",
-        "party": "R"
+        "party": "R",
+        "cap_tracker_2023_link": "https://apps.montanafreepress.org/capitol-tracker-2023/lawmakers/Russ-Miner/"
       },
       {
         "slug": "dana--darlington",
         "displayName": "DANA  DARLINGTON",
-        "party": "R"
+        "party": "R",
+        "cap_tracker_2023_link": null
       }
     ]
   },
@@ -654,17 +721,19 @@
     "locale": "Havre",
     "in_cycle_2024": "yes",
     "holdover_senator": "",
-    "key": "hd-27",
+    "districtKey": "HD-27",
     "candidates": [
-      {
-        "slug": "paul-tuss",
-        "displayName": "PAUL TUSS",
-        "party": "D"
-      },
       {
         "slug": "ed-hill",
         "displayName": "ED HILL",
-        "party": "R"
+        "party": "R",
+        "cap_tracker_2023_link": null
+      },
+      {
+        "slug": "paul-tuss",
+        "displayName": "PAUL TUSS",
+        "party": "D",
+        "cap_tracker_2023_link": "https://apps.montanafreepress.org/capitol-tracker-2023/lawmakers/Paul-Tuss/"
       }
     ]
   },
@@ -676,27 +745,31 @@
     "locale": "Chester, Chinook, Malta, Opheim",
     "in_cycle_2024": "yes",
     "holdover_senator": "",
-    "key": "hd-28",
+    "districtKey": "HD-28",
     "candidates": [
       {
         "slug": "eric-albus",
         "displayName": "ERIC ALBUS",
-        "party": "R"
+        "party": "R",
+        "cap_tracker_2023_link": null
       },
       {
         "slug": "mark-l-wicks",
         "displayName": "MARK L WICKS",
-        "party": "R"
+        "party": "R",
+        "cap_tracker_2023_link": null
       },
       {
         "slug": "wayne-stahl",
         "displayName": "WAYNE STAHL",
-        "party": "R"
+        "party": "R",
+        "cap_tracker_2023_link": null
       },
       {
         "slug": "blake-borst",
         "displayName": "BLAKE BORST",
-        "party": "D"
+        "party": "D",
+        "cap_tracker_2023_link": null
       }
     ]
   },
@@ -708,17 +781,19 @@
     "locale": "Glasgow, Nashua, Scobey, Plentywood ",
     "in_cycle_2024": "yes",
     "holdover_senator": "",
-    "key": "hd-29",
+    "districtKey": "HD-29",
     "candidates": [
       {
         "slug": "miles-knudsen",
         "displayName": "MILES KNUDSEN",
-        "party": "R"
+        "party": "R",
+        "cap_tracker_2023_link": null
       },
       {
         "slug": "valerie-moore",
         "displayName": "VALERIE MOORE",
-        "party": "R"
+        "party": "R",
+        "cap_tracker_2023_link": null
       }
     ]
   },
@@ -730,12 +805,13 @@
     "locale": "Culbertson, Sidney",
     "in_cycle_2024": "yes",
     "holdover_senator": "",
-    "key": "hd-30",
+    "districtKey": "HD-30",
     "candidates": [
       {
         "slug": "morgan-thiel",
         "displayName": "MORGAN THIEL",
-        "party": "R"
+        "party": "R",
+        "cap_tracker_2023_link": null
       }
     ]
   },
@@ -747,22 +823,25 @@
     "locale": "Lodge Pole, Fort Peck, Wolf Point, Poplar, Brockton",
     "in_cycle_2024": "yes",
     "holdover_senator": "",
-    "key": "hd-31",
+    "districtKey": "HD-31",
     "candidates": [
+      {
+        "slug": "kevin-taylor",
+        "displayName": "KEVIN TAYLOR",
+        "party": "R",
+        "cap_tracker_2023_link": null
+      },
       {
         "slug": "lance-fourstar",
         "displayName": "LANCE FOURSTAR",
-        "party": "D"
+        "party": "D",
+        "cap_tracker_2023_link": null
       },
       {
         "slug": "frank-j-smith",
         "displayName": "FRANK J SMITH",
-        "party": "D"
-      },
-      {
-        "slug": "kevin-taylor",
-        "displayName": "KEVIN TAYLOR",
-        "party": "R"
+        "party": "D",
+        "cap_tracker_2023_link": "https://apps.montanafreepress.org/capitol-tracker-2023/lawmakers/Frank-Smith/"
       }
     ]
   },
@@ -774,17 +853,19 @@
     "locale": "Rocky Boy's, Harlem, Fort Belknap",
     "in_cycle_2024": "yes",
     "holdover_senator": "",
-    "key": "hd-32",
+    "districtKey": "HD-32",
     "candidates": [
-      {
-        "slug": "mike-fox",
-        "displayName": "MIKE FOX",
-        "party": "D"
-      },
       {
         "slug": "jason-ulrich",
         "displayName": "JASON ULRICH",
-        "party": "R"
+        "party": "R",
+        "cap_tracker_2023_link": null
+      },
+      {
+        "slug": "mike-fox",
+        "displayName": "MIKE FOX",
+        "party": "D",
+        "cap_tracker_2023_link": null
       }
     ]
   },
@@ -796,17 +877,19 @@
     "locale": "Glendive, Richey",
     "in_cycle_2024": "yes",
     "holdover_senator": "",
-    "key": "hd-33",
+    "districtKey": "HD-33",
     "candidates": [
       {
         "slug": "brandon-ler",
         "displayName": "BRANDON LER",
-        "party": "R"
+        "party": "R",
+        "cap_tracker_2023_link": "https://apps.montanafreepress.org/capitol-tracker-2023/lawmakers/Brandon-Ler/"
       },
       {
         "slug": "kathy-hoiland",
         "displayName": "KATHY HOILAND",
-        "party": "R"
+        "party": "R",
+        "cap_tracker_2023_link": null
       }
     ]
   },
@@ -818,12 +901,13 @@
     "locale": "Circle, Terry, Wibaux, Baker, Ekalaka, Broadus",
     "in_cycle_2024": "yes",
     "holdover_senator": "",
-    "key": "hd-34",
+    "districtKey": "HD-34",
     "candidates": [
       {
         "slug": "jerry-schillinger",
         "displayName": "JERRY SCHILLINGER",
-        "party": "R"
+        "party": "R",
+        "cap_tracker_2023_link": "https://apps.montanafreepress.org/capitol-tracker-2023/lawmakers/Jerry-Schillinger/"
       }
     ]
   },
@@ -835,17 +919,19 @@
     "locale": "Forsyth, Colstrip, Worden, Jordan",
     "in_cycle_2024": "yes",
     "holdover_senator": "",
-    "key": "hd-35",
+    "districtKey": "HD-35",
     "candidates": [
       {
         "slug": "gary-w-parry",
         "displayName": "GARY W PARRY",
-        "party": "R"
+        "party": "R",
+        "cap_tracker_2023_link": "https://apps.montanafreepress.org/capitol-tracker-2023/lawmakers/Gary-Parry/"
       },
       {
         "slug": "kim-kreider",
         "displayName": "KIM KREIDER",
-        "party": "D"
+        "party": "D",
+        "cap_tracker_2023_link": null
       }
     ]
   },
@@ -857,17 +943,19 @@
     "locale": "Miles City",
     "in_cycle_2024": "yes",
     "holdover_senator": "",
-    "key": "hd-36",
+    "districtKey": "HD-36",
     "candidates": [
       {
         "slug": "greg-kmetz",
         "displayName": "GREG KMETZ",
-        "party": "R"
+        "party": "R",
+        "cap_tracker_2023_link": "https://apps.montanafreepress.org/capitol-tracker-2023/lawmakers/Greg-Kmetz/"
       },
       {
         "slug": "stan-taylor",
         "displayName": "STAN TAYLOR",
-        "party": "D"
+        "party": "D",
+        "cap_tracker_2023_link": null
       }
     ]
   },
@@ -879,17 +967,19 @@
     "locale": "Lewistown, Grass Range, Winnett, Winifred",
     "in_cycle_2024": "yes",
     "holdover_senator": "",
-    "key": "hd-37",
+    "districtKey": "HD-37",
     "candidates": [
       {
         "slug": "shane-klakken",
         "displayName": "SHANE KLAKKEN",
-        "party": "R"
+        "party": "R",
+        "cap_tracker_2023_link": null
       },
       {
         "slug": "andrea-payne",
         "displayName": "ANDREA PAYNE",
-        "party": "D"
+        "party": "D",
+        "cap_tracker_2023_link": null
       }
     ]
   },
@@ -901,17 +991,19 @@
     "locale": "Roundup, Ryegate, Lavina, Huntley",
     "in_cycle_2024": "yes",
     "holdover_senator": "",
-    "key": "hd-38",
+    "districtKey": "HD-38",
     "candidates": [
       {
         "slug": "greg-oblander",
         "displayName": "GREG OBLANDER",
-        "party": "R"
+        "party": "R",
+        "cap_tracker_2023_link": "https://apps.montanafreepress.org/capitol-tracker-2023/lawmakers/Greg-Oblander/"
       },
       {
         "slug": "nancy-kemler",
         "displayName": "NANCY KEMLER",
-        "party": "R"
+        "party": "R",
+        "cap_tracker_2023_link": null
       }
     ]
   },
@@ -923,17 +1015,19 @@
     "locale": "East Billings Heights",
     "in_cycle_2024": "yes",
     "holdover_senator": "",
-    "key": "hd-39",
+    "districtKey": "HD-39",
     "candidates": [
-      {
-        "slug": "melissa-smith",
-        "displayName": "MELISSA SMITH",
-        "party": "D"
-      },
       {
         "slug": "kerri-seekins-crowe",
         "displayName": "KERRI SEEKINS-CROWE",
-        "party": "R"
+        "party": "R",
+        "cap_tracker_2023_link": "https://apps.montanafreepress.org/capitol-tracker-2023/lawmakers/Kerri-Seekins-Crowe/"
+      },
+      {
+        "slug": "melissa-smith",
+        "displayName": "MELISSA SMITH",
+        "party": "D",
+        "cap_tracker_2023_link": null
       }
     ]
   },
@@ -945,22 +1039,25 @@
     "locale": "Lockwood",
     "in_cycle_2024": "yes",
     "holdover_senator": "",
-    "key": "hd-40",
+    "districtKey": "HD-40",
     "candidates": [
       {
         "slug": "mike-vinton",
         "displayName": "MIKE VINTON",
-        "party": "R"
-      },
-      {
-        "slug": "bob-auch",
-        "displayName": "BOB AUCH",
-        "party": "D"
+        "party": "R",
+        "cap_tracker_2023_link": null
       },
       {
         "slug": "josh-visocan",
         "displayName": "JOSH VISOCAN",
-        "party": "R"
+        "party": "R",
+        "cap_tracker_2023_link": null
+      },
+      {
+        "slug": "bob-auch",
+        "displayName": "BOB AUCH",
+        "party": "D",
+        "cap_tracker_2023_link": null
       }
     ]
   },
@@ -972,17 +1069,19 @@
     "locale": "Hardin, Busby, Lame Deer, Ashland",
     "in_cycle_2024": "yes",
     "holdover_senator": "",
-    "key": "hd-41",
+    "districtKey": "HD-41",
     "candidates": [
-      {
-        "slug": "jade-sooktis",
-        "displayName": "JADE SOOKTIS",
-        "party": "D"
-      },
       {
         "slug": "da-wallowing-bull",
         "displayName": "DA WALLOWING BULL",
-        "party": "R"
+        "party": "R",
+        "cap_tracker_2023_link": null
+      },
+      {
+        "slug": "jade-sooktis",
+        "displayName": "JADE SOOKTIS",
+        "party": "D",
+        "cap_tracker_2023_link": null
       }
     ]
   },
@@ -994,17 +1093,19 @@
     "locale": "Crow Agency, Lodge Grass, Wyola, Pryor",
     "in_cycle_2024": "yes",
     "holdover_senator": "",
-    "key": "hd-42",
+    "districtKey": "HD-42",
     "candidates": [
       {
         "slug": "bill-hodges",
         "displayName": "BILL HODGES",
-        "party": "R"
+        "party": "R",
+        "cap_tracker_2023_link": null
       },
       {
         "slug": "sidney-'chip'-fitzpatrick",
         "displayName": "SIDNEY 'CHIP' FITZPATRICK",
-        "party": "D"
+        "party": "D",
+        "cap_tracker_2023_link": null
       }
     ]
   },
@@ -1016,17 +1117,19 @@
     "locale": "Central Billings Heights",
     "in_cycle_2024": "yes",
     "holdover_senator": "",
-    "key": "hd-43",
+    "districtKey": "HD-43",
     "candidates": [
       {
         "slug": "larry-brewster",
         "displayName": "LARRY BREWSTER",
-        "party": "R"
+        "party": "R",
+        "cap_tracker_2023_link": "https://apps.montanafreepress.org/capitol-tracker-2023/lawmakers/Larry-Brewster/"
       },
       {
         "slug": "alexander-clark",
         "displayName": "ALEXANDER CLARK",
-        "party": "D"
+        "party": "D",
+        "cap_tracker_2023_link": null
       }
     ]
   },
@@ -1038,12 +1141,13 @@
     "locale": "North Billings Heights, Shepherd",
     "in_cycle_2024": "yes",
     "holdover_senator": "",
-    "key": "hd-44",
+    "districtKey": "HD-44",
     "candidates": [
       {
         "slug": "katie-zolnikov",
         "displayName": "KATIE ZOLNIKOV",
-        "party": "R"
+        "party": "R",
+        "cap_tracker_2023_link": "https://apps.montanafreepress.org/capitol-tracker-2023/lawmakers/Katie-Zolnikov/"
       }
     ]
   },
@@ -1055,17 +1159,19 @@
     "locale": "North-Central Billings",
     "in_cycle_2024": "yes",
     "holdover_senator": "",
-    "key": "hd-45",
+    "districtKey": "HD-45",
     "candidates": [
-      {
-        "slug": "denise-baum",
-        "displayName": "DENISE BAUM",
-        "party": "D"
-      },
       {
         "slug": "kassidy-olson",
         "displayName": "KASSIDY OLSON",
-        "party": "R"
+        "party": "R",
+        "cap_tracker_2023_link": null
+      },
+      {
+        "slug": "denise-baum",
+        "displayName": "DENISE BAUM",
+        "party": "D",
+        "cap_tracker_2023_link": "https://apps.montanafreepress.org/capitol-tracker-2023/lawmakers/Denise-Baum/"
       }
     ]
   },
@@ -1077,17 +1183,19 @@
     "locale": "Central Billings",
     "in_cycle_2024": "yes",
     "holdover_senator": "",
-    "key": "hd-46",
+    "districtKey": "HD-46",
     "candidates": [
-      {
-        "slug": "emma-kerr-carpenter",
-        "displayName": "EMMA KERR CARPENTER",
-        "party": "D"
-      },
       {
         "slug": "starr-emery",
         "displayName": "STARR EMERY",
-        "party": "R"
+        "party": "R",
+        "cap_tracker_2023_link": null
+      },
+      {
+        "slug": "emma-kerr-carpenter",
+        "displayName": "EMMA KERR CARPENTER",
+        "party": "D",
+        "cap_tracker_2023_link": "https://apps.montanafreepress.org/capitol-tracker-2023/lawmakers/Emma-Kerr-Carpenter/"
       }
     ]
   },
@@ -1099,22 +1207,25 @@
     "locale": "Downtown and South Billings",
     "in_cycle_2024": "yes",
     "holdover_senator": "",
-    "key": "hd-47",
+    "districtKey": "HD-47",
     "candidates": [
-      {
-        "slug": "james-reavis",
-        "displayName": "JAMES REAVIS",
-        "party": "D"
-      },
       {
         "slug": "thomas-mahon",
         "displayName": "THOMAS MAHON",
-        "party": "R"
+        "party": "R",
+        "cap_tracker_2023_link": null
       },
       {
         "slug": "stephanie-moncada",
         "displayName": "STEPHANIE MONCADA",
-        "party": "R"
+        "party": "R",
+        "cap_tracker_2023_link": null
+      },
+      {
+        "slug": "james-reavis",
+        "displayName": "JAMES REAVIS",
+        "party": "D",
+        "cap_tracker_2023_link": null
       }
     ]
   },
@@ -1126,17 +1237,19 @@
     "locale": "South-central Billings",
     "in_cycle_2024": "yes",
     "holdover_senator": "",
-    "key": "hd-48",
+    "districtKey": "HD-48",
     "candidates": [
       {
         "slug": "curtis-schomer",
         "displayName": "CURTIS SCHOMER",
-        "party": "R"
+        "party": "R",
+        "cap_tracker_2023_link": null
       },
       {
         "slug": "anne-ross",
         "displayName": "ANNE ROSS",
-        "party": "D"
+        "party": "D",
+        "cap_tracker_2023_link": null
       }
     ]
   },
@@ -1148,17 +1261,19 @@
     "locale": "Southwest Billings",
     "in_cycle_2024": "yes",
     "holdover_senator": "",
-    "key": "hd-49",
+    "districtKey": "HD-49",
     "candidates": [
       {
         "slug": "sherry-essmann",
         "displayName": "SHERRY ESSMANN",
-        "party": "R"
+        "party": "R",
+        "cap_tracker_2023_link": "https://apps.montanafreepress.org/capitol-tracker-2023/lawmakers/Sherry-Essmann/"
       },
       {
         "slug": "rudolf-haden",
         "displayName": "RUDOLF HADEN",
-        "party": "D"
+        "party": "D",
+        "cap_tracker_2023_link": null
       }
     ]
   },
@@ -1170,17 +1285,19 @@
     "locale": "West Billings",
     "in_cycle_2024": "yes",
     "holdover_senator": "",
-    "key": "hd-50",
+    "districtKey": "HD-50",
     "candidates": [
       {
         "slug": "anthony-nicastro",
         "displayName": "ANTHONY NICASTRO",
-        "party": "R"
+        "party": "R",
+        "cap_tracker_2023_link": null
       },
       {
         "slug": "shawn-c-giesick",
         "displayName": "SHAWN C GIESICK",
-        "party": "D"
+        "party": "D",
+        "cap_tracker_2023_link": null
       }
     ]
   },
@@ -1192,12 +1309,13 @@
     "locale": "Northwest Billings",
     "in_cycle_2024": "yes",
     "holdover_senator": "",
-    "key": "hd-51",
+    "districtKey": "HD-51",
     "candidates": [
       {
         "slug": "jodee-etchart",
         "displayName": "JODEE ETCHART",
-        "party": "R"
+        "party": "R",
+        "cap_tracker_2023_link": null
       }
     ]
   },
@@ -1209,17 +1327,19 @@
     "locale": "Northwest Billings",
     "in_cycle_2024": "yes",
     "holdover_senator": "",
-    "key": "hd-52",
+    "districtKey": "HD-52",
     "candidates": [
       {
         "slug": "bill-mercer",
         "displayName": "BILL MERCER",
-        "party": "R"
+        "party": "R",
+        "cap_tracker_2023_link": "https://apps.montanafreepress.org/capitol-tracker-2023/lawmakers/Bill-Mercer/"
       },
       {
         "slug": "carole-boerner",
         "displayName": "CAROLE BOERNER",
-        "party": "D"
+        "party": "D",
+        "cap_tracker_2023_link": null
       }
     ]
   },
@@ -1231,22 +1351,25 @@
     "locale": "West of Billings",
     "in_cycle_2024": "yes",
     "holdover_senator": "",
-    "key": "hd-53",
+    "districtKey": "HD-53",
     "candidates": [
       {
         "slug": "nelly-nicol",
         "displayName": "NELLY NICOL",
-        "party": "R"
-      },
-      {
-        "slug": "ellie-kerns",
-        "displayName": "ELLIE KERNS",
-        "party": "D"
+        "party": "R",
+        "cap_tracker_2023_link": "https://apps.montanafreepress.org/capitol-tracker-2023/lawmakers/Nelly-Nicol/"
       },
       {
         "slug": "david-austin",
         "displayName": "DAVID AUSTIN",
-        "party": "R"
+        "party": "R",
+        "cap_tracker_2023_link": null
+      },
+      {
+        "slug": "ellie-kerns",
+        "displayName": "ELLIE KERNS",
+        "party": "D",
+        "cap_tracker_2023_link": null
       }
     ]
   },
@@ -1258,12 +1381,13 @@
     "locale": "Laurel, South of Billings",
     "in_cycle_2024": "yes",
     "holdover_senator": "",
-    "key": "hd-54",
+    "districtKey": "HD-54",
     "candidates": [
       {
         "slug": "lee-deming",
         "displayName": "LEE DEMING",
-        "party": "R"
+        "party": "R",
+        "cap_tracker_2023_link": "https://apps.montanafreepress.org/capitol-tracker-2023/lawmakers/Lee-Deming/"
       }
     ]
   },
@@ -1275,27 +1399,31 @@
     "locale": "Red Lodge, Bridger, Joliet",
     "in_cycle_2024": "yes",
     "holdover_senator": "",
-    "key": "hd-55",
+    "districtKey": "HD-55",
     "candidates": [
       {
         "slug": "brad-barker",
         "displayName": "BRAD BARKER",
-        "party": "R"
-      },
-      {
-        "slug": "kim-gillan",
-        "displayName": "KIM GILLAN",
-        "party": "D"
+        "party": "R",
+        "cap_tracker_2023_link": "https://apps.montanafreepress.org/capitol-tracker-2023/lawmakers/Brad-Barker/"
       },
       {
         "slug": "mary-horman",
         "displayName": "MARY HORMAN",
-        "party": "R"
+        "party": "R",
+        "cap_tracker_2023_link": null
       },
       {
         "slug": "lisa-bennett",
         "displayName": "LISA BENNETT",
-        "party": "R"
+        "party": "R",
+        "cap_tracker_2023_link": null
+      },
+      {
+        "slug": "kim-gillan",
+        "displayName": "KIM GILLAN",
+        "party": "D",
+        "cap_tracker_2023_link": null
       }
     ]
   },
@@ -1307,12 +1435,13 @@
     "locale": "Columbus, Reed Point, Park City",
     "in_cycle_2024": "yes",
     "holdover_senator": "",
-    "key": "hd-56",
+    "districtKey": "HD-56",
     "candidates": [
       {
         "slug": "fiona-nave",
         "displayName": "FIONA NAVE",
-        "party": "R"
+        "party": "R",
+        "cap_tracker_2023_link": "https://apps.montanafreepress.org/capitol-tracker-2023/lawmakers/Fiona-Nave/"
       }
     ]
   },
@@ -1324,17 +1453,19 @@
     "locale": "Gardiner, Cooke City, Clyde Park, east downtown Bozeman",
     "in_cycle_2024": "yes",
     "holdover_senator": "",
-    "key": "hd-57",
+    "districtKey": "HD-57",
     "candidates": [
       {
         "slug": "marty-malone",
         "displayName": "MARTY MALONE",
-        "party": "R"
+        "party": "R",
+        "cap_tracker_2023_link": "https://apps.montanafreepress.org/capitol-tracker-2023/lawmakers/Marty-Malone/"
       },
       {
         "slug": "scott-rosenzweig",
         "displayName": "SCOTT ROSENZWEIG",
-        "party": "D"
+        "party": "D",
+        "cap_tracker_2023_link": null
       }
     ]
   },
@@ -1346,22 +1477,25 @@
     "locale": "Livingston",
     "in_cycle_2024": "yes",
     "holdover_senator": "",
-    "key": "hd-58",
+    "districtKey": "HD-58",
     "candidates": [
       {
         "slug": "jason-gunderson",
         "displayName": "JASON GUNDERSON",
-        "party": "R"
+        "party": "R",
+        "cap_tracker_2023_link": null
       },
       {
         "slug": "jamie-l-isaly",
         "displayName": "JAMIE L ISALY",
-        "party": "D"
+        "party": "D",
+        "cap_tracker_2023_link": null
       },
       {
         "slug": "dean-williamson",
         "displayName": "DEAN WILLIAMSON",
-        "party": "D"
+        "party": "D",
+        "cap_tracker_2023_link": null
       }
     ]
   },
@@ -1373,17 +1507,19 @@
     "locale": "Southeast Bozeman",
     "in_cycle_2024": "yes",
     "holdover_senator": "",
-    "key": "hd-59",
+    "districtKey": "HD-59",
     "candidates": [
-      {
-        "slug": "ed-stafman",
-        "displayName": "ED STAFMAN",
-        "party": "D"
-      },
       {
         "slug": "marc-greendorfer",
         "displayName": "MARC GREENDORFER",
-        "party": "R"
+        "party": "R",
+        "cap_tracker_2023_link": null
+      },
+      {
+        "slug": "ed-stafman",
+        "displayName": "ED STAFMAN",
+        "party": "D",
+        "cap_tracker_2023_link": "https://apps.montanafreepress.org/capitol-tracker-2023/lawmakers/Ed-Stafman/"
       }
     ]
   },
@@ -1395,17 +1531,19 @@
     "locale": "Big Sky, Gallatin Gateway, West Yellowstone",
     "in_cycle_2024": "yes",
     "holdover_senator": "",
-    "key": "hd-60",
+    "districtKey": "HD-60",
     "candidates": [
-      {
-        "slug": "alanah-griffith",
-        "displayName": "ALANAH GRIFFITH",
-        "party": "D"
-      },
       {
         "slug": "jerry-johnson",
         "displayName": "JERRY JOHNSON",
-        "party": "R"
+        "party": "R",
+        "cap_tracker_2023_link": null
+      },
+      {
+        "slug": "alanah-griffith",
+        "displayName": "ALANAH GRIFFITH",
+        "party": "D",
+        "cap_tracker_2023_link": null
       }
     ]
   },
@@ -1417,17 +1555,19 @@
     "locale": "Montana State University campus and surroundings",
     "in_cycle_2024": "yes",
     "holdover_senator": "",
-    "key": "hd-61",
+    "districtKey": "HD-61",
     "candidates": [
-      {
-        "slug": "becky-edwards",
-        "displayName": "BECKY EDWARDS",
-        "party": "D"
-      },
       {
         "slug": "thomas-carlson",
         "displayName": "THOMAS CARLSON",
-        "party": "R"
+        "party": "R",
+        "cap_tracker_2023_link": null
+      },
+      {
+        "slug": "becky-edwards",
+        "displayName": "BECKY EDWARDS",
+        "party": "D",
+        "cap_tracker_2023_link": null
       }
     ]
   },
@@ -1439,22 +1579,25 @@
     "locale": "Southwest Bozeman, Huffine Lane, South Four Corners",
     "in_cycle_2024": "yes",
     "holdover_senator": "",
-    "key": "hd-62",
+    "districtKey": "HD-62",
     "candidates": [
+      {
+        "slug": "owen-lang",
+        "displayName": "OWEN LANG",
+        "party": "R",
+        "cap_tracker_2023_link": null
+      },
       {
         "slug": "rio-roland",
         "displayName": "RIO ROLAND",
-        "party": "D"
+        "party": "D",
+        "cap_tracker_2023_link": null
       },
       {
         "slug": "joshua-a-seckinger",
         "displayName": "JOSHUA A SECKINGER",
-        "party": "D"
-      },
-      {
-        "slug": "owen-lang",
-        "displayName": "OWEN LANG",
-        "party": "R"
+        "party": "D",
+        "cap_tracker_2023_link": null
       }
     ]
   },
@@ -1466,27 +1609,31 @@
     "locale": "West Bozeman, Four Corners",
     "in_cycle_2024": "yes",
     "holdover_senator": "",
-    "key": "hd-63",
+    "districtKey": "HD-63",
     "candidates": [
-      {
-        "slug": "peter-strand",
-        "displayName": "PETER STRAND",
-        "party": "D"
-      },
-      {
-        "slug": "john-hansen",
-        "displayName": "JOHN HANSEN",
-        "party": "D"
-      },
       {
         "slug": "joe-flynn",
         "displayName": "JOE FLYNN",
-        "party": "R"
+        "party": "R",
+        "cap_tracker_2023_link": null
       },
       {
         "slug": "mark-lewis",
         "displayName": "MARK LEWIS",
-        "party": "R"
+        "party": "R",
+        "cap_tracker_2023_link": null
+      },
+      {
+        "slug": "peter-strand",
+        "displayName": "PETER STRAND",
+        "party": "D",
+        "cap_tracker_2023_link": null
+      },
+      {
+        "slug": "john-hansen",
+        "displayName": "JOHN HANSEN",
+        "party": "D",
+        "cap_tracker_2023_link": null
       }
     ]
   },
@@ -1498,17 +1645,19 @@
     "locale": "Northwest Bozeman",
     "in_cycle_2024": "yes",
     "holdover_senator": "",
-    "key": "hd-64",
+    "districtKey": "HD-64",
     "candidates": [
       {
         "slug": "jolene--crum",
         "displayName": "JOLENE  CRUM",
-        "party": "R"
+        "party": "R",
+        "cap_tracker_2023_link": null
       },
       {
         "slug": "kelly-kortum",
         "displayName": "KELLY KORTUM",
-        "party": "D"
+        "party": "D",
+        "cap_tracker_2023_link": "https://apps.montanafreepress.org/capitol-tracker-2023/lawmakers/Kelly-Kortum/"
       }
     ]
   },
@@ -1520,22 +1669,25 @@
     "locale": "Central Bozeman and northern outskirts",
     "in_cycle_2024": "yes",
     "holdover_senator": "",
-    "key": "hd-65",
+    "districtKey": "HD-65",
     "candidates": [
+      {
+        "slug": "esther-fishbaugh",
+        "displayName": "ESTHER FISHBAUGH",
+        "party": "R",
+        "cap_tracker_2023_link": null
+      },
       {
         "slug": "anja-wookeyhuffman",
         "displayName": "ANJA WOOKEYHUFFMAN",
-        "party": "D"
+        "party": "D",
+        "cap_tracker_2023_link": null
       },
       {
         "slug": "brian-close",
         "displayName": "BRIAN CLOSE",
-        "party": "D"
-      },
-      {
-        "slug": "esther-fishbaugh",
-        "displayName": "ESTHER FISHBAUGH",
-        "party": "R"
+        "party": "D",
+        "cap_tracker_2023_link": null
       }
     ]
   },
@@ -1547,17 +1699,19 @@
     "locale": "Central Bozeman, north Gallatin County",
     "in_cycle_2024": "yes",
     "holdover_senator": "",
-    "key": "hd-66",
+    "districtKey": "HD-66",
     "candidates": [
-      {
-        "slug": "eric-matthews",
-        "displayName": "ERIC MATTHEWS",
-        "party": "D"
-      },
       {
         "slug": "marla-davis",
         "displayName": "MARLA DAVIS",
-        "party": "R"
+        "party": "R",
+        "cap_tracker_2023_link": null
+      },
+      {
+        "slug": "eric-matthews",
+        "displayName": "ERIC MATTHEWS",
+        "party": "D",
+        "cap_tracker_2023_link": "https://apps.montanafreepress.org/capitol-tracker-2023/lawmakers/Eric-Matthews/"
       }
     ]
   },
@@ -1569,17 +1723,19 @@
     "locale": "Belgrade",
     "in_cycle_2024": "yes",
     "holdover_senator": "",
-    "key": "hd-67",
+    "districtKey": "HD-67",
     "candidates": [
-      {
-        "slug": "carl-anderson",
-        "displayName": "CARL ANDERSON",
-        "party": "D"
-      },
       {
         "slug": "jedediah-hinkle",
         "displayName": "JEDEDIAH HINKLE",
-        "party": "R"
+        "party": "R",
+        "cap_tracker_2023_link": "https://apps.montanafreepress.org/capitol-tracker-2023/lawmakers/Jedediah-Hinkle/"
+      },
+      {
+        "slug": "carl-anderson",
+        "displayName": "CARL ANDERSON",
+        "party": "D",
+        "cap_tracker_2023_link": null
       }
     ]
   },
@@ -1591,27 +1747,31 @@
     "locale": "Amsterdam-Churchill, West Belgrade",
     "in_cycle_2024": "yes",
     "holdover_senator": "",
-    "key": "hd-68",
+    "districtKey": "HD-68",
     "candidates": [
       {
         "slug": "caleb-hinkle",
         "displayName": "CALEB HINKLE",
-        "party": "R"
+        "party": "R",
+        "cap_tracker_2023_link": "https://apps.montanafreepress.org/capitol-tracker-2023/lawmakers/Caleb-Hinkle/"
       },
       {
         "slug": "jennifer-carlson",
         "displayName": "JENNIFER CARLSON",
-        "party": "R"
+        "party": "R",
+        "cap_tracker_2023_link": "https://apps.montanafreepress.org/capitol-tracker-2023/lawmakers/Jennifer-Carlson/"
       },
       {
         "slug": "scott-sales",
         "displayName": "SCOTT SALES",
-        "party": "R"
+        "party": "R",
+        "cap_tracker_2023_link": null
       },
       {
         "slug": "alexander-colafrancesco",
         "displayName": "ALEXANDER COLAFRANCESCO",
-        "party": "D"
+        "party": "D",
+        "cap_tracker_2023_link": null
       }
     ]
   },
@@ -1623,12 +1783,13 @@
     "locale": "Ennis, Virginia City, Twin Bridges, Three Forks",
     "in_cycle_2024": "yes",
     "holdover_senator": "",
-    "key": "hd-69",
+    "districtKey": "HD-69",
     "candidates": [
       {
         "slug": "ken-walsh",
         "displayName": "KEN WALSH",
-        "party": "R"
+        "party": "R",
+        "cap_tracker_2023_link": "https://apps.montanafreepress.org/capitol-tracker-2023/lawmakers/Kenneth-Walsh/"
       }
     ]
   },
@@ -1640,22 +1801,25 @@
     "locale": "Dillon, Lima, Rocker",
     "in_cycle_2024": "yes",
     "holdover_senator": "",
-    "key": "hd-70",
+    "districtKey": "HD-70",
     "candidates": [
       {
         "slug": "mary-ann-nicholas",
         "displayName": "MARY ANN NICHOLAS",
-        "party": "R"
+        "party": "R",
+        "cap_tracker_2023_link": null
       },
       {
         "slug": "shannon-maness",
         "displayName": "SHANNON MANESS",
-        "party": "R"
+        "party": "R",
+        "cap_tracker_2023_link": null
       },
       {
         "slug": "mike-klakken",
         "displayName": "MIKE KLAKKEN",
-        "party": "R"
+        "party": "R",
+        "cap_tracker_2023_link": null
       }
     ]
   },
@@ -1667,17 +1831,19 @@
     "locale": "Anaconda, Warm Springs",
     "in_cycle_2024": "yes",
     "holdover_senator": "",
-    "key": "hd-71",
+    "districtKey": "HD-71",
     "candidates": [
       {
         "slug": "h-steiger",
         "displayName": "H STEIGER",
-        "party": "R"
+        "party": "R",
+        "cap_tracker_2023_link": null
       },
       {
         "slug": "scott-p-demarois",
         "displayName": "SCOTT P DEMAROIS",
-        "party": "D"
+        "party": "D",
+        "cap_tracker_2023_link": null
       }
     ]
   },
@@ -1689,17 +1855,19 @@
     "locale": "West Butte",
     "in_cycle_2024": "yes",
     "holdover_senator": "",
-    "key": "hd-72",
+    "districtKey": "HD-72",
     "candidates": [
-      {
-        "slug": "donavon-hawk",
-        "displayName": "DONAVON HAWK",
-        "party": "D"
-      },
       {
         "slug": "andy-johnson",
         "displayName": "ANDY JOHNSON",
-        "party": "R"
+        "party": "R",
+        "cap_tracker_2023_link": null
+      },
+      {
+        "slug": "donavon-hawk",
+        "displayName": "DONAVON HAWK",
+        "party": "D",
+        "cap_tracker_2023_link": "https://apps.montanafreepress.org/capitol-tracker-2023/lawmakers/Donavon-Hawk/"
       }
     ]
   },
@@ -1711,17 +1879,19 @@
     "locale": "Central Butte",
     "in_cycle_2024": "yes",
     "holdover_senator": "",
-    "key": "hd-73",
+    "districtKey": "HD-73",
     "candidates": [
-      {
-        "slug": "jennifer-lynch",
-        "displayName": "JENNIFER LYNCH",
-        "party": "D"
-      },
       {
         "slug": "zach-tomaszewski",
         "displayName": "ZACH TOMASZEWSKI",
-        "party": "R"
+        "party": "R",
+        "cap_tracker_2023_link": null
+      },
+      {
+        "slug": "jennifer-lynch",
+        "displayName": "JENNIFER LYNCH",
+        "party": "D",
+        "cap_tracker_2023_link": "https://apps.montanafreepress.org/capitol-tracker-2023/lawmakers/Jennifer-Lynch/"
       }
     ]
   },
@@ -1733,17 +1903,19 @@
     "locale": "East Butte",
     "in_cycle_2024": "yes",
     "holdover_senator": "",
-    "key": "hd-74",
+    "districtKey": "HD-74",
     "candidates": [
-      {
-        "slug": "marc-j-lee",
-        "displayName": "MARC J LEE",
-        "party": "D"
-      },
       {
         "slug": "trenin-bayless",
         "displayName": "TRENIN BAYLESS",
-        "party": "R"
+        "party": "R",
+        "cap_tracker_2023_link": null
+      },
+      {
+        "slug": "marc-j-lee",
+        "displayName": "MARC J LEE",
+        "party": "D",
+        "cap_tracker_2023_link": null
       }
     ]
   },
@@ -1755,17 +1927,19 @@
     "locale": "Boulder, Whitehall, Clancy, Montana City",
     "in_cycle_2024": "yes",
     "holdover_senator": "",
-    "key": "hd-75",
+    "districtKey": "HD-75",
     "candidates": [
       {
         "slug": "marta-bertoglio",
         "displayName": "MARTA BERTOGLIO",
-        "party": "R"
+        "party": "R",
+        "cap_tracker_2023_link": "https://apps.montanafreepress.org/capitol-tracker-2023/lawmakers/Marta-Bertoglio/"
       },
       {
         "slug": "nancy-jane-lien",
         "displayName": "NANCY JANE LIEN",
-        "party": "D"
+        "party": "D",
+        "cap_tracker_2023_link": null
       }
     ]
   },
@@ -1777,22 +1951,25 @@
     "locale": "Deer Lodge, Philipsburg, Drummond, Seeley Lake",
     "in_cycle_2024": "yes",
     "holdover_senator": "",
-    "key": "hd-76",
+    "districtKey": "HD-76",
     "candidates": [
       {
         "slug": "john-fitzpatrick",
         "displayName": "JOHN FITZPATRICK",
-        "party": "R"
-      },
-      {
-        "slug": "elena-gagliano",
-        "displayName": "ELENA GAGLIANO",
-        "party": "L"
+        "party": "R",
+        "cap_tracker_2023_link": "https://apps.montanafreepress.org/capitol-tracker-2023/lawmakers/John-Fitzpatrick/"
       },
       {
         "slug": "dave-kesler-iii",
         "displayName": "DAVE KESLER III",
-        "party": "R"
+        "party": "R",
+        "cap_tracker_2023_link": null
+      },
+      {
+        "slug": "elena-gagliano",
+        "displayName": "ELENA GAGLIANO",
+        "party": "L",
+        "cap_tracker_2023_link": null
       }
     ]
   },
@@ -1804,22 +1981,25 @@
     "locale": "Townsend, Wheatland, Manhattan, Winston",
     "in_cycle_2024": "yes",
     "holdover_senator": "",
-    "key": "hd-77",
+    "districtKey": "HD-77",
     "candidates": [
       {
         "slug": "kyle-mcmurray",
         "displayName": "KYLE MCMURRAY",
-        "party": "R"
+        "party": "R",
+        "cap_tracker_2023_link": null
       },
       {
         "slug": "jane-gillette",
         "displayName": "JANE GILLETTE",
-        "party": "R"
+        "party": "R",
+        "cap_tracker_2023_link": "https://apps.montanafreepress.org/capitol-tracker-2023/lawmakers/Jane-Gillette/"
       },
       {
         "slug": "jeremiah-dawson",
         "displayName": "JEREMIAH DAWSON",
-        "party": "D"
+        "party": "D",
+        "cap_tracker_2023_link": null
       }
     ]
   },
@@ -1831,22 +2011,25 @@
     "locale": "White Sulphur Springs, Stanford, Belt, Harlowton, Big Timber",
     "in_cycle_2024": "yes",
     "holdover_senator": "",
-    "key": "hd-78",
+    "districtKey": "HD-78",
     "candidates": [
       {
         "slug": "james-h-bergstrom",
         "displayName": "JAMES H BERGSTROM",
-        "party": "R"
+        "party": "R",
+        "cap_tracker_2023_link": null
       },
       {
         "slug": "randyn-gregg",
         "displayName": "RANDYN GREGG",
-        "party": "R"
+        "party": "R",
+        "cap_tracker_2023_link": null
       },
       {
         "slug": "glenn-a-lambert",
         "displayName": "GLENN A LAMBERT",
-        "party": "D"
+        "party": "D",
+        "cap_tracker_2023_link": null
       }
     ]
   },
@@ -1858,32 +2041,37 @@
     "locale": "Southwest Helena, West Helena Valley",
     "in_cycle_2024": "yes",
     "holdover_senator": "",
-    "key": "hd-79",
+    "districtKey": "HD-79",
     "candidates": [
       {
         "slug": "jill-sark",
         "displayName": "JILL SARK",
-        "party": "R"
-      },
-      {
-        "slug": "anne-woodland",
-        "displayName": "ANNE WOODLAND",
-        "party": "D"
-      },
-      {
-        "slug": "emily-harris",
-        "displayName": "EMILY HARRIS",
-        "party": "D"
-      },
-      {
-        "slug": "luke-muszkiewicz",
-        "displayName": "LUKE MUSZKIEWICZ",
-        "party": "D"
+        "party": "R",
+        "cap_tracker_2023_link": null
       },
       {
         "slug": "demetri-joslin",
         "displayName": "DEMETRI JOSLIN",
-        "party": "R"
+        "party": "R",
+        "cap_tracker_2023_link": null
+      },
+      {
+        "slug": "anne-woodland",
+        "displayName": "ANNE WOODLAND",
+        "party": "D",
+        "cap_tracker_2023_link": null
+      },
+      {
+        "slug": "emily-harris",
+        "displayName": "EMILY HARRIS",
+        "party": "D",
+        "cap_tracker_2023_link": null
+      },
+      {
+        "slug": "luke-muszkiewicz",
+        "displayName": "LUKE MUSZKIEWICZ",
+        "party": "D",
+        "cap_tracker_2023_link": null
       }
     ]
   },
@@ -1895,17 +2083,19 @@
     "locale": "Northwest Helena",
     "in_cycle_2024": "yes",
     "holdover_senator": "",
-    "key": "hd-80",
+    "districtKey": "HD-80",
     "candidates": [
-      {
-        "slug": "melissa-romano",
-        "displayName": "MELISSA ROMANO",
-        "party": "D"
-      },
       {
         "slug": "rachel-burright",
         "displayName": "RACHEL BURRIGHT",
-        "party": "R"
+        "party": "R",
+        "cap_tracker_2023_link": null
+      },
+      {
+        "slug": "melissa-romano",
+        "displayName": "MELISSA ROMANO",
+        "party": "D",
+        "cap_tracker_2023_link": "https://apps.montanafreepress.org/capitol-tracker-2023/lawmakers/Melissa-Romano/"
       }
     ]
   },
@@ -1917,17 +2107,19 @@
     "locale": "Central Helena, Central Helena Valley",
     "in_cycle_2024": "yes",
     "holdover_senator": "",
-    "key": "hd-81",
+    "districtKey": "HD-81",
     "candidates": [
-      {
-        "slug": "mary-m-caferro",
-        "displayName": "MARY M CAFERRO",
-        "party": "D"
-      },
       {
         "slug": "dustin-scott",
         "displayName": "DUSTIN SCOTT",
-        "party": "R"
+        "party": "R",
+        "cap_tracker_2023_link": null
+      },
+      {
+        "slug": "mary-m-caferro",
+        "displayName": "MARY M CAFERRO",
+        "party": "D",
+        "cap_tracker_2023_link": "https://apps.montanafreepress.org/capitol-tracker-2023/lawmakers/Mary-Caferro/"
       }
     ]
   },
@@ -1939,22 +2131,25 @@
     "locale": "Capitol area, Southeast Helena Valley",
     "in_cycle_2024": "yes",
     "holdover_senator": "",
-    "key": "hd-82",
+    "districtKey": "HD-82",
     "candidates": [
-      {
-        "slug": "sk-rossi",
-        "displayName": "SK ROSSI",
-        "party": "D"
-      },
       {
         "slug": "john-looney-sr",
         "displayName": "JOHN LOONEY SR",
-        "party": "R"
+        "party": "R",
+        "cap_tracker_2023_link": null
+      },
+      {
+        "slug": "sk-rossi",
+        "displayName": "SK ROSSI",
+        "party": "D",
+        "cap_tracker_2023_link": null
       },
       {
         "slug": "pete-elverum",
         "displayName": "PETE ELVERUM",
-        "party": "D"
+        "party": "D",
+        "cap_tracker_2023_link": null
       }
     ]
   },
@@ -1966,22 +2161,25 @@
     "locale": "East Helena, Southwest Helena",
     "in_cycle_2024": "yes",
     "holdover_senator": "",
-    "key": "hd-83",
+    "districtKey": "HD-83",
     "candidates": [
-      {
-        "slug": "jill-cohenour",
-        "displayName": "JILL COHENOUR",
-        "party": "D"
-      },
       {
         "slug": "christopher-st-jean",
         "displayName": "CHRISTOPHER ST JEAN",
-        "party": "R"
+        "party": "R",
+        "cap_tracker_2023_link": null
       },
       {
         "slug": "wes-feist",
         "displayName": "WES FEIST",
-        "party": "R"
+        "party": "R",
+        "cap_tracker_2023_link": null
+      },
+      {
+        "slug": "jill-cohenour",
+        "displayName": "JILL COHENOUR",
+        "party": "D",
+        "cap_tracker_2023_link": "https://apps.montanafreepress.org/capitol-tracker-2023/lawmakers/Jill-Cohenour/"
       }
     ]
   },
@@ -1993,27 +2191,31 @@
     "locale": "East and north of Helena",
     "in_cycle_2024": "yes",
     "holdover_senator": "",
-    "key": "hd-84",
+    "districtKey": "HD-84",
     "candidates": [
       {
         "slug": "julie-dooling",
         "displayName": "JULIE DOOLING",
-        "party": "R"
-      },
-      {
-        "slug": "michele-r-crepeau",
-        "displayName": "MICHELE R CREPEAU",
-        "party": "D"
+        "party": "R",
+        "cap_tracker_2023_link": "https://apps.montanafreepress.org/capitol-tracker-2023/lawmakers/Julie-Dooling/"
       },
       {
         "slug": "jon-jackson",
         "displayName": "JON JACKSON",
-        "party": "R"
+        "party": "R",
+        "cap_tracker_2023_link": null
+      },
+      {
+        "slug": "michele-r-crepeau",
+        "displayName": "MICHELE R CREPEAU",
+        "party": "D",
+        "cap_tracker_2023_link": null
       },
       {
         "slug": "david-williams",
         "displayName": "DAVID WILLIAMS",
-        "party": "D"
+        "party": "D",
+        "cap_tracker_2023_link": null
       }
     ]
   },
@@ -2025,22 +2227,25 @@
     "locale": "Darby, South Bitterroot Valley",
     "in_cycle_2024": "yes",
     "holdover_senator": "",
-    "key": "hd-85",
+    "districtKey": "HD-85",
     "candidates": [
       {
         "slug": "michele-binkley",
         "displayName": "MICHELE BINKLEY",
-        "party": "R"
+        "party": "R",
+        "cap_tracker_2023_link": "https://apps.montanafreepress.org/capitol-tracker-2023/lawmakers/Michele-Binkley/"
       },
       {
         "slug": "kathy-love",
         "displayName": "KATHY LOVE",
-        "party": "R"
+        "party": "R",
+        "cap_tracker_2023_link": null
       },
       {
         "slug": "laura-mae-jackson",
         "displayName": "LAURA MAE JACKSON",
-        "party": "D"
+        "party": "D",
+        "cap_tracker_2023_link": null
       }
     ]
   },
@@ -2052,22 +2257,25 @@
     "locale": "Hamilton",
     "in_cycle_2024": "yes",
     "holdover_senator": "",
-    "key": "hd-86",
+    "districtKey": "HD-86",
     "candidates": [
       {
         "slug": "david-bedey",
         "displayName": "DAVID BEDEY",
-        "party": "R"
+        "party": "R",
+        "cap_tracker_2023_link": "https://apps.montanafreepress.org/capitol-tracker-2023/lawmakers/David-Bedey/"
       },
       {
         "slug": "robert-wallace",
         "displayName": "ROBERT WALLACE",
-        "party": "R"
+        "party": "R",
+        "cap_tracker_2023_link": null
       },
       {
         "slug": "jeff-kempka",
         "displayName": "JEFF KEMPKA",
-        "party": "D"
+        "party": "D",
+        "cap_tracker_2023_link": null
       }
     ]
   },
@@ -2079,17 +2287,19 @@
     "locale": "Victor, Central Bitterroot Valley",
     "in_cycle_2024": "yes",
     "holdover_senator": "",
-    "key": "hd-87",
+    "districtKey": "HD-87",
     "candidates": [
       {
         "slug": "ron-marshall",
         "displayName": "RON MARSHALL",
-        "party": "R"
+        "party": "R",
+        "cap_tracker_2023_link": "https://apps.montanafreepress.org/capitol-tracker-2023/lawmakers/Ron-Marshall/"
       },
       {
         "slug": "tammie-milligan",
         "displayName": "TAMMIE MILLIGAN",
-        "party": "D"
+        "party": "D",
+        "cap_tracker_2023_link": null
       }
     ]
   },
@@ -2101,22 +2311,25 @@
     "locale": "Stevensville, Florence, North Bitterroot Valley",
     "in_cycle_2024": "yes",
     "holdover_senator": "",
-    "key": "hd-88",
+    "districtKey": "HD-88",
     "candidates": [
       {
         "slug": "greg-overstreet",
         "displayName": "GREG OVERSTREET",
-        "party": "R"
+        "party": "R",
+        "cap_tracker_2023_link": null
       },
       {
         "slug": "kim-dailey",
         "displayName": "KIM DAILEY",
-        "party": "R"
+        "party": "R",
+        "cap_tracker_2023_link": null
       },
       {
         "slug": "evan-schroedel",
         "displayName": "EVAN SCHROEDEL",
-        "party": "D"
+        "party": "D",
+        "cap_tracker_2023_link": null
       }
     ]
   },
@@ -2128,17 +2341,19 @@
     "locale": "Lolo",
     "in_cycle_2024": "yes",
     "holdover_senator": "",
-    "key": "hd-89",
+    "districtKey": "HD-89",
     "candidates": [
-      {
-        "slug": "mark-a-thane",
-        "displayName": "MARK A THANE",
-        "party": "D"
-      },
       {
         "slug": "lyn-hellegaard",
         "displayName": "LYN HELLEGAARD",
-        "party": "R"
+        "party": "R",
+        "cap_tracker_2023_link": "https://apps.montanafreepress.org/capitol-tracker-2023/lawmakers/Lyn-Hellegaard/"
+      },
+      {
+        "slug": "mark-a-thane",
+        "displayName": "MARK A THANE",
+        "party": "D",
+        "cap_tracker_2023_link": "https://apps.montanafreepress.org/capitol-tracker-2023/lawmakers/Mark-Thane/"
       }
     ]
   },
@@ -2150,22 +2365,25 @@
     "locale": "Frenchtown, Alberton, Superior, St. Regis, Paradise",
     "in_cycle_2024": "yes",
     "holdover_senator": "",
-    "key": "hd-90",
+    "districtKey": "HD-90",
     "candidates": [
       {
         "slug": "curtis-j-cochran",
         "displayName": "CURTIS J COCHRAN",
-        "party": "R"
+        "party": "R",
+        "cap_tracker_2023_link": null
       },
       {
         "slug": "jeff-stanek",
         "displayName": "JEFF STANEK",
-        "party": "R"
+        "party": "R",
+        "cap_tracker_2023_link": null
       },
       {
         "slug": "steven-delisle",
         "displayName": "STEVEN DELISLE",
-        "party": "R"
+        "party": "R",
+        "cap_tracker_2023_link": null
       }
     ]
   },
@@ -2177,17 +2395,19 @@
     "locale": "Ronan, Arlee, Missoula's Upper Rattlesnake ",
     "in_cycle_2024": "yes",
     "holdover_senator": "",
-    "key": "hd-91",
+    "districtKey": "HD-91",
     "candidates": [
-      {
-        "slug": "shelly-r-fyant",
-        "displayName": "SHELLY R FYANT",
-        "party": "D"
-      },
       {
         "slug": "joe-read",
         "displayName": "JOE READ",
-        "party": "R"
+        "party": "R",
+        "cap_tracker_2023_link": "https://apps.montanafreepress.org/capitol-tracker-2023/lawmakers/Joe-Read/"
+      },
+      {
+        "slug": "shelly-r-fyant",
+        "displayName": "SHELLY R FYANT",
+        "party": "D",
+        "cap_tracker_2023_link": null
       }
     ]
   },
@@ -2199,17 +2419,19 @@
     "locale": "East Missoula, Bonner, Clearwater",
     "in_cycle_2024": "yes",
     "holdover_senator": "",
-    "key": "hd-92",
+    "districtKey": "HD-92",
     "candidates": [
       {
         "slug": "ted-morgan",
         "displayName": "TED MORGAN",
-        "party": "R"
+        "party": "R",
+        "cap_tracker_2023_link": null
       },
       {
         "slug": "connie-keogh",
         "displayName": "CONNIE KEOGH",
-        "party": "D"
+        "party": "D",
+        "cap_tracker_2023_link": "https://apps.montanafreepress.org/capitol-tracker-2023/lawmakers/Connie-Keogh/"
       }
     ]
   },
@@ -2221,17 +2443,19 @@
     "locale": "Southeast Missoula, Clinton",
     "in_cycle_2024": "yes",
     "holdover_senator": "",
-    "key": "hd-93",
+    "districtKey": "HD-93",
     "candidates": [
-      {
-        "slug": "katie-sullivan",
-        "displayName": "KATIE SULLIVAN",
-        "party": "D"
-      },
       {
         "slug": "roy-handley",
         "displayName": "ROY HANDLEY",
-        "party": "R"
+        "party": "R",
+        "cap_tracker_2023_link": null
+      },
+      {
+        "slug": "katie-sullivan",
+        "displayName": "KATIE SULLIVAN",
+        "party": "D",
+        "cap_tracker_2023_link": "https://apps.montanafreepress.org/capitol-tracker-2023/lawmakers/Katie-Sullivan/"
       }
     ]
   },
@@ -2243,17 +2467,19 @@
     "locale": "South Missoula",
     "in_cycle_2024": "yes",
     "holdover_senator": "",
-    "key": "hd-94",
+    "districtKey": "HD-94",
     "candidates": [
-      {
-        "slug": "marilyn-marler",
-        "displayName": "MARILYN MARLER",
-        "party": "D"
-      },
       {
         "slug": "delaney-malmsten",
         "displayName": "DELANEY MALMSTEN",
-        "party": "R"
+        "party": "R",
+        "cap_tracker_2023_link": null
+      },
+      {
+        "slug": "marilyn-marler",
+        "displayName": "MARILYN MARLER",
+        "party": "D",
+        "cap_tracker_2023_link": "https://apps.montanafreepress.org/capitol-tracker-2023/lawmakers/Marilyn-Marler/"
       }
     ]
   },
@@ -2265,17 +2491,19 @@
     "locale": "Central Missoula, University of Montana campus",
     "in_cycle_2024": "yes",
     "holdover_senator": "",
-    "key": "hd-95",
+    "districtKey": "HD-95",
     "candidates": [
-      {
-        "slug": "zooey-zephyr",
-        "displayName": "ZOOEY ZEPHYR",
-        "party": "D"
-      },
       {
         "slug": "barbara-w-starmer",
         "displayName": "BARBARA W STARMER",
-        "party": "R"
+        "party": "R",
+        "cap_tracker_2023_link": null
+      },
+      {
+        "slug": "zooey-zephyr",
+        "displayName": "ZOOEY ZEPHYR",
+        "party": "D",
+        "cap_tracker_2023_link": "https://apps.montanafreepress.org/capitol-tracker-2023/lawmakers/Zooey-Zephyr/"
       }
     ]
   },
@@ -2287,17 +2515,19 @@
     "locale": "South-central Missoula, west of Missoula",
     "in_cycle_2024": "yes",
     "holdover_senator": "",
-    "key": "hd-96",
+    "districtKey": "HD-96",
     "candidates": [
-      {
-        "slug": "bob-carter",
-        "displayName": "BOB CARTER",
-        "party": "D"
-      },
       {
         "slug": "robert-labair",
         "displayName": "ROBERT LABAIR",
-        "party": "R"
+        "party": "R",
+        "cap_tracker_2023_link": null
+      },
+      {
+        "slug": "bob-carter",
+        "displayName": "BOB CARTER",
+        "party": "D",
+        "cap_tracker_2023_link": "https://apps.montanafreepress.org/capitol-tracker-2023/lawmakers/Bob-Carter/"
       }
     ]
   },
@@ -2309,27 +2539,31 @@
     "locale": "West Missoula",
     "in_cycle_2024": "yes",
     "holdover_senator": "",
-    "key": "hd-97",
+    "districtKey": "HD-97",
     "candidates": [
-      {
-        "slug": "melody-cunningham",
-        "displayName": "MELODY CUNNINGHAM",
-        "party": "D"
-      },
-      {
-        "slug": "richard-l-armerding",
-        "displayName": "RICHARD L ARMERDING",
-        "party": "L"
-      },
       {
         "slug": "nick-knowles",
         "displayName": "NICK KNOWLES",
-        "party": "R"
+        "party": "R",
+        "cap_tracker_2023_link": null
+      },
+      {
+        "slug": "melody-cunningham",
+        "displayName": "MELODY CUNNINGHAM",
+        "party": "D",
+        "cap_tracker_2023_link": null
       },
       {
         "slug": "lisa-verlanic-fowler",
         "displayName": "LISA VERLANIC FOWLER",
-        "party": "D"
+        "party": "D",
+        "cap_tracker_2023_link": null
+      },
+      {
+        "slug": "richard-l-armerding",
+        "displayName": "RICHARD L ARMERDING",
+        "party": "L",
+        "cap_tracker_2023_link": null
       }
     ]
   },
@@ -2341,17 +2575,19 @@
     "locale": "Northwest Missoula",
     "in_cycle_2024": "yes",
     "holdover_senator": "",
-    "key": "hd-98",
+    "districtKey": "HD-98",
     "candidates": [
-      {
-        "slug": "jonathan-karlen",
-        "displayName": "JONATHAN KARLEN",
-        "party": "D"
-      },
       {
         "slug": "jace-beard",
         "displayName": "JACE BEARD",
-        "party": "R"
+        "party": "R",
+        "cap_tracker_2023_link": null
+      },
+      {
+        "slug": "jonathan-karlen",
+        "displayName": "JONATHAN KARLEN",
+        "party": "D",
+        "cap_tracker_2023_link": "https://apps.montanafreepress.org/capitol-tracker-2023/lawmakers/Jonathan-Karlen/"
       }
     ]
   },
@@ -2363,17 +2599,19 @@
     "locale": "North Missoula",
     "in_cycle_2024": "yes",
     "holdover_senator": "",
-    "key": "hd-99",
+    "districtKey": "HD-99",
     "candidates": [
-      {
-        "slug": "tom-france",
-        "displayName": "TOM FRANCE",
-        "party": "D"
-      },
       {
         "slug": "ryan-darling",
         "displayName": "RYAN DARLING",
-        "party": "R"
+        "party": "R",
+        "cap_tracker_2023_link": null
+      },
+      {
+        "slug": "tom-france",
+        "displayName": "TOM FRANCE",
+        "party": "D",
+        "cap_tracker_2023_link": "https://apps.montanafreepress.org/capitol-tracker-2023/lawmakers/Tom-France/"
       }
     ]
   },
@@ -2385,22 +2623,25 @@
     "locale": "Downtown Missoula",
     "in_cycle_2024": "yes",
     "holdover_senator": "",
-    "key": "hd-100",
+    "districtKey": "HD-100",
     "candidates": [
+      {
+        "slug": "christopher-paul-buckles",
+        "displayName": "CHRISTOPHER PAUL BUCKLES",
+        "party": "R",
+        "cap_tracker_2023_link": null
+      },
       {
         "slug": "sj-howell",
         "displayName": "SJ HOWELL",
-        "party": "D"
+        "party": "D",
+        "cap_tracker_2023_link": "https://apps.montanafreepress.org/capitol-tracker-2023/lawmakers/SJ-Howell/"
       },
       {
         "slug": "tim-garrison",
         "displayName": "TIM GARRISON",
-        "party": "D"
-      },
-      {
-        "slug": "christopher-paul-buckles",
-        "displayName": "CHRISTOPHER PAUL BUCKLES",
-        "party": "R"
+        "party": "D",
+        "cap_tracker_2023_link": null
       }
     ]
   },
@@ -2413,7 +2654,8 @@
     "in_cycle_2024": "no",
     "holdover_senator": "Mike Cuffe",
     "holdover_party": "R",
-    "key": "sd-1",
+    "holdover_link": "https://apps.montanafreepress.org/capitol-tracker-2023/lawmakers/Mike-Cuffe/",
+    "districtKey": "SD-1",
     "candidates": []
   },
   {
@@ -2424,17 +2666,19 @@
     "locale": "Whitefish, Columbia Falls, West Glacier",
     "in_cycle_2024": "yes",
     "holdover_senator": "",
-    "key": "sd-2",
+    "districtKey": "SD-2",
     "candidates": [
       {
         "slug": "doug-adams",
         "displayName": "DOUG ADAMS",
-        "party": "R"
+        "party": "R",
+        "cap_tracker_2023_link": null
       },
       {
         "slug": "dave-fern",
         "displayName": "DAVE FERN",
-        "party": "D"
+        "party": "D",
+        "cap_tracker_2023_link": "https://apps.montanafreepress.org/capitol-tracker-2023/lawmakers/Dave-Fern/"
       }
     ]
   },
@@ -2446,17 +2690,19 @@
     "locale": "Hungry Horse, Central Flathead Valley",
     "in_cycle_2024": "yes",
     "holdover_senator": "",
-    "key": "sd-3",
+    "districtKey": "SD-3",
     "candidates": [
       {
         "slug": "carl-glimm",
         "displayName": "CARL GLIMM",
-        "party": "R"
+        "party": "R",
+        "cap_tracker_2023_link": "https://apps.montanafreepress.org/capitol-tracker-2023/lawmakers/Carl-Glimm/"
       },
       {
         "slug": "angela-kennedy",
         "displayName": "ANGELA KENNEDY",
-        "party": "D"
+        "party": "D",
+        "cap_tracker_2023_link": null
       }
     ]
   },
@@ -2469,7 +2715,8 @@
     "in_cycle_2024": "no",
     "holdover_senator": "John Fuller",
     "holdover_party": "R",
-    "key": "sd-4",
+    "holdover_link": "https://apps.montanafreepress.org/capitol-tracker-2023/lawmakers/John-Fuller/",
+    "districtKey": "SD-4",
     "candidates": []
   },
   {
@@ -2480,22 +2727,25 @@
     "locale": "South and West of Kalispell",
     "in_cycle_2024": "yes",
     "holdover_senator": "",
-    "key": "sd-5",
+    "districtKey": "SD-5",
     "candidates": [
       {
         "slug": "marquis-l-laude",
         "displayName": "MARQUIS L LAUDE",
-        "party": "R"
+        "party": "R",
+        "cap_tracker_2023_link": null
       },
       {
         "slug": "matt-regier",
         "displayName": "MATT REGIER",
-        "party": "R"
+        "party": "R",
+        "cap_tracker_2023_link": "https://apps.montanafreepress.org/capitol-tracker-2023/lawmakers/Matt-Regier/"
       },
       {
         "slug": "link-neimark",
         "displayName": "LINK NEIMARK",
-        "party": "D"
+        "party": "D",
+        "cap_tracker_2023_link": null
       }
     ]
   },
@@ -2508,7 +2758,8 @@
     "in_cycle_2024": "no",
     "holdover_senator": "Mark Noland",
     "holdover_party": "R",
-    "key": "sd-6",
+    "holdover_link": "https://apps.montanafreepress.org/capitol-tracker-2023/lawmakers/Mark-Noland/",
+    "districtKey": "SD-6",
     "candidates": []
   },
   {
@@ -2519,17 +2770,19 @@
     "locale": "Plains, Thompson Falls, Noxon, Hot Springs",
     "in_cycle_2024": "yes",
     "holdover_senator": "",
-    "key": "sd-7",
+    "districtKey": "SD-7",
     "candidates": [
       {
         "slug": "greg-hertz",
         "displayName": "GREG HERTZ",
-        "party": "R"
+        "party": "R",
+        "cap_tracker_2023_link": "https://apps.montanafreepress.org/capitol-tracker-2023/lawmakers/Greg-Hertz/"
       },
       {
         "slug": "craig-pablo",
         "displayName": "CRAIG PABLO",
-        "party": "D"
+        "party": "D",
+        "cap_tracker_2023_link": null
       }
     ]
   },
@@ -2542,7 +2795,8 @@
     "in_cycle_2024": "no",
     "holdover_senator": "Susan Webber",
     "holdover_party": "D",
-    "key": "sd-8",
+    "holdover_link": "https://apps.montanafreepress.org/capitol-tracker-2023/lawmakers/Susan-Webber/",
+    "districtKey": "SD-8",
     "candidates": []
   },
   {
@@ -2554,7 +2808,8 @@
     "in_cycle_2024": "no",
     "holdover_senator": "Bruce Gillespie",
     "holdover_party": "R",
-    "key": "sd-9",
+    "holdover_link": "https://apps.montanafreepress.org/capitol-tracker-2023/lawmakers/Bruce-Gillespie/",
+    "districtKey": "SD-9",
     "candidates": []
   },
   {
@@ -2566,7 +2821,8 @@
     "in_cycle_2024": "no",
     "holdover_senator": "Jeremy Trebas",
     "holdover_party": "R",
-    "key": "sd-10",
+    "holdover_link": "https://apps.montanafreepress.org/capitol-tracker-2023/lawmakers/Jeremy-Trebas/",
+    "districtKey": "SD-10",
     "candidates": []
   },
   {
@@ -2578,7 +2834,8 @@
     "in_cycle_2024": "no",
     "holdover_senator": "Daniel Emrich",
     "holdover_party": "R",
-    "key": "sd-11",
+    "holdover_link": "https://apps.montanafreepress.org/capitol-tracker-2023/lawmakers/Daniel-Emrich/",
+    "districtKey": "SD-11",
     "candidates": []
   },
   {
@@ -2590,7 +2847,8 @@
     "in_cycle_2024": "no",
     "holdover_senator": "Wendy McKamey",
     "holdover_party": "R",
-    "key": "sd-12",
+    "holdover_link": "https://apps.montanafreepress.org/capitol-tracker-2023/lawmakers/Wendy-McKamey/",
+    "districtKey": "SD-12",
     "candidates": []
   },
   {
@@ -2601,17 +2859,19 @@
     "locale": "Cascade, Vaughn, Fort Benton, Big Sandy",
     "in_cycle_2024": "yes",
     "holdover_senator": "",
-    "key": "sd-13",
+    "districtKey": "SD-13",
     "candidates": [
       {
         "slug": "lola-sheldon-galloway",
         "displayName": "LOLA SHELDON-GALLOWAY",
-        "party": "R"
+        "party": "R",
+        "cap_tracker_2023_link": "https://apps.montanafreepress.org/capitol-tracker-2023/lawmakers/Lola-Sheldon-Galloway/"
       },
       {
         "slug": "josh-kassmier",
         "displayName": "JOSH KASSMIER",
-        "party": "R"
+        "party": "R",
+        "cap_tracker_2023_link": "https://apps.montanafreepress.org/capitol-tracker-2023/lawmakers/Josh-Kassmier/"
       }
     ]
   },
@@ -2624,7 +2884,8 @@
     "in_cycle_2024": "no",
     "holdover_senator": "Russ Tempel",
     "holdover_party": "R",
-    "key": "sd-14",
+    "holdover_link": "https://apps.montanafreepress.org/capitol-tracker-2023/lawmakers/Russ-Tempel/",
+    "districtKey": "SD-14",
     "candidates": []
   },
   {
@@ -2635,17 +2896,19 @@
     "locale": "Sidney, Scobey, Plentywood",
     "in_cycle_2024": "yes",
     "holdover_senator": "",
-    "key": "sd-15",
+    "districtKey": "SD-15",
     "candidates": [
       {
         "slug": "rhonda-knudsen",
         "displayName": "RHONDA KNUDSEN",
-        "party": "R"
+        "party": "R",
+        "cap_tracker_2023_link": "https://apps.montanafreepress.org/capitol-tracker-2023/lawmakers/Rhonda-Knudsen/"
       },
       {
         "slug": "gregg-hunter",
         "displayName": "GREGG HUNTER",
-        "party": "R"
+        "party": "R",
+        "cap_tracker_2023_link": null
       }
     ]
   },
@@ -2657,22 +2920,25 @@
     "locale": "Rocky Boy's, Harlem, Wolf Point, Poplar",
     "in_cycle_2024": "yes",
     "holdover_senator": "",
-    "key": "sd-16",
+    "districtKey": "SD-16",
     "candidates": [
+      {
+        "slug": "perri-a-jacobs",
+        "displayName": "PERRI A JACOBS",
+        "party": "R",
+        "cap_tracker_2023_link": null
+      },
       {
         "slug": "jonathan-windy-boy",
         "displayName": "JONATHAN WINDY BOY",
-        "party": "D"
+        "party": "D",
+        "cap_tracker_2023_link": "https://apps.montanafreepress.org/capitol-tracker-2023/lawmakers/Jonathan-Windy-Boy/"
       },
       {
         "slug": "bridget-smith",
         "displayName": "BRIDGET SMITH",
-        "party": "D"
-      },
-      {
-        "slug": "perri-a-jacobs",
-        "displayName": "PERRI A JACOBS",
-        "party": "R"
+        "party": "D",
+        "cap_tracker_2023_link": null
       }
     ]
   },
@@ -2684,17 +2950,19 @@
     "locale": "Glandive, Circle, Baker, Ekalaka, Broadus",
     "in_cycle_2024": "yes",
     "holdover_senator": "",
-    "key": "sd-17",
+    "districtKey": "SD-17",
     "candidates": [
       {
         "slug": "mike-newton",
         "displayName": "MIKE NEWTON",
-        "party": "R"
+        "party": "R",
+        "cap_tracker_2023_link": null
       },
       {
         "slug": "bob-phalen",
         "displayName": "BOB PHALEN",
-        "party": "R"
+        "party": "R",
+        "cap_tracker_2023_link": "https://apps.montanafreepress.org/capitol-tracker-2023/lawmakers/Bob-Phalen/"
       }
     ]
   },
@@ -2707,7 +2975,8 @@
     "in_cycle_2024": "no",
     "holdover_senator": "Kenneth Bogner",
     "holdover_party": "R",
-    "key": "sd-18",
+    "holdover_link": "https://apps.montanafreepress.org/capitol-tracker-2023/lawmakers/Kenneth-Bogner/",
+    "districtKey": "SD-18",
     "candidates": []
   },
   {
@@ -2719,7 +2988,8 @@
     "in_cycle_2024": "no",
     "holdover_senator": "Barry Usher",
     "holdover_party": "R",
-    "key": "sd-19",
+    "holdover_link": "https://apps.montanafreepress.org/capitol-tracker-2023/lawmakers/Barry-Usher/",
+    "districtKey": "SD-19",
     "candidates": []
   },
   {
@@ -2730,17 +3000,19 @@
     "locale": "Billings Heights, Lockwood",
     "in_cycle_2024": "yes",
     "holdover_senator": "",
-    "key": "sd-20",
+    "districtKey": "SD-20",
     "candidates": [
       {
         "slug": "sue-vinton",
         "displayName": "SUE VINTON",
-        "party": "R"
+        "party": "R",
+        "cap_tracker_2023_link": "https://apps.montanafreepress.org/capitol-tracker-2023/lawmakers/Sue-Vinton/"
       },
       {
         "slug": "linda-auch",
         "displayName": "LINDA AUCH",
-        "party": "D"
+        "party": "D",
+        "cap_tracker_2023_link": null
       }
     ]
   },
@@ -2752,22 +3024,25 @@
     "locale": "Hardin, Crow Agency, Lame Deer, Lodge Grass, Pryor",
     "in_cycle_2024": "yes",
     "holdover_senator": "",
-    "key": "sd-21",
+    "districtKey": "SD-21",
     "candidates": [
-      {
-        "slug": "sharon-stewart-peregoy",
-        "displayName": "SHARON STEWART PEREGOY",
-        "party": "D"
-      },
       {
         "slug": "gayle-george-lammers",
         "displayName": "GAYLE GEORGE LAMMERS",
-        "party": "R"
+        "party": "R",
+        "cap_tracker_2023_link": null
+      },
+      {
+        "slug": "sharon-stewart-peregoy",
+        "displayName": "SHARON STEWART PEREGOY",
+        "party": "D",
+        "cap_tracker_2023_link": "https://apps.montanafreepress.org/capitol-tracker-2023/lawmakers/Sharon-Stewart-Peregoy/"
       },
       {
         "slug": "rae-peppers",
         "displayName": "RAE PEPPERS",
-        "party": "D"
+        "party": "D",
+        "cap_tracker_2023_link": null
       }
     ]
   },
@@ -2780,7 +3055,8 @@
     "in_cycle_2024": "no",
     "holdover_senator": "Daniel Zolnikov",
     "holdover_party": "R",
-    "key": "sd-22",
+    "holdover_link": "https://apps.montanafreepress.org/capitol-tracker-2023/lawmakers/Daniel-Zolnikov/",
+    "districtKey": "SD-22",
     "candidates": []
   },
   {
@@ -2792,7 +3068,8 @@
     "in_cycle_2024": "no",
     "holdover_senator": "Kathy Kelker",
     "holdover_party": "D",
-    "key": "sd-23",
+    "holdover_link": "https://apps.montanafreepress.org/capitol-tracker-2023/lawmakers/Kathy-Kelker/",
+    "districtKey": "SD-23",
     "candidates": []
   },
   {
@@ -2803,17 +3080,19 @@
     "locale": "Downtown and South Billings",
     "in_cycle_2024": "yes",
     "holdover_senator": "",
-    "key": "sd-24",
+    "districtKey": "SD-24",
     "candidates": [
-      {
-        "slug": "mark-h-nicholson",
-        "displayName": "MARK H NICHOLSON",
-        "party": "D"
-      },
       {
         "slug": "mike-yakawich",
         "displayName": "MIKE YAKAWICH",
-        "party": "R"
+        "party": "R",
+        "cap_tracker_2023_link": "https://apps.montanafreepress.org/capitol-tracker-2023/lawmakers/Mike-Yakawich/"
+      },
+      {
+        "slug": "mark-h-nicholson",
+        "displayName": "MARK H NICHOLSON",
+        "party": "D",
+        "cap_tracker_2023_link": null
       }
     ]
   },
@@ -2826,7 +3105,8 @@
     "in_cycle_2024": "no",
     "holdover_senator": "Dennis Lenz",
     "holdover_party": "R",
-    "key": "sd-25",
+    "holdover_link": "https://apps.montanafreepress.org/capitol-tracker-2023/lawmakers/Dennis-Lenz/",
+    "districtKey": "SD-25",
     "candidates": []
   },
   {
@@ -2837,17 +3117,19 @@
     "locale": "Northwest Billings",
     "in_cycle_2024": "yes",
     "holdover_senator": "",
-    "key": "sd-26",
+    "districtKey": "SD-26",
     "candidates": [
       {
         "slug": "tom-mcgillvray",
         "displayName": "TOM MCGILLVRAY",
-        "party": "R"
+        "party": "R",
+        "cap_tracker_2023_link": "https://apps.montanafreepress.org/capitol-tracker-2023/lawmakers/Tom-McGillvray/"
       },
       {
         "slug": "karen-lyncoln",
         "displayName": "KAREN LYNCOLN",
-        "party": "D"
+        "party": "D",
+        "cap_tracker_2023_link": null
       }
     ]
   },
@@ -2859,22 +3141,25 @@
     "locale": "Laurel, South of Billings",
     "in_cycle_2024": "yes",
     "holdover_senator": "",
-    "key": "sd-27",
+    "districtKey": "SD-27",
     "candidates": [
       {
         "slug": "chris-friedel",
         "displayName": "CHRIS FRIEDEL",
-        "party": "R"
-      },
-      {
-        "slug": "kathleen-gilluly",
-        "displayName": "KATHLEEN GILLULY",
-        "party": "D"
+        "party": "R",
+        "cap_tracker_2023_link": "https://apps.montanafreepress.org/capitol-tracker-2023/lawmakers/Chris-Friedel/"
       },
       {
         "slug": "vince-ricci",
         "displayName": "VINCE RICCI",
-        "party": "R"
+        "party": "R",
+        "cap_tracker_2023_link": null
+      },
+      {
+        "slug": "kathleen-gilluly",
+        "displayName": "KATHLEEN GILLULY",
+        "party": "D",
+        "cap_tracker_2023_link": null
       }
     ]
   },
@@ -2887,7 +3172,8 @@
     "in_cycle_2024": "no",
     "holdover_senator": "Forrest Mandeville",
     "holdover_party": "R",
-    "key": "sd-28",
+    "holdover_link": "https://apps.montanafreepress.org/capitol-tracker-2023/lawmakers/Forrest-Mandeville/",
+    "districtKey": "SD-28",
     "candidates": []
   },
   {
@@ -2899,7 +3185,8 @@
     "in_cycle_2024": "no",
     "holdover_senator": "John Esp",
     "holdover_party": "R",
-    "key": "sd-29",
+    "holdover_link": "https://apps.montanafreepress.org/capitol-tracker-2023/lawmakers/John-Esp/",
+    "districtKey": "SD-29",
     "candidates": []
   },
   {
@@ -2910,17 +3197,19 @@
     "locale": "South Bozeman, Big Sky, West Yellowstone",
     "in_cycle_2024": "yes",
     "holdover_senator": "",
-    "key": "sd-30",
+    "districtKey": "SD-30",
     "candidates": [
-      {
-        "slug": "cora-neumann",
-        "displayName": "CORA NEUMANN",
-        "party": "D"
-      },
       {
         "slug": "tyler-rogers",
         "displayName": "TYLER ROGERS",
-        "party": "R"
+        "party": "R",
+        "cap_tracker_2023_link": null
+      },
+      {
+        "slug": "cora-neumann",
+        "displayName": "CORA NEUMANN",
+        "party": "D",
+        "cap_tracker_2023_link": null
       }
     ]
   },
@@ -2933,7 +3222,8 @@
     "in_cycle_2024": "no",
     "holdover_senator": "Pat Flowers",
     "holdover_party": "D",
-    "key": "sd-31",
+    "holdover_link": "https://apps.montanafreepress.org/capitol-tracker-2023/lawmakers/Pat-Flowers/",
+    "districtKey": "SD-31",
     "candidates": []
   },
   {
@@ -2945,7 +3235,8 @@
     "in_cycle_2024": "no",
     "holdover_senator": "Denise Hayman",
     "holdover_party": "D",
-    "key": "sd-32",
+    "holdover_link": "https://apps.montanafreepress.org/capitol-tracker-2023/lawmakers/Denise-Hayman/",
+    "districtKey": "SD-32",
     "candidates": []
   },
   {
@@ -2956,17 +3247,19 @@
     "locale": "Central Bozeman, north of Bozeman",
     "in_cycle_2024": "yes",
     "holdover_senator": "",
-    "key": "sd-33",
+    "districtKey": "SD-33",
     "candidates": [
-      {
-        "slug": "christopher-pope",
-        "displayName": "CHRISTOPHER POPE",
-        "party": "D"
-      },
       {
         "slug": "neal-ganser",
         "displayName": "NEAL GANSER",
-        "party": "R"
+        "party": "R",
+        "cap_tracker_2023_link": null
+      },
+      {
+        "slug": "christopher-pope",
+        "displayName": "CHRISTOPHER POPE",
+        "party": "D",
+        "cap_tracker_2023_link": "https://apps.montanafreepress.org/capitol-tracker-2023/lawmakers/Chris-Pope/"
       }
     ]
   },
@@ -2979,7 +3272,8 @@
     "in_cycle_2024": "no",
     "holdover_senator": "Shelley Vance",
     "holdover_party": "R",
-    "key": "sd-34",
+    "holdover_link": "https://apps.montanafreepress.org/capitol-tracker-2023/lawmakers/Shelley-Vance/",
+    "districtKey": "SD-34",
     "candidates": []
   },
   {
@@ -2990,22 +3284,25 @@
     "locale": "Ennis, Dillon, Twin Bridges, ",
     "in_cycle_2024": "yes",
     "holdover_senator": "",
-    "key": "sd-35",
+    "districtKey": "SD-35",
     "candidates": [
       {
         "slug": "mark-(mj)-mcginley",
         "displayName": "MARK (MJ) MCGINLEY",
-        "party": "R"
+        "party": "R",
+        "cap_tracker_2023_link": null
       },
       {
         "slug": "tony-tezak",
         "displayName": "TONY TEZAK",
-        "party": "R"
+        "party": "R",
+        "cap_tracker_2023_link": null
       },
       {
         "slug": "ray-shaw",
         "displayName": "RAY SHAW",
-        "party": "R"
+        "party": "R",
+        "cap_tracker_2023_link": null
       }
     ]
   },
@@ -3017,22 +3314,25 @@
     "locale": "Anaconda, Warm Springs, west Butte",
     "in_cycle_2024": "yes",
     "holdover_senator": "",
-    "key": "sd-36",
+    "districtKey": "SD-36",
     "candidates": [
+      {
+        "slug": "darlean-newman",
+        "displayName": "DARLEAN NEWMAN",
+        "party": "R",
+        "cap_tracker_2023_link": null
+      },
       {
         "slug": "jessica-wicks",
         "displayName": "JESSICA WICKS",
-        "party": "D"
+        "party": "D",
+        "cap_tracker_2023_link": null
       },
       {
         "slug": "sara-novak",
         "displayName": "SARA NOVAK",
-        "party": "D"
-      },
-      {
-        "slug": "darlean-newman",
-        "displayName": "DARLEAN NEWMAN",
-        "party": "R"
+        "party": "D",
+        "cap_tracker_2023_link": null
       }
     ]
   },
@@ -3044,17 +3344,19 @@
     "locale": "Central and south Butte",
     "in_cycle_2024": "yes",
     "holdover_senator": "",
-    "key": "sd-37",
+    "districtKey": "SD-37",
     "candidates": [
-      {
-        "slug": "derek-j-harvey",
-        "displayName": "DEREK J HARVEY",
-        "party": "D"
-      },
       {
         "slug": "jim-kephart",
         "displayName": "JIM KEPHART",
-        "party": "R"
+        "party": "R",
+        "cap_tracker_2023_link": null
+      },
+      {
+        "slug": "derek-j-harvey",
+        "displayName": "DEREK J HARVEY",
+        "party": "D",
+        "cap_tracker_2023_link": "https://apps.montanafreepress.org/capitol-tracker-2023/lawmakers/Derek-Harvey/"
       }
     ]
   },
@@ -3066,27 +3368,31 @@
     "locale": "Boulder, Deer Lodge, Philipsburg, Drummond",
     "in_cycle_2024": "yes",
     "holdover_senator": "",
-    "key": "sd-38",
+    "districtKey": "SD-38",
     "candidates": [
       {
         "slug": "becky-beard",
         "displayName": "BECKY BEARD",
-        "party": "R"
+        "party": "R",
+        "cap_tracker_2023_link": "https://apps.montanafreepress.org/capitol-tracker-2023/lawmakers/Becky-Beard/"
       },
       {
         "slug": "jeremy-mygland",
         "displayName": "JEREMY MYGLAND",
-        "party": "R"
-      },
-      {
-        "slug": "jeffrey-benson",
-        "displayName": "JEFFREY BENSON",
-        "party": "D"
+        "party": "R",
+        "cap_tracker_2023_link": null
       },
       {
         "slug": "gregory-frazer",
         "displayName": "GREGORY FRAZER",
-        "party": "R"
+        "party": "R",
+        "cap_tracker_2023_link": "https://apps.montanafreepress.org/capitol-tracker-2023/lawmakers/Gregory-Frazer/"
+      },
+      {
+        "slug": "jeffrey-benson",
+        "displayName": "JEFFREY BENSON",
+        "party": "D",
+        "cap_tracker_2023_link": null
       }
     ]
   },
@@ -3098,17 +3404,19 @@
     "locale": "White Sulphur Springs, Belt, Stanford, Harlowton",
     "in_cycle_2024": "yes",
     "holdover_senator": "",
-    "key": "sd-39",
+    "districtKey": "SD-39",
     "candidates": [
       {
         "slug": "e-wylie-galt",
         "displayName": "E WYLIE GALT",
-        "party": "R"
+        "party": "R",
+        "cap_tracker_2023_link": null
       },
       {
         "slug": "bruce-shultz",
         "displayName": "BRUCE SHULTZ",
-        "party": "D"
+        "party": "D",
+        "cap_tracker_2023_link": null
       }
     ]
   },
@@ -3120,17 +3428,19 @@
     "locale": "West Helena and western Helena Valley",
     "in_cycle_2024": "yes",
     "holdover_senator": "",
-    "key": "sd-40",
+    "districtKey": "SD-40",
     "candidates": [
-      {
-        "slug": "laura-smith",
-        "displayName": "LAURA SMITH",
-        "party": "D"
-      },
       {
         "slug": "greg-l-guthrie",
         "displayName": "GREG L GUTHRIE",
-        "party": "R"
+        "party": "R",
+        "cap_tracker_2023_link": null
+      },
+      {
+        "slug": "laura-smith",
+        "displayName": "LAURA SMITH",
+        "party": "D",
+        "cap_tracker_2023_link": "https://apps.montanafreepress.org/capitol-tracker-2023/lawmakers/Laura-Smith/"
       }
     ]
   },
@@ -3143,7 +3453,8 @@
     "in_cycle_2024": "no",
     "holdover_senator": "Janet Ellis",
     "holdover_party": "D",
-    "key": "sd-41",
+    "holdover_link": "https://apps.montanafreepress.org/capitol-tracker-2023/lawmakers/Janet-Ellis/",
+    "districtKey": "SD-41",
     "candidates": []
   },
   {
@@ -3155,7 +3466,8 @@
     "in_cycle_2024": "no",
     "holdover_senator": "Mary Ann Dunwell",
     "holdover_party": "D",
-    "key": "sd-42",
+    "holdover_link": "https://apps.montanafreepress.org/capitol-tracker-2023/lawmakers/Mary-Ann-Dunwell/",
+    "districtKey": "SD-42",
     "candidates": []
   },
   {
@@ -3167,7 +3479,8 @@
     "in_cycle_2024": "no",
     "holdover_senator": "Jason Ellsworth",
     "holdover_party": "R",
-    "key": "sd-43",
+    "holdover_link": "https://apps.montanafreepress.org/capitol-tracker-2023/lawmakers/Jason-Ellsworth/",
+    "districtKey": "SD-43",
     "candidates": []
   },
   {
@@ -3178,27 +3491,31 @@
     "locale": "Northern Bitterroot Valley",
     "in_cycle_2024": "yes",
     "holdover_senator": "",
-    "key": "sd-44",
+    "districtKey": "SD-44",
     "candidates": [
       {
         "slug": "wayne-rusk",
         "displayName": "WAYNE RUSK",
-        "party": "R"
+        "party": "R",
+        "cap_tracker_2023_link": "https://apps.montanafreepress.org/capitol-tracker-2023/lawmakers/Wayne-Rusk/"
       },
       {
         "slug": "theresa-manzella",
         "displayName": "THERESA MANZELLA",
-        "party": "R"
+        "party": "R",
+        "cap_tracker_2023_link": "https://apps.montanafreepress.org/capitol-tracker-2023/lawmakers/Theresa-Manzella/"
       },
       {
         "slug": "brad-davis",
         "displayName": "BRAD DAVIS",
-        "party": "R"
+        "party": "R",
+        "cap_tracker_2023_link": null
       },
       {
         "slug": "cade-scatolini",
         "displayName": "CADE SCATOLINI",
-        "party": "D"
+        "party": "D",
+        "cap_tracker_2023_link": null
       }
     ]
   },
@@ -3210,22 +3527,25 @@
     "locale": "I-90 corridor from Frenchtown to Idaho border",
     "in_cycle_2024": "yes",
     "holdover_senator": "",
-    "key": "sd-45",
+    "districtKey": "SD-45",
     "candidates": [
       {
         "slug": "denley-m-loge",
         "displayName": "DENLEY M LOGE",
-        "party": "R"
-      },
-      {
-        "slug": "devin-jackson",
-        "displayName": "DEVIN JACKSON",
-        "party": "D"
+        "party": "R",
+        "cap_tracker_2023_link": "https://apps.montanafreepress.org/capitol-tracker-2023/lawmakers/Denley-Loge/"
       },
       {
         "slug": "annamarie-white",
         "displayName": "ANNAMARIE WHITE",
-        "party": "R"
+        "party": "R",
+        "cap_tracker_2023_link": null
+      },
+      {
+        "slug": "devin-jackson",
+        "displayName": "DEVIN JACKSON",
+        "party": "D",
+        "cap_tracker_2023_link": null
       }
     ]
   },
@@ -3237,22 +3557,25 @@
     "locale": "East Missoula, Rattlesnake, Ronan",
     "in_cycle_2024": "yes",
     "holdover_senator": "",
-    "key": "sd-46",
+    "districtKey": "SD-46",
     "candidates": [
-      {
-        "slug": "c-b-pearson",
-        "displayName": "C B PEARSON",
-        "party": "D"
-      },
       {
         "slug": "charles-headley",
         "displayName": "CHARLES HEADLEY",
-        "party": "R"
+        "party": "R",
+        "cap_tracker_2023_link": null
+      },
+      {
+        "slug": "c-b-pearson",
+        "displayName": "C B PEARSON",
+        "party": "D",
+        "cap_tracker_2023_link": null
       },
       {
         "slug": "jacinda-morigeau",
         "displayName": "JACINDA MORIGEAU",
-        "party": "D"
+        "party": "D",
+        "cap_tracker_2023_link": null
       }
     ]
   },
@@ -3264,22 +3587,25 @@
     "locale": "Southeast Missoula, Clinton",
     "in_cycle_2024": "yes",
     "holdover_senator": "",
-    "key": "sd-47",
+    "districtKey": "SD-47",
     "candidates": [
-      {
-        "slug": "ellie-hill-boldman",
-        "displayName": "ELLIE HILL BOLDMAN",
-        "party": "D"
-      },
       {
         "slug": "abigail-maki",
         "displayName": "ABIGAIL MAKI",
-        "party": "R"
+        "party": "R",
+        "cap_tracker_2023_link": null
       },
       {
         "slug": "erica-siate",
         "displayName": "ERICA SIATE",
-        "party": "R"
+        "party": "R",
+        "cap_tracker_2023_link": null
+      },
+      {
+        "slug": "ellie-hill-boldman",
+        "displayName": "ELLIE HILL BOLDMAN",
+        "party": "D",
+        "cap_tracker_2023_link": "https://apps.montanafreepress.org/capitol-tracker-2023/lawmakers/Ellie-Boldman/"
       }
     ]
   },
@@ -3292,7 +3618,8 @@
     "in_cycle_2024": "no",
     "holdover_senator": "Andrea Olsen",
     "holdover_party": "D",
-    "key": "sd-48",
+    "holdover_link": "https://apps.montanafreepress.org/capitol-tracker-2023/lawmakers/Andrea-Olsen/",
+    "districtKey": "SD-48",
     "candidates": []
   },
   {
@@ -3304,7 +3631,8 @@
     "in_cycle_2024": "no",
     "holdover_senator": "Willis Curdy",
     "holdover_party": "D",
-    "key": "sd-49",
+    "holdover_link": "https://apps.montanafreepress.org/capitol-tracker-2023/lawmakers/Willis-Curdy/",
+    "districtKey": "SD-49",
     "candidates": []
   },
   {
@@ -3316,7 +3644,8 @@
     "in_cycle_2024": "no",
     "holdover_senator": "Shane Morigeau",
     "holdover_party": "D",
-    "key": "sd-50",
+    "holdover_link": "https://apps.montanafreepress.org/capitol-tracker-2023/lawmakers/Shane-Morigeau/",
+    "districtKey": "SD-50",
     "candidates": []
   }
 ]

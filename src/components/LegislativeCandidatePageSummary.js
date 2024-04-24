@@ -1,4 +1,5 @@
 import { css } from "@emotion/react";
+import Image from 'next/image'
 
 import { PARTIES } from '../lib/styles'
 
@@ -12,18 +13,15 @@ const summaryStyle = css`
     box-shadow: 2px 2px 4px #aaa;
     color: black;
     
-    .portrait-col {
-        flex: 0 0 100px;
-    }
-    .portrait-placeholder {
-        width: 200px;
-        height: 200px;
-        background-color: #666;
+    .map-col {
+        flex: 1 0 100px;
         display: flex;
         justify-content: center;
-        align-items: center;
-        color: white;
+        /* border: 2px solid black; */
+        /* background: var(--tan6); */
+        
     }
+    
     .info-col {
         flex: 1 1 400px;
         padding: 0.5em 1em;
@@ -50,12 +48,34 @@ const summaryStyle = css`
     .name {
         font-weight: bold;
         font-size: 3em;
+        margin: 0.5em;
         text-align: center;
     }
     .summary-line {
         font-style: italic;
         font-size: 1.3em;
+    }
+    .incumbent-line {
+        font-size: 1.3em;
         text-align: center;
+        font-style: italic;
+
+        a {
+            margin-top: 0.3em;
+            margin-bottom: 0.5em;
+            padding: 0.1em;
+            display: block;
+            color: black;
+            border: 2px solid black;
+            box-shadow: 2px 2px 3px #aaa;
+            color: var(--link);
+            border: 2px solid var(--link);
+        }
+        a:hover {
+            text-decoration: none;
+            color: var(--highlight);
+            border: 2px solid var(--highlight);
+        }
     }
 `
 
@@ -64,21 +84,31 @@ export default function CandidatePageSummary(props) {
         displayName,
         party,
         summaryLine,
-        raceDisplayName
+        raceDisplayName,
+        raceSlug,
+        cap_tracker_2023_link,
     } = props
 
     const partyInfo = PARTIES.find(d => d.key === party)
     return <div css={summaryStyle} style={{ borderTop: `5px solid ${partyInfo.color}` }}>
 
-        <div className="portrait-col">
-            <div className="portrait-placeholder">[TK]</div>
-        </div>
+
         <div className="info-col">
             <div className="info-container">
-                <div className="intro-line"><strong style={{ color: partyInfo.color }}>{partyInfo.adjective}</strong> candidate for <strong>{raceDisplayName}</strong></div>
+                <div className="intro-line"><strong style={{ color: partyInfo.color }}>{partyInfo.adjective}</strong> candidate for</div>
+                <div className="position-line"><strong>{raceDisplayName}</strong></div>
                 <h1 className="name">{displayName}</h1>
-                <div className="summary-line">{summaryLine}</div>
+                {cap_tracker_2023_link && <div className="incumbent-line">
+                    <div>Member of 2023 Legislature</div>
+                    <a href={cap_tracker_2023_link}>View legislative record »</a>
+                </div>}
             </div>
+        </div>
+        <div className="map-col">
+            <Image src={`https://apps.montanafreepress.org/maps/legislative-districts/1200px/${raceSlug}.png`}
+                width={300}
+                height={300}
+                alt={`Map of ${raceDisplayName}`} />
         </div>
     </div>
 }

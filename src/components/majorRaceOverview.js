@@ -95,7 +95,7 @@ const candidateStyle = css`
 function Candidate(props) {
     const { slug, displayName, summaryLine, party } = props
     const partyInfo = PARTIES.find(d => d.key === party)
-    return <div css={candidateStyle} style={{ borderTop: `5px solid ${partyInfo.color}` }}><Link href={`/${slug}`}>
+    return <div css={candidateStyle} style={{ borderTop: `5px solid ${partyInfo.color}` }}><Link href={`/candidates/${slug}`}>
         <div className="portrait-col" >
             <div className="portrait-placeholder">[TK]</div>
         </div>
