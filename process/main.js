@@ -2,6 +2,8 @@ const fs = require('fs')
 const glob = require('glob')
 const YAML = require('yaml')
 
+const urlize = str => str.toLowerCase().replaceAll(/\s/g, '-')
+
 const getMD = path => ({ content: fs.readFileSync(path, 'utf8') })
 const getJson = (path) => JSON.parse(fs.readFileSync(path, 'utf8'))
 const getYml = (path) => YAML.parse(fs.readFileSync(path, 'utf8'))
@@ -18,10 +20,9 @@ const writeJson = (path, data) => {
 const races = getYml('./inputs/content/races.yml')
 const text = getYml('./inputs/content/text.yml')
 const candidates = collectYmls('./inputs/content/candidates/*.yml')
-const coverage = getJson('./inputs/coverage/dummy-articles.json') // TODO - replace with real stuff
+const ballotInitiatives = getYml('./inputs/content/ballot-initiatives.yml')
+const coverage = getJson('./inputs/coverage/articles.json')
 const howToVoteContent = getMD('./inputs/content/how-to-vote.md')
-
-
 
 const questionnaires = getJson('./inputs/mtfp-questionnaire/dummy-answers.json')
 
@@ -51,8 +52,10 @@ candidates.forEach(candidate => {
                 party: c.party,
             }
         })
-    candidate.coverage = coverage // TODO - implement sorting articles to candidates once we have real data
+    candidate.coverage = coverage
         .sort((a, b) => new Date(b.date) - new Date(a.date))
+        .filter(article => article.tags.map(urlize).includes(candidate.slug))
+
     const questionnaireMatch = questionnaires.find(d => d.name === candidate.slug)
     if (!questionnaireMatch) console.log(`${candidate.slug} missing questionnaire answers`)
     candidate.questionnaire = questionnaireMatch
@@ -76,6 +79,7 @@ const overviewRaces = races.map(race => {
 
 writeJson('./src/data/candidates.json', candidates) // Data for candidate pages
 writeJson('./src/data/overview-races.json', overviewRaces) // Data for landing page
+writeJson('./src/data/ballot-initiatives.json', ballotInitiatives) // Pass through - ballot initiative structured test
 writeJson('./src/data/text.json', text) // simple pass through logic for now
 writeJson('./src/data/how-to-vote.json', howToVoteContent)
 writeJson('./src/data/update-time.json', { updateTime: new Date() })

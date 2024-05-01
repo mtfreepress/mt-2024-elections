@@ -108,7 +108,9 @@ export default function CandidatePageSummary(props) {
             <Image src={`https://apps.montanafreepress.org/maps/legislative-districts/1200px/${raceSlug}.png`}
                 width={300}
                 height={300}
-                alt={`Map of ${raceDisplayName}`} />
+                alt={`Map of ${raceDisplayName}`}
+                priority={true}
+            />
         </div>
     </div>
 }

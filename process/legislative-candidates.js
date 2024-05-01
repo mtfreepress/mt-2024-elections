@@ -1,6 +1,6 @@
 const fs = require('fs')
 const csv = require('async-csv')
-
+const getJson = (path) => JSON.parse(fs.readFileSync(path, 'utf8'))
 const writeJson = (path, data) => {
     fs.writeFile(path, JSON.stringify(data, null, 2), err => {
         if (err) throw err
@@ -39,6 +39,7 @@ async function main() {
     const candidateAnnotations = await getCsv('./inputs/content/lege-candidate-annotations.csv',)
     const legeDistricts = await getCsv('./inputs/legislative-districts/districts.csv',)
     const legeQuestions = await getCsv('./inputs/lvw-questionnaire/lwvmt24-races.csv',)
+    const coverage = getJson('./inputs/coverage/articles.json')
 
     // cleaning
     candidates.forEach(d => {
@@ -98,20 +99,25 @@ async function main() {
         }
         // Questionnaire
         const questionnaireMatch = legeQuestions.find(d => d['Full Name'] === l.Name)
-        if (!questionnaireMatch) throw `Error: Missing questionnaire for ${l.Name}`
-        const hasResponses = (questionnaireMatch[LEGE_QUESTIONS[0]] !== '')
-            || (questionnaireMatch[LEGE_QUESTIONS[1]] !== '') // True if there's an answer to either Q1 or Q2
+        if (!questionnaireMatch) console.log(`Warning: Missing questionnaire data row for ${l.Name}`)
+        const hasResponses = questionnaireMatch && ((questionnaireMatch[LEGE_QUESTIONS[0]] !== '')
+            || (questionnaireMatch[LEGE_QUESTIONS[1]] !== '')) // True if there's an answer to either Q1 or Q2
         const questionnaire = {
-            race: questionnaireMatch['Race/Referendum']
+            race: questionnaireMatch && questionnaireMatch['Race/Referendum']
                 .replace('MONTANA HOUSE DISTRICT ', 'HD-')
-                .replace('MONTANA SENATE DISTRICT ', 'SD-'),
+                .replace('MONTANA SENATE DISTRICT ', 'SD-') || null,
             name: l.slug,
             hasResponses,
-            responses: LEGE_QUESTIONS.map(question => ({
+            responses: questionnaireMatch ? LEGE_QUESTIONS.map(question => ({
                 question: question.replace(/Question \d\:\s*\n/, '').replaceAll('  ', ' ').trim(),
                 answer: questionnaireMatch[question].replaceAll('  ', ' '),
-            }))
+            })) : [],
         }
+
+        // Coverage
+        const candidateCoverage = coverage
+            .sort((a, b) => new Date(b.date) - new Date(a.date))
+            .filter(article => article.tags.map(urlize).includes(l.slug))
 
         return {
             raceSlug: l.raceSlug,
@@ -128,16 +134,16 @@ async function main() {
             isIncumbent: false, // False for all 2024 lege candidates because of redistricting
             cap_tracker_2023_link: annotationMatch.cap_tracker_2023_link || null,
 
-            campaignWebsite: questionnaireMatch['Campaign Website'] || null,
-            campaignFB: questionnaireMatch['Campaign Facebook URL'] || null,
-            campaignTW: questionnaireMatch['Campaign Twitter Handle'] || null,
-            campaignIG: questionnaireMatch['Campaign Instagram URL'] || null,
-            campaignYT: questionnaireMatch['Campaign YouTube URL'] || null,
+            campaignWebsite: questionnaireMatch && questionnaireMatch['Campaign Website'] || null,
+            campaignFB: questionnaireMatch && questionnaireMatch['Campaign Facebook URL'] || null,
+            campaignTW: questionnaireMatch && questionnaireMatch['Campaign Twitter Handle'] || null,
+            campaignIG: questionnaireMatch && questionnaireMatch['Campaign Instagram URL'] || null,
+            campaignYT: questionnaireMatch && questionnaireMatch['Campaign YouTube URL'] || null,
             campaignTT: null, // Not available from 2024 LWV questionnaire
 
             district,
             questionnaire,
-            opponents: [] // TODO - populate this
+            coverage: candidateCoverage,
         }
 
     })

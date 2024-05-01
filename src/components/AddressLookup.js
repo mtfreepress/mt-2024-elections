@@ -50,7 +50,7 @@ export default function AddressLookup({
     setSelDistricts,
 }) {
     const { usHouse, psc, mtHouse, mtSenate, matchedAddress } = selDistricts
-    const [value, setValue] = useState('XXX')
+    const [value, setValue] = useState(null)
 
     const districtFinder = new DistrictFinder()
 
@@ -78,16 +78,18 @@ export default function AddressLookup({
     }
 
     return <div css={lookupStyle}>
-        <div className="ledein">Optional: Customize this guide to show races specific to your voting address.</div>
+        <div className="ledein">Optional: Customize this guide to show only races specific to your voting address.</div>
+        <div>[NOTE: This is not currently working]</div>
         <form>
-            <input onChange={handleChange} type="address" value={value} placeholder={PLACEHOLDER} />
+            <input onChange={handleChange} type="address" value={value || ''} placeholder={PLACEHOLDER} />
             <button onClick={handleSubmit}>Customize</button>
         </form>
         <div className="message">
             {(matchedAddress === null) && <div>{DEFAULT_MESSAGE}</div>}
             {(matchedAddress !== null) && <div>
                 <div>Districts for <strong>{matchedAddress}</strong>:</div>
-                <div>{usHouse}, {psc}, {mtHouse}, {mtSenate}</div>
+                <div>[Results: {usHouse}, {psc}, {mtHouse}, {mtSenate}]</div>
+                <div>TODO - implement handling for bad address lookups</div>
                 <a onClick={reset}>Reset</a>
             </div>}
         </div>

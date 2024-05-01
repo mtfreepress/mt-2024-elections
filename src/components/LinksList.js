@@ -82,12 +82,12 @@ export default LinksList
 
 const Article = (props) => {
     const { link, title, date } = props
-    const category = props.categories.nodes[0].name // TK switch to processing
-    const author = props.author.node.name // TK switch to processing
+    // const category = props.categories.nodes[0].name // TK switch to processing
+    // const author = props.author.node.name // TK switch to processing
 
     return <a css={articleStyle} href={link}>
-        <div className='dek'>📰 {category}</div>
+        {/* <div className='dek'>📰 {category}</div> */}
         <div className='title'>{title}</div>
-        <div className='detail'>{formatDate(new Date(date))} • {author}</div>
+        <div className='detail'>{formatDate(new Date(date))}</div>
     </a>
 }

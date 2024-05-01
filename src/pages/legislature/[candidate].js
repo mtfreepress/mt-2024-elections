@@ -72,10 +72,10 @@ export default function CandidatePage({ pageData }) {
     return (
         <Layout pageCss={candidatePageStyle}
             relativePath={slug}
-            pageTitle={`${displayName} | MFTP 2024 Election Guide`}
+            pageTitle={`${displayName} | ${raceDisplayName} | MFTP 2024 Election Guide`}
             pageDescription={`Candidate for ${raceDisplayName}.`}
             pageFeatureImage={"https://apps.montanafreepress.org/capitol-tracker-2023/cap-tracker-banner-dark.png"} // TODO
-            siteSeoTitle={"Voter information | MFTP 2024 Election Guide"}
+            siteSeoTitle={`${displayName} | ${raceDisplayName} | MFTP 2024 Election Guide`}
             seoDescription={`Candidate for ${raceDisplayName}.`}
             socialTitle={`${displayName} on the MTFP 2024 Election Guide`}
             socialDescription={`Candidate for ${raceDisplayName}.`}

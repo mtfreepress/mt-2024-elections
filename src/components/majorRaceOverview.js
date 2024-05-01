@@ -30,6 +30,7 @@ const raceStyle = css`
         display: flex;
         flex-wrap: wrap;
         justify-content: space-around;
+        margin-top: 0.5em;
      }
     .party-bucket {
         padding: 0 0.5em;

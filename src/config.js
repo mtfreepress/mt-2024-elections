@@ -13,7 +13,7 @@ export const metaData = {
 }
 
 // TODO - update this link to a to a new one
-export const headerDonateLink = "https://checkout.fundjournalism.org/memberform?org_id=montanafreepress&campaign=7014o000000JNaKAAW"
+export const headerDonateLink = "https://montanafreepress.org/donate?utm_source=website&utm_medium=electionguide&utm_campaign=2024-ElectionGuide-Header"
 
 export const footerLogoUrl = 'https://montanafreepress.org/wp-content/uploads/2020/05/website-footer-logo-1.png'
 

@@ -12,7 +12,12 @@ import LegislativeDistrictSelector from '../components/LegislativeDistrictSelect
 import BallotInitiativeOverview from '../components/BallotInitiativeOverview'
 
 import { urlize } from '../lib/utils'
-import { getRaceOverviews, getOverviewText, getLegislativeDistrictOverviews } from '../lib/overview'
+import {
+    getRaceOverviews,
+    getOverviewText,
+    getBallotIssues,
+    getLegislativeDistrictOverviews,
+} from '../lib/overview'
 
 const RACE_LEVELS = [
     'Federal Delegation',
@@ -55,16 +60,18 @@ export async function getStaticProps() {
     const races = getRaceOverviews()
     const legislativeRaces = getLegislativeDistrictOverviews()
     const text = getOverviewText()
+    const ballotIssues = getBallotIssues()
     return {
         props: {
             races,
             legislativeRaces,
+            ballotIssues,
             text,
         }
     }
 }
 
-export default function Home({ races, legislativeRaces, text }) {
+export default function Home({ races, legislativeRaces, ballotIssues, text }) {
 
     // State for filtering overview to candidates for a given voter address
     // Design approach here is to make this optional for readers who won't engage with interactivity
@@ -114,7 +121,7 @@ export default function Home({ races, legislativeRaces, text }) {
 
             <section>
                 <div>
-                    {raceLevels.map(rl => {
+                    {raceLevels.slice(0, 2).map(rl => {
                         return <div key={rl.level}>
                             <a className="link-anchor" id={urlize(rl.level)}></a>
                             <h2>{rl.level}</h2>
@@ -166,10 +173,40 @@ export default function Home({ races, legislativeRaces, text }) {
             </section>
 
             <section>
+                <div>
+                    {raceLevels.slice(2,).map(rl => {
+                        return <div key={rl.level}>
+                            <a className="link-anchor" id={urlize(rl.level)}></a>
+                            <h2>{rl.level}</h2>
+                            {
+                                rl.races
+                                    .filter(r => {
+                                        // excludes non-selected races when filter view is active
+                                        if (r.category === 'us-house' && selDistricts.usHouse !== null) {
+                                            return (selDistricts.usHouse === r.raceSlug)
+                                        }
+                                        else if (r.category === 'psc' && selDistricts.psc !== null) {
+                                            return (selDistricts.psc === r.raceSlug)
+                                        } else {
+                                            return true
+                                        }
+                                    })
+                                    .map(r => <MajorRaceOverview key={r.raceSlug}
+                                        race={r}
+                                        showMap={['Federal Delegation', 'Public Service Commission'].includes(r.level)}
+                                    />)
+                            }
+                        </div>
+                    })}
+                </div>
+            </section>
+            <hr />
+
+            <section>
                 <a className="link-anchor" id="ballot-initiatives"></a>
                 <h2>Ballot initiatives</h2>
                 <Markdown>{overviewBallotInitiatives}</Markdown>
-                <BallotInitiativeOverview />
+                <BallotInitiativeOverview ballotIssues={ballotIssues} />
             </section>
 
             <section>

@@ -13,11 +13,11 @@ const summaryStyle = css`
     color: black;
     
     .portrait-col {
-        flex: 0 0 100px;
+        flex: 1 0 100px;
     }
     .portrait-placeholder {
-        width: 200px;
-        height: 200px;
+        width: 100%;
+        aspect-ratio: 1 / 1;
         background-color: #666;
         display: flex;
         justify-content: center;

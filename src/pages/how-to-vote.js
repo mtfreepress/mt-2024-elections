@@ -1,12 +1,12 @@
 import Markdown from 'react-markdown';
 import Layout from '../design/Layout'
 
-import { content } from '../data/how-to-vote.json'
+import text from '../data/how-to-vote.json'
 
 export async function getStaticProps() {
     return {
         props: {
-            content,
+            content: text.content,
         }
     }
 }

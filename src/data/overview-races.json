@@ -64,7 +64,38 @@
     "category": "us-house",
     "description": "Western Montana representative in Congress. District includes Missoula, Bozeman, Kalispell and Butte. Elected to a two-year term.",
     "note": "Prior to 2022, Montana was represented by a single congressman elected on a statewide basis.",
-    "candidates": []
+    "candidates": [
+      {
+        "slug": "ryan-zinke",
+        "displayName": "Ryan Zinke",
+        "summaryLine": null,
+        "party": "R"
+      },
+      {
+        "slug": "mary-todd",
+        "displayName": "Mary Todd",
+        "summaryLine": null,
+        "party": "R"
+      },
+      {
+        "slug": "monica-tranel",
+        "displayName": "Monica Tranel",
+        "summaryLine": null,
+        "party": "D"
+      },
+      {
+        "slug": "ernie-noble",
+        "displayName": "Ernie Noble",
+        "summaryLine": null,
+        "party": "L"
+      },
+      {
+        "slug": "dennis-hayes",
+        "displayName": "Dennis Hayes",
+        "summaryLine": null,
+        "party": "L"
+      }
+    ]
   },
   {
     "raceSlug": "us-house-2",
@@ -73,25 +104,154 @@
     "category": "us-house",
     "description": "Eastern Montana representative in Congress. District includes Billings, Helena, Havre and Miles City. Elected to a two-year term.",
     "note": "Prior to 2022, Montana was represented by a single congressman elected on a statewide basis.",
-    "candidates": []
+    "candidates": [
+      {
+        "slug": "elsie-arntzen",
+        "displayName": "Elsie Arntzen",
+        "summaryLine": null,
+        "party": "R"
+      },
+      {
+        "slug": "troy-downing",
+        "displayName": "Troy Downing",
+        "summaryLine": null,
+        "party": "R"
+      },
+      {
+        "slug": "joel-krautter",
+        "displayName": "Joel Krautter",
+        "summaryLine": null,
+        "party": "R"
+      },
+      {
+        "slug": "ric-holden",
+        "displayName": "Ric Holden",
+        "summaryLine": null,
+        "party": "R"
+      },
+      {
+        "slug": "kenneth-bogner",
+        "displayName": "Kenneth Bogner",
+        "summaryLine": null,
+        "party": "R"
+      },
+      {
+        "slug": "denny-rehberg",
+        "displayName": "Denny Rehberg",
+        "summaryLine": "Former U.S. Congressman",
+        "party": "R"
+      },
+      {
+        "slug": "kyle-austin",
+        "displayName": "Kyle Austin",
+        "summaryLine": null,
+        "party": "R"
+      },
+      {
+        "slug": "stacy-zinn",
+        "displayName": "Stacy Zinn",
+        "summaryLine": null,
+        "party": "R"
+      },
+      {
+        "slug": "kevin-hamm",
+        "displayName": "Kevin Hamm",
+        "summaryLine": null,
+        "party": "D"
+      },
+      {
+        "slug": "ming-cabrera",
+        "displayName": "Ming Cabrera",
+        "summaryLine": null,
+        "party": "D"
+      },
+      {
+        "slug": "steve-held",
+        "displayName": "Steve Held",
+        "summaryLine": null,
+        "party": "D"
+      },
+      {
+        "slug": "john-driscoll",
+        "displayName": "John Driscoll",
+        "summaryLine": null,
+        "party": "D"
+      },
+      {
+        "slug": "ed-walker",
+        "displayName": "Ed Walker",
+        "summaryLine": "Former state Senator",
+        "party": "R"
+      }
+    ]
   },
   {
     "raceSlug": "governor",
     "displayName": "Governor",
     "level": "State Officials",
     "category": "governor",
-    "description": "Montana's chief executive, the governor appoints the heads of most agencies, signs legislation into law and acts as state government's most visible elected official. Elected to a four-year term via a statewide election.",
+    "description": "Montana's chief executive. The governor appoints the heads of most agencies, signs legislation into law and acts as state government's most visible elected official. Elected to a four-year term via a statewide election.",
     "note": null,
-    "candidates": []
+    "candidates": [
+      {
+        "slug": "greg-gianforte",
+        "displayName": "Greg Gianforte",
+        "summaryLine": "Incumbent Montana Governor",
+        "party": "R"
+      },
+      {
+        "slug": "tanner-smith",
+        "displayName": "Tanner Smith",
+        "summaryLine": null,
+        "party": "R"
+      },
+      {
+        "slug": "ryan-busse",
+        "displayName": "Ryan Busse",
+        "summaryLine": null,
+        "party": "D"
+      },
+      {
+        "slug": "kaiser-leib",
+        "displayName": "Kaiser Leib",
+        "summaryLine": null,
+        "party": "L"
+      },
+      {
+        "slug": "jim-hunt",
+        "displayName": "Jim Hunt",
+        "summaryLine": null,
+        "party": "D"
+      }
+    ]
   },
   {
     "raceSlug": "secretary-of-state",
     "displayName": "Secretary of State",
     "level": "State Officials",
     "category": "sos",
-    "description": "Montana's top election official, the secretary of state also oversees business registration and maintains many state records. Elected to a four-year term via a statewide election.",
+    "description": "Montana's top election official. The secretary of state also oversees business registration and maintains many state records. Elected to a four-year term via a statewide election.",
     "note": null,
-    "candidates": []
+    "candidates": [
+      {
+        "slug": "christi-jacobsen",
+        "displayName": "Christi Jacobsen",
+        "summaryLine": "Incumbent Montana Secretary of State",
+        "party": "R"
+      },
+      {
+        "slug": "jesse-mullen",
+        "displayName": "Jesse Mullen",
+        "summaryLine": null,
+        "party": "D"
+      },
+      {
+        "slug": "john-lamb",
+        "displayName": "John Lamb",
+        "summaryLine": null,
+        "party": "L"
+      }
+    ]
   },
   {
     "raceSlug": "attorney-general",
@@ -100,7 +260,26 @@
     "category": "attorney-general",
     "description": "The state's top law enforcement officer and prosecutor. The head of the state Department of Justice, the AG also represents Montana in litigation and leads the Montana Highway Patrol. Elected to a four-year term via a statewide election.",
     "note": null,
-    "candidates": []
+    "candidates": [
+      {
+        "slug": "austin-knudsen",
+        "displayName": "Austin Knudsen",
+        "summaryLine": "Incumbent Attorney General",
+        "party": "R"
+      },
+      {
+        "slug": "ben-alke",
+        "displayName": "Ben Alke",
+        "summaryLine": "Bozeman attorney",
+        "party": "D"
+      },
+      {
+        "slug": "logan-olson",
+        "displayName": "Logan Olson",
+        "summaryLine": null,
+        "party": "R"
+      }
+    ]
   },
   {
     "raceSlug": "superintendent",
@@ -109,7 +288,26 @@
     "category": "superintendent",
     "description": "The state’s top education official. Elected to a four-year term via a statewide election.",
     "note": null,
-    "candidates": []
+    "candidates": [
+      {
+        "slug": "susie-hedalen",
+        "displayName": "Susie Hedalen",
+        "summaryLine": null,
+        "party": "R"
+      },
+      {
+        "slug": "sharyl-allen",
+        "displayName": "Sharyl Allen",
+        "summaryLine": null,
+        "party": "R"
+      },
+      {
+        "slug": "shannon-obrien",
+        "displayName": "Shannon O'Brien",
+        "summaryLine": null,
+        "party": "D"
+      }
+    ]
   },
   {
     "raceSlug": "state-auditor",
@@ -118,7 +316,26 @@
     "category": "auditor",
     "description": "Montana’s Commissioner of Securities and Insurance. Regulates the insurance industry and investigates fraud. Elected to a four-year term via a statewide election.",
     "note": null,
-    "candidates": []
+    "candidates": [
+      {
+        "slug": "james-brown",
+        "displayName": "James Brown",
+        "summaryLine": "Public Service Commissioner",
+        "party": "R"
+      },
+      {
+        "slug": "john-repke",
+        "displayName": "John Repke",
+        "summaryLine": null,
+        "party": "D"
+      },
+      {
+        "slug": "john-jay-willoughby",
+        "displayName": "John Jay Willoughby",
+        "summaryLine": null,
+        "party": "R"
+      }
+    ]
   },
   {
     "raceSlug": "supco-chief-justice",
@@ -127,7 +344,26 @@
     "category": "supco-chief",
     "description": "The chief of the state's high court, which takes appeals from lower courts and administers the Montana legal system. Elected to an eight-year term via a statewide election.",
     "note": null,
-    "candidates": []
+    "candidates": [
+      {
+        "slug": "jerry-lynch",
+        "displayName": "Jerry Lynch",
+        "summaryLine": null,
+        "party": "NP"
+      },
+      {
+        "slug": "cory-swanson",
+        "displayName": "Cory Swanson",
+        "summaryLine": null,
+        "party": "NP"
+      },
+      {
+        "slug": "doug-marshall",
+        "displayName": "Doug Marshall",
+        "summaryLine": null,
+        "party": "NP"
+      }
+    ]
   },
   {
     "raceSlug": "supco-3",
@@ -136,7 +372,26 @@
     "category": "supco-3",
     "description": "One of seven seats on the state's high court, which takes appeals from lower courts and administers the Montana legal system. Elected to an eight-year term via a statewide election.",
     "note": null,
-    "candidates": []
+    "candidates": [
+      {
+        "slug": "katherine-bidegaray",
+        "displayName": "Katherine Bidegaray",
+        "summaryLine": null,
+        "party": "NP"
+      },
+      {
+        "slug": "dan-wilson",
+        "displayName": "Dan Wilson",
+        "summaryLine": null,
+        "party": "NP"
+      },
+      {
+        "slug": "jerry-oneill",
+        "displayName": "Jerry O'Neil",
+        "summaryLine": null,
+        "party": "NP"
+      }
+    ]
   },
   {
     "raceSlug": "clerk-of-court",
@@ -145,33 +400,115 @@
     "category": "supco-clerk",
     "description": "Maintains Montana Supreme Court records. Elected to a six-year term via a statewide election.",
     "note": null,
-    "candidates": []
+    "candidates": [
+      {
+        "slug": "bowen-greenwood",
+        "displayName": "Bowen Greenwood",
+        "summaryLine": "Incumbent Montana Supreme Court clerk",
+        "party": "R"
+      },
+      {
+        "slug": "erin-farris-olsen",
+        "displayName": "Erin Farris-Olsen",
+        "summaryLine": null,
+        "party": "D"
+      },
+      {
+        "slug": "jordan-ophus",
+        "displayName": "Jordan Ophus",
+        "summaryLine": null,
+        "party": "D"
+      },
+      {
+        "slug": "roger-roots",
+        "displayName": "Roger Roots",
+        "summaryLine": null,
+        "party": "L"
+      },
+      {
+        "slug": "jason-ellsworth",
+        "displayName": "Jason Ellsworth",
+        "summaryLine": "Montana Senate President",
+        "party": "R"
+      }
+    ]
   },
   {
     "raceSlug": "psc-2",
     "displayName": "Public Service Commission Seat 2",
     "level": "Public Service Commission",
     "category": "psc",
-    "description": "One of five seats on the state's utility regulation board. District includes XXX, YYY and ZZZ.",
+    "description": "One of five seats on the state's utility regulation board, elected to a four-year term. The district spans south-central Montana, including parts of Bozeman and Billings.",
     "note": null,
-    "candidates": []
+    "candidates": [
+      {
+        "slug": "kirk-bushman",
+        "displayName": "Kirk Bushman",
+        "summaryLine": null,
+        "party": "R"
+      },
+      {
+        "slug": "brad-molnar",
+        "displayName": "Brad Molnar",
+        "summaryLine": null,
+        "party": "R"
+      },
+      {
+        "slug": "susan-bilo",
+        "displayName": "Susan Bilo",
+        "summaryLine": null,
+        "party": "D"
+      }
+    ]
   },
   {
     "raceSlug": "psc-3",
     "displayName": "Public Service Commission Seat 3",
     "level": "Public Service Commission",
     "category": "psc",
-    "description": "One of five seats on the state's utility regulation board. Elected to a four-year term representing a portion of the state. District includes XXX, YYY and ZZZ.",
+    "description": "One of five seats on the state's utility regulation board, elected to a four-year term. The district spans central and southwest Montana, including Butte, Dillon, Lewistown, southern Ravalli County and parts of Bozeman and Helena.",
     "note": null,
-    "candidates": []
+    "candidates": [
+      {
+        "slug": "jeff-welborn",
+        "displayName": "Jeff Welborn",
+        "summaryLine": "State Senator",
+        "party": "R"
+      },
+      {
+        "slug": "rob-elwood",
+        "displayName": "Rob Elwood",
+        "summaryLine": null,
+        "party": "R"
+      },
+      {
+        "slug": "suzzann-nordwick",
+        "displayName": "Suzzann Nordwick",
+        "summaryLine": null,
+        "party": "R"
+      },
+      {
+        "slug": "leonard-williams",
+        "displayName": "Leornard Williams",
+        "summaryLine": "Southwest Montana Central Labor Council president",
+        "party": "D"
+      }
+    ]
   },
   {
     "raceSlug": "psc-4",
     "displayName": "Public Service Commission Seat 4",
     "level": "Public Service Commission",
     "category": "psc",
-    "description": "One of five seats on the state's utility regulation board. Elected to a four-year term. District includes XXX, YYY and ZZZ.",
+    "description": "One of five seats on the state's utility regulation board, elected to a four-year term. The district spans northwest Montana, including parts of Missoula and Kalispell.",
     "note": null,
-    "candidates": []
+    "candidates": [
+      {
+        "slug": "jennifer-fielder",
+        "displayName": "Jennifer Fielder",
+        "summaryLine": "Incumbent Public Service Commissioner",
+        "party": "R"
+      }
+    ]
   }
 ]

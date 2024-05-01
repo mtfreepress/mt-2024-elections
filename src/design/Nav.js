@@ -105,12 +105,12 @@ const activeStyle = css`
 // Will need to shuffle some races into a 'more things' column
 // Hover drop downs with each active candidate name
 const PAGE_LINKS = [
-    // { path: '/', label: 'Overview' },
+    { path: '/', label: 'All Races' },
     { path: '/#federal-delegation', label: 'Federal Delegation' },
     { path: '/#state-officials', label: 'State Officials' },
-    { path: '/#legislature', label: 'MT Legislature' },
-    { path: '/#ballot-initiatives', label: 'Ballot Initiatives' },
+    { path: '/#legislature', label: 'Montana Legislature' },
     { path: '/#montana-supreme-court', label: 'Other offices' },
+    { path: '/#ballot-initiatives', label: 'Ballot Initiatives' },
     { path: '/how-to-vote', label: 'Voting info' },
 ]
 

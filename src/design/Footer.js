@@ -1,4 +1,5 @@
 import { css } from '@emotion/react'
+import Image from 'next/image'
 
 import { footerMenus, footerLogoUrl } from '../config'
 
@@ -95,7 +96,7 @@ const Footer = (props) => {
             <div css={footerInfoStyle}>
                 <span>© {new Date().getFullYear()} Montana Free Press. </span>
                 <a href="https://montanafreepress.org/about-mtfp/privacy-policy/">Privacy Policy</a>
-                <img alt="MTFP logo" css={footerImgStyle} src={footerLogoUrl} />
+                <Image alt="MTFP logo" width={121} height={47} css={footerImgStyle} src={footerLogoUrl} />
             </div>
         </div>
 
