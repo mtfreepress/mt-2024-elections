@@ -41,7 +41,9 @@ body {
     }
 }
 
-p {
+p,
+ol,
+ul {
     /* Standard MTFP serif font for any block text copy */
     font-family: utopia-std, Georgia, Garamond, "Times New Roman", serif;
     font-size: 18px;

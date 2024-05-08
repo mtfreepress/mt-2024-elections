@@ -2,9 +2,9 @@
 //     siteTitle: 
 
 export const metaData = {
-    baseUrl: 'https://apps.montanafreepress.org/draft-election-guide-2024',
+    baseUrl: 'https://apps.montanafreepress.org/election-guide-2024',
     // On-page display
-    webTitle: '[DRAFT] 2024 Election Guide',
+    // webTitle: '2024 Election Guide', // Replacing with custom design in Header
     webSubtitle: 'Montana\'s candidates for state and federal office.',
 
     // SEO

@@ -1,15 +1,13 @@
 
 import { css } from '@emotion/react'
 import Link from 'next/link'
+import { useRouter } from 'next/router'
 
 import MTFPLogo from './MTFPLogo'
 
 import updateTime from '../data/update-time.json'
 
 import { formatDate } from '../lib/utils'
-
-// TODO - figure out how to make this work
-import headerBackground from "../../public/cap-tracker-background.png"
 
 import { metaData, headerDonateLink } from '../config'
 
@@ -19,61 +17,84 @@ const headerStyle = css`
   background-position: center;
   margin-bottom: 10px;
   padding: 1em;
-`
 
-const titleStyle = css`
-  color: var(--tan4);
-  font-size: 3em;
-  margin-bottom: 5px;
-  margin-top: 0;
-  font-weight: normal;
-  text-transform: uppercase;
-  text-align: center;
+  .title {
+    color: var(--tan4);
+    font-size: 3em;
+    margin-bottom: 5px;
+    margin-top: 0;
+    font-weight: bold;
+    text-transform: uppercase;
+    text-align: center;
 
-  a {
+    a {
+      color: var(--gray1);
+    }
+    a:hover {
+      color: var(--link);
+      text-decoration: none;
+    }
+
+    @media screen and (max-width: 468px) {
+      font-size: 2em;
+    }
+  }
+  .subtitle {
+    color: var(--tan4);
+    font-size: 1.15em;
+    text-align: center;
+    margin-left: 5px;
+    margin-right: 5px;
+    margin-top: 5px;
+    font-weight: normal;
+  }
+  .mtfp-blurb {
+    text-align: center;
     color: var(--gray1);
+    font-style: italic;
   }
-  a:hover {
-    color: var(--link);
-    text-decoration: none;
+  .update {
+    color: var(--tan4);
+    font-size: 0.9em;
+    margin-top: 1em;
+    text-align: center;
   }
-
-  @media screen and (max-width: 468px) {
-    font-size: 2em;
+  .ledein {
+    color: white;
+    text-align: center;
+    text-transform: uppercase;
+    color: var(--tan2);
+    margin-bottom: 0.5em;
   }
-`
-const subtitleStyle = css`
-  color: var(--tan4);
-  font-size: 1.15em;
-  text-align: center;
-  margin-left: 5px;
-  margin-right: 5px;
-  margin-top: 5px;
-`
-const mtfpBlurbCss = css`
-  text-align: center;
-  color: var(--gray1);
-  font-style: italic;
-`
-
-const updateCss = css`
-  color: var(--tan4);
-  font-size: 0.9em;
-  margin-top: 1em;
-  text-align: center;
+  .mid-title-icon {
+    font-size: 0.7em;
+    display: inline-block;
+    padding: 0.5em 0.5em 0.5em 0.75em;
+    background-size: 100%;
+    color: black;
+    font-weight: bold;
+    position: relative;
+    top: -5px;
+  }
 `
 
 const Header = () => {
-  const { webTitle, webSubtitle } = metaData
+  const { webSubtitle } = metaData
+  const router = useRouter()
   return <div css={headerStyle} style={{
-    backgroundImage: `linear-gradient( rgba(23, 24, 24, 0.2), rgba(23, 24, 24, 0.5) ), url(${headerBackground})`
+    backgroundImage: `linear-gradient( rgba(23, 24, 24, 0.2), rgba(23, 24, 24, 0.5) ), url(${router.basePath}/2022-ballot-background.png)`
   }}>
-    <h1 css={titleStyle}><Link href="/">{webTitle}</Link></h1>
-    <h2 css={subtitleStyle}>{webSubtitle}</h2>
-    <div css={mtfpBlurbCss}>
-      A digital guide by <MTFPLogo />| <a href={headerDonateLink}>Support this work</a>
+    <h2 className="ledein">Montana Free Press</h2>
+    <h1 className="title"><Link href="/">
+      Election <span className="mid-title-icon" style={{
+        backgroundImage: `url(${router.basePath}/mt-outline-white-fill.png)`
+      }}>2024</span> Guide
+    </Link></h1>
+    <h2 className="subtitle">{webSubtitle}</h2>
+    <div className="mtfp-blurb">
+      A digital project by <MTFPLogo />| <a href={headerDonateLink}>Support this work</a>
     </div>
-    <div css={updateCss}>
+    <div className="update">
       Last update: {formatDate(new Date(updateTime.updateTime))}
     </div>
   </div>

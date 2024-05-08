@@ -23,9 +23,9 @@ const contentStyle = css`
 export default function Layout({
   pageTitle,
   pageDescription,
-  pageFeatureImage, // TODO
+  pageFeatureImage,
   siteSeoTitle,
-  seoDescription,
+  // seoDescription,
   socialTitle, // TODO
   socialDescription, // TODO
   // home,
@@ -37,7 +37,7 @@ export default function Layout({
     baseUrl,
   } = metaData
 
-  const pageUrl = `${baseUrl}/${relativePath}/`
+  const pageUrl = relativePath === '/' ? `${baseUrl}/` : `${baseUrl}/${relativePath}/`
   const featureImage = pageFeatureImage || `${baseUrl}/election-guide-2024-feature-art.jpg`
   return (
     <div>
@@ -85,11 +85,24 @@ export default function Layout({
             "@context": "http://schema.org",
             "@type": "NewsArticle",
             "name": "${pageTitle}",
+            "headline": "${pageTitle}",
             "url": "${pageUrl}",
-            "thumbnailUrl": "${pageFeatureImage}",
-            "datePublished": "${new Date().toISOString()}",
+            "thumbnailUrl": "${featureImage}",
+            "datePublished: "2024-05-07T20:38:48Z",
+            "dateModified": "${new Date().toISOString()}",
             "articleSection": "News apps",
+            "author": [
+              {
+                  "@type": "Person",
+                  "name": "Eric Dietrich"
+              }
+            ],
             "creator": "Eric Dietrich"
+            "publisher": {
+                "@type": "Organization",
+                "name": "Montana Free Press",
+                "logo": "https:\/\/montanafreepress.org\/wp-content\/uploads\/2020\/05\/mtfp-logo-1.png"
+            },
           }
         `}
       </Script>
