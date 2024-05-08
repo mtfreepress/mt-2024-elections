@@ -2,11 +2,13 @@
 slug: mary-todd
 displayName: Mary Todd
 lastName: Todd
-summaryLine:
+summaryLine: Kalispell pastor
 summaryNarrative: |
 
 party: R
 isIncumbent: false
+status: active
+fecId: H2MT00112
 ## Campaign web links
 campaignWebsite:
 campaignFB:

@@ -1,0 +1,371 @@
+[
+  {
+    "raceSlug": "us-senate",
+    "finances": [
+      {
+        "candidate_election_year": 2024,
+        "candidate_id": "S6MT00162",
+        "candidate_name": "TESTER, R. JON",
+        "candidate_pcc_id": "C00412304",
+        "candidate_pcc_name": "MONTANANS FOR TESTER",
+        "cash_on_hand_end_period": 12653948.55,
+        "committee_ids": [
+          "C00412304"
+        ],
+        "coverage_end_date": "2024-03-31",
+        "incumbent_challenge_full": "Incumbent",
+        "party_full": "DEMOCRATIC PARTY",
+        "total_disbursements": 21021380.76,
+        "total_receipts": 33194755.44
+      },
+      {
+        "candidate_election_year": 2024,
+        "candidate_id": "S4MT00183",
+        "candidate_name": "SHEEHY, TIM",
+        "candidate_pcc_id": "C00844159",
+        "candidate_pcc_name": "TIM SHEEHY FOR MONTANA",
+        "cash_on_hand_end_period": 1925866.25,
+        "committee_ids": [
+          "C00844159"
+        ],
+        "coverage_end_date": "2024-03-31",
+        "incumbent_challenge_full": "Challenger",
+        "party_full": "REPUBLICAN PARTY",
+        "total_disbursements": 6494952.37,
+        "total_receipts": 8420818.62
+      },
+      {
+        "candidate_election_year": 2024,
+        "candidate_id": "S4MT00175",
+        "candidate_name": "MYGLAND, JEREMY",
+        "candidate_pcc_id": "C00819714",
+        "candidate_pcc_name": "MYGLAND FOR MONTANA",
+        "cash_on_hand_end_period": 0,
+        "committee_ids": [
+          "C00819714"
+        ],
+        "coverage_end_date": "2023-12-31",
+        "incumbent_challenge_full": "Challenger",
+        "party_full": "REPUBLICAN PARTY",
+        "total_disbursements": 116892.33,
+        "total_receipts": 116892.33
+      },
+      {
+        "candidate_election_year": 2024,
+        "candidate_id": "S2MT00062",
+        "candidate_name": "JOHNSON, BRADLEY S",
+        "candidate_pcc_id": "C00853754",
+        "candidate_pcc_name": "BRAD FOR MONTANA",
+        "cash_on_hand_end_period": 3091.57,
+        "committee_ids": [
+          "C00853754"
+        ],
+        "coverage_end_date": "2024-03-31",
+        "incumbent_challenge_full": "Challenger",
+        "party_full": "REPUBLICAN PARTY",
+        "total_disbursements": 35694.25,
+        "total_receipts": 38785.82
+      },
+      {
+        "candidate_election_year": 2024,
+        "candidate_id": "S4MT00209",
+        "candidate_name": "WALKINGCHILD, CHARLES",
+        "candidate_pcc_id": "C00869545",
+        "candidate_pcc_name": "CHARLES WALKINGCHILD",
+        "cash_on_hand_end_period": 0,
+        "committee_ids": [
+          "C00869545"
+        ],
+        "coverage_end_date": null,
+        "incumbent_challenge_full": "Challenger",
+        "party_full": "REPUBLICAN PARTY",
+        "total_disbursements": 0,
+        "total_receipts": 0
+      }
+    ]
+  },
+  {
+    "raceSlug": "us-house-1",
+    "finances": [
+      {
+        "candidate_election_year": 2024,
+        "candidate_id": "H4MT01041",
+        "candidate_name": "ZINKE, RYAN K",
+        "candidate_pcc_id": "C00778159",
+        "candidate_pcc_name": "ZINKE FOR CONGRESS",
+        "cash_on_hand_end_period": 2330577.76,
+        "committee_ids": [
+          "C00778159",
+          "C00798454"
+        ],
+        "coverage_end_date": "2024-03-31",
+        "incumbent_challenge_full": "Incumbent",
+        "party_full": "REPUBLICAN PARTY",
+        "total_disbursements": 2848403.92,
+        "total_receipts": 5068933.56
+      },
+      {
+        "candidate_election_year": 2024,
+        "candidate_id": "H2MT02092",
+        "candidate_name": "TRANEL, MONICA",
+        "candidate_pcc_id": "C00845008",
+        "candidate_pcc_name": "MONICA TRANEL FOR MONTANA",
+        "cash_on_hand_end_period": 1356071.99,
+        "committee_ids": [
+          "C00783696",
+          "C00845008"
+        ],
+        "coverage_end_date": "2024-03-31",
+        "incumbent_challenge_full": "Challenger",
+        "party_full": "DEMOCRATIC PARTY",
+        "total_disbursements": 609760.8,
+        "total_receipts": 1955947.14
+      },
+      {
+        "candidate_election_year": 2024,
+        "candidate_id": "H2MT00112",
+        "candidate_name": "TODD, MARY",
+        "candidate_pcc_id": "C00868471",
+        "candidate_pcc_name": "MARY TODD FOR MONTANA - 2024",
+        "cash_on_hand_end_period": 33956.06,
+        "committee_ids": [
+          "C00868471"
+        ],
+        "coverage_end_date": "2024-03-31",
+        "incumbent_challenge_full": "Challenger",
+        "party_full": "REPUBLICAN PARTY",
+        "total_disbursements": 40668.81,
+        "total_receipts": 74624.87
+      },
+      {
+        "candidate_election_year": 2024,
+        "candidate_id": "H4MT01074",
+        "candidate_name": "MORAN, CORY",
+        "candidate_pcc_id": "C00849133",
+        "candidate_pcc_name": "MONTANANBALL RUN",
+        "cash_on_hand_end_period": 0,
+        "committee_ids": [
+          "C00849133"
+        ],
+        "coverage_end_date": null,
+        "incumbent_challenge_full": "Challenger",
+        "party_full": "REPUBLICAN PARTY",
+        "total_disbursements": 0,
+        "total_receipts": 0
+      }
+    ]
+  },
+  {
+    "raceSlug": "us-house-2",
+    "finances": [
+      {
+        "candidate_election_year": 2024,
+        "candidate_id": "H4MT00050",
+        "candidate_name": "ROSENDALE, MATT MR.",
+        "candidate_pcc_id": "C00548289",
+        "candidate_pcc_name": "MATT ROSENDALE FOR MONTANA",
+        "cash_on_hand_end_period": 1224691.59,
+        "committee_ids": [
+          "C00548289"
+        ],
+        "coverage_end_date": "2024-03-31",
+        "incumbent_challenge_full": "Incumbent",
+        "party_full": "REPUBLICAN PARTY",
+        "total_disbursements": 1060011.75,
+        "total_receipts": 1066930.42
+      },
+      {
+        "candidate_election_year": 2024,
+        "candidate_id": "H4MT02098",
+        "candidate_name": "DOWNING, TROY",
+        "candidate_pcc_id": "C00855288",
+        "candidate_pcc_name": "TROY DOWNING FOR CONGRESS",
+        "cash_on_hand_end_period": 325213.05,
+        "committee_ids": [
+          "C00855288"
+        ],
+        "coverage_end_date": "2024-03-31",
+        "incumbent_challenge_full": "Open seat",
+        "party_full": "REPUBLICAN PARTY",
+        "total_disbursements": 630110.55,
+        "total_receipts": 955323.6
+      },
+      {
+        "candidate_election_year": 2024,
+        "candidate_id": "H4MT01058",
+        "candidate_name": "ARNTZEN, ELSIE",
+        "candidate_pcc_id": "C00848119",
+        "candidate_pcc_name": "ELSIE ARNTZEN FOR CONGRESS",
+        "cash_on_hand_end_period": 368847.56,
+        "committee_ids": [
+          "C00848119"
+        ],
+        "coverage_end_date": "2024-03-31",
+        "incumbent_challenge_full": "Open seat",
+        "party_full": "REPUBLICAN PARTY",
+        "total_disbursements": 430436.32,
+        "total_receipts": 799283.88
+      },
+      {
+        "candidate_election_year": 2024,
+        "candidate_id": "H0MT00033",
+        "candidate_name": "REHBERG, DENNIS R",
+        "candidate_pcc_id": "C00870618",
+        "candidate_pcc_name": "MONTANANS FOR REHBERG 2024",
+        "cash_on_hand_end_period": 372453.18,
+        "committee_ids": [
+          "C00870618"
+        ],
+        "coverage_end_date": "2024-03-31",
+        "incumbent_challenge_full": "Open seat",
+        "party_full": "REPUBLICAN PARTY",
+        "total_disbursements": 7386.74,
+        "total_receipts": 379839.92
+      },
+      {
+        "candidate_election_year": 2024,
+        "candidate_id": "H8MT01190",
+        "candidate_name": "WALKER, EDWARD ALAN",
+        "candidate_pcc_id": "C00853903",
+        "candidate_pcc_name": "WALKER FOR MT",
+        "cash_on_hand_end_period": 44194.88,
+        "committee_ids": [
+          "C00853903"
+        ],
+        "coverage_end_date": "2024-03-31",
+        "incumbent_challenge_full": "Open seat",
+        "party_full": "REPUBLICAN PARTY",
+        "total_disbursements": 69742.54,
+        "total_receipts": 113937.42
+      },
+      {
+        "candidate_election_year": 2024,
+        "candidate_id": "H4MT02064",
+        "candidate_name": "KRAUTTER, JOEL",
+        "candidate_pcc_id": "C00850552",
+        "candidate_pcc_name": "JOEL KRAUTTER FOR MONTANA",
+        "cash_on_hand_end_period": 22259.91,
+        "committee_ids": [
+          "C00850552"
+        ],
+        "coverage_end_date": "2024-03-31",
+        "incumbent_challenge_full": "Open seat",
+        "party_full": "REPUBLICAN PARTY",
+        "total_disbursements": 42301.09,
+        "total_receipts": 64561
+      },
+      {
+        "candidate_election_year": 2024,
+        "candidate_id": "H4MT02056",
+        "candidate_name": "CABRERA, MING A MR",
+        "candidate_pcc_id": "C00849455",
+        "candidate_pcc_name": "MING FOR CONGRESS",
+        "cash_on_hand_end_period": 20868.01,
+        "committee_ids": [
+          "C00849455"
+        ],
+        "coverage_end_date": "2024-03-31",
+        "incumbent_challenge_full": "Open seat",
+        "party_full": "DEMOCRATIC PARTY",
+        "total_disbursements": 34701.99,
+        "total_receipts": 55570
+      },
+      {
+        "candidate_election_year": 2024,
+        "candidate_id": "H4MT02031",
+        "candidate_name": "HAMM, KEVIN",
+        "candidate_pcc_id": "C00840355",
+        "candidate_pcc_name": "KEVIN HAMM FOR CONGRESS",
+        "cash_on_hand_end_period": 3172.37,
+        "committee_ids": [
+          "C00840355"
+        ],
+        "coverage_end_date": "2024-03-31",
+        "incumbent_challenge_full": "Open seat",
+        "party_full": "DEMOCRATIC PARTY",
+        "total_disbursements": 49404.41,
+        "total_receipts": 52576.78
+      },
+      {
+        "candidate_election_year": 2024,
+        "candidate_id": "H4MT02148",
+        "candidate_name": "HELD, STEVE",
+        "candidate_pcc_id": "C00870808",
+        "candidate_pcc_name": "MONTANA HELD",
+        "cash_on_hand_end_period": 38967.94,
+        "committee_ids": [
+          "C00870808"
+        ],
+        "coverage_end_date": "2024-03-31",
+        "incumbent_challenge_full": "Open seat",
+        "party_full": "DEMOCRATIC PARTY",
+        "total_disbursements": 7255.06,
+        "total_receipts": 46223
+      },
+      {
+        "candidate_election_year": 2024,
+        "candidate_id": "H4MT02072",
+        "candidate_name": "HOLDEN, ARCHIE RODERIC",
+        "candidate_pcc_id": "C00852699",
+        "candidate_pcc_name": "RIC HOLDEN FOR MONTANA",
+        "cash_on_hand_end_period": 12230,
+        "committee_ids": [
+          "C00852699"
+        ],
+        "coverage_end_date": "2024-04-01",
+        "incumbent_challenge_full": "Open seat",
+        "party_full": "REPUBLICAN PARTY",
+        "total_disbursements": 28529.55,
+        "total_receipts": 40759.05
+      },
+      {
+        "candidate_election_year": 2024,
+        "candidate_id": "H4MT02114",
+        "candidate_name": "BOGNER, KEN",
+        "candidate_pcc_id": "C00865048",
+        "candidate_pcc_name": "KEN BOGNER FOR CONGRESS",
+        "cash_on_hand_end_period": 9769.74,
+        "committee_ids": [
+          "C00865048"
+        ],
+        "coverage_end_date": "2024-03-31",
+        "incumbent_challenge_full": "Open seat",
+        "party_full": "REPUBLICAN PARTY",
+        "total_disbursements": 29303.92,
+        "total_receipts": 39073.66
+      },
+      {
+        "candidate_election_year": 2024,
+        "candidate_id": "H4MT02106",
+        "candidate_name": "ZINN, STACY",
+        "candidate_pcc_id": "C00856393",
+        "candidate_pcc_name": "ZINN FOR MONTANA",
+        "cash_on_hand_end_period": 24420,
+        "committee_ids": [
+          "C00856393"
+        ],
+        "coverage_end_date": "2024-03-31",
+        "incumbent_challenge_full": "Open seat",
+        "party_full": "REPUBLICAN PARTY",
+        "total_disbursements": 2168.94,
+        "total_receipts": 26588.94
+      },
+      {
+        "candidate_election_year": 2024,
+        "candidate_id": "H2MT02175",
+        "candidate_name": "AUSTIN, KYLE",
+        "candidate_pcc_id": "C00870352",
+        "candidate_pcc_name": "AUSTIN FOR CONGRESS",
+        "cash_on_hand_end_period": 0,
+        "committee_ids": [
+          "C00870352"
+        ],
+        "coverage_end_date": null,
+        "incumbent_challenge_full": "Open seat",
+        "party_full": "REPUBLICAN PARTY",
+        "total_disbursements": 0,
+        "total_receipts": 0
+      }
+    ]
+  }
+]

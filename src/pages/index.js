@@ -2,6 +2,8 @@ import React from 'react'
 import { css } from "@emotion/react";
 
 import Layout from '../design/Layout'
+import LowdownCTA from '../design/LowdownCTA'
+import Link from 'next/link';
 
 import Markdown from 'react-markdown'
 
@@ -17,6 +19,7 @@ import {
     getOverviewText,
     getBallotIssues,
     getLegislativeDistrictOverviews,
+    getHowToVoteText,
 } from '../lib/overview'
 
 const RACE_LEVELS = [
@@ -61,17 +64,19 @@ export async function getStaticProps() {
     const legislativeRaces = getLegislativeDistrictOverviews()
     const text = getOverviewText()
     const ballotIssues = getBallotIssues()
+    const votingFAQ = getHowToVoteText()
     return {
         props: {
             races,
             legislativeRaces,
             ballotIssues,
             text,
+            votingFAQ,
         }
     }
 }
 
-export default function Home({ races, legislativeRaces, ballotIssues, text }) {
+export default function Home({ races, legislativeRaces, ballotIssues, text, votingFAQ }) {
 
     // State for filtering overview to candidates for a given voter address
     // Design approach here is to make this optional for readers who won't engage with interactivity
@@ -101,22 +106,21 @@ export default function Home({ races, legislativeRaces, ballotIssues, text }) {
 
     const selHouseDistrict = legislativeRaces.find(d => d.districtKey === selDistricts.mtHouse)
     const selSenateDistrict = legislativeRaces.find(d => d.districtKey === selDistricts.mtSenate)
-
+    const pageDescription = "Candidates seeking state, federal and legislative office in Montana's 2024 elections. The Montana Free press voter guide includes biographical details and issue questionnaires."
     return (
         <Layout home pageCss={overviewStyles}
             relativePath='/'
-            pageTitle={"Montana's 2024 Candidates | MFTP 2024 Election Guide"}
-            pageDescription={"Federal, state and legislative candidates seeking office in 2024"}
-            pageFeatureImage={"https://apps.montanafreepress.org/capitol-tracker-2023/cap-tracker-banner-dark.png"} // TODO
+            pageTitle={"Montana's 2024 Candidates | 2024 Montana Election Guide"}
+            pageDescription={pageDescription}
             siteSeoTitle={"Montana's 2024 Candidates | MFTP 2024 Election Guide"}
-            seoDescription={"Federal, state and legislative candidates seeking office in 2024."}
+            seoDescription={pageDescription}
             socialTitle={"The MTFP 2024 Election Guide"}
-            socialDescription={"Federal, state and legislative candidates seeking office in 2024."}
+            socialDescription={"Federal, state and legislative candidates seeking Montana office in 2024."}
         >
 
             <Markdown>{overviewLedeIn}</Markdown>
 
-            <AddressLookup selDistricts={selDistricts} setSelDistricts={setSelDistricts} />
+            {/* <AddressLookup selDistricts={selDistricts} setSelDistricts={setSelDistricts} /> */}
 
 
             <section>
@@ -149,6 +153,8 @@ export default function Home({ races, legislativeRaces, ballotIssues, text }) {
             </section>
             <hr />
 
+            <LowdownCTA />
+
             <section>
                 <a className="link-anchor" id="legislature"></a>
                 <h2>Montana State Legislature</h2>
@@ -170,6 +176,10 @@ export default function Home({ races, legislativeRaces, ballotIssues, text }) {
                     selHouseDistrict={selHouseDistrict}
                     selSenateDistrict={selSenateDistrict}
                 />
+                <div className='note'>
+                    <Link href="/legislative-candidates-by-district/">See all candidates listed by district.</Link>
+                </div>
+
             </section>
 
             <section>
@@ -212,6 +222,12 @@ export default function Home({ races, legislativeRaces, ballotIssues, text }) {
             <section>
                 <h2>Other ballot items</h2>
                 <Markdown>{overviewAlsoOnYourBallot}</Markdown>
+            </section>
+
+            <section>
+                <a className="link-anchor" id="voter-faq"></a>
+                <h2>Common Voting Questions</h2>
+                <Markdown>{votingFAQ}</Markdown>
             </section>
 
             <section>

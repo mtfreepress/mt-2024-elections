@@ -111,7 +111,7 @@ const PAGE_LINKS = [
     { path: '/#legislature', label: 'Montana Legislature' },
     { path: '/#montana-supreme-court', label: 'Other offices' },
     { path: '/#ballot-initiatives', label: 'Ballot Initiatives' },
-    { path: '/how-to-vote', label: 'Voting info' },
+    { path: '/#voter-faq', label: 'Voting info' },
 ]
 
 const Nav = ({ location }) => {

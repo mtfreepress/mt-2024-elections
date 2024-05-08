@@ -13,7 +13,8 @@ const questionnaireStyle = css`
         border-left: none;
         background: var(--tan1);
         padding: 0.5em;
-        font-size: 16px;
+        font-size: 18px;
+        line-height: 1.3em;
     }
     .answer {
         margin: 1em;

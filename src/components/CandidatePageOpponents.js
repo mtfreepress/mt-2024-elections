@@ -1,6 +1,8 @@
 import { css } from "@emotion/react";
 
 import Link from "next/link";
+import Image from "next/image";
+import { useRouter } from 'next/router';
 
 import { PARTIES } from "@/lib/styles";
 import { pluralize } from "@/lib/utils";
@@ -50,7 +52,7 @@ const candidateStyle = css`
     .portrait-col {
         flex: 0 0 40px;
     }
-    .portrait-placeholder {
+    .portrait-container {
         width: 40px;
         height: 40px;
         background-color: #666;
@@ -95,6 +97,8 @@ const candidateStyle = css`
 function Candidate(props) {
     const { slug, displayName, summaryLine, party, route, isCurrentPage, hasPortraits } = props
     const partyInfo = PARTIES.find(d => d.key === party)
+    const router = useRouter()
+    const portraitPath = `${router.basePath}/portraits/${slug}.png`
     return <div css={candidateStyle}
         style={{
             borderTop: `3px solid ${partyInfo.color}`,
@@ -103,7 +107,18 @@ function Candidate(props) {
     >
         <Link href={`/${route}/${slug}`}>
             <div className="portrait-col">
-                {hasPortraits && <div className="portrait-placeholder">[TK]</div>}
+                {hasPortraits && <div className="portrait-container">
+                    <Image
+                        alt={`${displayName}`}
+                        src={portraitPath}
+                        width={40}
+                        height={40}
+                        style={{
+                            width: '100%',
+                            height: 'auto',
+                        }}
+                    />
+                </div>}
                 {!hasPortraits && <div className="party" style={{ background: partyInfo.color }}>{party}</div>}
             </div>
             <div className="info-col">

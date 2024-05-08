@@ -4,22 +4,24 @@
 - raceSlug: us-senate
   displayName: U.S. Senate
   level: Federal Delegation
+  campaignFinanceAgency: fec
   category: us-senate
   description: One of Montana's two U.S. Senate seats, elected with a statewide vote. Elected to a six-year term.
   note: Montana's other U.S. Senator, Steve Daines, is up for re-election in 2026.
   candidates:
     - jon-tester
-    - tim-sheehy
     - brad-johnson
+    - tim-sheehy
     - sid-daud
     - michael-hummert
     - charles-walkingchild
-    - michael-downey
     - robert-barb
+    - michael-downey
 
 - raceSlug: us-house-1
   displayName: U.S. House District 1 (West)
   level: Federal Delegation
+  campaignFinanceAgency: fec
   category: us-house
   description: Western Montana representative in Congress. District includes Missoula, Bozeman, Kalispell and Butte. Elected to a two-year term.
   note: Prior to 2022, Montana was represented by a single congressman elected on a statewide basis.
@@ -27,29 +29,30 @@
     - ryan-zinke
     - mary-todd
     - monica-tranel
-    - ernie-noble
     - dennis-hayes
+    - ernie-noble
 
 - raceSlug: us-house-2
   displayName: U.S. House District 2 (East)
   level: Federal Delegation
+  campaignFinanceAgency: fec
   category: us-house
-  description: Eastern Montana representative in Congress. District includes Billings, Helena, Havre and Miles City. Elected to a two-year term.
+  description: Eastern Montana representative in Congress. District includes Billings, Great Falls, Helena, Havre and Miles City. Elected to a two-year term.
   note: Prior to 2022, Montana was represented by a single congressman elected on a statewide basis.
   candidates:
     - elsie-arntzen
-    - troy-downing
-    - joel-krautter
-    - ric-holden
-    - kenneth-bogner
-    - denny-rehberg
     - kyle-austin
-    - stacy-zinn
-    - kevin-hamm
-    - ming-cabrera
-    - steve-held
-    - john-driscoll
+    - ken-bogner
+    - troy-downing
+    - ric-holden
+    - joel-krautter
+    - denny-rehberg
     - ed-walker
+    - stacy-zinn
+    - ming-cabrera
+    - john-driscoll
+    - kevin-hamm
+    - steve-held
 
 # STATEWIDE
 
@@ -95,8 +98,8 @@
   description: The state’s top education official. Elected to a four-year term via a statewide election.
   note:
   candidates:
-    - susie-hedalen
     - sharyl-allen
+    - susie-hedalen
     - shannon-obrien
 
 - raceSlug: state-auditor
@@ -111,29 +114,29 @@
     - john-jay-willoughby
 
 - raceSlug: supco-chief-justice
-  displayName: Montana Supreme Court (Chief Jutice)
+  displayName: State Supreme Court (Chief Justice)
   level: Montana Supreme Court
   category: "supco-chief"
   description: The chief of the state's high court, which takes appeals from lower courts and administers the Montana legal system. Elected to an eight-year term via a statewide election.
   note:
   candidates:
     - jerry-lynch
-    - cory-swanson
     - doug-marshall
+    - cory-swanson
 
 - raceSlug: supco-3
-  displayName: Montana Supreme Court (Seat 3)
+  displayName: State Supreme Court (Seat 3)
   level: Montana Supreme Court
   category: supco-3
   description: One of seven seats on the state's high court, which takes appeals from lower courts and administers the Montana legal system. Elected to an eight-year term via a statewide election.
   note:
   candidates:
     - katherine-bidegaray
+    - jerry-oneil
     - dan-wilson
-    - jerry-oneill
 
 - raceSlug: clerk-of-court
-  displayName: Clerk of the Montana Supreme Court
+  displayName: Clerk of the State Supreme Court
   level: Montana Supreme Court
   category: supco-clerk
   description: Maintains Montana Supreme Court records. Elected to a six-year term via a statewide election.
@@ -148,7 +151,7 @@
 # STATE DISTRICT
 
 - raceSlug: psc-2
-  displayName: Public Service Commission Seat 2
+  displayName: Public Service Commission (Seat 2)
   level: Public Service Commission
   category: psc
   description: One of five seats on the state's utility regulation board, elected to a four-year term. The district spans south-central Montana, including parts of Bozeman and Billings.
@@ -159,19 +162,19 @@
     - susan-bilo
 
 - raceSlug: psc-3
-  displayName: Public Service Commission Seat 3
+  displayName: Public Service Commission (Seat 3)
   level: Public Service Commission
   category: psc
   description: One of five seats on the state's utility regulation board, elected to a four-year term. The district spans central and southwest Montana, including Butte, Dillon, Lewistown, southern Ravalli County and parts of Bozeman and Helena.
   note:
   candidates:
-    - jeff-welborn
     - rob-elwood
     - suzzann-nordwick
+    - jeff-welborn
     - leonard-williams
 
 - raceSlug: psc-4
-  displayName: Public Service Commission Seat 4
+  displayName: Public Service Commission (Seat 4)
   level: Public Service Commission
   category: psc
   description: One of five seats on the state's utility regulation board, elected to a four-year term. The district spans northwest Montana, including parts of Missoula and Kalispell.

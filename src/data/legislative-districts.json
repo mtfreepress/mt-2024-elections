@@ -13,13 +13,17 @@
         "slug": "neil-duram",
         "displayName": "NEIL DURAM",
         "party": "R",
-        "cap_tracker_2023_link": "https://apps.montanafreepress.org/capitol-tracker-2023/lawmakers/Neil-Duram/"
+        "cap_tracker_2023_link": "https://apps.montanafreepress.org/capitol-tracker-2023/lawmakers/Neil-Duram/",
+        "hasResponses": false,
+        "numMTFParticles": 0
       },
       {
         "slug": "dakota-v-adams",
         "displayName": "DAKOTA V ADAMS",
         "party": "D",
-        "cap_tracker_2023_link": null
+        "cap_tracker_2023_link": null,
+        "hasResponses": false,
+        "numMTFParticles": 0
       }
     ]
   },
@@ -37,19 +41,25 @@
         "slug": "tom-millett",
         "displayName": "TOM MILLETT",
         "party": "R",
-        "cap_tracker_2023_link": null
+        "cap_tracker_2023_link": null,
+        "hasResponses": false,
+        "numMTFParticles": 0
       },
       {
         "slug": "thomas-jenkins",
         "displayName": "THOMAS JENKINS",
         "party": "R",
-        "cap_tracker_2023_link": null
+        "cap_tracker_2023_link": null,
+        "hasResponses": false,
+        "numMTFParticles": 0
       },
       {
         "slug": "elizabeth-story",
         "displayName": "ELIZABETH STORY",
         "party": "D",
-        "cap_tracker_2023_link": null
+        "cap_tracker_2023_link": null,
+        "hasResponses": false,
+        "numMTFParticles": 0
       }
     ]
   },
@@ -67,19 +77,25 @@
         "slug": "cathy-mitchell",
         "displayName": "CATHY MITCHELL",
         "party": "R",
-        "cap_tracker_2023_link": null
+        "cap_tracker_2023_link": null,
+        "hasResponses": false,
+        "numMTFParticles": 0
       },
       {
         "slug": "debo-powers",
         "displayName": "DEBO POWERS",
         "party": "D",
-        "cap_tracker_2023_link": null
+        "cap_tracker_2023_link": null,
+        "hasResponses": true,
+        "numMTFParticles": 0
       },
       {
         "slug": "guthrie-quist",
         "displayName": "GUTHRIE QUIST",
         "party": "D",
-        "cap_tracker_2023_link": null
+        "cap_tracker_2023_link": null,
+        "hasResponses": true,
+        "numMTFParticles": 0
       }
     ]
   },
@@ -97,13 +113,17 @@
         "slug": "lyn-bennett",
         "displayName": "LYN BENNETT",
         "party": "R",
-        "cap_tracker_2023_link": null
+        "cap_tracker_2023_link": null,
+        "hasResponses": false,
+        "numMTFParticles": 0
       },
       {
         "slug": "lindsey-jordan",
         "displayName": "LINDSEY JORDAN",
         "party": "D",
-        "cap_tracker_2023_link": null
+        "cap_tracker_2023_link": null,
+        "hasResponses": true,
+        "numMTFParticles": 0
       }
     ]
   },
@@ -121,13 +141,17 @@
         "slug": "braxton-mitchell",
         "displayName": "BRAXTON MITCHELL",
         "party": "R",
-        "cap_tracker_2023_link": "https://apps.montanafreepress.org/capitol-tracker-2023/lawmakers/Braxton-Mitchell/"
+        "cap_tracker_2023_link": "https://apps.montanafreepress.org/capitol-tracker-2023/lawmakers/Braxton-Mitchell/",
+        "hasResponses": false,
+        "numMTFParticles": 0
       },
       {
         "slug": "steve-paugh",
         "displayName": "STEVE PAUGH",
         "party": "D",
-        "cap_tracker_2023_link": null
+        "cap_tracker_2023_link": null,
+        "hasResponses": true,
+        "numMTFParticles": 0
       }
     ]
   },
@@ -145,13 +169,17 @@
         "slug": "amy-regier",
         "displayName": "AMY REGIER",
         "party": "R",
-        "cap_tracker_2023_link": "https://apps.montanafreepress.org/capitol-tracker-2023/lawmakers/Amy-Regier/"
+        "cap_tracker_2023_link": "https://apps.montanafreepress.org/capitol-tracker-2023/lawmakers/Amy-Regier/",
+        "hasResponses": false,
+        "numMTFParticles": 0
       },
       {
         "slug": "velvet-phillipssullivan",
         "displayName": "VELVET PHILLIPSSULLIVAN",
         "party": "D",
-        "cap_tracker_2023_link": null
+        "cap_tracker_2023_link": null,
+        "hasResponses": true,
+        "numMTFParticles": 0
       }
     ]
   },
@@ -169,19 +197,25 @@
         "slug": "courtenay-sprunger",
         "displayName": "COURTENAY SPRUNGER",
         "party": "R",
-        "cap_tracker_2023_link": "https://apps.montanafreepress.org/capitol-tracker-2023/lawmakers/Courtenay-Sprunger/"
+        "cap_tracker_2023_link": "https://apps.montanafreepress.org/capitol-tracker-2023/lawmakers/Courtenay-Sprunger/",
+        "hasResponses": false,
+        "numMTFParticles": 0
       },
       {
         "slug": "shaun-pandina",
         "displayName": "SHAUN PANDINA",
         "party": "R",
-        "cap_tracker_2023_link": null
+        "cap_tracker_2023_link": null,
+        "hasResponses": true,
+        "numMTFParticles": 0
       },
       {
         "slug": "arthur-fretheim",
         "displayName": "ARTHUR FRETHEIM",
         "party": "D",
-        "cap_tracker_2023_link": null
+        "cap_tracker_2023_link": null,
+        "hasResponses": true,
+        "numMTFParticles": 0
       }
     ]
   },
@@ -199,19 +233,25 @@
         "slug": "lukas-schubert",
         "displayName": "LUKAS SCHUBERT",
         "party": "R",
-        "cap_tracker_2023_link": null
+        "cap_tracker_2023_link": null,
+        "hasResponses": false,
+        "numMTFParticles": 0
       },
       {
         "slug": "tony-brockman",
         "displayName": "TONY BROCKMAN",
         "party": "R",
-        "cap_tracker_2023_link": "https://apps.montanafreepress.org/capitol-tracker-2023/lawmakers/Tony-Brockman/"
+        "cap_tracker_2023_link": "https://apps.montanafreepress.org/capitol-tracker-2023/lawmakers/Tony-Brockman/",
+        "hasResponses": false,
+        "numMTFParticles": 0
       },
       {
         "slug": "beth-sibert",
         "displayName": "BETH SIBERT",
         "party": "D",
-        "cap_tracker_2023_link": null
+        "cap_tracker_2023_link": null,
+        "hasResponses": true,
+        "numMTFParticles": 0
       }
     ]
   },
@@ -229,19 +269,25 @@
         "slug": "lee-huestis",
         "displayName": "LEE HUESTIS",
         "party": "R",
-        "cap_tracker_2023_link": null
+        "cap_tracker_2023_link": null,
+        "hasResponses": false,
+        "numMTFParticles": 0
       },
       {
         "slug": "steven-c-kelly",
         "displayName": "STEVEN C KELLY",
         "party": "R",
-        "cap_tracker_2023_link": null
+        "cap_tracker_2023_link": null,
+        "hasResponses": true,
+        "numMTFParticles": 0
       },
       {
         "slug": "joanne-morrow",
         "displayName": "JOANNE MORROW",
         "party": "D",
-        "cap_tracker_2023_link": null
+        "cap_tracker_2023_link": null,
+        "hasResponses": false,
+        "numMTFParticles": 0
       }
     ]
   },
@@ -259,13 +305,17 @@
         "slug": "terry-falk",
         "displayName": "TERRY FALK",
         "party": "R",
-        "cap_tracker_2023_link": null
+        "cap_tracker_2023_link": null,
+        "hasResponses": false,
+        "numMTFParticles": 0
       },
       {
         "slug": "devin-t-marconi",
         "displayName": "DEVIN T MARCONI",
         "party": "D",
-        "cap_tracker_2023_link": null
+        "cap_tracker_2023_link": null,
+        "hasResponses": true,
+        "numMTFParticles": 0
       }
     ]
   },
@@ -283,19 +333,25 @@
         "slug": "rob-tracy",
         "displayName": "ROB TRACY",
         "party": "R",
-        "cap_tracker_2023_link": null
+        "cap_tracker_2023_link": null,
+        "hasResponses": false,
+        "numMTFParticles": 0
       },
       {
         "slug": "ed-byrne",
         "displayName": "ED BYRNE",
         "party": "R",
-        "cap_tracker_2023_link": null
+        "cap_tracker_2023_link": null,
+        "hasResponses": true,
+        "numMTFParticles": 0
       },
       {
         "slug": "jennifer-allen",
         "displayName": "JENNIFER ALLEN",
         "party": "D",
-        "cap_tracker_2023_link": null
+        "cap_tracker_2023_link": null,
+        "hasResponses": true,
+        "numMTFParticles": 0
       }
     ]
   },
@@ -313,13 +369,17 @@
         "slug": "tracy-a-sharp",
         "displayName": "TRACY A SHARP",
         "party": "R",
-        "cap_tracker_2023_link": null
+        "cap_tracker_2023_link": null,
+        "hasResponses": false,
+        "numMTFParticles": 0
       },
       {
         "slug": "barry-olson",
         "displayName": "BARRY OLSON",
         "party": "D",
-        "cap_tracker_2023_link": null
+        "cap_tracker_2023_link": null,
+        "hasResponses": false,
+        "numMTFParticles": 0
       }
     ]
   },
@@ -337,13 +397,17 @@
         "slug": "linda-e-reksten",
         "displayName": "LINDA E REKSTEN",
         "party": "R",
-        "cap_tracker_2023_link": "https://apps.montanafreepress.org/capitol-tracker-2023/lawmakers/Linda-Reksten/"
+        "cap_tracker_2023_link": "https://apps.montanafreepress.org/capitol-tracker-2023/lawmakers/Linda-Reksten/",
+        "hasResponses": false,
+        "numMTFParticles": 0
       },
       {
         "slug": "shirley-azzopardi",
         "displayName": "SHIRLEY AZZOPARDI",
         "party": "D",
-        "cap_tracker_2023_link": null
+        "cap_tracker_2023_link": null,
+        "hasResponses": true,
+        "numMTFParticles": 0
       }
     ]
   },
@@ -361,13 +425,17 @@
         "slug": "paul-c-fielder",
         "displayName": "PAUL C FIELDER",
         "party": "R",
-        "cap_tracker_2023_link": "https://apps.montanafreepress.org/capitol-tracker-2023/lawmakers/Paul-Fielder/"
+        "cap_tracker_2023_link": "https://apps.montanafreepress.org/capitol-tracker-2023/lawmakers/Paul-Fielder/",
+        "hasResponses": false,
+        "numMTFParticles": 0
       },
       {
         "slug": "colleen-hinds",
         "displayName": "COLLEEN HINDS",
         "party": "D",
-        "cap_tracker_2023_link": null
+        "cap_tracker_2023_link": null,
+        "hasResponses": true,
+        "numMTFParticles": 0
       }
     ]
   },
@@ -385,13 +453,17 @@
         "slug": "ralph-foster",
         "displayName": "RALPH FOSTER",
         "party": "R",
-        "cap_tracker_2023_link": null
+        "cap_tracker_2023_link": null,
+        "hasResponses": true,
+        "numMTFParticles": 0
       },
       {
         "slug": "thedis-crowe",
         "displayName": "THEDIS CROWE",
         "party": "D",
-        "cap_tracker_2023_link": null
+        "cap_tracker_2023_link": null,
+        "hasResponses": false,
+        "numMTFParticles": 0
       }
     ]
   },
@@ -409,19 +481,25 @@
         "slug": "rolland-ely-heagy",
         "displayName": "ROLLAND ELY HEAGY",
         "party": "R",
-        "cap_tracker_2023_link": null
+        "cap_tracker_2023_link": null,
+        "hasResponses": false,
+        "numMTFParticles": 0
       },
       {
         "slug": "elaine-utterback--mitchell",
         "displayName": "ELAINE UTTERBACK  MITCHELL",
         "party": "R",
-        "cap_tracker_2023_link": null
+        "cap_tracker_2023_link": null,
+        "hasResponses": false,
+        "numMTFParticles": 0
       },
       {
         "slug": "tyson-t-running-wolf",
         "displayName": "TYSON T RUNNING WOLF",
         "party": "D",
-        "cap_tracker_2023_link": "https://apps.montanafreepress.org/capitol-tracker-2023/lawmakers/Tyson-Running-Wolf/"
+        "cap_tracker_2023_link": "https://apps.montanafreepress.org/capitol-tracker-2023/lawmakers/Tyson-Running-Wolf/",
+        "hasResponses": false,
+        "numMTFParticles": 0
       }
     ]
   },
@@ -439,13 +517,17 @@
         "slug": "zack-wirth",
         "displayName": "ZACK WIRTH",
         "party": "R",
-        "cap_tracker_2023_link": null
+        "cap_tracker_2023_link": null,
+        "hasResponses": false,
+        "numMTFParticles": 0
       },
       {
         "slug": "leonard-bates",
         "displayName": "LEONARD BATES",
         "party": "D",
-        "cap_tracker_2023_link": null
+        "cap_tracker_2023_link": null,
+        "hasResponses": false,
+        "numMTFParticles": 0
       }
     ]
   },
@@ -463,19 +545,25 @@
         "slug": "llew-jones",
         "displayName": "LLEW JONES",
         "party": "R",
-        "cap_tracker_2023_link": "https://apps.montanafreepress.org/capitol-tracker-2023/lawmakers/Llew-Jones/"
+        "cap_tracker_2023_link": "https://apps.montanafreepress.org/capitol-tracker-2023/lawmakers/Llew-Jones/",
+        "hasResponses": false,
+        "numMTFParticles": 0
       },
       {
         "slug": "james-coombs",
         "displayName": "JAMES COOMBS",
         "party": "R",
-        "cap_tracker_2023_link": null
+        "cap_tracker_2023_link": null,
+        "hasResponses": false,
+        "numMTFParticles": 0
       },
       {
         "slug": "david-arends",
         "displayName": "DAVID ARENDS",
         "party": "D",
-        "cap_tracker_2023_link": null
+        "cap_tracker_2023_link": null,
+        "hasResponses": false,
+        "numMTFParticles": 0
       }
     ]
   },
@@ -493,19 +581,25 @@
         "slug": "hannah-trebas",
         "displayName": "HANNAH TREBAS",
         "party": "R",
-        "cap_tracker_2023_link": null
+        "cap_tracker_2023_link": null,
+        "hasResponses": false,
+        "numMTFParticles": 0
       },
       {
         "slug": "derren-auger",
         "displayName": "DERREN AUGER",
         "party": "R",
-        "cap_tracker_2023_link": null
+        "cap_tracker_2023_link": null,
+        "hasResponses": true,
+        "numMTFParticles": 0
       },
       {
         "slug": "jane-weber",
         "displayName": "JANE WEBER",
         "party": "D",
-        "cap_tracker_2023_link": null
+        "cap_tracker_2023_link": null,
+        "hasResponses": true,
+        "numMTFParticles": 0
       }
     ]
   },
@@ -523,19 +617,25 @@
         "slug": "steven-galloway",
         "displayName": "STEVEN GALLOWAY",
         "party": "R",
-        "cap_tracker_2023_link": "https://apps.montanafreepress.org/capitol-tracker-2023/lawmakers/Steven-Galloway/"
+        "cap_tracker_2023_link": "https://apps.montanafreepress.org/capitol-tracker-2023/lawmakers/Steven-Galloway/",
+        "hasResponses": false,
+        "numMTFParticles": 0
       },
       {
         "slug": "melissa-nikolakakos",
         "displayName": "MELISSA NIKOLAKAKOS",
         "party": "R",
-        "cap_tracker_2023_link": null
+        "cap_tracker_2023_link": null,
+        "hasResponses": false,
+        "numMTFParticles": 0
       },
       {
         "slug": "rina-fontana-moore",
         "displayName": "RINA FONTANA MOORE",
         "party": "D",
-        "cap_tracker_2023_link": null
+        "cap_tracker_2023_link": null,
+        "hasResponses": false,
+        "numMTFParticles": 0
       }
     ]
   },
@@ -553,19 +653,25 @@
         "slug": "ed-buttrey",
         "displayName": "ED BUTTREY",
         "party": "R",
-        "cap_tracker_2023_link": "https://apps.montanafreepress.org/capitol-tracker-2023/lawmakers/Ed-Buttrey/"
+        "cap_tracker_2023_link": "https://apps.montanafreepress.org/capitol-tracker-2023/lawmakers/Ed-Buttrey/",
+        "hasResponses": true,
+        "numMTFParticles": 0
       },
       {
         "slug": "james-osterman",
         "displayName": "JAMES OSTERMAN",
         "party": "R",
-        "cap_tracker_2023_link": null
+        "cap_tracker_2023_link": null,
+        "hasResponses": false,
+        "numMTFParticles": 0
       },
       {
         "slug": "lela-graham",
         "displayName": "LELA GRAHAM",
         "party": "D",
-        "cap_tracker_2023_link": null
+        "cap_tracker_2023_link": null,
+        "hasResponses": false,
+        "numMTFParticles": 0
       }
     ]
   },
@@ -583,19 +689,25 @@
         "slug": "george-nikolakakos",
         "displayName": "GEORGE NIKOLAKAKOS",
         "party": "R",
-        "cap_tracker_2023_link": "https://apps.montanafreepress.org/capitol-tracker-2023/lawmakers/George-Nikolakakos/"
+        "cap_tracker_2023_link": "https://apps.montanafreepress.org/capitol-tracker-2023/lawmakers/George-Nikolakakos/",
+        "hasResponses": false,
+        "numMTFParticles": 0
       },
       {
         "slug": "james-g-whitaker",
         "displayName": "JAMES G WHITAKER",
         "party": "R",
-        "cap_tracker_2023_link": null
+        "cap_tracker_2023_link": null,
+        "hasResponses": false,
+        "numMTFParticles": 0
       },
       {
         "slug": "ronald-k-paulick",
         "displayName": "RONALD K PAULICK",
         "party": "D",
-        "cap_tracker_2023_link": null
+        "cap_tracker_2023_link": null,
+        "hasResponses": true,
+        "numMTFParticles": 0
       }
     ]
   },
@@ -613,37 +725,49 @@
         "slug": "eric-tilleman",
         "displayName": "ERIC TILLEMAN",
         "party": "R",
-        "cap_tracker_2023_link": null
+        "cap_tracker_2023_link": null,
+        "hasResponses": false,
+        "numMTFParticles": 0
       },
       {
         "slug": "pete-anderson",
         "displayName": "PETE ANDERSON",
         "party": "R",
-        "cap_tracker_2023_link": null
+        "cap_tracker_2023_link": null,
+        "hasResponses": true,
+        "numMTFParticles": 0
       },
       {
         "slug": "john-h--proud",
         "displayName": "JOHN H  PROUD",
         "party": "R",
-        "cap_tracker_2023_link": null
+        "cap_tracker_2023_link": null,
+        "hasResponses": true,
+        "numMTFParticles": 0
       },
       {
         "slug": "josh-denully",
         "displayName": "JOSH DENULLY",
         "party": "R",
-        "cap_tracker_2023_link": null
+        "cap_tracker_2023_link": null,
+        "hasResponses": false,
+        "numMTFParticles": 0
       },
       {
         "slug": "sandor-r-hopkins",
         "displayName": "SANDOR R HOPKINS",
         "party": "D",
-        "cap_tracker_2023_link": null
+        "cap_tracker_2023_link": null,
+        "hasResponses": true,
+        "numMTFParticles": 0
       },
       {
         "slug": "kevin-leatherbarrow",
         "displayName": "KEVIN LEATHERBARROW",
         "party": "L",
-        "cap_tracker_2023_link": null
+        "cap_tracker_2023_link": null,
+        "hasResponses": false,
+        "numMTFParticles": 0
       }
     ]
   },
@@ -661,7 +785,9 @@
         "slug": "steve-fitzpatrick",
         "displayName": "STEVE FITZPATRICK",
         "party": "R",
-        "cap_tracker_2023_link": "https://apps.montanafreepress.org/capitol-tracker-2023/lawmakers/Steve-Fitzpatrick/"
+        "cap_tracker_2023_link": "https://apps.montanafreepress.org/capitol-tracker-2023/lawmakers/Steve-Fitzpatrick/",
+        "hasResponses": false,
+        "numMTFParticles": 1
       }
     ]
   },
@@ -679,13 +805,17 @@
         "slug": "steve-gist",
         "displayName": "STEVE GIST",
         "party": "R",
-        "cap_tracker_2023_link": "https://apps.montanafreepress.org/capitol-tracker-2023/lawmakers/Steve-Gist/"
+        "cap_tracker_2023_link": "https://apps.montanafreepress.org/capitol-tracker-2023/lawmakers/Steve-Gist/",
+        "hasResponses": false,
+        "numMTFParticles": 0
       },
       {
         "slug": "james-rickley",
         "displayName": "JAMES RICKLEY",
         "party": "D",
-        "cap_tracker_2023_link": null
+        "cap_tracker_2023_link": null,
+        "hasResponses": false,
+        "numMTFParticles": 0
       }
     ]
   },
@@ -703,13 +833,17 @@
         "slug": "russel-miner",
         "displayName": "RUSSEL MINER",
         "party": "R",
-        "cap_tracker_2023_link": "https://apps.montanafreepress.org/capitol-tracker-2023/lawmakers/Russ-Miner/"
+        "cap_tracker_2023_link": "https://apps.montanafreepress.org/capitol-tracker-2023/lawmakers/Russ-Miner/",
+        "hasResponses": false,
+        "numMTFParticles": 0
       },
       {
         "slug": "dana--darlington",
         "displayName": "DANA  DARLINGTON",
         "party": "R",
-        "cap_tracker_2023_link": null
+        "cap_tracker_2023_link": null,
+        "hasResponses": false,
+        "numMTFParticles": 0
       }
     ]
   },
@@ -727,13 +861,17 @@
         "slug": "ed-hill",
         "displayName": "ED HILL",
         "party": "R",
-        "cap_tracker_2023_link": null
+        "cap_tracker_2023_link": null,
+        "hasResponses": false,
+        "numMTFParticles": 0
       },
       {
         "slug": "paul-tuss",
         "displayName": "PAUL TUSS",
         "party": "D",
-        "cap_tracker_2023_link": "https://apps.montanafreepress.org/capitol-tracker-2023/lawmakers/Paul-Tuss/"
+        "cap_tracker_2023_link": "https://apps.montanafreepress.org/capitol-tracker-2023/lawmakers/Paul-Tuss/",
+        "hasResponses": true,
+        "numMTFParticles": 0
       }
     ]
   },
@@ -751,25 +889,33 @@
         "slug": "eric-albus",
         "displayName": "ERIC ALBUS",
         "party": "R",
-        "cap_tracker_2023_link": null
+        "cap_tracker_2023_link": null,
+        "hasResponses": false,
+        "numMTFParticles": 0
       },
       {
         "slug": "mark-l-wicks",
         "displayName": "MARK L WICKS",
         "party": "R",
-        "cap_tracker_2023_link": null
+        "cap_tracker_2023_link": null,
+        "hasResponses": true,
+        "numMTFParticles": 0
       },
       {
         "slug": "wayne-stahl",
         "displayName": "WAYNE STAHL",
         "party": "R",
-        "cap_tracker_2023_link": null
+        "cap_tracker_2023_link": null,
+        "hasResponses": false,
+        "numMTFParticles": 0
       },
       {
         "slug": "blake-borst",
         "displayName": "BLAKE BORST",
         "party": "D",
-        "cap_tracker_2023_link": null
+        "cap_tracker_2023_link": null,
+        "hasResponses": true,
+        "numMTFParticles": 0
       }
     ]
   },
@@ -787,13 +933,17 @@
         "slug": "miles-knudsen",
         "displayName": "MILES KNUDSEN",
         "party": "R",
-        "cap_tracker_2023_link": null
+        "cap_tracker_2023_link": null,
+        "hasResponses": false,
+        "numMTFParticles": 0
       },
       {
         "slug": "valerie-moore",
         "displayName": "VALERIE MOORE",
         "party": "R",
-        "cap_tracker_2023_link": null
+        "cap_tracker_2023_link": null,
+        "hasResponses": false,
+        "numMTFParticles": 0
       }
     ]
   },
@@ -811,7 +961,9 @@
         "slug": "morgan-thiel",
         "displayName": "MORGAN THIEL",
         "party": "R",
-        "cap_tracker_2023_link": null
+        "cap_tracker_2023_link": null,
+        "hasResponses": false,
+        "numMTFParticles": 0
       }
     ]
   },
@@ -829,19 +981,25 @@
         "slug": "kevin-taylor",
         "displayName": "KEVIN TAYLOR",
         "party": "R",
-        "cap_tracker_2023_link": null
+        "cap_tracker_2023_link": null,
+        "hasResponses": false,
+        "numMTFParticles": 0
       },
       {
         "slug": "lance-fourstar",
         "displayName": "LANCE FOURSTAR",
         "party": "D",
-        "cap_tracker_2023_link": null
+        "cap_tracker_2023_link": null,
+        "hasResponses": false,
+        "numMTFParticles": 1
       },
       {
         "slug": "frank-j-smith",
         "displayName": "FRANK J SMITH",
         "party": "D",
-        "cap_tracker_2023_link": "https://apps.montanafreepress.org/capitol-tracker-2023/lawmakers/Frank-Smith/"
+        "cap_tracker_2023_link": "https://apps.montanafreepress.org/capitol-tracker-2023/lawmakers/Frank-Smith/",
+        "hasResponses": false,
+        "numMTFParticles": 0
       }
     ]
   },
@@ -859,13 +1017,17 @@
         "slug": "jason-ulrich",
         "displayName": "JASON ULRICH",
         "party": "R",
-        "cap_tracker_2023_link": null
+        "cap_tracker_2023_link": null,
+        "hasResponses": false,
+        "numMTFParticles": 0
       },
       {
         "slug": "mike-fox",
         "displayName": "MIKE FOX",
         "party": "D",
-        "cap_tracker_2023_link": null
+        "cap_tracker_2023_link": null,
+        "hasResponses": false,
+        "numMTFParticles": 0
       }
     ]
   },
@@ -883,13 +1045,17 @@
         "slug": "brandon-ler",
         "displayName": "BRANDON LER",
         "party": "R",
-        "cap_tracker_2023_link": "https://apps.montanafreepress.org/capitol-tracker-2023/lawmakers/Brandon-Ler/"
+        "cap_tracker_2023_link": "https://apps.montanafreepress.org/capitol-tracker-2023/lawmakers/Brandon-Ler/",
+        "hasResponses": false,
+        "numMTFParticles": 0
       },
       {
         "slug": "kathy-hoiland",
         "displayName": "KATHY HOILAND",
         "party": "R",
-        "cap_tracker_2023_link": null
+        "cap_tracker_2023_link": null,
+        "hasResponses": false,
+        "numMTFParticles": 0
       }
     ]
   },
@@ -907,7 +1073,9 @@
         "slug": "jerry-schillinger",
         "displayName": "JERRY SCHILLINGER",
         "party": "R",
-        "cap_tracker_2023_link": "https://apps.montanafreepress.org/capitol-tracker-2023/lawmakers/Jerry-Schillinger/"
+        "cap_tracker_2023_link": "https://apps.montanafreepress.org/capitol-tracker-2023/lawmakers/Jerry-Schillinger/",
+        "hasResponses": false,
+        "numMTFParticles": 1
       }
     ]
   },
@@ -925,13 +1093,17 @@
         "slug": "gary-w-parry",
         "displayName": "GARY W PARRY",
         "party": "R",
-        "cap_tracker_2023_link": "https://apps.montanafreepress.org/capitol-tracker-2023/lawmakers/Gary-Parry/"
+        "cap_tracker_2023_link": "https://apps.montanafreepress.org/capitol-tracker-2023/lawmakers/Gary-Parry/",
+        "hasResponses": false,
+        "numMTFParticles": 0
       },
       {
         "slug": "kim-kreider",
         "displayName": "KIM KREIDER",
         "party": "D",
-        "cap_tracker_2023_link": null
+        "cap_tracker_2023_link": null,
+        "hasResponses": false,
+        "numMTFParticles": 0
       }
     ]
   },
@@ -949,13 +1121,17 @@
         "slug": "greg-kmetz",
         "displayName": "GREG KMETZ",
         "party": "R",
-        "cap_tracker_2023_link": "https://apps.montanafreepress.org/capitol-tracker-2023/lawmakers/Greg-Kmetz/"
+        "cap_tracker_2023_link": "https://apps.montanafreepress.org/capitol-tracker-2023/lawmakers/Greg-Kmetz/",
+        "hasResponses": false,
+        "numMTFParticles": 0
       },
       {
         "slug": "stan-taylor",
         "displayName": "STAN TAYLOR",
         "party": "D",
-        "cap_tracker_2023_link": null
+        "cap_tracker_2023_link": null,
+        "hasResponses": false,
+        "numMTFParticles": 0
       }
     ]
   },
@@ -973,13 +1149,17 @@
         "slug": "shane-klakken",
         "displayName": "SHANE KLAKKEN",
         "party": "R",
-        "cap_tracker_2023_link": null
+        "cap_tracker_2023_link": null,
+        "hasResponses": false,
+        "numMTFParticles": 0
       },
       {
         "slug": "andrea-payne",
         "displayName": "ANDREA PAYNE",
         "party": "D",
-        "cap_tracker_2023_link": null
+        "cap_tracker_2023_link": null,
+        "hasResponses": true,
+        "numMTFParticles": 0
       }
     ]
   },
@@ -997,13 +1177,17 @@
         "slug": "greg-oblander",
         "displayName": "GREG OBLANDER",
         "party": "R",
-        "cap_tracker_2023_link": "https://apps.montanafreepress.org/capitol-tracker-2023/lawmakers/Greg-Oblander/"
+        "cap_tracker_2023_link": "https://apps.montanafreepress.org/capitol-tracker-2023/lawmakers/Greg-Oblander/",
+        "hasResponses": false,
+        "numMTFParticles": 0
       },
       {
         "slug": "nancy-kemler",
         "displayName": "NANCY KEMLER",
         "party": "R",
-        "cap_tracker_2023_link": null
+        "cap_tracker_2023_link": null,
+        "hasResponses": false,
+        "numMTFParticles": 0
       }
     ]
   },
@@ -1021,13 +1205,17 @@
         "slug": "kerri-seekins-crowe",
         "displayName": "KERRI SEEKINS-CROWE",
         "party": "R",
-        "cap_tracker_2023_link": "https://apps.montanafreepress.org/capitol-tracker-2023/lawmakers/Kerri-Seekins-Crowe/"
+        "cap_tracker_2023_link": "https://apps.montanafreepress.org/capitol-tracker-2023/lawmakers/Kerri-Seekins-Crowe/",
+        "hasResponses": false,
+        "numMTFParticles": 0
       },
       {
         "slug": "melissa-smith",
         "displayName": "MELISSA SMITH",
         "party": "D",
-        "cap_tracker_2023_link": null
+        "cap_tracker_2023_link": null,
+        "hasResponses": true,
+        "numMTFParticles": 0
       }
     ]
   },
@@ -1045,19 +1233,25 @@
         "slug": "mike-vinton",
         "displayName": "MIKE VINTON",
         "party": "R",
-        "cap_tracker_2023_link": null
+        "cap_tracker_2023_link": null,
+        "hasResponses": true,
+        "numMTFParticles": 0
       },
       {
         "slug": "josh-visocan",
         "displayName": "JOSH VISOCAN",
         "party": "R",
-        "cap_tracker_2023_link": null
+        "cap_tracker_2023_link": null,
+        "hasResponses": false,
+        "numMTFParticles": 0
       },
       {
         "slug": "bob-auch",
         "displayName": "BOB AUCH",
         "party": "D",
-        "cap_tracker_2023_link": null
+        "cap_tracker_2023_link": null,
+        "hasResponses": false,
+        "numMTFParticles": 0
       }
     ]
   },
@@ -1075,13 +1269,17 @@
         "slug": "da-wallowing-bull",
         "displayName": "DA WALLOWING BULL",
         "party": "R",
-        "cap_tracker_2023_link": null
+        "cap_tracker_2023_link": null,
+        "hasResponses": true,
+        "numMTFParticles": 0
       },
       {
         "slug": "jade-sooktis",
         "displayName": "JADE SOOKTIS",
         "party": "D",
-        "cap_tracker_2023_link": null
+        "cap_tracker_2023_link": null,
+        "hasResponses": false,
+        "numMTFParticles": 0
       }
     ]
   },
@@ -1099,13 +1297,17 @@
         "slug": "bill-hodges",
         "displayName": "BILL HODGES",
         "party": "R",
-        "cap_tracker_2023_link": null
+        "cap_tracker_2023_link": null,
+        "hasResponses": true,
+        "numMTFParticles": 0
       },
       {
         "slug": "sidney-'chip'-fitzpatrick",
         "displayName": "SIDNEY 'CHIP' FITZPATRICK",
         "party": "D",
-        "cap_tracker_2023_link": null
+        "cap_tracker_2023_link": null,
+        "hasResponses": false,
+        "numMTFParticles": 0
       }
     ]
   },
@@ -1123,13 +1325,17 @@
         "slug": "larry-brewster",
         "displayName": "LARRY BREWSTER",
         "party": "R",
-        "cap_tracker_2023_link": "https://apps.montanafreepress.org/capitol-tracker-2023/lawmakers/Larry-Brewster/"
+        "cap_tracker_2023_link": "https://apps.montanafreepress.org/capitol-tracker-2023/lawmakers/Larry-Brewster/",
+        "hasResponses": false,
+        "numMTFParticles": 0
       },
       {
         "slug": "alexander-clark",
         "displayName": "ALEXANDER CLARK",
         "party": "D",
-        "cap_tracker_2023_link": null
+        "cap_tracker_2023_link": null,
+        "hasResponses": true,
+        "numMTFParticles": 0
       }
     ]
   },
@@ -1147,7 +1353,9 @@
         "slug": "katie-zolnikov",
         "displayName": "KATIE ZOLNIKOV",
         "party": "R",
-        "cap_tracker_2023_link": "https://apps.montanafreepress.org/capitol-tracker-2023/lawmakers/Katie-Zolnikov/"
+        "cap_tracker_2023_link": "https://apps.montanafreepress.org/capitol-tracker-2023/lawmakers/Katie-Zolnikov/",
+        "hasResponses": false,
+        "numMTFParticles": 0
       }
     ]
   },
@@ -1165,13 +1373,17 @@
         "slug": "kassidy-olson",
         "displayName": "KASSIDY OLSON",
         "party": "R",
-        "cap_tracker_2023_link": null
+        "cap_tracker_2023_link": null,
+        "hasResponses": false,
+        "numMTFParticles": 0
       },
       {
         "slug": "denise-baum",
         "displayName": "DENISE BAUM",
         "party": "D",
-        "cap_tracker_2023_link": "https://apps.montanafreepress.org/capitol-tracker-2023/lawmakers/Denise-Baum/"
+        "cap_tracker_2023_link": "https://apps.montanafreepress.org/capitol-tracker-2023/lawmakers/Denise-Baum/",
+        "hasResponses": true,
+        "numMTFParticles": 0
       }
     ]
   },
@@ -1189,13 +1401,17 @@
         "slug": "starr-emery",
         "displayName": "STARR EMERY",
         "party": "R",
-        "cap_tracker_2023_link": null
+        "cap_tracker_2023_link": null,
+        "hasResponses": false,
+        "numMTFParticles": 0
       },
       {
         "slug": "emma-kerr-carpenter",
         "displayName": "EMMA KERR CARPENTER",
         "party": "D",
-        "cap_tracker_2023_link": "https://apps.montanafreepress.org/capitol-tracker-2023/lawmakers/Emma-Kerr-Carpenter/"
+        "cap_tracker_2023_link": "https://apps.montanafreepress.org/capitol-tracker-2023/lawmakers/Emma-Kerr-Carpenter/",
+        "hasResponses": true,
+        "numMTFParticles": 0
       }
     ]
   },
@@ -1213,19 +1429,25 @@
         "slug": "thomas-mahon",
         "displayName": "THOMAS MAHON",
         "party": "R",
-        "cap_tracker_2023_link": null
+        "cap_tracker_2023_link": null,
+        "hasResponses": false,
+        "numMTFParticles": 0
       },
       {
         "slug": "stephanie-moncada",
         "displayName": "STEPHANIE MONCADA",
         "party": "R",
-        "cap_tracker_2023_link": null
+        "cap_tracker_2023_link": null,
+        "hasResponses": false,
+        "numMTFParticles": 0
       },
       {
         "slug": "james-reavis",
         "displayName": "JAMES REAVIS",
         "party": "D",
-        "cap_tracker_2023_link": null
+        "cap_tracker_2023_link": null,
+        "hasResponses": true,
+        "numMTFParticles": 0
       }
     ]
   },
@@ -1243,13 +1465,17 @@
         "slug": "curtis-schomer",
         "displayName": "CURTIS SCHOMER",
         "party": "R",
-        "cap_tracker_2023_link": null
+        "cap_tracker_2023_link": null,
+        "hasResponses": false,
+        "numMTFParticles": 0
       },
       {
         "slug": "anne-ross",
         "displayName": "ANNE ROSS",
         "party": "D",
-        "cap_tracker_2023_link": null
+        "cap_tracker_2023_link": null,
+        "hasResponses": true,
+        "numMTFParticles": 0
       }
     ]
   },
@@ -1267,13 +1493,17 @@
         "slug": "sherry-essmann",
         "displayName": "SHERRY ESSMANN",
         "party": "R",
-        "cap_tracker_2023_link": "https://apps.montanafreepress.org/capitol-tracker-2023/lawmakers/Sherry-Essmann/"
+        "cap_tracker_2023_link": "https://apps.montanafreepress.org/capitol-tracker-2023/lawmakers/Sherry-Essmann/",
+        "hasResponses": false,
+        "numMTFParticles": 0
       },
       {
         "slug": "rudolf-haden",
         "displayName": "RUDOLF HADEN",
         "party": "D",
-        "cap_tracker_2023_link": null
+        "cap_tracker_2023_link": null,
+        "hasResponses": true,
+        "numMTFParticles": 0
       }
     ]
   },
@@ -1291,13 +1521,17 @@
         "slug": "anthony-nicastro",
         "displayName": "ANTHONY NICASTRO",
         "party": "R",
-        "cap_tracker_2023_link": null
+        "cap_tracker_2023_link": null,
+        "hasResponses": false,
+        "numMTFParticles": 0
       },
       {
         "slug": "shawn-c-giesick",
         "displayName": "SHAWN C GIESICK",
         "party": "D",
-        "cap_tracker_2023_link": null
+        "cap_tracker_2023_link": null,
+        "hasResponses": false,
+        "numMTFParticles": 0
       }
     ]
   },
@@ -1315,7 +1549,9 @@
         "slug": "jodee-etchart",
         "displayName": "JODEE ETCHART",
         "party": "R",
-        "cap_tracker_2023_link": null
+        "cap_tracker_2023_link": null,
+        "hasResponses": false,
+        "numMTFParticles": 0
       }
     ]
   },
@@ -1333,13 +1569,17 @@
         "slug": "bill-mercer",
         "displayName": "BILL MERCER",
         "party": "R",
-        "cap_tracker_2023_link": "https://apps.montanafreepress.org/capitol-tracker-2023/lawmakers/Bill-Mercer/"
+        "cap_tracker_2023_link": "https://apps.montanafreepress.org/capitol-tracker-2023/lawmakers/Bill-Mercer/",
+        "hasResponses": false,
+        "numMTFParticles": 0
       },
       {
         "slug": "carole-boerner",
         "displayName": "CAROLE BOERNER",
         "party": "D",
-        "cap_tracker_2023_link": null
+        "cap_tracker_2023_link": null,
+        "hasResponses": false,
+        "numMTFParticles": 0
       }
     ]
   },
@@ -1357,19 +1597,25 @@
         "slug": "nelly-nicol",
         "displayName": "NELLY NICOL",
         "party": "R",
-        "cap_tracker_2023_link": "https://apps.montanafreepress.org/capitol-tracker-2023/lawmakers/Nelly-Nicol/"
+        "cap_tracker_2023_link": "https://apps.montanafreepress.org/capitol-tracker-2023/lawmakers/Nelly-Nicol/",
+        "hasResponses": false,
+        "numMTFParticles": 0
       },
       {
         "slug": "david-austin",
         "displayName": "DAVID AUSTIN",
         "party": "R",
-        "cap_tracker_2023_link": null
+        "cap_tracker_2023_link": null,
+        "hasResponses": false,
+        "numMTFParticles": 0
       },
       {
         "slug": "ellie-kerns",
         "displayName": "ELLIE KERNS",
         "party": "D",
-        "cap_tracker_2023_link": null
+        "cap_tracker_2023_link": null,
+        "hasResponses": false,
+        "numMTFParticles": 0
       }
     ]
   },
@@ -1387,7 +1633,9 @@
         "slug": "lee-deming",
         "displayName": "LEE DEMING",
         "party": "R",
-        "cap_tracker_2023_link": "https://apps.montanafreepress.org/capitol-tracker-2023/lawmakers/Lee-Deming/"
+        "cap_tracker_2023_link": "https://apps.montanafreepress.org/capitol-tracker-2023/lawmakers/Lee-Deming/",
+        "hasResponses": false,
+        "numMTFParticles": 0
       }
     ]
   },
@@ -1405,25 +1653,33 @@
         "slug": "brad-barker",
         "displayName": "BRAD BARKER",
         "party": "R",
-        "cap_tracker_2023_link": "https://apps.montanafreepress.org/capitol-tracker-2023/lawmakers/Brad-Barker/"
+        "cap_tracker_2023_link": "https://apps.montanafreepress.org/capitol-tracker-2023/lawmakers/Brad-Barker/",
+        "hasResponses": false,
+        "numMTFParticles": 0
       },
       {
         "slug": "mary-horman",
         "displayName": "MARY HORMAN",
         "party": "R",
-        "cap_tracker_2023_link": null
+        "cap_tracker_2023_link": null,
+        "hasResponses": false,
+        "numMTFParticles": 0
       },
       {
         "slug": "lisa-bennett",
         "displayName": "LISA BENNETT",
         "party": "R",
-        "cap_tracker_2023_link": null
+        "cap_tracker_2023_link": null,
+        "hasResponses": false,
+        "numMTFParticles": 1
       },
       {
         "slug": "kim-gillan",
         "displayName": "KIM GILLAN",
         "party": "D",
-        "cap_tracker_2023_link": null
+        "cap_tracker_2023_link": null,
+        "hasResponses": true,
+        "numMTFParticles": 0
       }
     ]
   },
@@ -1441,7 +1697,9 @@
         "slug": "fiona-nave",
         "displayName": "FIONA NAVE",
         "party": "R",
-        "cap_tracker_2023_link": "https://apps.montanafreepress.org/capitol-tracker-2023/lawmakers/Fiona-Nave/"
+        "cap_tracker_2023_link": "https://apps.montanafreepress.org/capitol-tracker-2023/lawmakers/Fiona-Nave/",
+        "hasResponses": false,
+        "numMTFParticles": 0
       }
     ]
   },
@@ -1459,13 +1717,17 @@
         "slug": "marty-malone",
         "displayName": "MARTY MALONE",
         "party": "R",
-        "cap_tracker_2023_link": "https://apps.montanafreepress.org/capitol-tracker-2023/lawmakers/Marty-Malone/"
+        "cap_tracker_2023_link": "https://apps.montanafreepress.org/capitol-tracker-2023/lawmakers/Marty-Malone/",
+        "hasResponses": true,
+        "numMTFParticles": 0
       },
       {
         "slug": "scott-rosenzweig",
         "displayName": "SCOTT ROSENZWEIG",
         "party": "D",
-        "cap_tracker_2023_link": null
+        "cap_tracker_2023_link": null,
+        "hasResponses": true,
+        "numMTFParticles": 0
       }
     ]
   },
@@ -1483,19 +1745,25 @@
         "slug": "jason-gunderson",
         "displayName": "JASON GUNDERSON",
         "party": "R",
-        "cap_tracker_2023_link": null
+        "cap_tracker_2023_link": null,
+        "hasResponses": false,
+        "numMTFParticles": 0
       },
       {
         "slug": "jamie-l-isaly",
         "displayName": "JAMIE L ISALY",
         "party": "D",
-        "cap_tracker_2023_link": null
+        "cap_tracker_2023_link": null,
+        "hasResponses": true,
+        "numMTFParticles": 0
       },
       {
         "slug": "dean-williamson",
         "displayName": "DEAN WILLIAMSON",
         "party": "D",
-        "cap_tracker_2023_link": null
+        "cap_tracker_2023_link": null,
+        "hasResponses": false,
+        "numMTFParticles": 0
       }
     ]
   },
@@ -1513,13 +1781,17 @@
         "slug": "marc-greendorfer",
         "displayName": "MARC GREENDORFER",
         "party": "R",
-        "cap_tracker_2023_link": null
+        "cap_tracker_2023_link": null,
+        "hasResponses": true,
+        "numMTFParticles": 0
       },
       {
         "slug": "ed-stafman",
         "displayName": "ED STAFMAN",
         "party": "D",
-        "cap_tracker_2023_link": "https://apps.montanafreepress.org/capitol-tracker-2023/lawmakers/Ed-Stafman/"
+        "cap_tracker_2023_link": "https://apps.montanafreepress.org/capitol-tracker-2023/lawmakers/Ed-Stafman/",
+        "hasResponses": true,
+        "numMTFParticles": 0
       }
     ]
   },
@@ -1537,13 +1809,17 @@
         "slug": "jerry-johnson",
         "displayName": "JERRY JOHNSON",
         "party": "R",
-        "cap_tracker_2023_link": null
+        "cap_tracker_2023_link": null,
+        "hasResponses": false,
+        "numMTFParticles": 0
       },
       {
         "slug": "alanah-griffith",
         "displayName": "ALANAH GRIFFITH",
         "party": "D",
-        "cap_tracker_2023_link": null
+        "cap_tracker_2023_link": null,
+        "hasResponses": true,
+        "numMTFParticles": 0
       }
     ]
   },
@@ -1561,13 +1837,17 @@
         "slug": "thomas-carlson",
         "displayName": "THOMAS CARLSON",
         "party": "R",
-        "cap_tracker_2023_link": null
+        "cap_tracker_2023_link": null,
+        "hasResponses": false,
+        "numMTFParticles": 0
       },
       {
         "slug": "becky-edwards",
         "displayName": "BECKY EDWARDS",
         "party": "D",
-        "cap_tracker_2023_link": null
+        "cap_tracker_2023_link": null,
+        "hasResponses": true,
+        "numMTFParticles": 0
       }
     ]
   },
@@ -1585,19 +1865,25 @@
         "slug": "owen-lang",
         "displayName": "OWEN LANG",
         "party": "R",
-        "cap_tracker_2023_link": null
+        "cap_tracker_2023_link": null,
+        "hasResponses": false,
+        "numMTFParticles": 0
       },
       {
         "slug": "rio-roland",
         "displayName": "RIO ROLAND",
         "party": "D",
-        "cap_tracker_2023_link": null
+        "cap_tracker_2023_link": null,
+        "hasResponses": true,
+        "numMTFParticles": 0
       },
       {
         "slug": "joshua-a-seckinger",
         "displayName": "JOSHUA A SECKINGER",
         "party": "D",
-        "cap_tracker_2023_link": null
+        "cap_tracker_2023_link": null,
+        "hasResponses": true,
+        "numMTFParticles": 0
       }
     ]
   },
@@ -1615,25 +1901,33 @@
         "slug": "joe-flynn",
         "displayName": "JOE FLYNN",
         "party": "R",
-        "cap_tracker_2023_link": null
+        "cap_tracker_2023_link": null,
+        "hasResponses": false,
+        "numMTFParticles": 0
       },
       {
         "slug": "mark-lewis",
         "displayName": "MARK LEWIS",
         "party": "R",
-        "cap_tracker_2023_link": null
+        "cap_tracker_2023_link": null,
+        "hasResponses": false,
+        "numMTFParticles": 0
       },
       {
         "slug": "peter-strand",
         "displayName": "PETER STRAND",
         "party": "D",
-        "cap_tracker_2023_link": null
+        "cap_tracker_2023_link": null,
+        "hasResponses": true,
+        "numMTFParticles": 0
       },
       {
         "slug": "john-hansen",
         "displayName": "JOHN HANSEN",
         "party": "D",
-        "cap_tracker_2023_link": null
+        "cap_tracker_2023_link": null,
+        "hasResponses": false,
+        "numMTFParticles": 0
       }
     ]
   },
@@ -1651,13 +1945,17 @@
         "slug": "jolene--crum",
         "displayName": "JOLENE  CRUM",
         "party": "R",
-        "cap_tracker_2023_link": null
+        "cap_tracker_2023_link": null,
+        "hasResponses": true,
+        "numMTFParticles": 0
       },
       {
         "slug": "kelly-kortum",
         "displayName": "KELLY KORTUM",
         "party": "D",
-        "cap_tracker_2023_link": "https://apps.montanafreepress.org/capitol-tracker-2023/lawmakers/Kelly-Kortum/"
+        "cap_tracker_2023_link": "https://apps.montanafreepress.org/capitol-tracker-2023/lawmakers/Kelly-Kortum/",
+        "hasResponses": true,
+        "numMTFParticles": 0
       }
     ]
   },
@@ -1675,19 +1973,25 @@
         "slug": "esther-fishbaugh",
         "displayName": "ESTHER FISHBAUGH",
         "party": "R",
-        "cap_tracker_2023_link": null
+        "cap_tracker_2023_link": null,
+        "hasResponses": true,
+        "numMTFParticles": 0
       },
       {
         "slug": "anja-wookeyhuffman",
         "displayName": "ANJA WOOKEYHUFFMAN",
         "party": "D",
-        "cap_tracker_2023_link": null
+        "cap_tracker_2023_link": null,
+        "hasResponses": true,
+        "numMTFParticles": 0
       },
       {
         "slug": "brian-close",
         "displayName": "BRIAN CLOSE",
         "party": "D",
-        "cap_tracker_2023_link": null
+        "cap_tracker_2023_link": null,
+        "hasResponses": true,
+        "numMTFParticles": 0
       }
     ]
   },
@@ -1705,13 +2009,17 @@
         "slug": "marla-davis",
         "displayName": "MARLA DAVIS",
         "party": "R",
-        "cap_tracker_2023_link": null
+        "cap_tracker_2023_link": null,
+        "hasResponses": false,
+        "numMTFParticles": 0
       },
       {
         "slug": "eric-matthews",
         "displayName": "ERIC MATTHEWS",
         "party": "D",
-        "cap_tracker_2023_link": "https://apps.montanafreepress.org/capitol-tracker-2023/lawmakers/Eric-Matthews/"
+        "cap_tracker_2023_link": "https://apps.montanafreepress.org/capitol-tracker-2023/lawmakers/Eric-Matthews/",
+        "hasResponses": true,
+        "numMTFParticles": 0
       }
     ]
   },
@@ -1729,13 +2037,17 @@
         "slug": "jedediah-hinkle",
         "displayName": "JEDEDIAH HINKLE",
         "party": "R",
-        "cap_tracker_2023_link": "https://apps.montanafreepress.org/capitol-tracker-2023/lawmakers/Jedediah-Hinkle/"
+        "cap_tracker_2023_link": "https://apps.montanafreepress.org/capitol-tracker-2023/lawmakers/Jedediah-Hinkle/",
+        "hasResponses": false,
+        "numMTFParticles": 0
       },
       {
         "slug": "carl-anderson",
         "displayName": "CARL ANDERSON",
         "party": "D",
-        "cap_tracker_2023_link": null
+        "cap_tracker_2023_link": null,
+        "hasResponses": false,
+        "numMTFParticles": 0
       }
     ]
   },
@@ -1753,25 +2065,33 @@
         "slug": "caleb-hinkle",
         "displayName": "CALEB HINKLE",
         "party": "R",
-        "cap_tracker_2023_link": "https://apps.montanafreepress.org/capitol-tracker-2023/lawmakers/Caleb-Hinkle/"
+        "cap_tracker_2023_link": "https://apps.montanafreepress.org/capitol-tracker-2023/lawmakers/Caleb-Hinkle/",
+        "hasResponses": false,
+        "numMTFParticles": 0
       },
       {
         "slug": "jennifer-carlson",
         "displayName": "JENNIFER CARLSON",
         "party": "R",
-        "cap_tracker_2023_link": "https://apps.montanafreepress.org/capitol-tracker-2023/lawmakers/Jennifer-Carlson/"
+        "cap_tracker_2023_link": "https://apps.montanafreepress.org/capitol-tracker-2023/lawmakers/Jennifer-Carlson/",
+        "hasResponses": false,
+        "numMTFParticles": 0
       },
       {
         "slug": "scott-sales",
         "displayName": "SCOTT SALES",
         "party": "R",
-        "cap_tracker_2023_link": null
+        "cap_tracker_2023_link": null,
+        "hasResponses": false,
+        "numMTFParticles": 0
       },
       {
         "slug": "alexander-colafrancesco",
         "displayName": "ALEXANDER COLAFRANCESCO",
         "party": "D",
-        "cap_tracker_2023_link": null
+        "cap_tracker_2023_link": null,
+        "hasResponses": false,
+        "numMTFParticles": 0
       }
     ]
   },
@@ -1789,7 +2109,9 @@
         "slug": "ken-walsh",
         "displayName": "KEN WALSH",
         "party": "R",
-        "cap_tracker_2023_link": "https://apps.montanafreepress.org/capitol-tracker-2023/lawmakers/Kenneth-Walsh/"
+        "cap_tracker_2023_link": "https://apps.montanafreepress.org/capitol-tracker-2023/lawmakers/Kenneth-Walsh/",
+        "hasResponses": true,
+        "numMTFParticles": 0
       }
     ]
   },
@@ -1807,19 +2129,25 @@
         "slug": "mary-ann-nicholas",
         "displayName": "MARY ANN NICHOLAS",
         "party": "R",
-        "cap_tracker_2023_link": null
+        "cap_tracker_2023_link": null,
+        "hasResponses": false,
+        "numMTFParticles": 0
       },
       {
         "slug": "shannon-maness",
         "displayName": "SHANNON MANESS",
         "party": "R",
-        "cap_tracker_2023_link": null
+        "cap_tracker_2023_link": null,
+        "hasResponses": true,
+        "numMTFParticles": 0
       },
       {
         "slug": "mike-klakken",
         "displayName": "MIKE KLAKKEN",
         "party": "R",
-        "cap_tracker_2023_link": null
+        "cap_tracker_2023_link": null,
+        "hasResponses": true,
+        "numMTFParticles": 0
       }
     ]
   },
@@ -1837,13 +2165,17 @@
         "slug": "h-steiger",
         "displayName": "H STEIGER",
         "party": "R",
-        "cap_tracker_2023_link": null
+        "cap_tracker_2023_link": null,
+        "hasResponses": false,
+        "numMTFParticles": 0
       },
       {
         "slug": "scott-p-demarois",
         "displayName": "SCOTT P DEMAROIS",
         "party": "D",
-        "cap_tracker_2023_link": null
+        "cap_tracker_2023_link": null,
+        "hasResponses": false,
+        "numMTFParticles": 0
       }
     ]
   },
@@ -1861,13 +2193,17 @@
         "slug": "andy-johnson",
         "displayName": "ANDY JOHNSON",
         "party": "R",
-        "cap_tracker_2023_link": null
+        "cap_tracker_2023_link": null,
+        "hasResponses": false,
+        "numMTFParticles": 0
       },
       {
         "slug": "donavon-hawk",
         "displayName": "DONAVON HAWK",
         "party": "D",
-        "cap_tracker_2023_link": "https://apps.montanafreepress.org/capitol-tracker-2023/lawmakers/Donavon-Hawk/"
+        "cap_tracker_2023_link": "https://apps.montanafreepress.org/capitol-tracker-2023/lawmakers/Donavon-Hawk/",
+        "hasResponses": false,
+        "numMTFParticles": 0
       }
     ]
   },
@@ -1885,13 +2221,17 @@
         "slug": "zach-tomaszewski",
         "displayName": "ZACH TOMASZEWSKI",
         "party": "R",
-        "cap_tracker_2023_link": null
+        "cap_tracker_2023_link": null,
+        "hasResponses": false,
+        "numMTFParticles": 0
       },
       {
         "slug": "jennifer-lynch",
         "displayName": "JENNIFER LYNCH",
         "party": "D",
-        "cap_tracker_2023_link": "https://apps.montanafreepress.org/capitol-tracker-2023/lawmakers/Jennifer-Lynch/"
+        "cap_tracker_2023_link": "https://apps.montanafreepress.org/capitol-tracker-2023/lawmakers/Jennifer-Lynch/",
+        "hasResponses": false,
+        "numMTFParticles": 0
       }
     ]
   },
@@ -1909,13 +2249,17 @@
         "slug": "trenin-bayless",
         "displayName": "TRENIN BAYLESS",
         "party": "R",
-        "cap_tracker_2023_link": null
+        "cap_tracker_2023_link": null,
+        "hasResponses": false,
+        "numMTFParticles": 0
       },
       {
         "slug": "marc-j-lee",
         "displayName": "MARC J LEE",
         "party": "D",
-        "cap_tracker_2023_link": null
+        "cap_tracker_2023_link": null,
+        "hasResponses": false,
+        "numMTFParticles": 0
       }
     ]
   },
@@ -1933,13 +2277,17 @@
         "slug": "marta-bertoglio",
         "displayName": "MARTA BERTOGLIO",
         "party": "R",
-        "cap_tracker_2023_link": "https://apps.montanafreepress.org/capitol-tracker-2023/lawmakers/Marta-Bertoglio/"
+        "cap_tracker_2023_link": "https://apps.montanafreepress.org/capitol-tracker-2023/lawmakers/Marta-Bertoglio/",
+        "hasResponses": false,
+        "numMTFParticles": 0
       },
       {
         "slug": "nancy-jane-lien",
         "displayName": "NANCY JANE LIEN",
         "party": "D",
-        "cap_tracker_2023_link": null
+        "cap_tracker_2023_link": null,
+        "hasResponses": true,
+        "numMTFParticles": 0
       }
     ]
   },
@@ -1957,19 +2305,25 @@
         "slug": "john-fitzpatrick",
         "displayName": "JOHN FITZPATRICK",
         "party": "R",
-        "cap_tracker_2023_link": "https://apps.montanafreepress.org/capitol-tracker-2023/lawmakers/John-Fitzpatrick/"
+        "cap_tracker_2023_link": "https://apps.montanafreepress.org/capitol-tracker-2023/lawmakers/John-Fitzpatrick/",
+        "hasResponses": false,
+        "numMTFParticles": 0
       },
       {
         "slug": "dave-kesler-iii",
         "displayName": "DAVE KESLER III",
         "party": "R",
-        "cap_tracker_2023_link": null
+        "cap_tracker_2023_link": null,
+        "hasResponses": true,
+        "numMTFParticles": 0
       },
       {
         "slug": "elena-gagliano",
         "displayName": "ELENA GAGLIANO",
         "party": "L",
-        "cap_tracker_2023_link": null
+        "cap_tracker_2023_link": null,
+        "hasResponses": false,
+        "numMTFParticles": 0
       }
     ]
   },
@@ -1987,19 +2341,25 @@
         "slug": "kyle-mcmurray",
         "displayName": "KYLE MCMURRAY",
         "party": "R",
-        "cap_tracker_2023_link": null
+        "cap_tracker_2023_link": null,
+        "hasResponses": false,
+        "numMTFParticles": 0
       },
       {
         "slug": "jane-gillette",
         "displayName": "JANE GILLETTE",
         "party": "R",
-        "cap_tracker_2023_link": "https://apps.montanafreepress.org/capitol-tracker-2023/lawmakers/Jane-Gillette/"
+        "cap_tracker_2023_link": "https://apps.montanafreepress.org/capitol-tracker-2023/lawmakers/Jane-Gillette/",
+        "hasResponses": false,
+        "numMTFParticles": 0
       },
       {
         "slug": "jeremiah-dawson",
         "displayName": "JEREMIAH DAWSON",
         "party": "D",
-        "cap_tracker_2023_link": null
+        "cap_tracker_2023_link": null,
+        "hasResponses": false,
+        "numMTFParticles": 0
       }
     ]
   },
@@ -2017,19 +2377,25 @@
         "slug": "james-h-bergstrom",
         "displayName": "JAMES H BERGSTROM",
         "party": "R",
-        "cap_tracker_2023_link": null
+        "cap_tracker_2023_link": null,
+        "hasResponses": false,
+        "numMTFParticles": 0
       },
       {
         "slug": "randyn-gregg",
         "displayName": "RANDYN GREGG",
         "party": "R",
-        "cap_tracker_2023_link": null
+        "cap_tracker_2023_link": null,
+        "hasResponses": false,
+        "numMTFParticles": 0
       },
       {
         "slug": "glenn-a-lambert",
         "displayName": "GLENN A LAMBERT",
         "party": "D",
-        "cap_tracker_2023_link": null
+        "cap_tracker_2023_link": null,
+        "hasResponses": true,
+        "numMTFParticles": 0
       }
     ]
   },
@@ -2047,31 +2413,41 @@
         "slug": "jill-sark",
         "displayName": "JILL SARK",
         "party": "R",
-        "cap_tracker_2023_link": null
+        "cap_tracker_2023_link": null,
+        "hasResponses": true,
+        "numMTFParticles": 0
       },
       {
         "slug": "demetri-joslin",
         "displayName": "DEMETRI JOSLIN",
         "party": "R",
-        "cap_tracker_2023_link": null
+        "cap_tracker_2023_link": null,
+        "hasResponses": true,
+        "numMTFParticles": 0
       },
       {
         "slug": "anne-woodland",
         "displayName": "ANNE WOODLAND",
         "party": "D",
-        "cap_tracker_2023_link": null
+        "cap_tracker_2023_link": null,
+        "hasResponses": true,
+        "numMTFParticles": 0
       },
       {
         "slug": "emily-harris",
         "displayName": "EMILY HARRIS",
         "party": "D",
-        "cap_tracker_2023_link": null
+        "cap_tracker_2023_link": null,
+        "hasResponses": true,
+        "numMTFParticles": 0
       },
       {
         "slug": "luke-muszkiewicz",
         "displayName": "LUKE MUSZKIEWICZ",
         "party": "D",
-        "cap_tracker_2023_link": null
+        "cap_tracker_2023_link": null,
+        "hasResponses": true,
+        "numMTFParticles": 0
       }
     ]
   },
@@ -2089,13 +2465,17 @@
         "slug": "rachel-burright",
         "displayName": "RACHEL BURRIGHT",
         "party": "R",
-        "cap_tracker_2023_link": null
+        "cap_tracker_2023_link": null,
+        "hasResponses": false,
+        "numMTFParticles": 0
       },
       {
         "slug": "melissa-romano",
         "displayName": "MELISSA ROMANO",
         "party": "D",
-        "cap_tracker_2023_link": "https://apps.montanafreepress.org/capitol-tracker-2023/lawmakers/Melissa-Romano/"
+        "cap_tracker_2023_link": "https://apps.montanafreepress.org/capitol-tracker-2023/lawmakers/Melissa-Romano/",
+        "hasResponses": true,
+        "numMTFParticles": 0
       }
     ]
   },
@@ -2113,13 +2493,17 @@
         "slug": "dustin-scott",
         "displayName": "DUSTIN SCOTT",
         "party": "R",
-        "cap_tracker_2023_link": null
+        "cap_tracker_2023_link": null,
+        "hasResponses": false,
+        "numMTFParticles": 0
       },
       {
         "slug": "mary-m-caferro",
         "displayName": "MARY M CAFERRO",
         "party": "D",
-        "cap_tracker_2023_link": "https://apps.montanafreepress.org/capitol-tracker-2023/lawmakers/Mary-Caferro/"
+        "cap_tracker_2023_link": "https://apps.montanafreepress.org/capitol-tracker-2023/lawmakers/Mary-Caferro/",
+        "hasResponses": false,
+        "numMTFParticles": 0
       }
     ]
   },
@@ -2137,19 +2521,25 @@
         "slug": "john-looney-sr",
         "displayName": "JOHN LOONEY SR",
         "party": "R",
-        "cap_tracker_2023_link": null
+        "cap_tracker_2023_link": null,
+        "hasResponses": true,
+        "numMTFParticles": 0
       },
       {
         "slug": "sk-rossi",
         "displayName": "SK ROSSI",
         "party": "D",
-        "cap_tracker_2023_link": null
+        "cap_tracker_2023_link": null,
+        "hasResponses": true,
+        "numMTFParticles": 0
       },
       {
         "slug": "pete-elverum",
         "displayName": "PETE ELVERUM",
         "party": "D",
-        "cap_tracker_2023_link": null
+        "cap_tracker_2023_link": null,
+        "hasResponses": false,
+        "numMTFParticles": 0
       }
     ]
   },
@@ -2167,19 +2557,25 @@
         "slug": "christopher-st-jean",
         "displayName": "CHRISTOPHER ST JEAN",
         "party": "R",
-        "cap_tracker_2023_link": null
+        "cap_tracker_2023_link": null,
+        "hasResponses": true,
+        "numMTFParticles": 0
       },
       {
         "slug": "wes-feist",
         "displayName": "WES FEIST",
         "party": "R",
-        "cap_tracker_2023_link": null
+        "cap_tracker_2023_link": null,
+        "hasResponses": true,
+        "numMTFParticles": 0
       },
       {
         "slug": "jill-cohenour",
         "displayName": "JILL COHENOUR",
         "party": "D",
-        "cap_tracker_2023_link": "https://apps.montanafreepress.org/capitol-tracker-2023/lawmakers/Jill-Cohenour/"
+        "cap_tracker_2023_link": "https://apps.montanafreepress.org/capitol-tracker-2023/lawmakers/Jill-Cohenour/",
+        "hasResponses": true,
+        "numMTFParticles": 0
       }
     ]
   },
@@ -2197,25 +2593,33 @@
         "slug": "julie-dooling",
         "displayName": "JULIE DOOLING",
         "party": "R",
-        "cap_tracker_2023_link": "https://apps.montanafreepress.org/capitol-tracker-2023/lawmakers/Julie-Dooling/"
+        "cap_tracker_2023_link": "https://apps.montanafreepress.org/capitol-tracker-2023/lawmakers/Julie-Dooling/",
+        "hasResponses": true,
+        "numMTFParticles": 0
       },
       {
         "slug": "jon-jackson",
         "displayName": "JON JACKSON",
         "party": "R",
-        "cap_tracker_2023_link": null
+        "cap_tracker_2023_link": null,
+        "hasResponses": false,
+        "numMTFParticles": 0
       },
       {
         "slug": "michele-r-crepeau",
         "displayName": "MICHELE R CREPEAU",
         "party": "D",
-        "cap_tracker_2023_link": null
+        "cap_tracker_2023_link": null,
+        "hasResponses": true,
+        "numMTFParticles": 0
       },
       {
         "slug": "david-williams",
         "displayName": "DAVID WILLIAMS",
         "party": "D",
-        "cap_tracker_2023_link": null
+        "cap_tracker_2023_link": null,
+        "hasResponses": false,
+        "numMTFParticles": 0
       }
     ]
   },
@@ -2233,19 +2637,25 @@
         "slug": "michele-binkley",
         "displayName": "MICHELE BINKLEY",
         "party": "R",
-        "cap_tracker_2023_link": "https://apps.montanafreepress.org/capitol-tracker-2023/lawmakers/Michele-Binkley/"
+        "cap_tracker_2023_link": "https://apps.montanafreepress.org/capitol-tracker-2023/lawmakers/Michele-Binkley/",
+        "hasResponses": false,
+        "numMTFParticles": 0
       },
       {
         "slug": "kathy-love",
         "displayName": "KATHY LOVE",
         "party": "R",
-        "cap_tracker_2023_link": null
+        "cap_tracker_2023_link": null,
+        "hasResponses": false,
+        "numMTFParticles": 0
       },
       {
         "slug": "laura-mae-jackson",
         "displayName": "LAURA MAE JACKSON",
         "party": "D",
-        "cap_tracker_2023_link": null
+        "cap_tracker_2023_link": null,
+        "hasResponses": false,
+        "numMTFParticles": 0
       }
     ]
   },
@@ -2263,19 +2673,25 @@
         "slug": "david-bedey",
         "displayName": "DAVID BEDEY",
         "party": "R",
-        "cap_tracker_2023_link": "https://apps.montanafreepress.org/capitol-tracker-2023/lawmakers/David-Bedey/"
+        "cap_tracker_2023_link": "https://apps.montanafreepress.org/capitol-tracker-2023/lawmakers/David-Bedey/",
+        "hasResponses": true,
+        "numMTFParticles": 0
       },
       {
         "slug": "robert-wallace",
         "displayName": "ROBERT WALLACE",
         "party": "R",
-        "cap_tracker_2023_link": null
+        "cap_tracker_2023_link": null,
+        "hasResponses": false,
+        "numMTFParticles": 0
       },
       {
         "slug": "jeff-kempka",
         "displayName": "JEFF KEMPKA",
         "party": "D",
-        "cap_tracker_2023_link": null
+        "cap_tracker_2023_link": null,
+        "hasResponses": false,
+        "numMTFParticles": 0
       }
     ]
   },
@@ -2293,13 +2709,17 @@
         "slug": "ron-marshall",
         "displayName": "RON MARSHALL",
         "party": "R",
-        "cap_tracker_2023_link": "https://apps.montanafreepress.org/capitol-tracker-2023/lawmakers/Ron-Marshall/"
+        "cap_tracker_2023_link": "https://apps.montanafreepress.org/capitol-tracker-2023/lawmakers/Ron-Marshall/",
+        "hasResponses": false,
+        "numMTFParticles": 0
       },
       {
         "slug": "tammie-milligan",
         "displayName": "TAMMIE MILLIGAN",
         "party": "D",
-        "cap_tracker_2023_link": null
+        "cap_tracker_2023_link": null,
+        "hasResponses": true,
+        "numMTFParticles": 0
       }
     ]
   },
@@ -2317,19 +2737,25 @@
         "slug": "greg-overstreet",
         "displayName": "GREG OVERSTREET",
         "party": "R",
-        "cap_tracker_2023_link": null
+        "cap_tracker_2023_link": null,
+        "hasResponses": true,
+        "numMTFParticles": 0
       },
       {
         "slug": "kim-dailey",
         "displayName": "KIM DAILEY",
         "party": "R",
-        "cap_tracker_2023_link": null
+        "cap_tracker_2023_link": null,
+        "hasResponses": false,
+        "numMTFParticles": 0
       },
       {
         "slug": "evan-schroedel",
         "displayName": "EVAN SCHROEDEL",
         "party": "D",
-        "cap_tracker_2023_link": null
+        "cap_tracker_2023_link": null,
+        "hasResponses": true,
+        "numMTFParticles": 0
       }
     ]
   },
@@ -2347,13 +2773,17 @@
         "slug": "lyn-hellegaard",
         "displayName": "LYN HELLEGAARD",
         "party": "R",
-        "cap_tracker_2023_link": "https://apps.montanafreepress.org/capitol-tracker-2023/lawmakers/Lyn-Hellegaard/"
+        "cap_tracker_2023_link": "https://apps.montanafreepress.org/capitol-tracker-2023/lawmakers/Lyn-Hellegaard/",
+        "hasResponses": false,
+        "numMTFParticles": 0
       },
       {
         "slug": "mark-a-thane",
         "displayName": "MARK A THANE",
         "party": "D",
-        "cap_tracker_2023_link": "https://apps.montanafreepress.org/capitol-tracker-2023/lawmakers/Mark-Thane/"
+        "cap_tracker_2023_link": "https://apps.montanafreepress.org/capitol-tracker-2023/lawmakers/Mark-Thane/",
+        "hasResponses": true,
+        "numMTFParticles": 0
       }
     ]
   },
@@ -2371,19 +2801,25 @@
         "slug": "curtis-j-cochran",
         "displayName": "CURTIS J COCHRAN",
         "party": "R",
-        "cap_tracker_2023_link": null
+        "cap_tracker_2023_link": null,
+        "hasResponses": true,
+        "numMTFParticles": 0
       },
       {
         "slug": "jeff-stanek",
         "displayName": "JEFF STANEK",
         "party": "R",
-        "cap_tracker_2023_link": null
+        "cap_tracker_2023_link": null,
+        "hasResponses": true,
+        "numMTFParticles": 0
       },
       {
         "slug": "steven-delisle",
         "displayName": "STEVEN DELISLE",
         "party": "R",
-        "cap_tracker_2023_link": null
+        "cap_tracker_2023_link": null,
+        "hasResponses": true,
+        "numMTFParticles": 0
       }
     ]
   },
@@ -2401,13 +2837,17 @@
         "slug": "joe-read",
         "displayName": "JOE READ",
         "party": "R",
-        "cap_tracker_2023_link": "https://apps.montanafreepress.org/capitol-tracker-2023/lawmakers/Joe-Read/"
+        "cap_tracker_2023_link": "https://apps.montanafreepress.org/capitol-tracker-2023/lawmakers/Joe-Read/",
+        "hasResponses": false,
+        "numMTFParticles": 0
       },
       {
         "slug": "shelly-r-fyant",
         "displayName": "SHELLY R FYANT",
         "party": "D",
-        "cap_tracker_2023_link": null
+        "cap_tracker_2023_link": null,
+        "hasResponses": true,
+        "numMTFParticles": 0
       }
     ]
   },
@@ -2425,13 +2865,17 @@
         "slug": "ted-morgan",
         "displayName": "TED MORGAN",
         "party": "R",
-        "cap_tracker_2023_link": null
+        "cap_tracker_2023_link": null,
+        "hasResponses": false,
+        "numMTFParticles": 0
       },
       {
         "slug": "connie-keogh",
         "displayName": "CONNIE KEOGH",
         "party": "D",
-        "cap_tracker_2023_link": "https://apps.montanafreepress.org/capitol-tracker-2023/lawmakers/Connie-Keogh/"
+        "cap_tracker_2023_link": "https://apps.montanafreepress.org/capitol-tracker-2023/lawmakers/Connie-Keogh/",
+        "hasResponses": true,
+        "numMTFParticles": 0
       }
     ]
   },
@@ -2449,13 +2893,17 @@
         "slug": "roy-handley",
         "displayName": "ROY HANDLEY",
         "party": "R",
-        "cap_tracker_2023_link": null
+        "cap_tracker_2023_link": null,
+        "hasResponses": true,
+        "numMTFParticles": 0
       },
       {
         "slug": "katie-sullivan",
         "displayName": "KATIE SULLIVAN",
         "party": "D",
-        "cap_tracker_2023_link": "https://apps.montanafreepress.org/capitol-tracker-2023/lawmakers/Katie-Sullivan/"
+        "cap_tracker_2023_link": "https://apps.montanafreepress.org/capitol-tracker-2023/lawmakers/Katie-Sullivan/",
+        "hasResponses": false,
+        "numMTFParticles": 0
       }
     ]
   },
@@ -2473,13 +2921,17 @@
         "slug": "delaney-malmsten",
         "displayName": "DELANEY MALMSTEN",
         "party": "R",
-        "cap_tracker_2023_link": null
+        "cap_tracker_2023_link": null,
+        "hasResponses": false,
+        "numMTFParticles": 0
       },
       {
         "slug": "marilyn-marler",
         "displayName": "MARILYN MARLER",
         "party": "D",
-        "cap_tracker_2023_link": "https://apps.montanafreepress.org/capitol-tracker-2023/lawmakers/Marilyn-Marler/"
+        "cap_tracker_2023_link": "https://apps.montanafreepress.org/capitol-tracker-2023/lawmakers/Marilyn-Marler/",
+        "hasResponses": true,
+        "numMTFParticles": 0
       }
     ]
   },
@@ -2497,13 +2949,17 @@
         "slug": "barbara-w-starmer",
         "displayName": "BARBARA W STARMER",
         "party": "R",
-        "cap_tracker_2023_link": null
+        "cap_tracker_2023_link": null,
+        "hasResponses": false,
+        "numMTFParticles": 0
       },
       {
         "slug": "zooey-zephyr",
         "displayName": "ZOOEY ZEPHYR",
         "party": "D",
-        "cap_tracker_2023_link": "https://apps.montanafreepress.org/capitol-tracker-2023/lawmakers/Zooey-Zephyr/"
+        "cap_tracker_2023_link": "https://apps.montanafreepress.org/capitol-tracker-2023/lawmakers/Zooey-Zephyr/",
+        "hasResponses": false,
+        "numMTFParticles": 0
       }
     ]
   },
@@ -2521,13 +2977,17 @@
         "slug": "robert-labair",
         "displayName": "ROBERT LABAIR",
         "party": "R",
-        "cap_tracker_2023_link": null
+        "cap_tracker_2023_link": null,
+        "hasResponses": false,
+        "numMTFParticles": 0
       },
       {
         "slug": "bob-carter",
         "displayName": "BOB CARTER",
         "party": "D",
-        "cap_tracker_2023_link": "https://apps.montanafreepress.org/capitol-tracker-2023/lawmakers/Bob-Carter/"
+        "cap_tracker_2023_link": "https://apps.montanafreepress.org/capitol-tracker-2023/lawmakers/Bob-Carter/",
+        "hasResponses": true,
+        "numMTFParticles": 0
       }
     ]
   },
@@ -2545,25 +3005,33 @@
         "slug": "nick-knowles",
         "displayName": "NICK KNOWLES",
         "party": "R",
-        "cap_tracker_2023_link": null
+        "cap_tracker_2023_link": null,
+        "hasResponses": false,
+        "numMTFParticles": 0
       },
       {
         "slug": "melody-cunningham",
         "displayName": "MELODY CUNNINGHAM",
         "party": "D",
-        "cap_tracker_2023_link": null
+        "cap_tracker_2023_link": null,
+        "hasResponses": true,
+        "numMTFParticles": 0
       },
       {
         "slug": "lisa-verlanic-fowler",
         "displayName": "LISA VERLANIC FOWLER",
         "party": "D",
-        "cap_tracker_2023_link": null
+        "cap_tracker_2023_link": null,
+        "hasResponses": true,
+        "numMTFParticles": 0
       },
       {
         "slug": "richard-l-armerding",
         "displayName": "RICHARD L ARMERDING",
         "party": "L",
-        "cap_tracker_2023_link": null
+        "cap_tracker_2023_link": null,
+        "hasResponses": true,
+        "numMTFParticles": 0
       }
     ]
   },
@@ -2581,13 +3049,17 @@
         "slug": "jace-beard",
         "displayName": "JACE BEARD",
         "party": "R",
-        "cap_tracker_2023_link": null
+        "cap_tracker_2023_link": null,
+        "hasResponses": false,
+        "numMTFParticles": 0
       },
       {
         "slug": "jonathan-karlen",
         "displayName": "JONATHAN KARLEN",
         "party": "D",
-        "cap_tracker_2023_link": "https://apps.montanafreepress.org/capitol-tracker-2023/lawmakers/Jonathan-Karlen/"
+        "cap_tracker_2023_link": "https://apps.montanafreepress.org/capitol-tracker-2023/lawmakers/Jonathan-Karlen/",
+        "hasResponses": false,
+        "numMTFParticles": 0
       }
     ]
   },
@@ -2605,13 +3077,17 @@
         "slug": "ryan-darling",
         "displayName": "RYAN DARLING",
         "party": "R",
-        "cap_tracker_2023_link": null
+        "cap_tracker_2023_link": null,
+        "hasResponses": false,
+        "numMTFParticles": 0
       },
       {
         "slug": "tom-france",
         "displayName": "TOM FRANCE",
         "party": "D",
-        "cap_tracker_2023_link": "https://apps.montanafreepress.org/capitol-tracker-2023/lawmakers/Tom-France/"
+        "cap_tracker_2023_link": "https://apps.montanafreepress.org/capitol-tracker-2023/lawmakers/Tom-France/",
+        "hasResponses": true,
+        "numMTFParticles": 0
       }
     ]
   },
@@ -2629,19 +3105,25 @@
         "slug": "christopher-paul-buckles",
         "displayName": "CHRISTOPHER PAUL BUCKLES",
         "party": "R",
-        "cap_tracker_2023_link": null
+        "cap_tracker_2023_link": null,
+        "hasResponses": true,
+        "numMTFParticles": 0
       },
       {
         "slug": "sj-howell",
         "displayName": "SJ HOWELL",
         "party": "D",
-        "cap_tracker_2023_link": "https://apps.montanafreepress.org/capitol-tracker-2023/lawmakers/SJ-Howell/"
+        "cap_tracker_2023_link": "https://apps.montanafreepress.org/capitol-tracker-2023/lawmakers/SJ-Howell/",
+        "hasResponses": true,
+        "numMTFParticles": 0
       },
       {
         "slug": "tim-garrison",
         "displayName": "TIM GARRISON",
         "party": "D",
-        "cap_tracker_2023_link": null
+        "cap_tracker_2023_link": null,
+        "hasResponses": true,
+        "numMTFParticles": 0
       }
     ]
   },
@@ -2672,13 +3154,17 @@
         "slug": "doug-adams",
         "displayName": "DOUG ADAMS",
         "party": "R",
-        "cap_tracker_2023_link": null
+        "cap_tracker_2023_link": null,
+        "hasResponses": false,
+        "numMTFParticles": 0
       },
       {
         "slug": "dave-fern",
         "displayName": "DAVE FERN",
         "party": "D",
-        "cap_tracker_2023_link": "https://apps.montanafreepress.org/capitol-tracker-2023/lawmakers/Dave-Fern/"
+        "cap_tracker_2023_link": "https://apps.montanafreepress.org/capitol-tracker-2023/lawmakers/Dave-Fern/",
+        "hasResponses": true,
+        "numMTFParticles": 0
       }
     ]
   },
@@ -2696,13 +3182,17 @@
         "slug": "carl-glimm",
         "displayName": "CARL GLIMM",
         "party": "R",
-        "cap_tracker_2023_link": "https://apps.montanafreepress.org/capitol-tracker-2023/lawmakers/Carl-Glimm/"
+        "cap_tracker_2023_link": "https://apps.montanafreepress.org/capitol-tracker-2023/lawmakers/Carl-Glimm/",
+        "hasResponses": false,
+        "numMTFParticles": 0
       },
       {
         "slug": "angela-kennedy",
         "displayName": "ANGELA KENNEDY",
         "party": "D",
-        "cap_tracker_2023_link": null
+        "cap_tracker_2023_link": null,
+        "hasResponses": false,
+        "numMTFParticles": 0
       }
     ]
   },
@@ -2733,19 +3223,25 @@
         "slug": "marquis-l-laude",
         "displayName": "MARQUIS L LAUDE",
         "party": "R",
-        "cap_tracker_2023_link": null
+        "cap_tracker_2023_link": null,
+        "hasResponses": false,
+        "numMTFParticles": 0
       },
       {
         "slug": "matt-regier",
         "displayName": "MATT REGIER",
         "party": "R",
-        "cap_tracker_2023_link": "https://apps.montanafreepress.org/capitol-tracker-2023/lawmakers/Matt-Regier/"
+        "cap_tracker_2023_link": "https://apps.montanafreepress.org/capitol-tracker-2023/lawmakers/Matt-Regier/",
+        "hasResponses": false,
+        "numMTFParticles": 1
       },
       {
         "slug": "link-neimark",
         "displayName": "LINK NEIMARK",
         "party": "D",
-        "cap_tracker_2023_link": null
+        "cap_tracker_2023_link": null,
+        "hasResponses": false,
+        "numMTFParticles": 0
       }
     ]
   },
@@ -2776,13 +3272,17 @@
         "slug": "greg-hertz",
         "displayName": "GREG HERTZ",
         "party": "R",
-        "cap_tracker_2023_link": "https://apps.montanafreepress.org/capitol-tracker-2023/lawmakers/Greg-Hertz/"
+        "cap_tracker_2023_link": "https://apps.montanafreepress.org/capitol-tracker-2023/lawmakers/Greg-Hertz/",
+        "hasResponses": false,
+        "numMTFParticles": 0
       },
       {
         "slug": "craig-pablo",
         "displayName": "CRAIG PABLO",
         "party": "D",
-        "cap_tracker_2023_link": null
+        "cap_tracker_2023_link": null,
+        "hasResponses": false,
+        "numMTFParticles": 0
       }
     ]
   },
@@ -2865,13 +3365,17 @@
         "slug": "lola-sheldon-galloway",
         "displayName": "LOLA SHELDON-GALLOWAY",
         "party": "R",
-        "cap_tracker_2023_link": "https://apps.montanafreepress.org/capitol-tracker-2023/lawmakers/Lola-Sheldon-Galloway/"
+        "cap_tracker_2023_link": "https://apps.montanafreepress.org/capitol-tracker-2023/lawmakers/Lola-Sheldon-Galloway/",
+        "hasResponses": false,
+        "numMTFParticles": 0
       },
       {
         "slug": "josh-kassmier",
         "displayName": "JOSH KASSMIER",
         "party": "R",
-        "cap_tracker_2023_link": "https://apps.montanafreepress.org/capitol-tracker-2023/lawmakers/Josh-Kassmier/"
+        "cap_tracker_2023_link": "https://apps.montanafreepress.org/capitol-tracker-2023/lawmakers/Josh-Kassmier/",
+        "hasResponses": false,
+        "numMTFParticles": 0
       }
     ]
   },
@@ -2902,13 +3406,17 @@
         "slug": "rhonda-knudsen",
         "displayName": "RHONDA KNUDSEN",
         "party": "R",
-        "cap_tracker_2023_link": "https://apps.montanafreepress.org/capitol-tracker-2023/lawmakers/Rhonda-Knudsen/"
+        "cap_tracker_2023_link": "https://apps.montanafreepress.org/capitol-tracker-2023/lawmakers/Rhonda-Knudsen/",
+        "hasResponses": false,
+        "numMTFParticles": 0
       },
       {
         "slug": "gregg-hunter",
         "displayName": "GREGG HUNTER",
         "party": "R",
-        "cap_tracker_2023_link": null
+        "cap_tracker_2023_link": null,
+        "hasResponses": false,
+        "numMTFParticles": 0
       }
     ]
   },
@@ -2926,19 +3434,25 @@
         "slug": "perri-a-jacobs",
         "displayName": "PERRI A JACOBS",
         "party": "R",
-        "cap_tracker_2023_link": null
+        "cap_tracker_2023_link": null,
+        "hasResponses": true,
+        "numMTFParticles": 0
       },
       {
         "slug": "jonathan-windy-boy",
         "displayName": "JONATHAN WINDY BOY",
         "party": "D",
-        "cap_tracker_2023_link": "https://apps.montanafreepress.org/capitol-tracker-2023/lawmakers/Jonathan-Windy-Boy/"
+        "cap_tracker_2023_link": "https://apps.montanafreepress.org/capitol-tracker-2023/lawmakers/Jonathan-Windy-Boy/",
+        "hasResponses": false,
+        "numMTFParticles": 0
       },
       {
         "slug": "bridget-smith",
         "displayName": "BRIDGET SMITH",
         "party": "D",
-        "cap_tracker_2023_link": null
+        "cap_tracker_2023_link": null,
+        "hasResponses": false,
+        "numMTFParticles": 0
       }
     ]
   },
@@ -2956,13 +3470,17 @@
         "slug": "mike-newton",
         "displayName": "MIKE NEWTON",
         "party": "R",
-        "cap_tracker_2023_link": null
+        "cap_tracker_2023_link": null,
+        "hasResponses": true,
+        "numMTFParticles": 0
       },
       {
         "slug": "bob-phalen",
         "displayName": "BOB PHALEN",
         "party": "R",
-        "cap_tracker_2023_link": "https://apps.montanafreepress.org/capitol-tracker-2023/lawmakers/Bob-Phalen/"
+        "cap_tracker_2023_link": "https://apps.montanafreepress.org/capitol-tracker-2023/lawmakers/Bob-Phalen/",
+        "hasResponses": false,
+        "numMTFParticles": 0
       }
     ]
   },
@@ -3006,13 +3524,17 @@
         "slug": "sue-vinton",
         "displayName": "SUE VINTON",
         "party": "R",
-        "cap_tracker_2023_link": "https://apps.montanafreepress.org/capitol-tracker-2023/lawmakers/Sue-Vinton/"
+        "cap_tracker_2023_link": "https://apps.montanafreepress.org/capitol-tracker-2023/lawmakers/Sue-Vinton/",
+        "hasResponses": false,
+        "numMTFParticles": 0
       },
       {
         "slug": "linda-auch",
         "displayName": "LINDA AUCH",
         "party": "D",
-        "cap_tracker_2023_link": null
+        "cap_tracker_2023_link": null,
+        "hasResponses": false,
+        "numMTFParticles": 0
       }
     ]
   },
@@ -3030,19 +3552,25 @@
         "slug": "gayle-george-lammers",
         "displayName": "GAYLE GEORGE LAMMERS",
         "party": "R",
-        "cap_tracker_2023_link": null
+        "cap_tracker_2023_link": null,
+        "hasResponses": true,
+        "numMTFParticles": 0
       },
       {
         "slug": "sharon-stewart-peregoy",
         "displayName": "SHARON STEWART PEREGOY",
         "party": "D",
-        "cap_tracker_2023_link": "https://apps.montanafreepress.org/capitol-tracker-2023/lawmakers/Sharon-Stewart-Peregoy/"
+        "cap_tracker_2023_link": "https://apps.montanafreepress.org/capitol-tracker-2023/lawmakers/Sharon-Stewart-Peregoy/",
+        "hasResponses": false,
+        "numMTFParticles": 0
       },
       {
         "slug": "rae-peppers",
         "displayName": "RAE PEPPERS",
         "party": "D",
-        "cap_tracker_2023_link": null
+        "cap_tracker_2023_link": null,
+        "hasResponses": false,
+        "numMTFParticles": 0
       }
     ]
   },
@@ -3086,13 +3614,17 @@
         "slug": "mike-yakawich",
         "displayName": "MIKE YAKAWICH",
         "party": "R",
-        "cap_tracker_2023_link": "https://apps.montanafreepress.org/capitol-tracker-2023/lawmakers/Mike-Yakawich/"
+        "cap_tracker_2023_link": "https://apps.montanafreepress.org/capitol-tracker-2023/lawmakers/Mike-Yakawich/",
+        "hasResponses": true,
+        "numMTFParticles": 0
       },
       {
         "slug": "mark-h-nicholson",
         "displayName": "MARK H NICHOLSON",
         "party": "D",
-        "cap_tracker_2023_link": null
+        "cap_tracker_2023_link": null,
+        "hasResponses": true,
+        "numMTFParticles": 0
       }
     ]
   },
@@ -3123,13 +3655,17 @@
         "slug": "tom-mcgillvray",
         "displayName": "TOM MCGILLVRAY",
         "party": "R",
-        "cap_tracker_2023_link": "https://apps.montanafreepress.org/capitol-tracker-2023/lawmakers/Tom-McGillvray/"
+        "cap_tracker_2023_link": "https://apps.montanafreepress.org/capitol-tracker-2023/lawmakers/Tom-McGillvray/",
+        "hasResponses": false,
+        "numMTFParticles": 0
       },
       {
         "slug": "karen-lyncoln",
         "displayName": "KAREN LYNCOLN",
         "party": "D",
-        "cap_tracker_2023_link": null
+        "cap_tracker_2023_link": null,
+        "hasResponses": true,
+        "numMTFParticles": 0
       }
     ]
   },
@@ -3147,19 +3683,25 @@
         "slug": "chris-friedel",
         "displayName": "CHRIS FRIEDEL",
         "party": "R",
-        "cap_tracker_2023_link": "https://apps.montanafreepress.org/capitol-tracker-2023/lawmakers/Chris-Friedel/"
+        "cap_tracker_2023_link": "https://apps.montanafreepress.org/capitol-tracker-2023/lawmakers/Chris-Friedel/",
+        "hasResponses": true,
+        "numMTFParticles": 0
       },
       {
         "slug": "vince-ricci",
         "displayName": "VINCE RICCI",
         "party": "R",
-        "cap_tracker_2023_link": null
+        "cap_tracker_2023_link": null,
+        "hasResponses": false,
+        "numMTFParticles": 0
       },
       {
         "slug": "kathleen-gilluly",
         "displayName": "KATHLEEN GILLULY",
         "party": "D",
-        "cap_tracker_2023_link": null
+        "cap_tracker_2023_link": null,
+        "hasResponses": true,
+        "numMTFParticles": 0
       }
     ]
   },
@@ -3203,13 +3745,17 @@
         "slug": "tyler-rogers",
         "displayName": "TYLER ROGERS",
         "party": "R",
-        "cap_tracker_2023_link": null
+        "cap_tracker_2023_link": null,
+        "hasResponses": false,
+        "numMTFParticles": 0
       },
       {
         "slug": "cora-neumann",
         "displayName": "CORA NEUMANN",
         "party": "D",
-        "cap_tracker_2023_link": null
+        "cap_tracker_2023_link": null,
+        "hasResponses": false,
+        "numMTFParticles": 0
       }
     ]
   },
@@ -3253,13 +3799,17 @@
         "slug": "neal-ganser",
         "displayName": "NEAL GANSER",
         "party": "R",
-        "cap_tracker_2023_link": null
+        "cap_tracker_2023_link": null,
+        "hasResponses": true,
+        "numMTFParticles": 0
       },
       {
         "slug": "christopher-pope",
         "displayName": "CHRISTOPHER POPE",
         "party": "D",
-        "cap_tracker_2023_link": "https://apps.montanafreepress.org/capitol-tracker-2023/lawmakers/Chris-Pope/"
+        "cap_tracker_2023_link": "https://apps.montanafreepress.org/capitol-tracker-2023/lawmakers/Chris-Pope/",
+        "hasResponses": false,
+        "numMTFParticles": 0
       }
     ]
   },
@@ -3290,19 +3840,25 @@
         "slug": "mark-(mj)-mcginley",
         "displayName": "MARK (MJ) MCGINLEY",
         "party": "R",
-        "cap_tracker_2023_link": null
+        "cap_tracker_2023_link": null,
+        "hasResponses": false,
+        "numMTFParticles": 0
       },
       {
         "slug": "tony-tezak",
         "displayName": "TONY TEZAK",
         "party": "R",
-        "cap_tracker_2023_link": null
+        "cap_tracker_2023_link": null,
+        "hasResponses": false,
+        "numMTFParticles": 0
       },
       {
         "slug": "ray-shaw",
         "displayName": "RAY SHAW",
         "party": "R",
-        "cap_tracker_2023_link": null
+        "cap_tracker_2023_link": null,
+        "hasResponses": false,
+        "numMTFParticles": 0
       }
     ]
   },
@@ -3320,19 +3876,25 @@
         "slug": "darlean-newman",
         "displayName": "DARLEAN NEWMAN",
         "party": "R",
-        "cap_tracker_2023_link": null
+        "cap_tracker_2023_link": null,
+        "hasResponses": false,
+        "numMTFParticles": 0
       },
       {
         "slug": "jessica-wicks",
         "displayName": "JESSICA WICKS",
         "party": "D",
-        "cap_tracker_2023_link": null
+        "cap_tracker_2023_link": null,
+        "hasResponses": false,
+        "numMTFParticles": 0
       },
       {
         "slug": "sara-novak",
         "displayName": "SARA NOVAK",
         "party": "D",
-        "cap_tracker_2023_link": null
+        "cap_tracker_2023_link": null,
+        "hasResponses": true,
+        "numMTFParticles": 0
       }
     ]
   },
@@ -3350,13 +3912,17 @@
         "slug": "jim-kephart",
         "displayName": "JIM KEPHART",
         "party": "R",
-        "cap_tracker_2023_link": null
+        "cap_tracker_2023_link": null,
+        "hasResponses": true,
+        "numMTFParticles": 0
       },
       {
         "slug": "derek-j-harvey",
         "displayName": "DEREK J HARVEY",
         "party": "D",
-        "cap_tracker_2023_link": "https://apps.montanafreepress.org/capitol-tracker-2023/lawmakers/Derek-Harvey/"
+        "cap_tracker_2023_link": "https://apps.montanafreepress.org/capitol-tracker-2023/lawmakers/Derek-Harvey/",
+        "hasResponses": false,
+        "numMTFParticles": 0
       }
     ]
   },
@@ -3374,25 +3940,33 @@
         "slug": "becky-beard",
         "displayName": "BECKY BEARD",
         "party": "R",
-        "cap_tracker_2023_link": "https://apps.montanafreepress.org/capitol-tracker-2023/lawmakers/Becky-Beard/"
+        "cap_tracker_2023_link": "https://apps.montanafreepress.org/capitol-tracker-2023/lawmakers/Becky-Beard/",
+        "hasResponses": false,
+        "numMTFParticles": 0
       },
       {
         "slug": "jeremy-mygland",
         "displayName": "JEREMY MYGLAND",
         "party": "R",
-        "cap_tracker_2023_link": null
+        "cap_tracker_2023_link": null,
+        "hasResponses": false,
+        "numMTFParticles": 0
       },
       {
         "slug": "gregory-frazer",
         "displayName": "GREGORY FRAZER",
         "party": "R",
-        "cap_tracker_2023_link": "https://apps.montanafreepress.org/capitol-tracker-2023/lawmakers/Gregory-Frazer/"
+        "cap_tracker_2023_link": "https://apps.montanafreepress.org/capitol-tracker-2023/lawmakers/Gregory-Frazer/",
+        "hasResponses": false,
+        "numMTFParticles": 0
       },
       {
         "slug": "jeffrey-benson",
         "displayName": "JEFFREY BENSON",
         "party": "D",
-        "cap_tracker_2023_link": null
+        "cap_tracker_2023_link": null,
+        "hasResponses": true,
+        "numMTFParticles": 0
       }
     ]
   },
@@ -3410,13 +3984,17 @@
         "slug": "e-wylie-galt",
         "displayName": "E WYLIE GALT",
         "party": "R",
-        "cap_tracker_2023_link": null
+        "cap_tracker_2023_link": null,
+        "hasResponses": false,
+        "numMTFParticles": 0
       },
       {
         "slug": "bruce-shultz",
         "displayName": "BRUCE SHULTZ",
         "party": "D",
-        "cap_tracker_2023_link": null
+        "cap_tracker_2023_link": null,
+        "hasResponses": true,
+        "numMTFParticles": 0
       }
     ]
   },
@@ -3434,13 +4012,17 @@
         "slug": "greg-l-guthrie",
         "displayName": "GREG L GUTHRIE",
         "party": "R",
-        "cap_tracker_2023_link": null
+        "cap_tracker_2023_link": null,
+        "hasResponses": false,
+        "numMTFParticles": 0
       },
       {
         "slug": "laura-smith",
         "displayName": "LAURA SMITH",
         "party": "D",
-        "cap_tracker_2023_link": "https://apps.montanafreepress.org/capitol-tracker-2023/lawmakers/Laura-Smith/"
+        "cap_tracker_2023_link": "https://apps.montanafreepress.org/capitol-tracker-2023/lawmakers/Laura-Smith/",
+        "hasResponses": false,
+        "numMTFParticles": 0
       }
     ]
   },
@@ -3497,25 +4079,33 @@
         "slug": "wayne-rusk",
         "displayName": "WAYNE RUSK",
         "party": "R",
-        "cap_tracker_2023_link": "https://apps.montanafreepress.org/capitol-tracker-2023/lawmakers/Wayne-Rusk/"
+        "cap_tracker_2023_link": "https://apps.montanafreepress.org/capitol-tracker-2023/lawmakers/Wayne-Rusk/",
+        "hasResponses": false,
+        "numMTFParticles": 0
       },
       {
         "slug": "theresa-manzella",
         "displayName": "THERESA MANZELLA",
         "party": "R",
-        "cap_tracker_2023_link": "https://apps.montanafreepress.org/capitol-tracker-2023/lawmakers/Theresa-Manzella/"
+        "cap_tracker_2023_link": "https://apps.montanafreepress.org/capitol-tracker-2023/lawmakers/Theresa-Manzella/",
+        "hasResponses": false,
+        "numMTFParticles": 0
       },
       {
         "slug": "brad-davis",
         "displayName": "BRAD DAVIS",
         "party": "R",
-        "cap_tracker_2023_link": null
+        "cap_tracker_2023_link": null,
+        "hasResponses": false,
+        "numMTFParticles": 0
       },
       {
         "slug": "cade-scatolini",
         "displayName": "CADE SCATOLINI",
         "party": "D",
-        "cap_tracker_2023_link": null
+        "cap_tracker_2023_link": null,
+        "hasResponses": false,
+        "numMTFParticles": 0
       }
     ]
   },
@@ -3533,19 +4123,25 @@
         "slug": "denley-m-loge",
         "displayName": "DENLEY M LOGE",
         "party": "R",
-        "cap_tracker_2023_link": "https://apps.montanafreepress.org/capitol-tracker-2023/lawmakers/Denley-Loge/"
+        "cap_tracker_2023_link": "https://apps.montanafreepress.org/capitol-tracker-2023/lawmakers/Denley-Loge/",
+        "hasResponses": true,
+        "numMTFParticles": 0
       },
       {
         "slug": "annamarie-white",
         "displayName": "ANNAMARIE WHITE",
         "party": "R",
-        "cap_tracker_2023_link": null
+        "cap_tracker_2023_link": null,
+        "hasResponses": false,
+        "numMTFParticles": 0
       },
       {
         "slug": "devin-jackson",
         "displayName": "DEVIN JACKSON",
         "party": "D",
-        "cap_tracker_2023_link": null
+        "cap_tracker_2023_link": null,
+        "hasResponses": false,
+        "numMTFParticles": 0
       }
     ]
   },
@@ -3563,19 +4159,25 @@
         "slug": "charles-headley",
         "displayName": "CHARLES HEADLEY",
         "party": "R",
-        "cap_tracker_2023_link": null
+        "cap_tracker_2023_link": null,
+        "hasResponses": true,
+        "numMTFParticles": 0
       },
       {
         "slug": "c-b-pearson",
         "displayName": "C B PEARSON",
         "party": "D",
-        "cap_tracker_2023_link": null
+        "cap_tracker_2023_link": null,
+        "hasResponses": true,
+        "numMTFParticles": 0
       },
       {
         "slug": "jacinda-morigeau",
         "displayName": "JACINDA MORIGEAU",
         "party": "D",
-        "cap_tracker_2023_link": null
+        "cap_tracker_2023_link": null,
+        "hasResponses": true,
+        "numMTFParticles": 0
       }
     ]
   },
@@ -3593,19 +4195,25 @@
         "slug": "abigail-maki",
         "displayName": "ABIGAIL MAKI",
         "party": "R",
-        "cap_tracker_2023_link": null
+        "cap_tracker_2023_link": null,
+        "hasResponses": false,
+        "numMTFParticles": 0
       },
       {
         "slug": "erica-siate",
         "displayName": "ERICA SIATE",
         "party": "R",
-        "cap_tracker_2023_link": null
+        "cap_tracker_2023_link": null,
+        "hasResponses": true,
+        "numMTFParticles": 0
       },
       {
         "slug": "ellie-hill-boldman",
         "displayName": "ELLIE HILL BOLDMAN",
         "party": "D",
-        "cap_tracker_2023_link": "https://apps.montanafreepress.org/capitol-tracker-2023/lawmakers/Ellie-Boldman/"
+        "cap_tracker_2023_link": "https://apps.montanafreepress.org/capitol-tracker-2023/lawmakers/Ellie-Boldman/",
+        "hasResponses": true,
+        "numMTFParticles": 0
       }
     ]
   },

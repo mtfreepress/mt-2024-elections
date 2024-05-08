@@ -3,6 +3,17 @@ import { getCorrespondingSenateDistrictNumber } from './utils'
 
 const GEOCODE_API_URL = 'https://gisservicemt.gov/arcgis/rest/services/MSDI_Framework/MontanaAddressLocator/GeocodeServer/findAddressCandidates'
 
+// {
+//             source: '/hd-lookup',
+//             destination: 'https://gisservicemt.gov/arcgis/rest/services/MSDI_Framework/Boundaries/MapServer/62/query',
+//         },
+//         {
+//             source: '/congressional-lookup',
+//             destination: 'https://gisservicemt.gov/arcgis/rest/services/MSDI_Framework/Boundaries/MapServer/34/query'
+//         }
+
+// House test query
+// ?where=&text=&objectIds=&time=&geometry=%7B"x"%3A-12360980.600350775%2C"y"%3A5726894.334985688%2C"spatialReference"%3A%7B"wkid"%3A102100%2C"latestWkid"%3A3857%7D%7D&geometryType=esriGeometryPoint&inSR=&spatialRel=esriSpatialRelIntersects&relationParam=&outFields=*&returnGeometry=false&returnTrueCurves=false&maxAllowableOffset=&geometryPrecision=&outSR=&having=&returnIdsOnly=false&returnCountOnly=false&orderByFields=&groupByFieldsForStatistics=&outStatistics=&returnZ=false&returnM=false&gdbVersion=&historicMoment=&returnDistinctValues=false&resultOffset=&resultRecordCount=&queryByDistance=&returnExtentOnly=false&datumTransformation=&parameterValues=&rangeValues=&quantizationParameters=&f=html
 
 export default class DistrictFinder {
 
@@ -13,14 +24,22 @@ export default class DistrictFinder {
         if (place) {
             const matchedAddress = place.address
             // Note URLs rerouted in next.config.mjs to avoid CORS issue
-            const houseDistrictResponse = await this.getDistrict(place.location, '/hd-lookup', 'District')
+            const houseDistrictResponse = await this.getDistrict({
+                apiUrl: '/hd-lookup',
+                coords: place.location,
+                fields: 'District'
+            })
             const hd = houseDistrictResponse.features[0].attributes['District']
 
             // State senate and PSC districts derived from state house disrict
             const sd = getCorrespondingSenateDistrictNumber(hd)
             const psc = HD_TO_PSC[hd]
 
-            const congressionalDistrictResponse = await this.getDistrict(place.location, '/congressional-lookup', 'DistrictNumber')
+            const congressionalDistrictResponse = await this.getDistrict({
+                apiUrl: '/congressional-lookup',
+                coords: place.location,
+                fields: 'DistrictNumber'
+            })
             const usHouse = congressionalDistrictResponse.features[0].attributes['DistrictNumber']
 
             callback({
@@ -49,7 +68,7 @@ export default class DistrictFinder {
         return data
     }
 
-    async getDistrict(coords, apiUrl, fields) {
+    async getDistrict({ apiUrl, coords, fields }) {
         const payload = {
             f: 'pjson',
             where: '',
@@ -60,6 +79,7 @@ export default class DistrictFinder {
             outFields: fields,
         }
         const url = this.makeQuery(apiUrl, payload)
+        console.log(payload, url)
         const data = await fetch(url)
             .then(data => data.json())
             .then(res => res)

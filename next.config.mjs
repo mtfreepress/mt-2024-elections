@@ -6,6 +6,7 @@ const nextConfig = {
     distDir: 'build',
     assetPrefix: isProd ? 'https://apps.montanafreepress.org/draft-election-guide-2024' : undefined,
     basePath: '/draft-election-guide-2024',
+    trailingSlash: true,
     compiler: {
         emotion: true,
     },

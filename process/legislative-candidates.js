@@ -167,7 +167,9 @@ async function main() {
                 slug: c.slug,
                 displayName: c.displayName,
                 party: c.party,
-                cap_tracker_2023_link: c.cap_tracker_2023_link // flags for current lawmker
+                cap_tracker_2023_link: c.cap_tracker_2023_link, // flags for current lawmker
+                hasResponses: c.questionnaire && c.questionnaire.hasResponses,
+                numMTFParticles: c.coverage.length,
             }))
         return {
             ...district,

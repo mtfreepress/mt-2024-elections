@@ -22,3 +22,13 @@ export const getCorrespondingSenateDistrictNumber = (hd) => {
     const number = getDistrictNumber(hd)
     return Math.ceil(number / 2)
 }
+
+export const dollarFormatResponsive = num => {
+    if (Math.abs(num) < 1000) return format('$,.0f')(num)
+    if (Math.abs(num) >= 1000 && (Math.abs(num) < 10_000)) return format('$,.1s')(num)
+    if (Math.abs(num) >= 10_000 && (Math.abs(num) < 100_000)) return format('$,.2s')(num)
+    if (Math.abs(num) >= 100_000 && (Math.abs(num) < 1_000_000)) return format('$,.3s')(num)
+    if (Math.abs(num) >= 1_000_000 && (Math.abs(num) < 10_000_000)) return format('$,.2s')(num)
+    if (Math.abs(num) >= 10_000_000 && (Math.abs(num) < 100_000_000)) return format('$,.3s')(num)
+    else return 'ERR'
+}

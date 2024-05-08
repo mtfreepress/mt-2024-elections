@@ -1,6 +1,7 @@
 import raceOverviews from '../data/overview-races.json'
 import legislativeDistricts from '../data/legislative-districts.json'
 import text from '../data/text.json'
+import votingFAQ from '../data/how-to-vote.json'
 import ballotIssues from '../data/ballot-initiatives.json'
 
 export function getRaceOverviews() {
@@ -20,4 +21,8 @@ export function getOverviewText() {
 export function getBallotIssues() {
     // returns array of ballot issues to show on overview page
     return ballotIssues
+}
+
+export function getHowToVoteText() {
+    return votingFAQ.content
 }

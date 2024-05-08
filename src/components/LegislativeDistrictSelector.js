@@ -12,25 +12,41 @@ const districtSelectorStyle = css`
     justify-content: center;
 
     select {
+        appearance: none;
+        outline: none;
+        cursor: pointer;
         color: var(--link);
-        font-size: 1.em;
+        background-color: #fff;
+        border: 1px solid var(--tan5);
+        border-radius: 3px;
+        height: 60px;
+        font-size: 1em;
         /* font-weight: bold; */
         padding: 10px 5px;
         margin: 0 0.2em;
         box-shadow: 2px 2px 3px #aaa;
+        text-align: center;
     }
+    select:focus {
+        outline: 2px solid var(--highlight);
+    }
+    
 
     button {
-        border-radius: 2px;
-        background-color: var(--gray2);
-        color: white;
+        height: 60px;
+        width: 40px;
+        border: 1px solid var(--tan5);
+        border-radius: 3px;
+        background-color: #fff;
+        color: #aaa;
         box-shadow: 2px 2px 3px #aaa;
     }
     button.disabled {
         opacity: 0.6;
     }
     button:hover {
-        background-color: var(--link);
+        background-color: #eee;
+        color: var(--link);
     }
     
 `

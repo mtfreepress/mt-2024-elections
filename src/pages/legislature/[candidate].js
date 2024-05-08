@@ -1,11 +1,10 @@
 
 import { css } from '@emotion/react'
-
 import Link from 'next/link';
+import Markdown from 'react-markdown'
 
 import Layout from '../../design/Layout';
-
-import Markdown from 'react-markdown'
+import LowdownCTA from '../../design/LowdownCTA'
 
 import LegislativeCandidatePageSummary from '../../components/LegislativeCandidatePageSummary'
 import CandidateWebLinks from '../../components/CandidateWebLinks'
@@ -15,8 +14,9 @@ import LinksList from '../../components/LinksList'
 
 import text from '../../data/text'
 import { getAllCandidateIds, getCandidateData } from '../../lib/legislative-candidates';
+import { getHowToVoteText } from '../../lib/overview'
 
-const { questionnaireLegislatureLedein } = text
+const { questionnaireLegislatureLedein, overviewAboutThisProject } = text
 
 const candidatePageStyle = css`
     h2 {
@@ -50,14 +50,16 @@ export async function getStaticPaths() {
 export async function getStaticProps({ params }) {
     // Populate page props
     const pageData = getCandidateData(params.candidate)
+    const votingFAQ = getHowToVoteText()
     return {
         props: {
             pageData,
+            votingFAQ,
         }
     }
 }
 
-export default function CandidatePage({ pageData }) {
+export default function CandidatePage({ pageData, votingFAQ }) {
     const {
         slug,
         party,
@@ -69,15 +71,15 @@ export default function CandidatePage({ pageData }) {
         raceDisplayName,
         cap_tracker_2023_link
     } = pageData
+    const pageDescription = `${displayName} (${party}) is running as a candidate for ${raceDisplayName} in Montana's 2024 election. See biographic details, district boundaries and information on how to vote.`
     return (
         <Layout pageCss={candidatePageStyle}
             relativePath={slug}
-            pageTitle={`${displayName} | ${raceDisplayName} | MFTP 2024 Election Guide`}
-            pageDescription={`Candidate for ${raceDisplayName}.`}
-            pageFeatureImage={"https://apps.montanafreepress.org/capitol-tracker-2023/cap-tracker-banner-dark.png"} // TODO
-            siteSeoTitle={`${displayName} | ${raceDisplayName} | MFTP 2024 Election Guide`}
-            seoDescription={`Candidate for ${raceDisplayName}.`}
-            socialTitle={`${displayName} on the MTFP 2024 Election Guide`}
+            pageTitle={`${displayName} | ${raceDisplayName} | 2024 Montana Election Guide`}
+            pageDescription={pageDescription}
+            siteSeoTitle={`${displayName} | ${raceDisplayName} | 2024 Montana Election Guide`}
+            seoDescription={pageDescription}
+            socialTitle={`${displayName} | 2024 Montana Free Press Election Guide`}
             socialDescription={`Candidate for ${raceDisplayName}.`}
         >
             <LegislativeCandidatePageSummary {...pageData} />
@@ -86,6 +88,8 @@ export default function CandidatePage({ pageData }) {
                 <Link href="#issues">On the issues</Link>
                 <Link href="#coverage">MTFP coverage</Link>
                 {cap_tracker_2023_link && <Link href={cap_tracker_2023_link}> Legislative record via MTFP Capitol Tracker</Link>}
+                <Link href="#voting-faq">Voting in Montana</Link>
+                <Link href="#about">About this project</Link>
             </div>
 
             <a className="link-anchor" id="opponents"></a>
@@ -105,10 +109,10 @@ export default function CandidatePage({ pageData }) {
             {/* NARRATIVE SECTION */}
             <section>
                 <Markdown>{summaryNarrative}</Markdown>
-                <CandidateWebLinks {...pageData} />
+                {/* <CandidateWebLinks {...pageData} /> */}
             </section>
 
-            <div className="placeholder" style={{ height: 100 }}>[POSSIBLE CTA HERE]</div>
+            <LowdownCTA />
 
             {/* QUESTIONNAIRE RESPONSES */}
 
@@ -130,6 +134,18 @@ export default function CandidatePage({ pageData }) {
             <section id="coverage">
                 <h2>MTFP COVERAGE</h2>
                 <LinksList articles={coverage} />
+            </section>
+
+            <section>
+                <a className="link-anchor" id="voting-faq"></a>
+                <h2>Common voting questions</h2>
+                <Markdown>{votingFAQ}</Markdown>
+            </section>
+
+            <section>
+                <a className="link-anchor" id="about"></a>
+                <h2>About this project</h2>
+                <Markdown>{overviewAboutThisProject}</Markdown>
             </section>
 
         </Layout>

@@ -23,11 +23,44 @@ const candidates = collectYmls('./inputs/content/candidates/*.yml')
 const ballotInitiatives = getYml('./inputs/content/ballot-initiatives.yml')
 const coverage = getJson('./inputs/coverage/articles.json')
 const howToVoteContent = getMD('./inputs/content/how-to-vote.md')
+const federalCampaignFinance = getJson('./inputs/fec/finance.json')
 
-const questionnaires = getJson('./inputs/mtfp-questionnaire/dummy-answers.json')
+
+// const questionnaires = getJson('./inputs/mtfp-questionnaire/dummy-answers.json')
+const questionnaires = getYml('./inputs/mtfp-questionnaire/copy-edited-answers.yml')
+
+const FEC_DATA_EXCLUDE = [
+    // Pre-ballot printing dropouts 
+    'MYGLAND, JEREMY',
+    'MORAN, CORY',
+    'ROSENDALE, MATT MR.',
+]
+
+// Clean campaign finance data
 
 races.forEach(race => {
     if (race.candidates === null) race.candidates = [] // fallback for unpopulated races
+
+    if (race.campaignFinanceAgency === 'fec') {
+        race.finance = federalCampaignFinance.find(d => d.raceSlug == race.raceSlug).finances
+            .filter(c => !FEC_DATA_EXCLUDE.includes(c.candidate_name))
+            .map(fecData => {
+                const candidateMatch = candidates.find(c => c.fecId === fecData.candidate_id)
+                if (!candidateMatch) console.warn(`Missing FEC ID match for ${fecData.candidate_name}`)
+                return {
+                    displayName: candidateMatch.displayName,
+                    party: candidateMatch.party,
+                    candidateCommitteeName: fecData.candidate_pcc_name,
+                    candidateId: fecData.candidate_id,
+                    totalReceipts: fecData.total_receipts,
+                    totalDisbursments: fecData.total_disbursements,
+                    cashOnHand: fecData.cash_on_hand_end_period,
+                    coverageEndDate: fecData.coverage_end_date,
+                }
+            })
+    } else {
+        race.finance = null // Skipping campaign finance integration for non-FEC (i.e. MT COPP races)
+    }
 })
 
 candidates.forEach(candidate => {
@@ -56,9 +89,27 @@ candidates.forEach(candidate => {
         .sort((a, b) => new Date(b.date) - new Date(a.date))
         .filter(article => article.tags.map(urlize).includes(candidate.slug))
 
-    const questionnaireMatch = questionnaires.find(d => d.name === candidate.slug)
+    if (race.finance) {
+        candidate.finance = race.finance.map(competitor => {
+            return {
+                ...competitor,
+                isThisCandidate: (competitor.displayName === candidate.displayName),
+                candidateStatus: candidate.status
+            }
+        })
+    } else {
+        candidate.finance = null
+    }
+
+
+    const questionnaireMatch = questionnaires.find(d => d.nameSlug === candidate.slug)
     if (!questionnaireMatch) console.log(`${candidate.slug} missing questionnaire answers`)
-    candidate.questionnaire = questionnaireMatch
+    candidate.questionnaire = {
+        hasResponses: (questionnaireMatch && questionnaireMatch.questionnaireMaterial[0].response !== null),
+        responses: (questionnaireMatch && questionnaireMatch.questionnaireMaterial !== null) ?
+            questionnaireMatch.questionnaireMaterial.map(d => ({ question: d.question, answer: d.response }))
+            : []
+    }
 })
 
 const overviewRaces = races.map(race => {
@@ -73,6 +124,8 @@ const overviewRaces = races.map(race => {
             displayName: c.displayName,
             summaryLine: c.summaryLine,
             party: c.party,
+            hasResponses: c.questionnaire.hasResponses,
+            numMTFParticles: c.coverage.length,
         })),
     }
 })

@@ -92,11 +92,10 @@ export default function CandidatePageSummary(props) {
     const partyInfo = PARTIES.find(d => d.key === party)
     return <div css={summaryStyle} style={{ borderTop: `5px solid ${partyInfo.color}` }}>
 
-
         <div className="info-col">
             <div className="info-container">
                 <div className="intro-line"><strong style={{ color: partyInfo.color }}>{partyInfo.adjective}</strong> candidate for</div>
-                <div className="position-line"><strong>{raceDisplayName}</strong></div>
+                <div className="position-line">MONTANA <strong>{raceDisplayName}</strong></div>
                 <h1 className="name">{displayName}</h1>
                 {cap_tracker_2023_link && <div className="incumbent-line">
                     <div>Member of 2023 Legislature</div>

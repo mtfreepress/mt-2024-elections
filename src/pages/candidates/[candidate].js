@@ -2,22 +2,25 @@
 import { css } from '@emotion/react'
 
 import Link from 'next/link';
+import Markdown from 'react-markdown'
 
 import Layout from '../../design/Layout';
-
-import Markdown from 'react-markdown'
+import LowdownCTA from '../../design/LowdownCTA'
 
 import CandidatePageSummary from '../../components/CandidatePageSummary'
 import CandidateWebLinks from '../../components/CandidateWebLinks'
 import CandidatePageOpponents from '../../components/CandidatePageOpponents'
+import RaceFinance from '../../components/RaceFinance'
 import CandidateQuestionnaire from '../../components/CandidateQuestionnaire'
 import LinksList from '../../components/LinksList';
 
 import text from '../../data/text'
 
+
+import { getHowToVoteText } from '../../lib/overview'
 import { getAllCandidateIds, getCandidateData } from '../../lib/candidates';
 
-const { questionnaireStateOfficeLedein } = text
+const { questionnaireStateOfficeLedein, overviewAboutThisProject } = text
 
 const candidatePageStyle = css`
     h2 {
@@ -60,14 +63,16 @@ export async function getStaticPaths() {
 export async function getStaticProps({ params }) {
     // Populate page props
     const pageData = getCandidateData(params.candidate)
+    const votingFAQ = getHowToVoteText()
     return {
         props: {
             pageData,
+            votingFAQ,
         }
     }
 }
 
-export default function CandidatePage({ pageData }) {
+export default function CandidatePage({ pageData, votingFAQ }) {
     const {
         slug,
         party,
@@ -76,18 +81,20 @@ export default function CandidatePage({ pageData }) {
         summaryNarrative,
         opponents,
         questionnaire,
+        finance,
         coverage,
+        raceSlug,
         raceDisplayName,
     } = pageData
+    const pageDescription = `${displayName} (${party}) is running as a candidate for ${raceDisplayName} in Montana's 2024 election. See biographic details, issue positions and information on how to vote.`
     return (
         <Layout pageCss={candidatePageStyle}
             relativePath={slug}
-            pageTitle={`${displayName} | ${raceDisplayName} | MFTP 2024 Election Guide`}
-            pageDescription={`Candidate for ${raceDisplayName}.`}
-            pageFeatureImage={"https://apps.montanafreepress.org/capitol-tracker-2023/cap-tracker-banner-dark.png"} // TODO
-            siteSeoTitle={`${displayName} | ${raceDisplayName} | MFTP 2024 Election Guide`}
-            seoDescription={`Candidate for ${raceDisplayName}.`}
-            socialTitle={`${displayName} on the MTFP 2024 Election Guide`}
+            pageTitle={`${displayName} | ${raceDisplayName} | 2024 Montana Election Guide`}
+            pageDescription={pageDescription}
+            siteSeoTitle={`${displayName} | ${raceDisplayName} | 2024 Montana Election Guide`}
+            seoDescription={pageDescription}
+            socialTitle={`${displayName} | 2024 Montana Free Press Election Guide`}
             socialDescription={`Candidate for ${raceDisplayName}.`}
         >
             <CandidatePageSummary {...pageData} />
@@ -96,6 +103,8 @@ export default function CandidatePage({ pageData }) {
                 <span><Link href="#bio">About {lastName}</Link></span>
                 <span><Link href="#issues">On the issues</Link></span>
                 <span><Link href="#coverage">{lastName} in MTFP coverage</Link></span>
+                <span><Link href="#voting-faq">Voting in Montana</Link></span>
+                <span><Link href="#about">About this project</Link></span>
             </div>
 
             <section id="opponents" className="race-candidates">
@@ -114,10 +123,10 @@ export default function CandidatePage({ pageData }) {
             <a className="link-anchor" id="bio"></a>
             <section>
                 <Markdown>{summaryNarrative}</Markdown>
-                <CandidateWebLinks {...pageData} />
+                {/* <CandidateWebLinks {...pageData} /> */}
             </section>
 
-            <div className="placeholder" style={{ height: 100 }}>[POSSIBLE CTA HERE]</div>
+            <LowdownCTA />
 
 
 
@@ -142,6 +151,31 @@ export default function CandidatePage({ pageData }) {
             <section>
                 <h2>MTFP COVERAGE OF {lastName}</h2>
                 <LinksList articles={coverage} />
+            </section>
+
+            <a className="link-anchor" id="finance"></a>
+            <section>
+                <h2>CAMPAIGN FINANCE</h2>
+                {/* <Markdown>{questionnaireStateOfficeLedein}</Markdown> */}
+                {finance ?
+                    <RaceFinance
+                        finance={finance}
+                        raceSlug={raceSlug}
+                    /> :
+                    <div className="note">Campaign finance information for non-federal candidates is publicly available through the state <a href="https://cers-ext.mt.gov/CampaignTracker/dashboard">Campaign Electronic Reporting System</a> maintained by the Montana Commissioner of Political Practices. MTFP isn&apos;t presenting that data on this guide at the current time because the COPP system doesn&apos;t make it possible to easily export reliable campaign finance summary data for the races that office oversees.</div>
+                }
+            </section>
+
+            <section>
+                <a className="link-anchor" id="voting-faq"></a>
+                <h2>COMMON VOTING QUESTIONS</h2>
+                <Markdown>{votingFAQ}</Markdown>
+            </section>
+
+            <section>
+                <a className="link-anchor" id="about"></a>
+                <h2>About this project</h2>
+                <Markdown>{overviewAboutThisProject}</Markdown>
             </section>
 
         </Layout>

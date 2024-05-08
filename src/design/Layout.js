@@ -20,12 +20,6 @@ const contentStyle = css`
     margin: auto;
 `
 
-// TODO
-// - Implement favicon
-// - Implement feature image
-// - Wire up Google Analytics
-// - Wire up Parsely
-
 export default function Layout({
   pageTitle,
   pageDescription,
@@ -43,21 +37,22 @@ export default function Layout({
     baseUrl,
   } = metaData
 
-  const pageUrl = baseUrl + relativePath // TODO - add extra routing to this
+  const pageUrl = `${baseUrl}/${relativePath}/`
+  const featureImage = pageFeatureImage || `${baseUrl}/election-guide-2024-feature-art.jpg`
   return (
     <div>
       <Head>
         <meta charSet="utf-8" />
         <title>{siteSeoTitle}</title>
         <meta name="description" content={pageDescription} />
-        <meta name="image" content={pageFeatureImage} />
+        <meta name="image" content={featureImage} />
         <link rel="canonical" href={pageUrl} />
         {/* OpenGraph / FB */}
         <meta property="og:url" content={pageUrl} />
         <meta property="og:locale" content="en_US" />
         <meta property="og:site_name" content="Montana Free Press" />
         <meta property="og:title" content={socialTitle} />
-        <meta property="og:image" content={pageFeatureImage} />
+        <meta property="og:image" content={featureImage} />
         <meta property="og:image:width" content="1200" />
         <meta property="og:image:height" content="630" />
         <meta property="og:type" content="website" />
@@ -65,11 +60,14 @@ export default function Layout({
         <meta name="twitter:card" content="summary_large_image" />
         <meta name="twitter:creator" content="@mtfreepress" />
         <meta name="twitter:title" content={socialTitle} />
-        <meta name="twitter:image" content={pageFeatureImage} />
+        <meta name="twitter:image" content={featureImage} />
         <meta name="twitter:description" content={socialDescription} />
 
+        <link rel="preload" href="https://use.typekit.net/fsd6htq.css" as="style" />
+        <link rel="stylesheet" href="https://use.typekit.net/fsd6htq.css" />
+
       </Head>
-      {/* Google Analytics TODO - update this*/}
+      {/* Google Analytics */}
       <Script async src="https://www.googletagmanager.com/gtag/js?id=G-PC1205XZ5F"></Script>
       <Script id="ga">
         {`

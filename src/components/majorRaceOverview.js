@@ -1,6 +1,10 @@
 import { css } from "@emotion/react";
 
+import { useRouter } from 'next/router';
+
+
 import Link from 'next/link'
+import Image from 'next/image'
 
 import { PARTIES } from '../lib/styles'
 import { pluralize } from '../lib/utils'
@@ -15,14 +19,8 @@ const raceStyle = css`
         margin-bottom: 1em;
     }
 
-    .map {
-        width: 300px;
-        height: 150px;
-        background-color: #666;
-        display: flex;
-        justify-content: center;
-        align-items: center;
-        color: white;
+    .map-container {
+        max-width: 600px;
         
     }
 
@@ -62,7 +60,7 @@ const candidateStyle = css`
     .portrait-col {
         flex: 0 0 100px;
     }
-    .portrait-placeholder {
+    .portrait-container {
         width: 100px;
         height: 100px;
         background-color: #666;
@@ -81,6 +79,19 @@ const candidateStyle = css`
         font-weight: bold;
         font-size: 1.2em;
     }
+    .tag-line {
+        font-size: 0.8em;
+        margin-top: 0.3em;
+    }
+    .tag {
+        /* display: inline-block; */
+        /* border: 1px solid var(--tan4); */
+        /* padding: 0.2em 0.5em; */
+        margin-right: 0.5em;
+    }
+    .tag:not(:last-child):after {
+        /* content: '•' */
+    }
     .summary-line {
         font-style: italic;
         font-size: 0.9em;
@@ -89,21 +100,44 @@ const candidateStyle = css`
         position: absolute;
         bottom: 3px;
         right: 8px;
-        color: var(--tan4);
+        color: var(--tan5);
+        font-size: 0.9em;
     }
 `
 
 function Candidate(props) {
-    const { slug, displayName, summaryLine, party } = props
+    const { slug, displayName, summaryLine, party, numMTFParticles, hasResponses } = props
     const partyInfo = PARTIES.find(d => d.key === party)
+
+    const router = useRouter()
+    const portraitPath = `${router.basePath}/portraits/${slug}.png`
+
     return <div css={candidateStyle} style={{ borderTop: `5px solid ${partyInfo.color}` }}><Link href={`/candidates/${slug}`}>
         <div className="portrait-col" >
-            <div className="portrait-placeholder">[TK]</div>
+            <div className="portrait-container">
+                <Image
+                    alt={`${displayName}`}
+                    src={portraitPath}
+                    width={100}
+                    height={100}
+                    style={{
+                        width: '100%',
+                        height: 'auto',
+                    }}
+                />
+            </div>
         </div>
         <div className="info-col">
             <div className="name">{displayName}</div>
             <div className="summary-line">{summaryLine}</div>
-            <div className="fakelink">See more »</div>
+            <div className="tag-line">
+                {hasResponses && <span className="tag">✏️ Candidate Q&A</span>}
+                {!hasResponses && <span className="tag">🚫 No Q&A response</span>}
+                {(numMTFParticles > 0) && <span className="tag">📰 <strong>{numMTFParticles}</strong> {(numMTFParticles === 1) ? 'article' : 'articles'}</span>}
+            </div>
+            <div className="fakelink">
+                <span>See more »</span>
+            </div>
         </div>
     </Link ></div >
 }
@@ -116,11 +150,30 @@ export default function MajorRaceOverview({ race, showMap }) {
         candidates,
         note,
     } = race
+
+    let mapPath = null
+    const router = useRouter()
+    if (showMap) {
+        mapPath = `${router.basePath}/maps/${raceSlug}.png`
+    }
+
+
     return <div key={raceSlug} css={raceStyle}>
         <h3>{displayName}</h3>
         <div className="description">{description}</div>
         {showMap && <div className="map-row">
-            <div className="map">[DISTRICT MAP HERE]</div>
+            <div className="map-container">
+                <Image
+                    alt={`Map of ${displayName}`}
+                    src={mapPath}
+                    width={1200}
+                    height={800}
+                    style={{
+                        width: '100%',
+                        height: 'auto',
+                    }}
+                />
+            </div>
         </div>}
         <div className="party-buckets">
             {

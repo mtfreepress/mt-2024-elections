@@ -97,7 +97,7 @@ const candidateStyle = css`
     box-shadow: 2px 2px 3px #aaa;
     a {
         /* width: 180px; */
-        height: 40px;
+        min-height: 40px;
         display: flex;
         align-items: stretch;
         background-color: var(--tan1);
@@ -112,12 +112,13 @@ const candidateStyle = css`
         color: var(--link);
     }
     
-    .portrait-col {
+    /* .portrait-col {
         flex: 0 0 40px;
-    }
+        height: 100%;
+    } */
     .party {
         width: 40px;
-        height: 40px;
+        height: 100%;
         display: flex;
         justify-content: center;
         align-items: center;
@@ -135,6 +136,18 @@ const candidateStyle = css`
     .name {
         font-size: 1.1em;
         margin-bottom: 0;
+    }
+    .tag-line {
+        font-size: 0.8em;
+        margin-top: 0.2em;
+    }
+    .tag {
+        /* display: inline-block; */
+        /* border: 1px solid var(--tan4); */
+        /* padding: 0.2em 0.5em; */
+    }
+    .tag:not(:last-child):after {
+        content: ' •'
     }
     .current {
         font-size: 0.9em;
@@ -154,7 +167,7 @@ const candidateStyle = css`
 `
 
 function Candidate(props) {
-    const { slug, displayName, party, cap_tracker_2023_link } = props
+    const { slug, displayName, party, cap_tracker_2023_link, hasResponses, numMTFParticles } = props
     // cap_tracker_2023_link flags for current lawmakers
     const partyInfo = PARTIES.find(d => d.key === party)
     return <div css={candidateStyle} style={{ borderTop: `3px solid ${partyInfo.color}` }}><Link href={`/legislature/${slug}`}>
@@ -165,7 +178,12 @@ function Candidate(props) {
             <div>
                 <div className="name">{displayName}</div>
                 {cap_tracker_2023_link && <div className="current">Sitting lawmaker</div>}
+                <div className="tag-line">
+                    {hasResponses && <span className="tag">✏️ Candidate Q&A</span>}
+                    {(numMTFParticles > 0) && <span className="tag">📰 <strong>{numMTFParticles}</strong> {(numMTFParticles === 1) ? 'article' : 'articles'}</span>}
+                </div>
             </div>
+
             <div className="fakelink">See more »</div>
         </div>
     </Link ></div >
@@ -208,9 +226,6 @@ const District = (props) => {
 
         {(chamber === 'house') && <div className="note corresponding-district">Part of SD {correspondingSenateDistrict}</div>}
         {(chamber === 'senate') && <div className="note corresponding-district">Composed of HD {correspondingHouseDistricts[0]} and HD {correspondingHouseDistricts[1]}</div>}
-
-
-
 
         {(chamber === 'senate') && (in_cycle_2024 === 'no') && <div>
             <div className="out-of-cycle-note">

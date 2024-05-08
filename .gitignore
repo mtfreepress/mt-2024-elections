@@ -1,6 +1,7 @@
 # See https://help.github.com/articles/ignoring-files/ for more about ignoring files.
 
 secrets.txt
+.env
 
 inputs/mtfp-questionnaire/raw/* 
 inputs/mtfp-questionnaire/press-contacts.json
