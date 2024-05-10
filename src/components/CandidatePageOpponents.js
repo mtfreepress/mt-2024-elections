@@ -22,9 +22,11 @@ const opponentsContainerStyle = css`
         justify-content: space-around;
      }
     .party-bucket {
+        flex: 1 0 100px;
         h4 {
             margin: 0;
             text-transform: uppercase;
+            text-align: center;
         }
         margin-bottom: 1em;
         margin-right: 1em;
@@ -32,8 +34,10 @@ const opponentsContainerStyle = css`
 `
 
 const candidateStyle = css`
-    margin-top: 0.5em;
-    width: 140px;
+    flex: 1 0 140px;
+    margin: 0.5em auto;
+    max-width: 220px;
+    /* width: 140px; */
     a {
         
         height: 40px;
@@ -71,7 +75,7 @@ const candidateStyle = css`
         color: white;
     }
     .info-col {
-        flex: 0 1 100px;
+        flex: 1 1 120px;
         padding: 0.5em 0.5em;
         position: relative;
 
@@ -81,6 +85,7 @@ const candidateStyle = css`
     .name {
         font-size: 1em;
         margin-bottom: 0;
+        width: 100%;
     }
     .summary-line {
         font-style: italic;

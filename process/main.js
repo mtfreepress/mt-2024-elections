@@ -130,6 +130,9 @@ const overviewRaces = races.map(race => {
     }
 })
 
+console.log(candidates.length, 'candidates')
+console.log(candidates.filter(d => d.questionnaire.hasResponses).length, 'responded to questionnaire')
+
 writeJson('./src/data/candidates.json', candidates) // Data for candidate pages
 writeJson('./src/data/overview-races.json', overviewRaces) // Data for landing page
 writeJson('./src/data/ballot-initiatives.json', ballotInitiatives) // Pass through - ballot initiative structured test

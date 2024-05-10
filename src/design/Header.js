@@ -53,6 +53,17 @@ const headerStyle = css`
     color: var(--gray1);
     font-style: italic;
   }
+  .donate-link {
+    background-color: var(--link);
+    color: white;
+    /* color: var(--highlight); */
+    /* border: 1px solid var(--highlight); */
+    display: inline-block;
+    padding: 0.2em 0.4em;
+    border-radius: 2px;
+    margin-left: 0.5em;
+
+  }
   .update {
     color: var(--tan4);
     font-size: 0.9em;
@@ -92,7 +103,7 @@ const Header = () => {
     </Link></h1>
     <h2 className="subtitle">{webSubtitle}</h2>
     <div className="mtfp-blurb">
-      A digital project by <MTFPLogo />| <a href={headerDonateLink}>Support this work</a>
+      A digital project by <MTFPLogo />| <a className="donate-link" href={headerDonateLink}>Support this work</a>
     </div>
     <div className="update">
       Last update: {formatDate(new Date(updateTime.updateTime))}

@@ -7,6 +7,16 @@ const questionnaireStyle = css`
         border-left: 5px solid var(--tan2);
         margin-bottom: 1em;
     }
+    .question pre code {
+        /* workaround for design bug caused by accidental code block formatting */
+        font-family: utopia-std, Georgia, Garamond, "Times New Roman", serif;
+        font-size: 18px;
+        color: rgb(17, 17, 17);
+        /* font-size: 18px; */
+        line-height: 1.5em;
+        font-weight: 400;
+        text-wrap: wrap;
+    }
     .query {
         font-weight: bold;
         border: 1px solid var(--tan2);

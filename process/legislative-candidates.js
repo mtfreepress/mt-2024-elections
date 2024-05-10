@@ -178,6 +178,8 @@ async function main() {
         }
     })
 
+    console.log(candidateOutput.length, 'candidates')
+    console.log(candidateOutput.filter(d => d.questionnaire.hasResponses).length, 'responded to questionnaire')
     writeJson('./src/data/legislative-candidates.json', candidateOutput)
     writeJson('./src/data/legislative-districts.json', districtOutput)
 }

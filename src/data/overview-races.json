@@ -211,7 +211,7 @@
       {
         "slug": "elsie-arntzen",
         "displayName": "Elsie Arntzen",
-        "summaryLine": "State Superintendent of Public Instruction",
+        "summaryLine": "State superintendent of public instruction",
         "party": "R",
         "hasResponses": true,
         "numMTFParticles": 4
@@ -447,10 +447,10 @@
       {
         "slug": "greg-gianforte",
         "displayName": "Greg Gianforte",
-        "summaryLine": "Incumbent Montana Governor",
+        "summaryLine": "Incumbent Montana governor",
         "party": "R",
         "hasResponses": true,
-        "numMTFParticles": 14
+        "numMTFParticles": 15
       },
       {
         "slug": "tanner-smith",
@@ -458,7 +458,7 @@
         "summaryLine": "State representative",
         "party": "R",
         "hasResponses": true,
-        "numMTFParticles": 2
+        "numMTFParticles": 3
       },
       {
         "slug": "ryan-busse",
@@ -466,7 +466,7 @@
         "summaryLine": "Former firearms sales executive",
         "party": "D",
         "hasResponses": true,
-        "numMTFParticles": 5
+        "numMTFParticles": 6
       },
       {
         "slug": "kaiser-leib",
@@ -474,7 +474,7 @@
         "summaryLine": "Tech entrepreneur",
         "party": "L",
         "hasResponses": true,
-        "numMTFParticles": 0
+        "numMTFParticles": 1
       },
       {
         "slug": "jim-hunt",
@@ -482,7 +482,7 @@
         "summaryLine": "Helena attorney",
         "party": "D",
         "hasResponses": true,
-        "numMTFParticles": 0
+        "numMTFParticles": 1
       }
     ],
     "finance": null
@@ -549,7 +549,7 @@
       {
         "slug": "logan-olson",
         "displayName": "Logan Olson",
-        "summaryLine": "Daniels county attorney",
+        "summaryLine": "Daniels County attorney",
         "party": "R",
         "hasResponses": false,
         "numMTFParticles": 0
@@ -646,7 +646,7 @@
       {
         "slug": "doug-marshall",
         "displayName": "Doug Marshall",
-        "summaryLine": "Livingston attorney",
+        "summaryLine": "Carbon County attorney",
         "party": "NP",
         "hasResponses": false,
         "numMTFParticles": 1
@@ -794,7 +794,7 @@
       {
         "slug": "rob-elwood",
         "displayName": "Rob Elwood",
-        "summaryLine": null,
+        "summaryLine": "Harlowton IT professional",
         "party": "R",
         "hasResponses": true,
         "numMTFParticles": 0
@@ -840,7 +840,7 @@
         "summaryLine": "Incumbent public service commissioner",
         "party": "R",
         "hasResponses": false,
-        "numMTFParticles": 0
+        "numMTFParticles": 1
       }
     ],
     "finance": null
