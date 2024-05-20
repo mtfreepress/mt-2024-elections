@@ -152,6 +152,22 @@
         "party_full": "REPUBLICAN PARTY",
         "total_disbursements": 0,
         "total_receipts": 0
+      },
+      {
+        "candidate_election_year": 2024,
+        "candidate_id": "H4MT01090",
+        "candidate_name": "HAYES, DENNIS",
+        "candidate_pcc_id": "C00878645",
+        "candidate_pcc_name": "DENNIS HAYES FOR CONGRESS",
+        "cash_on_hand_end_period": 0,
+        "committee_ids": [
+          "C00878645"
+        ],
+        "coverage_end_date": null,
+        "incumbent_challenge_full": null,
+        "party_full": "LIBERTARIAN PARTY",
+        "total_disbursements": 0,
+        "total_receipts": 0
       }
     ]
   },
@@ -288,6 +304,22 @@
       },
       {
         "candidate_election_year": 2024,
+        "candidate_id": "H4MT02072",
+        "candidate_name": "HOLDEN, ARCHIE RODERIC",
+        "candidate_pcc_id": "C00852699",
+        "candidate_pcc_name": "RIC HOLDEN FOR MONTANA",
+        "cash_on_hand_end_period": 2708,
+        "committee_ids": [
+          "C00852699"
+        ],
+        "coverage_end_date": "2024-05-15",
+        "incumbent_challenge_full": "Open seat",
+        "party_full": "REPUBLICAN PARTY",
+        "total_disbursements": 46540.55,
+        "total_receipts": 49248.05
+      },
+      {
+        "candidate_election_year": 2024,
         "candidate_id": "H4MT02148",
         "candidate_name": "HELD, STEVE",
         "candidate_pcc_id": "C00870808",
@@ -301,22 +333,6 @@
         "party_full": "DEMOCRATIC PARTY",
         "total_disbursements": 7255.06,
         "total_receipts": 46223
-      },
-      {
-        "candidate_election_year": 2024,
-        "candidate_id": "H4MT02072",
-        "candidate_name": "HOLDEN, ARCHIE RODERIC",
-        "candidate_pcc_id": "C00852699",
-        "candidate_pcc_name": "RIC HOLDEN FOR MONTANA",
-        "cash_on_hand_end_period": 12230,
-        "committee_ids": [
-          "C00852699"
-        ],
-        "coverage_end_date": "2024-04-01",
-        "incumbent_challenge_full": "Open seat",
-        "party_full": "REPUBLICAN PARTY",
-        "total_disbursements": 28529.55,
-        "total_receipts": 40759.05
       },
       {
         "candidate_election_year": 2024,

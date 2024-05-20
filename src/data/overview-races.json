@@ -196,6 +196,16 @@
         "totalDisbursments": 40668.81,
         "cashOnHand": 33956.06,
         "coverageEndDate": "2024-03-31"
+      },
+      {
+        "displayName": "Dennis Hayes",
+        "party": "L",
+        "candidateCommitteeName": "DENNIS HAYES FOR CONGRESS",
+        "candidateId": "H4MT01090",
+        "totalReceipts": 0,
+        "totalDisbursments": 0,
+        "cashOnHand": 0,
+        "coverageEndDate": null
       }
     ]
   },
@@ -385,6 +395,16 @@
         "coverageEndDate": "2024-03-31"
       },
       {
+        "displayName": "Ric Holden",
+        "party": "R",
+        "candidateCommitteeName": "RIC HOLDEN FOR MONTANA",
+        "candidateId": "H4MT02072",
+        "totalReceipts": 49248.05,
+        "totalDisbursments": 46540.55,
+        "cashOnHand": 2708,
+        "coverageEndDate": "2024-05-15"
+      },
+      {
         "displayName": "Steve Held",
         "party": "D",
         "candidateCommitteeName": "MONTANA HELD",
@@ -393,16 +413,6 @@
         "totalDisbursments": 7255.06,
         "cashOnHand": 38967.94,
         "coverageEndDate": "2024-03-31"
-      },
-      {
-        "displayName": "Ric Holden",
-        "party": "R",
-        "candidateCommitteeName": "RIC HOLDEN FOR MONTANA",
-        "candidateId": "H4MT02072",
-        "totalReceipts": 40759.05,
-        "totalDisbursments": 28529.55,
-        "cashOnHand": 12230,
-        "coverageEndDate": "2024-04-01"
       },
       {
         "displayName": "Ken Bogner",
@@ -711,7 +721,7 @@
         "summaryLine": "Incumbent Montana Supreme Court clerk",
         "party": "R",
         "hasResponses": true,
-        "numMTFParticles": 0
+        "numMTFParticles": 1
       },
       {
         "slug": "erin-farris-olsen",
@@ -719,7 +729,7 @@
         "summaryLine": "Helena attorney",
         "party": "D",
         "hasResponses": true,
-        "numMTFParticles": 0
+        "numMTFParticles": 1
       },
       {
         "slug": "jordan-ophus",
@@ -727,7 +737,7 @@
         "summaryLine": "U.S. Navy veteran",
         "party": "D",
         "hasResponses": true,
-        "numMTFParticles": 0
+        "numMTFParticles": 1
       },
       {
         "slug": "roger-roots",
@@ -735,7 +745,7 @@
         "summaryLine": "Libertarian attorney",
         "party": "L",
         "hasResponses": true,
-        "numMTFParticles": 0
+        "numMTFParticles": 1
       },
       {
         "slug": "jason-ellsworth",
@@ -743,7 +753,7 @@
         "summaryLine": "Montana Senate president",
         "party": "R",
         "hasResponses": false,
-        "numMTFParticles": 0
+        "numMTFParticles": 1
       }
     ],
     "finance": null

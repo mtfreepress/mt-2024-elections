@@ -7711,11 +7711,11 @@
     "questionnaire": {
       "race": "HD-18",
       "name": "david-arends",
-      "hasResponses": false,
+      "hasResponses": true,
       "responses": [
         {
           "question": "Please briefly provide the following information: place (town or county and state) of birth, age as of election day 2024, place (town or county) of permanent residency, occupation/employer, and education. How do these things and your other life experiences qualify you to be an effective legislator?",
-          "answer": ""
+          "answer": "1.Place of birth Northridge, CA \n2. Age 62 \n3. Reside Conrad, MT \n4. Occupation PA at Logan Health Conrad \n5. BS Biology Oral Roberts Univ Tulsa, OK  Certificate of Physician Assistant Studies at Bayley Seton Hospital. NYC \n \nMy career as a Physician Assistant has provided me a unique opportunity to engage with the full spectrum of citizens in District 18. I have learned through my experience to listen carefully to people's needs, find solutions to their problems, and to act with compassion. These skills will work to serve my constituents well, as together we seek to find solutions to the many problems facing our rural communities. \n"
         },
         {
           "question": "What do you consider to be the most pressing issues facing Montana heading into the 2025 session and what legislation would you propose and/or support to address these issues?",
@@ -7723,11 +7723,11 @@
         },
         {
           "question": "Many Montanans are concerned about rising residential property taxes, which primarily fund local government services such as schools, counties and city/town programs but are calculated through a system set by the Legislature. What changes to the state tax system, if any, would you support to provide property tax relief while maintaining sufficient revenue for essential services?",
-          "answer": ""
+          "answer": "Our current property tax laws are overly complex and need reform. They currently favor big business at the expense of ordinary homeowners. I would recommend an equalization of property tax contributions between the different entities that are required to pay property tax at this time. This would prevent any entity from having to bear more than their fair share of the tax burden, which is exactly what happened in 2023 with the rising residential property taxes and the lowering of big business property taxes. The current system unfairly burdens the citizens who can least afford it. "
         },
         {
           "question": "Considering the state’s role in mental and physical health care services, especially in helping cover the costs of services available to lower-income Montanans, what additional steps, if any, do you believe the Legislature should take to enhance health care access and promote Montanans’ health?",
-          "answer": ""
+          "answer": "The Montana 2025 Legislature must vote for a permanent Medicaid expansion. Furthermore, the Medicaid enrollment process must be carefully evaluated and administrative barriers removed. We need a greater focus on meeting behavioral health needs in our rural communities and permanent funding for behavioral health specialists within our schools. "
         },
         {
           "question": "Many education leaders are concerned that the state’s existing school funding formula isn’t keeping up with the costs of educating students. What proposals, if any, would you support to ensure adequate and sustainable long-term funding is available for public pre-K–12, college/university, and vocational education programs?",
@@ -15184,7 +15184,7 @@
         },
         {
           "question": "What do you consider to be the most pressing issues facing Montana heading into the 2025 session and what legislation would you propose and/or support to address these issues?",
-          "answer": "Tax reform. Women's Reproductive Freedoms. Protecting Public Education. Protecting and Preserving Public Access to Public Lands.        Women's Reproductive Freedoms will hopefully be enshrined into the state constitution by CI-128. Still, I will always defend a woman's right to bodily autonomy for the attacks that are sure to come following the adoption of CI-128.         Access to public lands is a topic that is getting increasingly sensitive every year. I propose raising the fine for blocking public access to public lands to an excruciating level for those attempting to keep us off our land. Additionally, I would oppose any attempted transfer of any federal land to the state.  (All other points are addressed below.)\n\n"
+          "answer": "Tax reform. Women's Reproductive Freedoms. Protecting Public Education. Protecting and Preserving Public Access to Public Lands.     \nWomen's Reproductive Freedoms will hopefully be enshrined into the state constitution by CI-128. Still, I will always defend a woman's right to bodily autonomy for the attacks that are sure to come following the adoption of CI-128.         \nAccess to public lands is a topic that is getting increasingly sensitive every year. I propose raising the fine for blocking public access to public lands to an excruciating level for those attempting to keep us off our land. Additionally, I would oppose any attempted transfer of any federal land to the state.  (All other points are addressed below.)\n\n"
         },
         {
           "question": "Many Montanans are concerned about rising residential property taxes, which primarily fund local government services such as schools, counties and city/town programs but are calculated through a system set by the Legislature. What changes to the state tax system, if any, would you support to provide property tax relief while maintaining sufficient revenue for essential services?",
@@ -16677,8 +16677,8 @@
     "summaryNarrative": null,
     "isIncumbent": false,
     "cap_tracker_2023_link": null,
-    "campaignWebsite": null,
-    "campaignFB": null,
+    "campaignWebsite": "www.maryannformontana.com",
+    "campaignFB": "www.facebook.com/maryannforhd70",
     "campaignTW": null,
     "campaignIG": null,
     "campaignYT": null,
@@ -16696,27 +16696,27 @@
     "questionnaire": {
       "race": "HD-70",
       "name": "mary-ann-nicholas",
-      "hasResponses": false,
+      "hasResponses": true,
       "responses": [
         {
           "question": "Please briefly provide the following information: place (town or county and state) of birth, age as of election day 2024, place (town or county) of permanent residency, occupation/employer, and education. How do these things and your other life experiences qualify you to be an effective legislator?",
-          "answer": ""
+          "answer": "I was born in South Dakota, to a ranching family. We moved to Dillon in 1961; I will be 64 on election day. For the last 12 years I have been a real estate broker, with Beaverhead Home and Ranch in Dillon. Prior to that, I practiced law and had a 30+ year career in banking. I earned my undergraduate degree and law degree from the University of Montana. My background includes a history of working on resource issues , banking and finance including commercial, agriculture and residential areas.  I served on two governor appointed State boards serving the citizens of Montana. I served on the UM-Western Foundation Board and currently serve on the Barrett Hospital Foundation Board. This background informs my understanding of the issues. "
         },
         {
           "question": "What do you consider to be the most pressing issues facing Montana heading into the 2025 session and what legislation would you propose and/or support to address these issues?",
-          "answer": ""
+          "answer": "Property tax reform is a top issue. There are good solutions to alleviate the recent skyrocketing taxes, including bringing back the Homestead Exemption. Support for mental health is critical. Law enforcement and educators are both impacted by the need for these services. We need to support our rural hospitals through Medicaid Expansion which is vital to the long term stability of our small hospitals and their employees. We have a looming teacher shortage that we should plan for now and we have an affordable housing crisis. We can't keep good teachers or law enforcement if they can't afford to live in our communities. Resource issues critical, such as the infringement of long held private water rights by new claimants. "
         },
         {
           "question": "Many Montanans are concerned about rising residential property taxes, which primarily fund local government services such as schools, counties and city/town programs but are calculated through a system set by the Legislature. What changes to the state tax system, if any, would you support to provide property tax relief while maintaining sufficient revenue for essential services?",
-          "answer": ""
+          "answer": "There are solutions to rising property tax. Currently, short term rentals are subject to the same tax as residential and long-term rentals and second homes are also taxed at the same rate as primary residences, two areas to consider. The Legislature should focus on working within the tax classes to more accurately determine who the rates are intended for. This would help achieve a fairer balance between classes. Property tax rates could be frozen; it makes little sense for someone who has owned a residence for 30 years, to be taxed on the appreciated value, when they haven't realized the gain. The tax could be changed when the residence is sold. And, spending matters. We also need to remember, each county has its own unique circumstance. "
         },
         {
           "question": "Considering the state’s role in mental and physical health care services, especially in helping cover the costs of services available to lower-income Montanans, what additional steps, if any, do you believe the Legislature should take to enhance health care access and promote Montanans’ health?",
-          "answer": ""
+          "answer": "Medicaid Expansion is essential to having a healthy work force, it is the most cost effective way to deliver health care to those that don't have insurance, and it is supported overwhelmingly by Montanans. We need to work on a improving our mental health care system which would support law enforcement. Our jails are not designed treat mental health and our communities need services to support those that are in need. In the long term, adequate services will be more cost effective and take pressure off law enforcement and first responders. Montana's Medicaid Expansion funds major investment addressing the behavioral health crisis in our State which is critical. "
         },
         {
           "question": "Many education leaders are concerned that the state’s existing school funding formula isn’t keeping up with the costs of educating students. What proposals, if any, would you support to ensure adequate and sustainable long-term funding is available for public pre-K–12, college/university, and vocational education programs?",
-          "answer": ""
+          "answer": "Our public education system is critical to our democracy. We have to insure school funding is adequate. The State Legislature and our Governor have supported increases in starting teacher pay which we need. Property taxes have already skyrocketed and homeowners aren't able to absorb the current level of tax. A creative problem solving oriented Legislature can come up with solutions. "
         }
       ]
     },
@@ -22316,23 +22316,23 @@
       "responses": [
         {
           "question": "Please briefly provide the following information: place (town or county and state) of birth, age as of election day 2024, place (town or county) of permanent residency, occupation/employer, and education. How do these things and your other life experiences qualify you to be an effective legislator?",
-          "answer": ""
+          "answer": " I was born in Minneapolis, MN in 1951 and will be 73 on election day. I live in Missoula. I have a law degree. I worked for the National Wildlife Federation before retiring in 2020. As a legislator, I am employed by the State of Montana. I have long been a proud Democrat.   I am a strong conservationist who believes we should wisely manage our fish and wildlife and the habitats on which they depend.  I passionately believe that both the United States and Montana should be intent on building a just and fair society and that we have the wealth and resources to ensure that every individual has adequate health care, a quality education and an equal opportunity to realize their full potential. "
         },
         {
           "question": "What do you consider to be the most pressing issues facing Montana heading into the 2025 session and what legislation would you propose and/or support to address these issues?",
-          "answer": " "
+          "answer": "I believe that passing CI-128, which establishes a constitutional right to reproductive choice, is one of the most important issues facing Montana. I am working hard to ensure the voters approve CI-128 in the November election. The next legislative session must address tax fairness for property owners and continue to promote more affordable housing for both renters and homebuyers.  We must extend Medicaid so that more of our citizens have access to quality healthcare and to ensure our rural hospitals stay in business.  Protecting water quality will also be a top priority because developers will be seeking to weaken laws that protect water quality and water quantity.  "
         },
         {
           "question": "Many Montanans are concerned about rising residential property taxes, which primarily fund local government services such as schools, counties and city/town programs but are calculated through a system set by the Legislature. What changes to the state tax system, if any, would you support to provide property tax relief while maintaining sufficient revenue for essential services?",
-          "answer": ""
+          "answer": "\nIn the 2023 legislative session, the Republican supermajority refused to address property tax reform and as a result property taxes skyrocketed for homeowners even as they were reduced for utilities and corporations.  We must bring tax fairness back to our property tax system by creating a tax formula that ensures commercial and residential properties rise or fall proportionally with residential property taxes.  We also need additional measures in law to protect homeowners on fixed incomes. "
         },
         {
           "question": "Considering the state’s role in mental and physical health care services, especially in helping cover the costs of services available to lower-income Montanans, what additional steps, if any, do you believe the Legislature should take to enhance health care access and promote Montanans’ health?",
-          "answer": ""
+          "answer": "\nI strongly support Medicaid and will vote to continue Medicaid expansion in the 2025 session. The Legislature approved Montana's participation in the federal Medicaid program in 2013 and 2019 to ensure lower income Montanans had access to health care.  This legislation will sunset next year and there will be a major debate in the next Legislature about whether to extend Medicaid.  I will fight to ensure that the 239,000 men, women and children who depend on Medicaid continue to have access to health care.  Beyond cutting off the health care needed by many Montanans, ending Medicaid will severely impact many hospitals and lead to hospital closures throughout rural Montana. "
         },
         {
           "question": "Many education leaders are concerned that the state’s existing school funding formula isn’t keeping up with the costs of educating students. What proposals, if any, would you support to ensure adequate and sustainable long-term funding is available for public pre-K–12, college/university, and vocational education programs?",
-          "answer": ""
+          "answer": "In the last two sessions, Republicans in the Legislature robbed our public schools by granting taxpayer financed tax credits to wealthy individuals making contributions to private schools. In 2023, Republicans passed laws allowing private schools to receive public school dollars and excused these schools from any public accountability.  The Office of Public Instruction has been decimated by Republican Superintendent Elsie Arntzen. The 2025 Legislature must prioritize strengthening our public schools and require accountability from OPI.  The Legislature must also increase starting teacher salaries so that we are competitive with other states. Montana's beginning teacher salaries are the lowest in the nation.  "
         }
       ]
     },

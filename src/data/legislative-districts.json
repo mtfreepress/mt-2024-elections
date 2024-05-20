@@ -562,7 +562,7 @@
         "displayName": "DAVID ARENDS",
         "party": "D",
         "cap_tracker_2023_link": null,
-        "hasResponses": false,
+        "hasResponses": true,
         "numMTFParticles": 0
       }
     ]
@@ -2130,7 +2130,7 @@
         "displayName": "MARY ANN NICHOLAS",
         "party": "R",
         "cap_tracker_2023_link": null,
-        "hasResponses": false,
+        "hasResponses": true,
         "numMTFParticles": 0
       },
       {

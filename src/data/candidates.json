@@ -238,6 +238,18 @@
         "candidateStatus": "active"
       },
       {
+        "displayName": "Ric Holden",
+        "party": "R",
+        "candidateCommitteeName": "RIC HOLDEN FOR MONTANA",
+        "candidateId": "H4MT02072",
+        "totalReceipts": 49248.05,
+        "totalDisbursments": 46540.55,
+        "cashOnHand": 2708,
+        "coverageEndDate": "2024-05-15",
+        "isThisCandidate": false,
+        "candidateStatus": "active"
+      },
+      {
         "displayName": "Steve Held",
         "party": "D",
         "candidateCommitteeName": "MONTANA HELD",
@@ -246,18 +258,6 @@
         "totalDisbursments": 7255.06,
         "cashOnHand": 38967.94,
         "coverageEndDate": "2024-03-31",
-        "isThisCandidate": false,
-        "candidateStatus": "active"
-      },
-      {
-        "displayName": "Ric Holden",
-        "party": "R",
-        "candidateCommitteeName": "RIC HOLDEN FOR MONTANA",
-        "candidateId": "H4MT02072",
-        "totalReceipts": 40759.05,
-        "totalDisbursments": 28529.55,
-        "cashOnHand": 12230,
-        "coverageEndDate": "2024-04-01",
         "isThisCandidate": false,
         "candidateStatus": "active"
       },
@@ -1396,6 +1396,18 @@
         "candidateStatus": "active"
       },
       {
+        "displayName": "Ric Holden",
+        "party": "R",
+        "candidateCommitteeName": "RIC HOLDEN FOR MONTANA",
+        "candidateId": "H4MT02072",
+        "totalReceipts": 49248.05,
+        "totalDisbursments": 46540.55,
+        "cashOnHand": 2708,
+        "coverageEndDate": "2024-05-15",
+        "isThisCandidate": false,
+        "candidateStatus": "active"
+      },
+      {
         "displayName": "Steve Held",
         "party": "D",
         "candidateCommitteeName": "MONTANA HELD",
@@ -1405,18 +1417,6 @@
         "cashOnHand": 38967.94,
         "coverageEndDate": "2024-03-31",
         "isThisCandidate": true,
-        "candidateStatus": "active"
-      },
-      {
-        "displayName": "Ric Holden",
-        "party": "R",
-        "candidateCommitteeName": "RIC HOLDEN FOR MONTANA",
-        "candidateId": "H4MT02072",
-        "totalReceipts": 40759.05,
-        "totalDisbursments": 28529.55,
-        "cashOnHand": 12230,
-        "coverageEndDate": "2024-04-01",
-        "isThisCandidate": false,
         "candidateStatus": "active"
       },
       {
@@ -1713,6 +1713,18 @@
         "candidateStatus": "active"
       },
       {
+        "displayName": "Ric Holden",
+        "party": "R",
+        "candidateCommitteeName": "RIC HOLDEN FOR MONTANA",
+        "candidateId": "H4MT02072",
+        "totalReceipts": 49248.05,
+        "totalDisbursments": 46540.55,
+        "cashOnHand": 2708,
+        "coverageEndDate": "2024-05-15",
+        "isThisCandidate": false,
+        "candidateStatus": "active"
+      },
+      {
         "displayName": "Steve Held",
         "party": "D",
         "candidateCommitteeName": "MONTANA HELD",
@@ -1721,18 +1733,6 @@
         "totalDisbursments": 7255.06,
         "cashOnHand": 38967.94,
         "coverageEndDate": "2024-03-31",
-        "isThisCandidate": false,
-        "candidateStatus": "active"
-      },
-      {
-        "displayName": "Ric Holden",
-        "party": "R",
-        "candidateCommitteeName": "RIC HOLDEN FOR MONTANA",
-        "candidateId": "H4MT02072",
-        "totalReceipts": 40759.05,
-        "totalDisbursments": 28529.55,
-        "cashOnHand": 12230,
-        "coverageEndDate": "2024-04-01",
         "isThisCandidate": false,
         "candidateStatus": "active"
       },
@@ -2134,7 +2134,7 @@
     "displayName": "Ryan Zinke",
     "lastName": "Zinke",
     "summaryLine": "Incumbent U.S. representative",
-    "summaryNarrative": "Zinke, 63 as of Election Day, has represented western Montana in Congress since last year. He says he was born in Bozeman and raised in Whitefish on a property where his family has lived for four generations. He is also a retired U.S. Navy SEAL commander.\n\nZinke served as President Donald Trump’s Secretary of the Interior from 2017 to 2018. He previously served as a state legislator and was initially elected to represent what was then a statewide congressional district in 2014.\n\nAs he campaigns for re-election this year, Zinke describes himself as a “Reagan optimist” who believes the nation’s problems can be addressed “despite the mess (President) Biden has created in our economy, border, and national security.”\n\nFederal investigations of Zinke’s tenure at the Interior department found he mislead investigators [about his role in a Whitefish land deal](https://www.oversight.gov/sites/default/files/oig-reports/DOI/WebReactFormerSecretaryEthicalNoncompliance.pdf) and about the department’s [decision not to act on a gaming application from two Native American tribes](https://www.doioig.gov/sites/default/files/2021-migration/WebRedacted_FormerSecretaryandCOSDidntComplyWithDutyofCandor.pdf) while serving as secretary. Zinke has criticized both investigations as politically motivated.\n\nThis biography is based on written material submitted by the Zinke campaign and past MTFP reporting.\n",
+    "summaryNarrative": "Zinke, 63 as of Election Day, has represented western Montana in Congress since last year. He says he was born in Bozeman and raised in Whitefish on a property where his family has lived for four generations. He is also a retired U.S. Navy SEAL commander.\n\nZinke served as President Donald Trump’s Secretary of the Interior from 2017 to 2018. He previously served as a state legislator and was initially elected to represent what was then a statewide congressional district in 2014.\n\nAs he campaigns for re-election this year, Zinke describes himself as a “Reagan optimist” who believes the nation’s problems can be addressed “despite the mess (President) Biden has created in our economy, border, and national security.”\n\nFederal investigations of Zinke’s tenure at the Interior department found he misled investigators [about his role in a Whitefish land deal](https://www.oversight.gov/sites/default/files/oig-reports/DOI/WebReactFormerSecretaryEthicalNoncompliance.pdf) and about the department’s [decision not to act on a gaming application from two Native American tribes](https://www.doioig.gov/sites/default/files/2021-migration/WebRedacted_FormerSecretaryandCOSDidntComplyWithDutyofCandor.pdf) while serving as secretary. Zinke has criticized both investigations as politically motivated.\n\nThis biography is based on written material submitted by the Zinke campaign and past MTFP reporting.\n",
     "party": "R",
     "isIncumbent": true,
     "status": "active",
@@ -2362,6 +2362,18 @@
         "totalDisbursments": 40668.81,
         "cashOnHand": 33956.06,
         "coverageEndDate": "2024-03-31",
+        "isThisCandidate": false,
+        "candidateStatus": "active"
+      },
+      {
+        "displayName": "Dennis Hayes",
+        "party": "L",
+        "candidateCommitteeName": "DENNIS HAYES FOR CONGRESS",
+        "candidateId": "H4MT01090",
+        "totalReceipts": 0,
+        "totalDisbursments": 0,
+        "cashOnHand": 0,
+        "coverageEndDate": null,
         "isThisCandidate": false,
         "candidateStatus": "active"
       }
@@ -2648,7 +2660,26 @@
         "party": "R"
       }
     ],
-    "coverage": [],
+    "coverage": [
+      {
+        "title": "The race to be the partisan clerk of Montana’s nonpartisan Supreme Court",
+        "date": "2024-05-13T11:47:01",
+        "link": "https://montanafreepress.org/2024/05/13/the-race-to-be-the-partisan-clerk-of-montanas-nonpartisan-supreme-court/",
+        "tags": [
+          "2024 election Guide",
+          "Bowen Greenwood",
+          "erin farris-olsen",
+          "Jason Ellsworth",
+          "jordan ophus",
+          "Roger Roots"
+        ],
+        "categories": [
+          "2024 Elections"
+        ],
+        "featuredImage": "https://montanafreepress.org/2023/02/16/bill-would-shrink-montana-supreme-court-from-seven-justices-to-five/untitled-design-307/",
+        "author": "Arren Kimbel-Sannit"
+      }
+    ],
     "finance": null,
     "questionnaire": {
       "hasResponses": true,
@@ -3112,6 +3143,18 @@
         "candidateStatus": "active"
       },
       {
+        "displayName": "Ric Holden",
+        "party": "R",
+        "candidateCommitteeName": "RIC HOLDEN FOR MONTANA",
+        "candidateId": "H4MT02072",
+        "totalReceipts": 49248.05,
+        "totalDisbursments": 46540.55,
+        "cashOnHand": 2708,
+        "coverageEndDate": "2024-05-15",
+        "isThisCandidate": true,
+        "candidateStatus": "active"
+      },
+      {
         "displayName": "Steve Held",
         "party": "D",
         "candidateCommitteeName": "MONTANA HELD",
@@ -3121,18 +3164,6 @@
         "cashOnHand": 38967.94,
         "coverageEndDate": "2024-03-31",
         "isThisCandidate": false,
-        "candidateStatus": "active"
-      },
-      {
-        "displayName": "Ric Holden",
-        "party": "R",
-        "candidateCommitteeName": "RIC HOLDEN FOR MONTANA",
-        "candidateId": "H4MT02072",
-        "totalReceipts": 40759.05,
-        "totalDisbursments": 28529.55,
-        "cashOnHand": 12230,
-        "coverageEndDate": "2024-04-01",
-        "isThisCandidate": true,
         "candidateStatus": "active"
       },
       {
@@ -3366,6 +3397,18 @@
         "totalDisbursments": 40668.81,
         "cashOnHand": 33956.06,
         "coverageEndDate": "2024-03-31",
+        "isThisCandidate": false,
+        "candidateStatus": "active"
+      },
+      {
+        "displayName": "Dennis Hayes",
+        "party": "L",
+        "candidateCommitteeName": "DENNIS HAYES FOR CONGRESS",
+        "candidateId": "H4MT01090",
+        "totalReceipts": 0,
+        "totalDisbursments": 0,
+        "cashOnHand": 0,
+        "coverageEndDate": null,
         "isThisCandidate": false,
         "candidateStatus": "active"
       }
@@ -3673,6 +3716,18 @@
         "candidateStatus": "active"
       },
       {
+        "displayName": "Ric Holden",
+        "party": "R",
+        "candidateCommitteeName": "RIC HOLDEN FOR MONTANA",
+        "candidateId": "H4MT02072",
+        "totalReceipts": 49248.05,
+        "totalDisbursments": 46540.55,
+        "cashOnHand": 2708,
+        "coverageEndDate": "2024-05-15",
+        "isThisCandidate": false,
+        "candidateStatus": "active"
+      },
+      {
         "displayName": "Steve Held",
         "party": "D",
         "candidateCommitteeName": "MONTANA HELD",
@@ -3681,18 +3736,6 @@
         "totalDisbursments": 7255.06,
         "cashOnHand": 38967.94,
         "coverageEndDate": "2024-03-31",
-        "isThisCandidate": false,
-        "candidateStatus": "active"
-      },
-      {
-        "displayName": "Ric Holden",
-        "party": "R",
-        "candidateCommitteeName": "RIC HOLDEN FOR MONTANA",
-        "candidateId": "H4MT02072",
-        "totalReceipts": 40759.05,
-        "totalDisbursments": 28529.55,
-        "cashOnHand": 12230,
-        "coverageEndDate": "2024-04-01",
         "isThisCandidate": false,
         "candidateStatus": "active"
       },
@@ -4225,6 +4268,18 @@
         "coverageEndDate": "2024-03-31",
         "isThisCandidate": true,
         "candidateStatus": "active"
+      },
+      {
+        "displayName": "Dennis Hayes",
+        "party": "L",
+        "candidateCommitteeName": "DENNIS HAYES FOR CONGRESS",
+        "candidateId": "H4MT01090",
+        "totalReceipts": 0,
+        "totalDisbursments": 0,
+        "cashOnHand": 0,
+        "coverageEndDate": null,
+        "isThisCandidate": false,
+        "candidateStatus": "active"
       }
     ],
     "questionnaire": {
@@ -4614,6 +4669,18 @@
         "candidateStatus": "active"
       },
       {
+        "displayName": "Ric Holden",
+        "party": "R",
+        "candidateCommitteeName": "RIC HOLDEN FOR MONTANA",
+        "candidateId": "H4MT02072",
+        "totalReceipts": 49248.05,
+        "totalDisbursments": 46540.55,
+        "cashOnHand": 2708,
+        "coverageEndDate": "2024-05-15",
+        "isThisCandidate": false,
+        "candidateStatus": "active"
+      },
+      {
         "displayName": "Steve Held",
         "party": "D",
         "candidateCommitteeName": "MONTANA HELD",
@@ -4622,18 +4689,6 @@
         "totalDisbursments": 7255.06,
         "cashOnHand": 38967.94,
         "coverageEndDate": "2024-03-31",
-        "isThisCandidate": false,
-        "candidateStatus": "active"
-      },
-      {
-        "displayName": "Ric Holden",
-        "party": "R",
-        "candidateCommitteeName": "RIC HOLDEN FOR MONTANA",
-        "candidateId": "H4MT02072",
-        "totalReceipts": 40759.05,
-        "totalDisbursments": 28529.55,
-        "cashOnHand": 12230,
-        "coverageEndDate": "2024-04-01",
         "isThisCandidate": false,
         "candidateStatus": "active"
       },
@@ -5043,6 +5098,18 @@
         "candidateStatus": "active"
       },
       {
+        "displayName": "Ric Holden",
+        "party": "R",
+        "candidateCommitteeName": "RIC HOLDEN FOR MONTANA",
+        "candidateId": "H4MT02072",
+        "totalReceipts": 49248.05,
+        "totalDisbursments": 46540.55,
+        "cashOnHand": 2708,
+        "coverageEndDate": "2024-05-15",
+        "isThisCandidate": false,
+        "candidateStatus": "active"
+      },
+      {
         "displayName": "Steve Held",
         "party": "D",
         "candidateCommitteeName": "MONTANA HELD",
@@ -5051,18 +5118,6 @@
         "totalDisbursments": 7255.06,
         "cashOnHand": 38967.94,
         "coverageEndDate": "2024-03-31",
-        "isThisCandidate": false,
-        "candidateStatus": "active"
-      },
-      {
-        "displayName": "Ric Holden",
-        "party": "R",
-        "candidateCommitteeName": "RIC HOLDEN FOR MONTANA",
-        "candidateId": "H4MT02072",
-        "totalReceipts": 40759.05,
-        "totalDisbursments": 28529.55,
-        "cashOnHand": 12230,
-        "coverageEndDate": "2024-04-01",
         "isThisCandidate": false,
         "candidateStatus": "active"
       },
@@ -5334,6 +5389,18 @@
         "candidateStatus": "active"
       },
       {
+        "displayName": "Ric Holden",
+        "party": "R",
+        "candidateCommitteeName": "RIC HOLDEN FOR MONTANA",
+        "candidateId": "H4MT02072",
+        "totalReceipts": 49248.05,
+        "totalDisbursments": 46540.55,
+        "cashOnHand": 2708,
+        "coverageEndDate": "2024-05-15",
+        "isThisCandidate": false,
+        "candidateStatus": "active"
+      },
+      {
         "displayName": "Steve Held",
         "party": "D",
         "candidateCommitteeName": "MONTANA HELD",
@@ -5342,18 +5409,6 @@
         "totalDisbursments": 7255.06,
         "cashOnHand": 38967.94,
         "coverageEndDate": "2024-03-31",
-        "isThisCandidate": false,
-        "candidateStatus": "active"
-      },
-      {
-        "displayName": "Ric Holden",
-        "party": "R",
-        "candidateCommitteeName": "RIC HOLDEN FOR MONTANA",
-        "candidateId": "H4MT02072",
-        "totalReceipts": 40759.05,
-        "totalDisbursments": 28529.55,
-        "cashOnHand": 12230,
-        "coverageEndDate": "2024-04-01",
         "isThisCandidate": false,
         "candidateStatus": "active"
       },
@@ -5676,7 +5731,26 @@
         "party": "R"
       }
     ],
-    "coverage": [],
+    "coverage": [
+      {
+        "title": "The race to be the partisan clerk of Montana’s nonpartisan Supreme Court",
+        "date": "2024-05-13T11:47:01",
+        "link": "https://montanafreepress.org/2024/05/13/the-race-to-be-the-partisan-clerk-of-montanas-nonpartisan-supreme-court/",
+        "tags": [
+          "2024 election Guide",
+          "Bowen Greenwood",
+          "erin farris-olsen",
+          "Jason Ellsworth",
+          "jordan ophus",
+          "Roger Roots"
+        ],
+        "categories": [
+          "2024 Elections"
+        ],
+        "featuredImage": "https://montanafreepress.org/2023/02/16/bill-would-shrink-montana-supreme-court-from-seven-justices-to-five/untitled-design-307/",
+        "author": "Arren Kimbel-Sannit"
+      }
+    ],
     "finance": null,
     "questionnaire": {
       "hasResponses": true,
@@ -6474,6 +6548,18 @@
         "candidateStatus": "active"
       },
       {
+        "displayName": "Ric Holden",
+        "party": "R",
+        "candidateCommitteeName": "RIC HOLDEN FOR MONTANA",
+        "candidateId": "H4MT02072",
+        "totalReceipts": 49248.05,
+        "totalDisbursments": 46540.55,
+        "cashOnHand": 2708,
+        "coverageEndDate": "2024-05-15",
+        "isThisCandidate": false,
+        "candidateStatus": "active"
+      },
+      {
         "displayName": "Steve Held",
         "party": "D",
         "candidateCommitteeName": "MONTANA HELD",
@@ -6482,18 +6568,6 @@
         "totalDisbursments": 7255.06,
         "cashOnHand": 38967.94,
         "coverageEndDate": "2024-03-31",
-        "isThisCandidate": false,
-        "candidateStatus": "active"
-      },
-      {
-        "displayName": "Ric Holden",
-        "party": "R",
-        "candidateCommitteeName": "RIC HOLDEN FOR MONTANA",
-        "candidateId": "H4MT02072",
-        "totalReceipts": 40759.05,
-        "totalDisbursments": 28529.55,
-        "cashOnHand": 12230,
-        "coverageEndDate": "2024-04-01",
         "isThisCandidate": false,
         "candidateStatus": "active"
       },
@@ -6808,6 +6882,18 @@
         "candidateStatus": "active"
       },
       {
+        "displayName": "Ric Holden",
+        "party": "R",
+        "candidateCommitteeName": "RIC HOLDEN FOR MONTANA",
+        "candidateId": "H4MT02072",
+        "totalReceipts": 49248.05,
+        "totalDisbursments": 46540.55,
+        "cashOnHand": 2708,
+        "coverageEndDate": "2024-05-15",
+        "isThisCandidate": false,
+        "candidateStatus": "active"
+      },
+      {
         "displayName": "Steve Held",
         "party": "D",
         "candidateCommitteeName": "MONTANA HELD",
@@ -6816,18 +6902,6 @@
         "totalDisbursments": 7255.06,
         "cashOnHand": 38967.94,
         "coverageEndDate": "2024-03-31",
-        "isThisCandidate": false,
-        "candidateStatus": "active"
-      },
-      {
-        "displayName": "Ric Holden",
-        "party": "R",
-        "candidateCommitteeName": "RIC HOLDEN FOR MONTANA",
-        "candidateId": "H4MT02072",
-        "totalReceipts": 40759.05,
-        "totalDisbursments": 28529.55,
-        "cashOnHand": 12230,
-        "coverageEndDate": "2024-04-01",
         "isThisCandidate": false,
         "candidateStatus": "active"
       },
@@ -7101,7 +7175,7 @@
     "displayName": "Jerry O'Neil",
     "lastName": "O'Neil",
     "summaryLine": "Former state senator",
-    "summaryNarrative": "Jerry O’Neil, 81 as of Election Day, is a former Republican state lawmaker from Columbia Falls who says his first legal experience came representing himself pro se in a child custody case. \n\nHe began his career as an paralegal in the 1980s, when he says he became licensed to practice law as a lay advocate before the Blackfeet tribal court. \n\nHe has never passed the state bar examination, and has been engaged in several [years-long fights](https://whitefishpilot.com/news/2012/sep/12/paralegal-says-he-won-his-war-9/) about his ability to practice law in Montana. \n\n“I am running for the justice position on the Montana Supreme Court in order to break the monopoly of the Montana State Bar Association, improve the public's access to our justice system, and expose the court when they legislate from the bench,” he told MTFP. \n\nThis biography is based on materials provided to MTFP by O’Neil as well as prior MTFP reporting.\n",
+    "summaryNarrative": "Jerry O’Neil, 81 as of Election Day, is a former Republican state lawmaker from Columbia Falls who says his first legal experience came representing himself pro se in a child custody case. \n\nHe began his career as an paralegal in the 1980s, when he says he became permitted to practice law before the Blackfeet tribal court. \n\nHe has never passed the Montana bar examination but he has passed the Blackfeet tribal court bar, according to court records. He has been engaged in several [years-long fights](https://whitefishpilot.com/news/2012/sep/12/paralegal-says-he-won-his-war-9/) about his ability to practice law in Montana. \n\n“I am running for the justice position on the Montana Supreme Court in order to break the monopoly of the Montana State Bar Association, improve the public's access to our justice system, and expose the court when they legislate from the bench,” he told MTFP. \n\nThis biography is based on materials provided to MTFP by O’Neil as well as prior MTFP reporting.\n",
     "party": "NP",
     "isIncumbent": false,
     "status": "active",
@@ -7455,7 +7529,26 @@
         "party": "R"
       }
     ],
-    "coverage": [],
+    "coverage": [
+      {
+        "title": "The race to be the partisan clerk of Montana’s nonpartisan Supreme Court",
+        "date": "2024-05-13T11:47:01",
+        "link": "https://montanafreepress.org/2024/05/13/the-race-to-be-the-partisan-clerk-of-montanas-nonpartisan-supreme-court/",
+        "tags": [
+          "2024 election Guide",
+          "Bowen Greenwood",
+          "erin farris-olsen",
+          "Jason Ellsworth",
+          "jordan ophus",
+          "Roger Roots"
+        ],
+        "categories": [
+          "2024 Elections"
+        ],
+        "featuredImage": "https://montanafreepress.org/2023/02/16/bill-would-shrink-montana-supreme-court-from-seven-justices-to-five/untitled-design-307/",
+        "author": "Arren Kimbel-Sannit"
+      }
+    ],
     "finance": null,
     "questionnaire": {
       "hasResponses": false,
@@ -7970,6 +8063,18 @@
         "coverageEndDate": "2024-03-31",
         "isThisCandidate": false,
         "candidateStatus": "active"
+      },
+      {
+        "displayName": "Dennis Hayes",
+        "party": "L",
+        "candidateCommitteeName": "DENNIS HAYES FOR CONGRESS",
+        "candidateId": "H4MT01090",
+        "totalReceipts": 0,
+        "totalDisbursments": 0,
+        "cashOnHand": 0,
+        "coverageEndDate": null,
+        "isThisCandidate": false,
+        "candidateStatus": "active"
       }
     ],
     "questionnaire": {
@@ -8068,7 +8173,26 @@
         "party": "R"
       }
     ],
-    "coverage": [],
+    "coverage": [
+      {
+        "title": "The race to be the partisan clerk of Montana’s nonpartisan Supreme Court",
+        "date": "2024-05-13T11:47:01",
+        "link": "https://montanafreepress.org/2024/05/13/the-race-to-be-the-partisan-clerk-of-montanas-nonpartisan-supreme-court/",
+        "tags": [
+          "2024 election Guide",
+          "Bowen Greenwood",
+          "erin farris-olsen",
+          "Jason Ellsworth",
+          "jordan ophus",
+          "Roger Roots"
+        ],
+        "categories": [
+          "2024 Elections"
+        ],
+        "featuredImage": "https://montanafreepress.org/2023/02/16/bill-would-shrink-montana-supreme-court-from-seven-justices-to-five/untitled-design-307/",
+        "author": "Arren Kimbel-Sannit"
+      }
+    ],
     "finance": null,
     "questionnaire": {
       "hasResponses": true,
@@ -8357,6 +8481,18 @@
         "candidateStatus": "active"
       },
       {
+        "displayName": "Ric Holden",
+        "party": "R",
+        "candidateCommitteeName": "RIC HOLDEN FOR MONTANA",
+        "candidateId": "H4MT02072",
+        "totalReceipts": 49248.05,
+        "totalDisbursments": 46540.55,
+        "cashOnHand": 2708,
+        "coverageEndDate": "2024-05-15",
+        "isThisCandidate": false,
+        "candidateStatus": "active"
+      },
+      {
         "displayName": "Steve Held",
         "party": "D",
         "candidateCommitteeName": "MONTANA HELD",
@@ -8365,18 +8501,6 @@
         "totalDisbursments": 7255.06,
         "cashOnHand": 38967.94,
         "coverageEndDate": "2024-03-31",
-        "isThisCandidate": false,
-        "candidateStatus": "active"
-      },
-      {
-        "displayName": "Ric Holden",
-        "party": "R",
-        "candidateCommitteeName": "RIC HOLDEN FOR MONTANA",
-        "candidateId": "H4MT02072",
-        "totalReceipts": 40759.05,
-        "totalDisbursments": 28529.55,
-        "cashOnHand": 12230,
-        "coverageEndDate": "2024-04-01",
         "isThisCandidate": false,
         "candidateStatus": "active"
       },
@@ -8648,6 +8772,18 @@
         "candidateStatus": "active"
       },
       {
+        "displayName": "Ric Holden",
+        "party": "R",
+        "candidateCommitteeName": "RIC HOLDEN FOR MONTANA",
+        "candidateId": "H4MT02072",
+        "totalReceipts": 49248.05,
+        "totalDisbursments": 46540.55,
+        "cashOnHand": 2708,
+        "coverageEndDate": "2024-05-15",
+        "isThisCandidate": false,
+        "candidateStatus": "active"
+      },
+      {
         "displayName": "Steve Held",
         "party": "D",
         "candidateCommitteeName": "MONTANA HELD",
@@ -8656,18 +8792,6 @@
         "totalDisbursments": 7255.06,
         "cashOnHand": 38967.94,
         "coverageEndDate": "2024-03-31",
-        "isThisCandidate": false,
-        "candidateStatus": "active"
-      },
-      {
-        "displayName": "Ric Holden",
-        "party": "R",
-        "candidateCommitteeName": "RIC HOLDEN FOR MONTANA",
-        "candidateId": "H4MT02072",
-        "totalReceipts": 40759.05,
-        "totalDisbursments": 28529.55,
-        "cashOnHand": 12230,
-        "coverageEndDate": "2024-04-01",
         "isThisCandidate": false,
         "candidateStatus": "active"
       },
@@ -9070,6 +9194,18 @@
         "candidateStatus": "active"
       },
       {
+        "displayName": "Ric Holden",
+        "party": "R",
+        "candidateCommitteeName": "RIC HOLDEN FOR MONTANA",
+        "candidateId": "H4MT02072",
+        "totalReceipts": 49248.05,
+        "totalDisbursments": 46540.55,
+        "cashOnHand": 2708,
+        "coverageEndDate": "2024-05-15",
+        "isThisCandidate": false,
+        "candidateStatus": "active"
+      },
+      {
         "displayName": "Steve Held",
         "party": "D",
         "candidateCommitteeName": "MONTANA HELD",
@@ -9078,18 +9214,6 @@
         "totalDisbursments": 7255.06,
         "cashOnHand": 38967.94,
         "coverageEndDate": "2024-03-31",
-        "isThisCandidate": false,
-        "candidateStatus": "active"
-      },
-      {
-        "displayName": "Ric Holden",
-        "party": "R",
-        "candidateCommitteeName": "RIC HOLDEN FOR MONTANA",
-        "candidateId": "H4MT02072",
-        "totalReceipts": 40759.05,
-        "totalDisbursments": 28529.55,
-        "cashOnHand": 12230,
-        "coverageEndDate": "2024-04-01",
         "isThisCandidate": false,
         "candidateStatus": "active"
       },
@@ -9185,7 +9309,7 @@
     "party": "L",
     "isIncumbent": false,
     "status": "active",
-    "fecId": null,
+    "fecId": "H4MT01090",
     "campaignWebsite": null,
     "campaignFB": null,
     "campaignTW": null,
@@ -9262,6 +9386,18 @@
         "cashOnHand": 33956.06,
         "coverageEndDate": "2024-03-31",
         "isThisCandidate": false,
+        "candidateStatus": "active"
+      },
+      {
+        "displayName": "Dennis Hayes",
+        "party": "L",
+        "candidateCommitteeName": "DENNIS HAYES FOR CONGRESS",
+        "candidateId": "H4MT01090",
+        "totalReceipts": 0,
+        "totalDisbursments": 0,
+        "cashOnHand": 0,
+        "coverageEndDate": null,
+        "isThisCandidate": true,
         "candidateStatus": "active"
       }
     ],
@@ -10134,7 +10270,26 @@
         "party": "R"
       }
     ],
-    "coverage": [],
+    "coverage": [
+      {
+        "title": "The race to be the partisan clerk of Montana’s nonpartisan Supreme Court",
+        "date": "2024-05-13T11:47:01",
+        "link": "https://montanafreepress.org/2024/05/13/the-race-to-be-the-partisan-clerk-of-montanas-nonpartisan-supreme-court/",
+        "tags": [
+          "2024 election Guide",
+          "Bowen Greenwood",
+          "erin farris-olsen",
+          "Jason Ellsworth",
+          "jordan ophus",
+          "Roger Roots"
+        ],
+        "categories": [
+          "2024 Elections"
+        ],
+        "featuredImage": "https://montanafreepress.org/2023/02/16/bill-would-shrink-montana-supreme-court-from-seven-justices-to-five/untitled-design-307/",
+        "author": "Arren Kimbel-Sannit"
+      }
+    ],
     "finance": null,
     "questionnaire": {
       "hasResponses": true,
