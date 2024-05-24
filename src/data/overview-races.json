@@ -131,7 +131,7 @@
         "summaryLine": "Incumbent U.S. representative",
         "party": "R",
         "hasResponses": true,
-        "numMTFParticles": 8
+        "numMTFParticles": 9
       },
       {
         "slug": "mary-todd",
@@ -139,7 +139,7 @@
         "summaryLine": "Kalispell pastor",
         "party": "R",
         "hasResponses": true,
-        "numMTFParticles": 1
+        "numMTFParticles": 2
       },
       {
         "slug": "monica-tranel",
@@ -147,7 +147,7 @@
         "summaryLine": "Missoula attorney",
         "party": "D",
         "hasResponses": true,
-        "numMTFParticles": 3
+        "numMTFParticles": 4
       },
       {
         "slug": "dennis-hayes",
@@ -155,7 +155,7 @@
         "summaryLine": "Townsend resident",
         "party": "L",
         "hasResponses": true,
-        "numMTFParticles": 0
+        "numMTFParticles": 1
       },
       {
         "slug": "ernie-noble",
@@ -192,16 +192,16 @@
         "party": "R",
         "candidateCommitteeName": "MARY TODD FOR MONTANA - 2024",
         "candidateId": "H2MT00112",
-        "totalReceipts": 74624.87,
-        "totalDisbursments": 40668.81,
-        "cashOnHand": 33956.06,
-        "coverageEndDate": "2024-03-31"
+        "totalReceipts": 87253.15,
+        "totalDisbursments": 67177.61,
+        "cashOnHand": 20075.54,
+        "coverageEndDate": "2024-05-15"
       },
       {
         "displayName": "Dennis Hayes",
         "party": "L",
         "candidateCommitteeName": "DENNIS HAYES FOR CONGRESS",
-        "candidateId": "H4MT01090",
+        "candidateId": "H4MT01108",
         "totalReceipts": 0,
         "totalDisbursments": 0,
         "cashOnHand": 0,
@@ -224,7 +224,7 @@
         "summaryLine": "State superintendent of public instruction",
         "party": "R",
         "hasResponses": true,
-        "numMTFParticles": 4
+        "numMTFParticles": 5
       },
       {
         "slug": "kyle-austin",
@@ -232,7 +232,7 @@
         "summaryLine": "Billings pharmacist",
         "party": "R",
         "hasResponses": true,
-        "numMTFParticles": 1
+        "numMTFParticles": 2
       },
       {
         "slug": "ken-bogner",
@@ -240,7 +240,7 @@
         "summaryLine": "State senator",
         "party": "R",
         "hasResponses": true,
-        "numMTFParticles": 0
+        "numMTFParticles": 1
       },
       {
         "slug": "troy-downing",
@@ -256,7 +256,7 @@
         "summaryLine": "Former state senator",
         "party": "R",
         "hasResponses": true,
-        "numMTFParticles": 1
+        "numMTFParticles": 2
       },
       {
         "slug": "joel-krautter",
@@ -264,7 +264,7 @@
         "summaryLine": "Former state representative",
         "party": "R",
         "hasResponses": true,
-        "numMTFParticles": 2
+        "numMTFParticles": 3
       },
       {
         "slug": "denny-rehberg",
@@ -288,7 +288,7 @@
         "summaryLine": "Former Drug Enforcement Administration official",
         "party": "R",
         "hasResponses": true,
-        "numMTFParticles": 1
+        "numMTFParticles": 2
       },
       {
         "slug": "ming-cabrera",
@@ -296,7 +296,7 @@
         "summaryLine": "Billings resident",
         "party": "D",
         "hasResponses": true,
-        "numMTFParticles": 3
+        "numMTFParticles": 4
       },
       {
         "slug": "john-driscoll",
@@ -304,7 +304,7 @@
         "summaryLine": "Former public service commissioner",
         "party": "D",
         "hasResponses": true,
-        "numMTFParticles": 3
+        "numMTFParticles": 4
       },
       {
         "slug": "kevin-hamm",
@@ -312,7 +312,7 @@
         "summaryLine": "Helena resident",
         "party": "D",
         "hasResponses": true,
-        "numMTFParticles": 3
+        "numMTFParticles": 4
       },
       {
         "slug": "steve-held",
@@ -320,7 +320,7 @@
         "summaryLine": "Broadus resident",
         "party": "D",
         "hasResponses": true,
-        "numMTFParticles": 2
+        "numMTFParticles": 3
       }
     ],
     "finance": [
@@ -460,7 +460,7 @@
         "summaryLine": "Incumbent Montana governor",
         "party": "R",
         "hasResponses": true,
-        "numMTFParticles": 15
+        "numMTFParticles": 16
       },
       {
         "slug": "tanner-smith",
@@ -468,7 +468,7 @@
         "summaryLine": "State representative",
         "party": "R",
         "hasResponses": true,
-        "numMTFParticles": 3
+        "numMTFParticles": 4
       },
       {
         "slug": "ryan-busse",
@@ -578,7 +578,7 @@
       {
         "slug": "sharyl-allen",
         "displayName": "Sharyl Allen",
-        "summaryLine": "Harrison Public School principal/superintendent",
+        "summaryLine": "Former Harrison Public School principal/superintendent",
         "party": "R",
         "hasResponses": true,
         "numMTFParticles": 1
@@ -772,7 +772,7 @@
         "summaryLine": "Mechanical engineer",
         "party": "R",
         "hasResponses": true,
-        "numMTFParticles": 0
+        "numMTFParticles": 1
       },
       {
         "slug": "brad-molnar",
@@ -780,7 +780,7 @@
         "summaryLine": "State senator",
         "party": "R",
         "hasResponses": true,
-        "numMTFParticles": 0
+        "numMTFParticles": 1
       },
       {
         "slug": "susan-bilo",
@@ -807,7 +807,7 @@
         "summaryLine": "Harlowton IT professional",
         "party": "R",
         "hasResponses": true,
-        "numMTFParticles": 0
+        "numMTFParticles": 1
       },
       {
         "slug": "suzzann-nordwick",
@@ -815,7 +815,7 @@
         "summaryLine": "Metallurgical engineer",
         "party": "R",
         "hasResponses": true,
-        "numMTFParticles": 0
+        "numMTFParticles": 1
       },
       {
         "slug": "jeff-welborn",
@@ -823,7 +823,7 @@
         "summaryLine": "State senator",
         "party": "R",
         "hasResponses": true,
-        "numMTFParticles": 0
+        "numMTFParticles": 1
       },
       {
         "slug": "leonard-williams",

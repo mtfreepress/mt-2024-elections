@@ -127,15 +127,15 @@
         "candidate_name": "TODD, MARY",
         "candidate_pcc_id": "C00868471",
         "candidate_pcc_name": "MARY TODD FOR MONTANA - 2024",
-        "cash_on_hand_end_period": 33956.06,
+        "cash_on_hand_end_period": 20075.54,
         "committee_ids": [
           "C00868471"
         ],
-        "coverage_end_date": "2024-03-31",
+        "coverage_end_date": "2024-05-15",
         "incumbent_challenge_full": "Challenger",
         "party_full": "REPUBLICAN PARTY",
-        "total_disbursements": 40668.81,
-        "total_receipts": 74624.87
+        "total_disbursements": 67177.61,
+        "total_receipts": 87253.15
       },
       {
         "candidate_election_year": 2024,
@@ -155,7 +155,7 @@
       },
       {
         "candidate_election_year": 2024,
-        "candidate_id": "H4MT01090",
+        "candidate_id": "H4MT01108",
         "candidate_name": "HAYES, DENNIS",
         "candidate_pcc_id": "C00878645",
         "candidate_pcc_name": "DENNIS HAYES FOR CONGRESS",

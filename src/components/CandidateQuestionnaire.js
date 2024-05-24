@@ -1,5 +1,7 @@
-import { css } from "@emotion/react";
-import Markdown from "react-markdown";
+import { css } from "@emotion/react"
+import Markdown from "react-markdown"
+import { useRouter } from 'next/router'
+import Link from 'next/link'
 
 const questionnaireStyle = css`
     
@@ -35,30 +37,83 @@ const questionnaireStyle = css`
         text-transform: uppercase;
         color: var(--tan5);
     }
+    .comparison {
+        margin: 0.75em;
+        /* border: 1px solid var(--gray2); */
+    }
+    .comparison .label {
+        font-style: italic;
+        margin-left: 0.2em;
+    }
+    .comparison a {
+        display: inline-block;
+        border: 1px solid var(--gray2);
+        padding: 0.2em 0.5em;
+        margin: 0.2em;
+    }
+    .comparison a:not(:last-child):after{
+        /* content: ' • ' */
+    }
 `
 
 const Question = props => {
-    const { question, answer, displayName } = props
+    const {
+        question,
+        answer,
+        displayName,
+        questionId,
+        basePath,
+        opponents,
+        currentCandidateSlug
+    } = props
 
     return <div className="question">
+        <a className="link-anchor" id={questionId}></a>
         <div className="query">{question}</div>
         <div className="answer">
             <div className="name">{displayName}:</div>
             <Markdown>{answer}</Markdown>
             {!answer && <p><em>No answer provided.</em></p>}
         </div>
-    </div>
+        {opponents && <div className="comparison">
+            <div className="label">Compare to competing candidates</div>
+            <div>
+                {
+                    opponents.map(candidate => <Link key={candidate.slug}
+                        className="comparison-link"
+                        style={{ fontWeight: candidate.slug === currentCandidateSlug ? 'bold' : 'normal' }}
+                        href={`${basePath}/${candidate.slug}/#${questionId}`}>
+                        {candidate.displayName}
+                    </Link>)
+                }
+            </div>
+        </div>}
+    </div >
+
+
 }
 
 export default function CandidateQuestionnaire(props) {
     const {
         responses,
-        displayName
+        displayName,
+        opponents,
+        currentCandidateSlug
     } = props
+
+    const router = useRouter()
+    const basePath = router.pathname.replace('/[candidate]', '') // hacky
 
     return <div css={questionnaireStyle}>
         {
-            responses.map((response, i) => <Question key={String(i)} {...response} displayName={displayName} />)
+            responses.map((response, i) => <Question key={String(i)}
+                questionId={`issue-question-${i + 1}`}
+                {...response}
+                displayName={displayName}
+                basePath={basePath}
+                opponents={opponents}
+                currentCandidateSlug={currentCandidateSlug}
+            />)
         }
 
     </div>

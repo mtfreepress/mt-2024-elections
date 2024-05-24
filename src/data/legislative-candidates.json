@@ -7715,11 +7715,11 @@
       "responses": [
         {
           "question": "Please briefly provide the following information: place (town or county and state) of birth, age as of election day 2024, place (town or county) of permanent residency, occupation/employer, and education. How do these things and your other life experiences qualify you to be an effective legislator?",
-          "answer": "1.Place of birth Northridge, CA \n2. Age 62 \n3. Reside Conrad, MT \n4. Occupation PA at Logan Health Conrad \n5. BS Biology Oral Roberts Univ Tulsa, OK  Certificate of Physician Assistant Studies at Bayley Seton Hospital. NYC \n \nMy career as a Physician Assistant has provided me a unique opportunity to engage with the full spectrum of citizens in District 18. I have learned through my experience to listen carefully to people's needs, find solutions to their problems, and to act with compassion. These skills will work to serve my constituents well, as together we seek to find solutions to the many problems facing our rural communities. \n"
+          "answer": "1. Place of birth - Northridge, CA \n2. Age 62 \n3. Reside - Conrad, MT \n4. Occupation - PA at Logan Health Conrad \n5. BS Biology Oral Roberts Univ Tulsa, OK  Certificate of Physician Assistant Studies at Bayley Seton Hospital. NYC \n \nMy career as a Physician Assistant has provided me a unique opportunity to engage with the full spectrum of citizens in District 18. I have learned through my experience to listen carefully to people's needs, find solutions to their problems, and to act with compassion. These skills will work to serve my constituents well, as together we seek to find solutions to the many problems facing our rural communities. \n"
         },
         {
           "question": "What do you consider to be the most pressing issues facing Montana heading into the 2025 session and what legislation would you propose and/or support to address these issues?",
-          "answer": ""
+          "answer": "\n1. The 2025 Legislature will be dealing with the political divide and incivility of political discourse. This problem cannot be addressed through legislation, but rather through the example of individual legislators, setting aside differences and looking for common ground with a willingness toward compromise.\n2.\tWe must fully fund our public schools. We must remove the 3% cap on funding increases and have increases commensurate with the actual inflation rates.\n3.\tThe legislature must protect our right to privacy and guard against the erosion of our personal rights, which have been under attack by our current legislature. I will oppose any legislation that seeks to extend the hand of government into our personal lives.\n"
         },
         {
           "question": "Many Montanans are concerned about rising residential property taxes, which primarily fund local government services such as schools, counties and city/town programs but are calculated through a system set by the Legislature. What changes to the state tax system, if any, would you support to provide property tax relief while maintaining sufficient revenue for essential services?",
@@ -7731,7 +7731,7 @@
         },
         {
           "question": "Many education leaders are concerned that the state’s existing school funding formula isn’t keeping up with the costs of educating students. What proposals, if any, would you support to ensure adequate and sustainable long-term funding is available for public pre-K–12, college/university, and vocational education programs?",
-          "answer": ""
+          "answer": "Our public schools are the backbone of our communities and the focal point for civic engagement and unity. Strong public schools translate to strong communities that can thrive. Support for our public schools is of utmost importance. The current trend by our legislature to privatize education through charter schools or community choice schools is eroding that vital support. Charter schools should be rare and need a far more rigorous approval process. Community choice schools are unconstitutional and siphon tax dollars to pay for private education and should never be allowed. We cannot afford to lose any of our current public school funding and need to seek other funding sources that do not require increasing local property taxes. "
         }
       ]
     },
@@ -7811,7 +7811,25 @@
         }
       ]
     },
-    "coverage": [],
+    "coverage": [
+      {
+        "title": "Why Gianforte’s reelection bid has drawn a challenge from the right",
+        "date": "2024-05-16T16:25:31",
+        "link": "https://montanafreepress.org/2024/05/16/greg-gianforte-tanner-smith-fight-conservative-labels-montana-governor-primary/",
+        "tags": [
+          "2024 election Guide",
+          "2024 elections",
+          "Greg Gianforte",
+          "Llew Jones",
+          "Tanner Smith"
+        ],
+        "categories": [
+          "2024 Elections"
+        ],
+        "featuredImage": "https://montanafreepress.org/img_0058/",
+        "author": "Mara Silvers"
+      }
+    ],
     "opponents": [
       {
         "slug": "david-arends",

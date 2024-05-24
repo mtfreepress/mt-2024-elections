@@ -124,6 +124,8 @@ export default function CandidatePage({ pageData, votingFAQ }) {
                     <CandidateQuestionnaire
                         responses={questionnaire.responses}
                         displayName={displayName}
+                        currentCandidateSlug={slug}
+                        opponents={opponents}
                     /> :
                     <div className="note">No responses at this time.</div>
                 }

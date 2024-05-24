@@ -37,6 +37,7 @@ const fetchRaceData = async (cycle, office, district) => {
 const cleanRaceData = (raw) => {
     if (!raw.pages === 1) throw `Warning - may be missing data because of pagination error `
     return raw.results
+        .filter(d => d.candidate_id !== 'H4MT01090') // remove redundant Dennis Hayes 2024 filing
 }
 
 async function main() {
