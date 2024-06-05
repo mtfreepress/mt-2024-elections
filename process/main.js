@@ -77,6 +77,7 @@ candidates.forEach(candidate => {
             if (!match) console.log('No candidateSlug match for', candidateSlug)
             return match
         })
+        .filter(c => c.status === 'active')
         .map(c => {
             return {// include only fields necessary for opponent listings on candidate pages
                 slug: c.slug,
@@ -91,10 +92,12 @@ candidates.forEach(candidate => {
 
     if (race.finance) {
         candidate.finance = race.finance.map(competitor => {
+            const match = candidates.find(d => d.displayName === competitor.displayName)
+            console.log({ match: match.status })
             return {
                 ...competitor,
                 isThisCandidate: (competitor.displayName === candidate.displayName),
-                candidateStatus: candidate.status
+                candidateStatus: match.status
             }
         })
     } else {
@@ -115,18 +118,22 @@ candidates.forEach(candidate => {
 const overviewRaces = races.map(race => {
 
     const candidatesInRace = race.candidates.map(candidateSlug => candidates.find(c => c.slug === candidateSlug))
+    const activeCandidatesInRace = candidatesInRace.filter(d => d.status === 'active')
+    const inactiveCandidatesInRace = candidatesInRace.filter(d => d.status !== 'active')
+    const filterToSummaryFields = c => ({
+        // Include only fields necessary for summary page
+        slug: c.slug,
+        displayName: c.displayName,
+        summaryLine: c.summaryLine,
+        party: c.party,
+        hasResponses: c.questionnaire.hasResponses,
+        numMTFParticles: c.coverage.length,
+    })
     if (!(candidatesInRace.length > 0)) console.error('-- No candidates for race', race.raceSlug)
     return {
         ...race,
-        candidates: candidatesInRace.map(c => ({
-            // Include only fields necessary for summary page
-            slug: c.slug,
-            displayName: c.displayName,
-            summaryLine: c.summaryLine,
-            party: c.party,
-            hasResponses: c.questionnaire.hasResponses,
-            numMTFParticles: c.coverage.length,
-        })),
+        candidates: activeCandidatesInRace.map(filterToSummaryFields),
+        inactiveCandidates: inactiveCandidatesInRace.map(filterToSummaryFields),
     }
 })
 

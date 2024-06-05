@@ -16,7 +16,7 @@ summaryNarrative: |
 
 party: NP
 isIncumbent: false
-status: active
+status: lost-primary
 fecId:
 ## Campaign web links
 campaignWebsite:

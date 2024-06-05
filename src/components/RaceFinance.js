@@ -66,7 +66,7 @@ export default function RaceFinance(props) {
     const { finance, raceSlug } = props
 
     const activeCandidates = finance.filter(d => d.candidateStatus === 'active')
-    const inactiveCandidates = finance.filter(d => !d.candidateStatus === 'active')
+    const inactiveCandidates = finance.filter(d => d.candidateStatus !== 'active')
 
     const fecRaceSummaryUrl = FEC_PAGES[raceSlug]
     if (!fecRaceSummaryUrl) console.warn('Missing FEC race page for:', raceSlug)

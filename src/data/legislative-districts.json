@@ -547,7 +547,7 @@
         "party": "R",
         "cap_tracker_2023_link": "https://apps.montanafreepress.org/capitol-tracker-2023/lawmakers/Llew-Jones/",
         "hasResponses": false,
-        "numMTFParticles": 1
+        "numMTFParticles": 2
       },
       {
         "slug": "james-coombs",
@@ -3240,7 +3240,7 @@
         "displayName": "LINK NEIMARK",
         "party": "D",
         "cap_tracker_2023_link": null,
-        "hasResponses": false,
+        "hasResponses": true,
         "numMTFParticles": 0
       }
     ]

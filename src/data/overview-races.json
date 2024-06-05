@@ -14,15 +14,7 @@
         "summaryLine": "Incumbent U.S. senator",
         "party": "D",
         "hasResponses": true,
-        "numMTFParticles": 10
-      },
-      {
-        "slug": "brad-johnson",
-        "displayName": "Brad Johnson",
-        "summaryLine": "Former MT secretary of state",
-        "party": "R",
-        "hasResponses": true,
-        "numMTFParticles": 1
+        "numMTFParticles": 11
       },
       {
         "slug": "tim-sheehy",
@@ -30,7 +22,7 @@
         "summaryLine": "Bozeman businessman",
         "party": "R",
         "hasResponses": true,
-        "numMTFParticles": 16
+        "numMTFParticles": 17
       },
       {
         "slug": "sid-daud",
@@ -39,6 +31,66 @@
         "party": "L",
         "hasResponses": true,
         "numMTFParticles": 0
+      },
+      {
+        "slug": "michael-downey",
+        "displayName": "Michael Downey",
+        "summaryLine": "Helena resident",
+        "party": "G",
+        "hasResponses": false,
+        "numMTFParticles": 0
+      }
+    ],
+    "finance": [
+      {
+        "displayName": "Jon Tester",
+        "party": "D",
+        "candidateCommitteeName": "MONTANANS FOR TESTER",
+        "candidateId": "S6MT00162",
+        "totalReceipts": 37330566.84,
+        "totalDisbursments": 26017759.69,
+        "cashOnHand": 11793381.02,
+        "coverageEndDate": "2024-05-15"
+      },
+      {
+        "displayName": "Tim Sheehy",
+        "party": "R",
+        "candidateCommitteeName": "TIM SHEEHY FOR MONTANA",
+        "candidateId": "S4MT00183",
+        "totalReceipts": 10547437.14,
+        "totalDisbursments": 8324164.37,
+        "cashOnHand": 2223272.77,
+        "coverageEndDate": "2024-05-15"
+      },
+      {
+        "displayName": "Brad Johnson",
+        "party": "R",
+        "candidateCommitteeName": "BRAD FOR MONTANA",
+        "candidateId": "S2MT00062",
+        "totalReceipts": 42967.97,
+        "totalDisbursments": 39697.16,
+        "cashOnHand": 3270.81,
+        "coverageEndDate": "2024-05-15"
+      },
+      {
+        "displayName": "Charles Walkingchild",
+        "party": "R",
+        "candidateCommitteeName": "CHARLES WALKINGCHILD",
+        "candidateId": "S4MT00209",
+        "totalReceipts": 0,
+        "totalDisbursments": 0,
+        "cashOnHand": 0,
+        "coverageEndDate": null
+      }
+    ],
+    "inactiveCandidates": [
+      {
+        "slug": "brad-johnson",
+        "displayName": "Brad Johnson",
+        "summaryLine": "Former MT secretary of state",
+        "party": "R",
+        "hasResponses": true,
+        "numMTFParticles": 1
       },
       {
         "slug": "michael-hummert",
@@ -63,56 +115,6 @@
         "party": "G",
         "hasResponses": false,
         "numMTFParticles": 0
-      },
-      {
-        "slug": "michael-downey",
-        "displayName": "Michael Downey",
-        "summaryLine": "Helena resident",
-        "party": "G",
-        "hasResponses": false,
-        "numMTFParticles": 0
-      }
-    ],
-    "finance": [
-      {
-        "displayName": "Jon Tester",
-        "party": "D",
-        "candidateCommitteeName": "MONTANANS FOR TESTER",
-        "candidateId": "S6MT00162",
-        "totalReceipts": 33194755.44,
-        "totalDisbursments": 21021380.76,
-        "cashOnHand": 12653948.55,
-        "coverageEndDate": "2024-03-31"
-      },
-      {
-        "displayName": "Tim Sheehy",
-        "party": "R",
-        "candidateCommitteeName": "TIM SHEEHY FOR MONTANA",
-        "candidateId": "S4MT00183",
-        "totalReceipts": 8420818.62,
-        "totalDisbursments": 6494952.37,
-        "cashOnHand": 1925866.25,
-        "coverageEndDate": "2024-03-31"
-      },
-      {
-        "displayName": "Brad Johnson",
-        "party": "R",
-        "candidateCommitteeName": "BRAD FOR MONTANA",
-        "candidateId": "S2MT00062",
-        "totalReceipts": 38785.82,
-        "totalDisbursments": 35694.25,
-        "cashOnHand": 3091.57,
-        "coverageEndDate": "2024-03-31"
-      },
-      {
-        "displayName": "Charles Walkingchild",
-        "party": "R",
-        "candidateCommitteeName": "CHARLES WALKINGCHILD",
-        "candidateId": "S4MT00209",
-        "totalReceipts": 0,
-        "totalDisbursments": 0,
-        "cashOnHand": 0,
-        "coverageEndDate": null
       }
     ]
   },
@@ -131,15 +133,7 @@
         "summaryLine": "Incumbent U.S. representative",
         "party": "R",
         "hasResponses": true,
-        "numMTFParticles": 9
-      },
-      {
-        "slug": "mary-todd",
-        "displayName": "Mary Todd",
-        "summaryLine": "Kalispell pastor",
-        "party": "R",
-        "hasResponses": true,
-        "numMTFParticles": 2
+        "numMTFParticles": 10
       },
       {
         "slug": "monica-tranel",
@@ -147,7 +141,7 @@
         "summaryLine": "Missoula attorney",
         "party": "D",
         "hasResponses": true,
-        "numMTFParticles": 4
+        "numMTFParticles": 5
       },
       {
         "slug": "dennis-hayes",
@@ -156,14 +150,6 @@
         "party": "L",
         "hasResponses": true,
         "numMTFParticles": 1
-      },
-      {
-        "slug": "ernie-noble",
-        "displayName": "Ernie Noble",
-        "summaryLine": "Bozeman resident",
-        "party": "L",
-        "hasResponses": false,
-        "numMTFParticles": 0
       }
     ],
     "finance": [
@@ -172,20 +158,20 @@
         "party": "R",
         "candidateCommitteeName": "ZINKE FOR CONGRESS",
         "candidateId": "H4MT01041",
-        "totalReceipts": 5068933.56,
-        "totalDisbursments": 2848403.92,
-        "cashOnHand": 2330577.76,
-        "coverageEndDate": "2024-03-31"
+        "totalReceipts": 5752008.24,
+        "totalDisbursments": 3341562.2,
+        "cashOnHand": 2520494.16,
+        "coverageEndDate": "2024-05-15"
       },
       {
         "displayName": "Monica Tranel",
         "party": "D",
         "candidateCommitteeName": "MONICA TRANEL FOR MONTANA",
         "candidateId": "H2MT02092",
-        "totalReceipts": 1955947.14,
-        "totalDisbursments": 609760.8,
-        "cashOnHand": 1356071.99,
-        "coverageEndDate": "2024-03-31"
+        "totalReceipts": 2340724.68,
+        "totalDisbursments": 826277.4,
+        "cashOnHand": 1524332.93,
+        "coverageEndDate": "2024-05-15"
       },
       {
         "displayName": "Mary Todd",
@@ -207,6 +193,24 @@
         "cashOnHand": 0,
         "coverageEndDate": null
       }
+    ],
+    "inactiveCandidates": [
+      {
+        "slug": "mary-todd",
+        "displayName": "Mary Todd",
+        "summaryLine": "Kalispell pastor",
+        "party": "R",
+        "hasResponses": true,
+        "numMTFParticles": 2
+      },
+      {
+        "slug": "ernie-noble",
+        "displayName": "Ernie Noble",
+        "summaryLine": "Bozeman resident",
+        "party": "L",
+        "hasResponses": false,
+        "numMTFParticles": 0
+      }
     ]
   },
   {
@@ -218,6 +222,146 @@
     "description": "Eastern Montana representative in Congress. District includes Billings, Great Falls, Helena, Havre and Miles City. Elected to a two-year term.",
     "note": "Prior to 2022, Montana was represented by a single congressman elected on a statewide basis.",
     "candidates": [
+      {
+        "slug": "troy-downing",
+        "displayName": "Troy Downing",
+        "summaryLine": "State auditor",
+        "party": "R",
+        "hasResponses": false,
+        "numMTFParticles": 3
+      },
+      {
+        "slug": "john-driscoll",
+        "displayName": "John Driscoll",
+        "summaryLine": "Former public service commissioner",
+        "party": "D",
+        "hasResponses": true,
+        "numMTFParticles": 4
+      }
+    ],
+    "finance": [
+      {
+        "displayName": "Troy Downing",
+        "party": "R",
+        "candidateCommitteeName": "TROY DOWNING FOR CONGRESS",
+        "candidateId": "H4MT02098",
+        "totalReceipts": 1818816.51,
+        "totalDisbursments": 1383494.21,
+        "cashOnHand": 435322.3,
+        "coverageEndDate": "2024-05-15"
+      },
+      {
+        "displayName": "Elsie Arntzen",
+        "party": "R",
+        "candidateCommitteeName": "ELSIE ARNTZEN FOR CONGRESS",
+        "candidateId": "H4MT01058",
+        "totalReceipts": 871444.22,
+        "totalDisbursments": 805097.1,
+        "cashOnHand": 66347.12,
+        "coverageEndDate": "2024-05-15"
+      },
+      {
+        "displayName": "Denny Rehberg",
+        "party": "R",
+        "candidateCommitteeName": "MONTANANS FOR REHBERG 2024",
+        "candidateId": "H0MT00033",
+        "totalReceipts": 601991.74,
+        "totalDisbursments": 453928.28,
+        "cashOnHand": 148063.46,
+        "coverageEndDate": "2024-05-15"
+      },
+      {
+        "displayName": "Ed Walker",
+        "party": "R",
+        "candidateCommitteeName": "WALKER FOR MT",
+        "candidateId": "H8MT01190",
+        "totalReceipts": 113963.42,
+        "totalDisbursments": 89324.84,
+        "cashOnHand": 24638.58,
+        "coverageEndDate": "2024-05-15"
+      },
+      {
+        "displayName": "Steve Held",
+        "party": "D",
+        "candidateCommitteeName": "MONTANA HELD",
+        "candidateId": "H4MT02148",
+        "totalReceipts": 86570,
+        "totalDisbursments": 67945.68,
+        "cashOnHand": 18624.32,
+        "coverageEndDate": "2024-05-15"
+      },
+      {
+        "displayName": "Joel Krautter",
+        "party": "R",
+        "candidateCommitteeName": "JOEL KRAUTTER FOR MONTANA",
+        "candidateId": "H4MT02064",
+        "totalReceipts": 76533.89,
+        "totalDisbursments": 67136.23,
+        "cashOnHand": 9397.66,
+        "coverageEndDate": "2024-05-15"
+      },
+      {
+        "displayName": "Kevin Hamm",
+        "party": "D",
+        "candidateCommitteeName": "KEVIN HAMM FOR CONGRESS",
+        "candidateId": "H4MT02031",
+        "totalReceipts": 62689.41,
+        "totalDisbursments": 57628.12,
+        "cashOnHand": 5061.29,
+        "coverageEndDate": "2024-05-15"
+      },
+      {
+        "displayName": "Ming Cabrera",
+        "party": "D",
+        "candidateCommitteeName": "MING FOR CONGRESS",
+        "candidateId": "H4MT02056",
+        "totalReceipts": 60007,
+        "totalDisbursments": 41424.03,
+        "cashOnHand": 18582.97,
+        "coverageEndDate": "2024-05-22"
+      },
+      {
+        "displayName": "Ken Bogner",
+        "party": "R",
+        "candidateCommitteeName": "KEN BOGNER FOR CONGRESS",
+        "candidateId": "H4MT02114",
+        "totalReceipts": 54359.09,
+        "totalDisbursments": 43425.82,
+        "cashOnHand": 10933.27,
+        "coverageEndDate": "2024-05-15"
+      },
+      {
+        "displayName": "Ric Holden",
+        "party": "R",
+        "candidateCommitteeName": "RIC HOLDEN FOR MONTANA",
+        "candidateId": "H4MT02072",
+        "totalReceipts": 49248.05,
+        "totalDisbursments": 46540.55,
+        "cashOnHand": 2708,
+        "coverageEndDate": "2024-05-15"
+      },
+      {
+        "displayName": "Stacy Zinn",
+        "party": "R",
+        "candidateCommitteeName": "ZINN FOR MONTANA",
+        "candidateId": "H4MT02106",
+        "totalReceipts": 41460.84,
+        "totalDisbursments": 3091.01,
+        "cashOnHand": 38369.83,
+        "coverageEndDate": "2024-05-15"
+      },
+      {
+        "displayName": "Kyle Austin",
+        "party": "R",
+        "candidateCommitteeName": "AUSTIN FOR CONGRESS",
+        "candidateId": "H2MT02175",
+        "totalReceipts": 0,
+        "totalDisbursments": 0,
+        "cashOnHand": 500,
+        "coverageEndDate": "2024-05-15"
+      }
+    ],
+    "inactiveCandidates": [
       {
         "slug": "elsie-arntzen",
         "displayName": "Elsie Arntzen",
@@ -241,14 +385,6 @@
         "party": "R",
         "hasResponses": true,
         "numMTFParticles": 1
-      },
-      {
-        "slug": "troy-downing",
-        "displayName": "Troy Downing",
-        "summaryLine": "State auditor",
-        "party": "R",
-        "hasResponses": false,
-        "numMTFParticles": 2
       },
       {
         "slug": "ric-holden",
@@ -299,14 +435,6 @@
         "numMTFParticles": 4
       },
       {
-        "slug": "john-driscoll",
-        "displayName": "John Driscoll",
-        "summaryLine": "Former public service commissioner",
-        "party": "D",
-        "hasResponses": true,
-        "numMTFParticles": 4
-      },
-      {
         "slug": "kevin-hamm",
         "displayName": "Kevin Hamm",
         "summaryLine": "Helena resident",
@@ -321,128 +449,6 @@
         "party": "D",
         "hasResponses": true,
         "numMTFParticles": 3
-      }
-    ],
-    "finance": [
-      {
-        "displayName": "Troy Downing",
-        "party": "R",
-        "candidateCommitteeName": "TROY DOWNING FOR CONGRESS",
-        "candidateId": "H4MT02098",
-        "totalReceipts": 955323.6,
-        "totalDisbursments": 630110.55,
-        "cashOnHand": 325213.05,
-        "coverageEndDate": "2024-03-31"
-      },
-      {
-        "displayName": "Elsie Arntzen",
-        "party": "R",
-        "candidateCommitteeName": "ELSIE ARNTZEN FOR CONGRESS",
-        "candidateId": "H4MT01058",
-        "totalReceipts": 799283.88,
-        "totalDisbursments": 430436.32,
-        "cashOnHand": 368847.56,
-        "coverageEndDate": "2024-03-31"
-      },
-      {
-        "displayName": "Denny Rehberg",
-        "party": "R",
-        "candidateCommitteeName": "MONTANANS FOR REHBERG 2024",
-        "candidateId": "H0MT00033",
-        "totalReceipts": 379839.92,
-        "totalDisbursments": 7386.74,
-        "cashOnHand": 372453.18,
-        "coverageEndDate": "2024-03-31"
-      },
-      {
-        "displayName": "Ed Walker",
-        "party": "R",
-        "candidateCommitteeName": "WALKER FOR MT",
-        "candidateId": "H8MT01190",
-        "totalReceipts": 113937.42,
-        "totalDisbursments": 69742.54,
-        "cashOnHand": 44194.88,
-        "coverageEndDate": "2024-03-31"
-      },
-      {
-        "displayName": "Joel Krautter",
-        "party": "R",
-        "candidateCommitteeName": "JOEL KRAUTTER FOR MONTANA",
-        "candidateId": "H4MT02064",
-        "totalReceipts": 64561,
-        "totalDisbursments": 42301.09,
-        "cashOnHand": 22259.91,
-        "coverageEndDate": "2024-03-31"
-      },
-      {
-        "displayName": "Ming Cabrera",
-        "party": "D",
-        "candidateCommitteeName": "MING FOR CONGRESS",
-        "candidateId": "H4MT02056",
-        "totalReceipts": 55570,
-        "totalDisbursments": 34701.99,
-        "cashOnHand": 20868.01,
-        "coverageEndDate": "2024-03-31"
-      },
-      {
-        "displayName": "Kevin Hamm",
-        "party": "D",
-        "candidateCommitteeName": "KEVIN HAMM FOR CONGRESS",
-        "candidateId": "H4MT02031",
-        "totalReceipts": 52576.78,
-        "totalDisbursments": 49404.41,
-        "cashOnHand": 3172.37,
-        "coverageEndDate": "2024-03-31"
-      },
-      {
-        "displayName": "Ric Holden",
-        "party": "R",
-        "candidateCommitteeName": "RIC HOLDEN FOR MONTANA",
-        "candidateId": "H4MT02072",
-        "totalReceipts": 49248.05,
-        "totalDisbursments": 46540.55,
-        "cashOnHand": 2708,
-        "coverageEndDate": "2024-05-15"
-      },
-      {
-        "displayName": "Steve Held",
-        "party": "D",
-        "candidateCommitteeName": "MONTANA HELD",
-        "candidateId": "H4MT02148",
-        "totalReceipts": 46223,
-        "totalDisbursments": 7255.06,
-        "cashOnHand": 38967.94,
-        "coverageEndDate": "2024-03-31"
-      },
-      {
-        "displayName": "Ken Bogner",
-        "party": "R",
-        "candidateCommitteeName": "KEN BOGNER FOR CONGRESS",
-        "candidateId": "H4MT02114",
-        "totalReceipts": 39073.66,
-        "totalDisbursments": 29303.92,
-        "cashOnHand": 9769.74,
-        "coverageEndDate": "2024-03-31"
-      },
-      {
-        "displayName": "Stacy Zinn",
-        "party": "R",
-        "candidateCommitteeName": "ZINN FOR MONTANA",
-        "candidateId": "H4MT02106",
-        "totalReceipts": 26588.94,
-        "totalDisbursments": 2168.94,
-        "cashOnHand": 24420,
-        "coverageEndDate": "2024-03-31"
-      },
-      {
-        "displayName": "Kyle Austin",
-        "party": "R",
-        "candidateCommitteeName": "AUSTIN FOR CONGRESS",
-        "candidateId": "H2MT02175",
-        "totalReceipts": 0,
-        "totalDisbursments": 0,
-        "cashOnHand": 0,
-        "coverageEndDate": null
       }
     ]
   },
@@ -460,8 +466,27 @@
         "summaryLine": "Incumbent Montana governor",
         "party": "R",
         "hasResponses": true,
-        "numMTFParticles": 16
+        "numMTFParticles": 17
       },
+      {
+        "slug": "ryan-busse",
+        "displayName": "Ryan Busse",
+        "summaryLine": "Former firearms sales executive",
+        "party": "D",
+        "hasResponses": true,
+        "numMTFParticles": 7
+      },
+      {
+        "slug": "kaiser-leib",
+        "displayName": "Kaiser Leib",
+        "summaryLine": "Tech entrepreneur",
+        "party": "L",
+        "hasResponses": true,
+        "numMTFParticles": 1
+      }
+    ],
+    "finance": null,
+    "inactiveCandidates": [
       {
         "slug": "tanner-smith",
         "displayName": "Tanner Smith",
@@ -471,22 +496,6 @@
         "numMTFParticles": 4
       },
       {
-        "slug": "ryan-busse",
-        "displayName": "Ryan Busse",
-        "summaryLine": "Former firearms sales executive",
-        "party": "D",
-        "hasResponses": true,
-        "numMTFParticles": 6
-      },
-      {
-        "slug": "kaiser-leib",
-        "displayName": "Kaiser Leib",
-        "summaryLine": "Tech entrepreneur",
-        "party": "L",
-        "hasResponses": true,
-        "numMTFParticles": 1
-      },
-      {
         "slug": "jim-hunt",
         "displayName": "Jim Hunt",
         "summaryLine": "Helena attorney",
@@ -494,8 +503,7 @@
         "hasResponses": true,
         "numMTFParticles": 1
       }
-    ],
-    "finance": null
+    ]
   },
   {
     "raceSlug": "secretary-of-state",
@@ -530,7 +538,8 @@
         "numMTFParticles": 0
       }
     ],
-    "finance": null
+    "finance": null,
+    "inactiveCandidates": []
   },
   {
     "raceSlug": "attorney-general",
@@ -546,7 +555,7 @@
         "summaryLine": "Incumbent attorney general",
         "party": "R",
         "hasResponses": true,
-        "numMTFParticles": 11
+        "numMTFParticles": 12
       },
       {
         "slug": "ben-alke",
@@ -555,7 +564,10 @@
         "party": "D",
         "hasResponses": true,
         "numMTFParticles": 2
-      },
+      }
+    ],
+    "finance": null,
+    "inactiveCandidates": [
       {
         "slug": "logan-olson",
         "displayName": "Logan Olson",
@@ -564,8 +576,7 @@
         "hasResponses": false,
         "numMTFParticles": 0
       }
-    ],
-    "finance": null
+    ]
   },
   {
     "raceSlug": "superintendent",
@@ -576,20 +587,12 @@
     "note": null,
     "candidates": [
       {
-        "slug": "sharyl-allen",
-        "displayName": "Sharyl Allen",
-        "summaryLine": "Former Harrison Public School principal/superintendent",
-        "party": "R",
-        "hasResponses": true,
-        "numMTFParticles": 1
-      },
-      {
         "slug": "susie-hedalen",
         "displayName": "Susie Hedalen",
         "summaryLine": "Townsend School District superintendent",
         "party": "R",
         "hasResponses": true,
-        "numMTFParticles": 1
+        "numMTFParticles": 3
       },
       {
         "slug": "shannon-obrien",
@@ -600,7 +603,17 @@
         "numMTFParticles": 0
       }
     ],
-    "finance": null
+    "finance": null,
+    "inactiveCandidates": [
+      {
+        "slug": "sharyl-allen",
+        "displayName": "Sharyl Allen",
+        "summaryLine": "Former Harrison Public School principal/superintendent",
+        "party": "R",
+        "hasResponses": true,
+        "numMTFParticles": 2
+      }
+    ]
   },
   {
     "raceSlug": "state-auditor",
@@ -616,7 +629,7 @@
         "summaryLine": "Public Service Commission president",
         "party": "R",
         "hasResponses": true,
-        "numMTFParticles": 1
+        "numMTFParticles": 3
       },
       {
         "slug": "john-repke",
@@ -625,17 +638,19 @@
         "party": "D",
         "hasResponses": true,
         "numMTFParticles": 0
-      },
+      }
+    ],
+    "finance": null,
+    "inactiveCandidates": [
       {
         "slug": "john-jay-willoughby",
         "displayName": "John Jay Willoughby",
         "summaryLine": "Helena-area insurance salesman",
         "party": "R",
         "hasResponses": true,
-        "numMTFParticles": 0
+        "numMTFParticles": 1
       }
-    ],
-    "finance": null
+    ]
   },
   {
     "raceSlug": "supco-chief-justice",
@@ -654,14 +669,6 @@
         "numMTFParticles": 3
       },
       {
-        "slug": "doug-marshall",
-        "displayName": "Doug Marshall",
-        "summaryLine": "Carbon County attorney",
-        "party": "NP",
-        "hasResponses": false,
-        "numMTFParticles": 1
-      },
-      {
         "slug": "cory-swanson",
         "displayName": "Cory Swanson",
         "summaryLine": "Broadwater County attorney",
@@ -670,7 +677,17 @@
         "numMTFParticles": 3
       }
     ],
-    "finance": null
+    "finance": null,
+    "inactiveCandidates": [
+      {
+        "slug": "doug-marshall",
+        "displayName": "Doug Marshall",
+        "summaryLine": "Carbon County attorney",
+        "party": "NP",
+        "hasResponses": false,
+        "numMTFParticles": 1
+      }
+    ]
   },
   {
     "raceSlug": "supco-3",
@@ -689,14 +706,6 @@
         "numMTFParticles": 1
       },
       {
-        "slug": "jerry-oneil",
-        "displayName": "Jerry O'Neil",
-        "summaryLine": "Former state senator",
-        "party": "NP",
-        "hasResponses": true,
-        "numMTFParticles": 0
-      },
-      {
         "slug": "dan-wilson",
         "displayName": "Dan Wilson",
         "summaryLine": "State district court judge",
@@ -705,7 +714,17 @@
         "numMTFParticles": 1
       }
     ],
-    "finance": null
+    "finance": null,
+    "inactiveCandidates": [
+      {
+        "slug": "jerry-oneil",
+        "displayName": "Jerry O'Neil",
+        "summaryLine": "Former state senator",
+        "party": "NP",
+        "hasResponses": true,
+        "numMTFParticles": 0
+      }
+    ]
   },
   {
     "raceSlug": "clerk-of-court",
@@ -732,18 +751,21 @@
         "numMTFParticles": 1
       },
       {
-        "slug": "jordan-ophus",
-        "displayName": "Jordan Ophus",
-        "summaryLine": "U.S. Navy veteran",
-        "party": "D",
-        "hasResponses": true,
-        "numMTFParticles": 1
-      },
-      {
         "slug": "roger-roots",
         "displayName": "Roger Roots",
         "summaryLine": "Libertarian attorney",
         "party": "L",
+        "hasResponses": true,
+        "numMTFParticles": 1
+      }
+    ],
+    "finance": null,
+    "inactiveCandidates": [
+      {
+        "slug": "jordan-ophus",
+        "displayName": "Jordan Ophus",
+        "summaryLine": "U.S. Navy veteran",
+        "party": "D",
         "hasResponses": true,
         "numMTFParticles": 1
       },
@@ -755,8 +777,7 @@
         "hasResponses": false,
         "numMTFParticles": 1
       }
-    ],
-    "finance": null
+    ]
   },
   {
     "raceSlug": "psc-2",
@@ -766,14 +787,6 @@
     "description": "One of five seats on the state's utility regulation board, elected to a four-year term. The district spans south-central Montana, including parts of Bozeman and Billings.",
     "note": null,
     "candidates": [
-      {
-        "slug": "kirk-bushman",
-        "displayName": "Kirk Bushman",
-        "summaryLine": "Mechanical engineer",
-        "party": "R",
-        "hasResponses": true,
-        "numMTFParticles": 1
-      },
       {
         "slug": "brad-molnar",
         "displayName": "Brad Molnar",
@@ -791,7 +804,17 @@
         "numMTFParticles": 0
       }
     ],
-    "finance": null
+    "finance": null,
+    "inactiveCandidates": [
+      {
+        "slug": "kirk-bushman",
+        "displayName": "Kirk Bushman",
+        "summaryLine": "Mechanical engineer",
+        "party": "R",
+        "hasResponses": true,
+        "numMTFParticles": 1
+      }
+    ]
   },
   {
     "raceSlug": "psc-3",
@@ -801,14 +824,6 @@
     "description": "One of five seats on the state's utility regulation board, elected to a four-year term. The district spans central and southwest Montana, including Butte, Dillon, Lewistown, southern Ravalli County and parts of Bozeman and Helena.",
     "note": null,
     "candidates": [
-      {
-        "slug": "rob-elwood",
-        "displayName": "Rob Elwood",
-        "summaryLine": "Harlowton IT professional",
-        "party": "R",
-        "hasResponses": true,
-        "numMTFParticles": 1
-      },
       {
         "slug": "suzzann-nordwick",
         "displayName": "Suzzann Nordwick",
@@ -834,7 +849,17 @@
         "numMTFParticles": 0
       }
     ],
-    "finance": null
+    "finance": null,
+    "inactiveCandidates": [
+      {
+        "slug": "rob-elwood",
+        "displayName": "Rob Elwood",
+        "summaryLine": "Harlowton IT professional",
+        "party": "R",
+        "hasResponses": true,
+        "numMTFParticles": 1
+      }
+    ]
   },
   {
     "raceSlug": "psc-4",
@@ -853,6 +878,7 @@
         "numMTFParticles": 1
       }
     ],
-    "finance": null
+    "finance": null,
+    "inactiveCandidates": []
   }
 ]

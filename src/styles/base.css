@@ -167,6 +167,17 @@ img {
     /* overwrites default */
 }
 
+details {
+    border: 1px solid var(--gray2);
+    background: var(--gray1);
+    padding: 0.5em;
+
+}
+
+details>summary {
+    cursor: pointer;
+}
+
 table {
     border-collapse: collapse;
     font-size: 14px;
