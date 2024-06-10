@@ -54,6 +54,19 @@
       ]
     },
     "coverage": [],
+    "primaryResults": {
+      "race": "SD-2",
+      "party": "R",
+      "resultsTotal": [
+        {
+          "candidate": "DOUG ADAMS",
+          "votes": 2291,
+          "isWinner": true,
+          "votePercent": 1
+        }
+      ],
+      "reportingTime": "6/10/2024 12:53:41 PM"
+    },
     "opponents": [
       {
         "slug": "doug-adams",
@@ -124,6 +137,19 @@
       ]
     },
     "coverage": [],
+    "primaryResults": {
+      "race": "SD-2",
+      "party": "D",
+      "resultsTotal": [
+        {
+          "candidate": "DAVE FERN",
+          "votes": 2317,
+          "isWinner": true,
+          "votePercent": 1
+        }
+      ],
+      "reportingTime": "6/10/2024 12:53:41 PM"
+    },
     "opponents": [
       {
         "slug": "doug-adams",
@@ -194,6 +220,19 @@
       ]
     },
     "coverage": [],
+    "primaryResults": {
+      "race": "SD-3",
+      "party": "R",
+      "resultsTotal": [
+        {
+          "candidate": "CARL GLIMM",
+          "votes": 3761,
+          "isWinner": true,
+          "votePercent": 1
+        }
+      ],
+      "reportingTime": "6/10/2024 12:53:41 PM"
+    },
     "opponents": [
       {
         "slug": "carl-glimm",
@@ -264,6 +303,19 @@
       ]
     },
     "coverage": [],
+    "primaryResults": {
+      "race": "SD-3",
+      "party": "D",
+      "resultsTotal": [
+        {
+          "candidate": "ANGELA KENNEDY",
+          "votes": 1377,
+          "isWinner": true,
+          "votePercent": 1
+        }
+      ],
+      "reportingTime": "6/10/2024 12:53:41 PM"
+    },
     "opponents": [
       {
         "slug": "carl-glimm",
@@ -334,6 +386,25 @@
       ]
     },
     "coverage": [],
+    "primaryResults": {
+      "race": "SD-5",
+      "party": "R",
+      "resultsTotal": [
+        {
+          "candidate": "MATT REGIER",
+          "votes": 2862,
+          "isWinner": true,
+          "votePercent": 0.6680672268907563
+        },
+        {
+          "candidate": "MARQUIS L LAUDE",
+          "votes": 1422,
+          "isWinner": false,
+          "votePercent": 0.3319327731092437
+        }
+      ],
+      "reportingTime": "6/10/2024 12:53:41 PM"
+    },
     "opponents": [
       {
         "slug": "marquis-l-laude",
@@ -428,6 +499,25 @@
         "author": "MTFP Staff"
       }
     ],
+    "primaryResults": {
+      "race": "SD-5",
+      "party": "R",
+      "resultsTotal": [
+        {
+          "candidate": "MATT REGIER",
+          "votes": 2862,
+          "isWinner": true,
+          "votePercent": 0.6680672268907563
+        },
+        {
+          "candidate": "MARQUIS L LAUDE",
+          "votes": 1422,
+          "isWinner": false,
+          "votePercent": 0.3319327731092437
+        }
+      ],
+      "reportingTime": "6/10/2024 12:53:41 PM"
+    },
     "opponents": [
       {
         "slug": "marquis-l-laude",
@@ -504,6 +594,19 @@
       ]
     },
     "coverage": [],
+    "primaryResults": {
+      "race": "SD-5",
+      "party": "D",
+      "resultsTotal": [
+        {
+          "candidate": "LINK NEIMARK",
+          "votes": 1007,
+          "isWinner": true,
+          "votePercent": 1
+        }
+      ],
+      "reportingTime": "6/10/2024 12:53:41 PM"
+    },
     "opponents": [
       {
         "slug": "marquis-l-laude",
@@ -580,6 +683,19 @@
       ]
     },
     "coverage": [],
+    "primaryResults": {
+      "race": "SD-7",
+      "party": "R",
+      "resultsTotal": [
+        {
+          "candidate": "GREG HERTZ",
+          "votes": 4388,
+          "isWinner": true,
+          "votePercent": 1
+        }
+      ],
+      "reportingTime": "6/10/2024 12:53:41 PM"
+    },
     "opponents": [
       {
         "slug": "greg-hertz",
@@ -650,6 +766,19 @@
       ]
     },
     "coverage": [],
+    "primaryResults": {
+      "race": "SD-7",
+      "party": "D",
+      "resultsTotal": [
+        {
+          "candidate": "CRAIG PABLO",
+          "votes": 1570,
+          "isWinner": true,
+          "votePercent": 1
+        }
+      ],
+      "reportingTime": "6/10/2024 12:53:41 PM"
+    },
     "opponents": [
       {
         "slug": "greg-hertz",
@@ -720,6 +849,25 @@
       ]
     },
     "coverage": [],
+    "primaryResults": {
+      "race": "SD-13",
+      "party": "R",
+      "resultsTotal": [
+        {
+          "candidate": "JOSH KASSMIER",
+          "votes": 3321,
+          "isWinner": true,
+          "votePercent": 0.6444789443042888
+        },
+        {
+          "candidate": "LOLA SHELDON-GALLOWAY",
+          "votes": 1832,
+          "isWinner": false,
+          "votePercent": 0.35552105569571124
+        }
+      ],
+      "reportingTime": "6/10/2024 12:53:41 PM"
+    },
     "opponents": [
       {
         "slug": "lola-sheldon-galloway",
@@ -790,6 +938,25 @@
       ]
     },
     "coverage": [],
+    "primaryResults": {
+      "race": "SD-13",
+      "party": "R",
+      "resultsTotal": [
+        {
+          "candidate": "JOSH KASSMIER",
+          "votes": 3321,
+          "isWinner": true,
+          "votePercent": 0.6444789443042888
+        },
+        {
+          "candidate": "LOLA SHELDON-GALLOWAY",
+          "votes": 1832,
+          "isWinner": false,
+          "votePercent": 0.35552105569571124
+        }
+      ],
+      "reportingTime": "6/10/2024 12:53:41 PM"
+    },
     "opponents": [
       {
         "slug": "lola-sheldon-galloway",
@@ -860,6 +1027,25 @@
       ]
     },
     "coverage": [],
+    "primaryResults": {
+      "race": "SD-15",
+      "party": "R",
+      "resultsTotal": [
+        {
+          "candidate": "GREGG HUNTER",
+          "votes": 2911,
+          "isWinner": true,
+          "votePercent": 0.6218756675923948
+        },
+        {
+          "candidate": "RHONDA KNUDSEN",
+          "votes": 1770,
+          "isWinner": false,
+          "votePercent": 0.37812433240760523
+        }
+      ],
+      "reportingTime": "6/10/2024 12:53:41 PM"
+    },
     "opponents": [
       {
         "slug": "rhonda-knudsen",
@@ -930,6 +1116,25 @@
       ]
     },
     "coverage": [],
+    "primaryResults": {
+      "race": "SD-15",
+      "party": "R",
+      "resultsTotal": [
+        {
+          "candidate": "GREGG HUNTER",
+          "votes": 2911,
+          "isWinner": true,
+          "votePercent": 0.6218756675923948
+        },
+        {
+          "candidate": "RHONDA KNUDSEN",
+          "votes": 1770,
+          "isWinner": false,
+          "votePercent": 0.37812433240760523
+        }
+      ],
+      "reportingTime": "6/10/2024 12:53:41 PM"
+    },
     "opponents": [
       {
         "slug": "rhonda-knudsen",
@@ -1000,6 +1205,25 @@
       ]
     },
     "coverage": [],
+    "primaryResults": {
+      "race": "SD-16",
+      "party": "D",
+      "resultsTotal": [
+        {
+          "candidate": "JONATHAN WINDY BOY",
+          "votes": 648,
+          "isWinner": true,
+          "votePercent": 0.6785340314136126
+        },
+        {
+          "candidate": "BRIDGET SMITH",
+          "votes": 307,
+          "isWinner": false,
+          "votePercent": 0.32146596858638743
+        }
+      ],
+      "reportingTime": "6/10/2024 12:53:41 PM"
+    },
     "opponents": [
       {
         "slug": "jonathan-windy-boy",
@@ -1076,6 +1300,25 @@
       ]
     },
     "coverage": [],
+    "primaryResults": {
+      "race": "SD-16",
+      "party": "D",
+      "resultsTotal": [
+        {
+          "candidate": "JONATHAN WINDY BOY",
+          "votes": 648,
+          "isWinner": true,
+          "votePercent": 0.6785340314136126
+        },
+        {
+          "candidate": "BRIDGET SMITH",
+          "votes": 307,
+          "isWinner": false,
+          "votePercent": 0.32146596858638743
+        }
+      ],
+      "reportingTime": "6/10/2024 12:53:41 PM"
+    },
     "opponents": [
       {
         "slug": "jonathan-windy-boy",
@@ -1152,6 +1395,19 @@
       ]
     },
     "coverage": [],
+    "primaryResults": {
+      "race": "SD-16",
+      "party": "R",
+      "resultsTotal": [
+        {
+          "candidate": "PERRI A JACOBS",
+          "votes": 1300,
+          "isWinner": true,
+          "votePercent": 1
+        }
+      ],
+      "reportingTime": "6/10/2024 12:53:41 PM"
+    },
     "opponents": [
       {
         "slug": "jonathan-windy-boy",
@@ -1228,6 +1484,25 @@
       ]
     },
     "coverage": [],
+    "primaryResults": {
+      "race": "SD-17",
+      "party": "R",
+      "resultsTotal": [
+        {
+          "candidate": "BOB PHALEN",
+          "votes": 3588,
+          "isWinner": true,
+          "votePercent": 0.5987983978638184
+        },
+        {
+          "candidate": "MIKE NEWTON",
+          "votes": 2404,
+          "isWinner": false,
+          "votePercent": 0.40120160213618156
+        }
+      ],
+      "reportingTime": "6/10/2024 12:53:41 PM"
+    },
     "opponents": [
       {
         "slug": "mike-newton",
@@ -1298,6 +1573,25 @@
       ]
     },
     "coverage": [],
+    "primaryResults": {
+      "race": "SD-17",
+      "party": "R",
+      "resultsTotal": [
+        {
+          "candidate": "BOB PHALEN",
+          "votes": 3588,
+          "isWinner": true,
+          "votePercent": 0.5987983978638184
+        },
+        {
+          "candidate": "MIKE NEWTON",
+          "votes": 2404,
+          "isWinner": false,
+          "votePercent": 0.40120160213618156
+        }
+      ],
+      "reportingTime": "6/10/2024 12:53:41 PM"
+    },
     "opponents": [
       {
         "slug": "mike-newton",
@@ -1368,6 +1662,19 @@
       ]
     },
     "coverage": [],
+    "primaryResults": {
+      "race": "SD-20",
+      "party": "R",
+      "resultsTotal": [
+        {
+          "candidate": "SUE VINTON",
+          "votes": 3234,
+          "isWinner": true,
+          "votePercent": 1
+        }
+      ],
+      "reportingTime": "6/10/2024 12:53:41 PM"
+    },
     "opponents": [
       {
         "slug": "sue-vinton",
@@ -1438,6 +1745,19 @@
       ]
     },
     "coverage": [],
+    "primaryResults": {
+      "race": "SD-20",
+      "party": "D",
+      "resultsTotal": [
+        {
+          "candidate": "LINDA AUCH",
+          "votes": 1096,
+          "isWinner": true,
+          "votePercent": 1
+        }
+      ],
+      "reportingTime": "6/10/2024 12:53:41 PM"
+    },
     "opponents": [
       {
         "slug": "sue-vinton",
@@ -1508,6 +1828,25 @@
       ]
     },
     "coverage": [],
+    "primaryResults": {
+      "race": "SD-21",
+      "party": "D",
+      "resultsTotal": [
+        {
+          "candidate": "SHARON STEWART PEREGOY",
+          "votes": 554,
+          "isWinner": true,
+          "votePercent": 0.6121546961325967
+        },
+        {
+          "candidate": "RAE PEPPERS",
+          "votes": 351,
+          "isWinner": false,
+          "votePercent": 0.3878453038674033
+        }
+      ],
+      "reportingTime": "6/10/2024 12:53:41 PM"
+    },
     "opponents": [
       {
         "slug": "sharon-stewart-peregoy",
@@ -1584,6 +1923,19 @@
       ]
     },
     "coverage": [],
+    "primaryResults": {
+      "race": "SD-21",
+      "party": "R",
+      "resultsTotal": [
+        {
+          "candidate": "GAYLE GEORGE LAMMERS",
+          "votes": 1416,
+          "isWinner": true,
+          "votePercent": 1
+        }
+      ],
+      "reportingTime": "6/10/2024 12:53:41 PM"
+    },
     "opponents": [
       {
         "slug": "sharon-stewart-peregoy",
@@ -1660,6 +2012,25 @@
       ]
     },
     "coverage": [],
+    "primaryResults": {
+      "race": "SD-21",
+      "party": "D",
+      "resultsTotal": [
+        {
+          "candidate": "SHARON STEWART PEREGOY",
+          "votes": 554,
+          "isWinner": true,
+          "votePercent": 0.6121546961325967
+        },
+        {
+          "candidate": "RAE PEPPERS",
+          "votes": 351,
+          "isWinner": false,
+          "votePercent": 0.3878453038674033
+        }
+      ],
+      "reportingTime": "6/10/2024 12:53:41 PM"
+    },
     "opponents": [
       {
         "slug": "sharon-stewart-peregoy",
@@ -1736,6 +2107,19 @@
       ]
     },
     "coverage": [],
+    "primaryResults": {
+      "race": "SD-24",
+      "party": "D",
+      "resultsTotal": [
+        {
+          "candidate": "MARK H NICHOLSON",
+          "votes": 1271,
+          "isWinner": true,
+          "votePercent": 1
+        }
+      ],
+      "reportingTime": "6/10/2024 12:53:41 PM"
+    },
     "opponents": [
       {
         "slug": "mark-h-nicholson",
@@ -1806,6 +2190,19 @@
       ]
     },
     "coverage": [],
+    "primaryResults": {
+      "race": "SD-24",
+      "party": "R",
+      "resultsTotal": [
+        {
+          "candidate": "MIKE YAKAWICH",
+          "votes": 1733,
+          "isWinner": true,
+          "votePercent": 1
+        }
+      ],
+      "reportingTime": "6/10/2024 12:53:41 PM"
+    },
     "opponents": [
       {
         "slug": "mark-h-nicholson",
@@ -1876,6 +2273,19 @@
       ]
     },
     "coverage": [],
+    "primaryResults": {
+      "race": "SD-26",
+      "party": "R",
+      "resultsTotal": [
+        {
+          "candidate": "TOM MCGILLVRAY",
+          "votes": 3918,
+          "isWinner": true,
+          "votePercent": 1
+        }
+      ],
+      "reportingTime": "6/10/2024 12:53:41 PM"
+    },
     "opponents": [
       {
         "slug": "tom-mcgillvray",
@@ -1946,6 +2356,19 @@
       ]
     },
     "coverage": [],
+    "primaryResults": {
+      "race": "SD-26",
+      "party": "D",
+      "resultsTotal": [
+        {
+          "candidate": "KAREN LYNCOLN",
+          "votes": 1793,
+          "isWinner": true,
+          "votePercent": 1
+        }
+      ],
+      "reportingTime": "6/10/2024 12:53:41 PM"
+    },
     "opponents": [
       {
         "slug": "tom-mcgillvray",
@@ -2016,6 +2439,25 @@
       ]
     },
     "coverage": [],
+    "primaryResults": {
+      "race": "SD-27",
+      "party": "R",
+      "resultsTotal": [
+        {
+          "candidate": "VINCE RICCI",
+          "votes": 2508,
+          "isWinner": true,
+          "votePercent": 0.6065296251511487
+        },
+        {
+          "candidate": "CHRIS FRIEDEL",
+          "votes": 1627,
+          "isWinner": false,
+          "votePercent": 0.3934703748488513
+        }
+      ],
+      "reportingTime": "6/10/2024 12:53:41 PM"
+    },
     "opponents": [
       {
         "slug": "chris-friedel",
@@ -2092,6 +2534,19 @@
       ]
     },
     "coverage": [],
+    "primaryResults": {
+      "race": "SD-27",
+      "party": "D",
+      "resultsTotal": [
+        {
+          "candidate": "KATHLEEN GILLULY",
+          "votes": 1152,
+          "isWinner": true,
+          "votePercent": 1
+        }
+      ],
+      "reportingTime": "6/10/2024 12:53:41 PM"
+    },
     "opponents": [
       {
         "slug": "chris-friedel",
@@ -2168,6 +2623,25 @@
       ]
     },
     "coverage": [],
+    "primaryResults": {
+      "race": "SD-27",
+      "party": "R",
+      "resultsTotal": [
+        {
+          "candidate": "VINCE RICCI",
+          "votes": 2508,
+          "isWinner": true,
+          "votePercent": 0.6065296251511487
+        },
+        {
+          "candidate": "CHRIS FRIEDEL",
+          "votes": 1627,
+          "isWinner": false,
+          "votePercent": 0.3934703748488513
+        }
+      ],
+      "reportingTime": "6/10/2024 12:53:41 PM"
+    },
     "opponents": [
       {
         "slug": "chris-friedel",
@@ -2244,6 +2718,19 @@
       ]
     },
     "coverage": [],
+    "primaryResults": {
+      "race": "SD-30",
+      "party": "D",
+      "resultsTotal": [
+        {
+          "candidate": "CORA NEUMANN",
+          "votes": 2990,
+          "isWinner": true,
+          "votePercent": 1
+        }
+      ],
+      "reportingTime": "6/10/2024 12:53:41 PM"
+    },
     "opponents": [
       {
         "slug": "cora-neumann",
@@ -2314,6 +2801,19 @@
       ]
     },
     "coverage": [],
+    "primaryResults": {
+      "race": "SD-30",
+      "party": "R",
+      "resultsTotal": [
+        {
+          "candidate": "TYLER ROGERS",
+          "votes": 2031,
+          "isWinner": true,
+          "votePercent": 1
+        }
+      ],
+      "reportingTime": "6/10/2024 12:53:41 PM"
+    },
     "opponents": [
       {
         "slug": "cora-neumann",
@@ -2384,6 +2884,19 @@
       ]
     },
     "coverage": [],
+    "primaryResults": {
+      "race": "SD-33",
+      "party": "D",
+      "resultsTotal": [
+        {
+          "candidate": "CHRISTOPHER POPE",
+          "votes": 2810,
+          "isWinner": true,
+          "votePercent": 1
+        }
+      ],
+      "reportingTime": "6/10/2024 12:53:41 PM"
+    },
     "opponents": [
       {
         "slug": "christopher-pope",
@@ -2454,6 +2967,19 @@
       ]
     },
     "coverage": [],
+    "primaryResults": {
+      "race": "SD-33",
+      "party": "R",
+      "resultsTotal": [
+        {
+          "candidate": "NEAL GANSER",
+          "votes": 2181,
+          "isWinner": true,
+          "votePercent": 1
+        }
+      ],
+      "reportingTime": "6/10/2024 12:53:41 PM"
+    },
     "opponents": [
       {
         "slug": "christopher-pope",
@@ -2524,6 +3050,31 @@
       ]
     },
     "coverage": [],
+    "primaryResults": {
+      "race": "SD-35",
+      "party": "R",
+      "resultsTotal": [
+        {
+          "candidate": "TONY TEZAK",
+          "votes": 2256,
+          "isWinner": true,
+          "votePercent": 0.394198846758693
+        },
+        {
+          "candidate": "RAY SHAW",
+          "votes": 2216,
+          "isWinner": false,
+          "votePercent": 0.3872095055041062
+        },
+        {
+          "candidate": "MARK (MJ) MCGINLEY",
+          "votes": 1251,
+          "isWinner": false,
+          "votePercent": 0.21859164773720077
+        }
+      ],
+      "reportingTime": "6/10/2024 12:53:41 PM"
+    },
     "opponents": [
       {
         "slug": "mark-(mj)-mcginley",
@@ -2600,6 +3151,31 @@
       ]
     },
     "coverage": [],
+    "primaryResults": {
+      "race": "SD-35",
+      "party": "R",
+      "resultsTotal": [
+        {
+          "candidate": "TONY TEZAK",
+          "votes": 2256,
+          "isWinner": true,
+          "votePercent": 0.394198846758693
+        },
+        {
+          "candidate": "RAY SHAW",
+          "votes": 2216,
+          "isWinner": false,
+          "votePercent": 0.3872095055041062
+        },
+        {
+          "candidate": "MARK (MJ) MCGINLEY",
+          "votes": 1251,
+          "isWinner": false,
+          "votePercent": 0.21859164773720077
+        }
+      ],
+      "reportingTime": "6/10/2024 12:53:41 PM"
+    },
     "opponents": [
       {
         "slug": "mark-(mj)-mcginley",
@@ -2676,6 +3252,31 @@
       ]
     },
     "coverage": [],
+    "primaryResults": {
+      "race": "SD-35",
+      "party": "R",
+      "resultsTotal": [
+        {
+          "candidate": "TONY TEZAK",
+          "votes": 2256,
+          "isWinner": true,
+          "votePercent": 0.394198846758693
+        },
+        {
+          "candidate": "RAY SHAW",
+          "votes": 2216,
+          "isWinner": false,
+          "votePercent": 0.3872095055041062
+        },
+        {
+          "candidate": "MARK (MJ) MCGINLEY",
+          "votes": 1251,
+          "isWinner": false,
+          "votePercent": 0.21859164773720077
+        }
+      ],
+      "reportingTime": "6/10/2024 12:53:41 PM"
+    },
     "opponents": [
       {
         "slug": "mark-(mj)-mcginley",
@@ -2752,6 +3353,25 @@
       ]
     },
     "coverage": [],
+    "primaryResults": {
+      "race": "SD-36",
+      "party": "D",
+      "resultsTotal": [
+        {
+          "candidate": "SARA NOVAK",
+          "votes": 2404,
+          "isWinner": true,
+          "votePercent": 0.6351387054161163
+        },
+        {
+          "candidate": "JESSICA WICKS",
+          "votes": 1381,
+          "isWinner": false,
+          "votePercent": 0.3648612945838838
+        }
+      ],
+      "reportingTime": "6/10/2024 12:53:41 PM"
+    },
     "opponents": [
       {
         "slug": "jessica-wicks",
@@ -2828,6 +3448,25 @@
       ]
     },
     "coverage": [],
+    "primaryResults": {
+      "race": "SD-36",
+      "party": "D",
+      "resultsTotal": [
+        {
+          "candidate": "SARA NOVAK",
+          "votes": 2404,
+          "isWinner": true,
+          "votePercent": 0.6351387054161163
+        },
+        {
+          "candidate": "JESSICA WICKS",
+          "votes": 1381,
+          "isWinner": false,
+          "votePercent": 0.3648612945838838
+        }
+      ],
+      "reportingTime": "6/10/2024 12:53:41 PM"
+    },
     "opponents": [
       {
         "slug": "jessica-wicks",
@@ -2904,6 +3543,19 @@
       ]
     },
     "coverage": [],
+    "primaryResults": {
+      "race": "SD-36",
+      "party": "R",
+      "resultsTotal": [
+        {
+          "candidate": "DARLEAN NEWMAN",
+          "votes": 1930,
+          "isWinner": true,
+          "votePercent": 1
+        }
+      ],
+      "reportingTime": "6/10/2024 12:53:41 PM"
+    },
     "opponents": [
       {
         "slug": "jessica-wicks",
@@ -2980,6 +3632,19 @@
       ]
     },
     "coverage": [],
+    "primaryResults": {
+      "race": "SD-37",
+      "party": "D",
+      "resultsTotal": [
+        {
+          "candidate": "DEREK J HARVEY",
+          "votes": 3654,
+          "isWinner": true,
+          "votePercent": 1
+        }
+      ],
+      "reportingTime": "6/10/2024 12:53:41 PM"
+    },
     "opponents": [
       {
         "slug": "derek-j-harvey",
@@ -3050,6 +3715,19 @@
       ]
     },
     "coverage": [],
+    "primaryResults": {
+      "race": "SD-37",
+      "party": "R",
+      "resultsTotal": [
+        {
+          "candidate": "JIM KEPHART",
+          "votes": 2014,
+          "isWinner": true,
+          "votePercent": 1
+        }
+      ],
+      "reportingTime": "6/10/2024 12:53:41 PM"
+    },
     "opponents": [
       {
         "slug": "derek-j-harvey",
@@ -3120,6 +3798,31 @@
       ]
     },
     "coverage": [],
+    "primaryResults": {
+      "race": "SD-38",
+      "party": "R",
+      "resultsTotal": [
+        {
+          "candidate": "BECKY BEARD",
+          "votes": 2532,
+          "isWinner": true,
+          "votePercent": 0.4829296204463094
+        },
+        {
+          "candidate": "GREGORY FRAZER",
+          "votes": 1371,
+          "isWinner": false,
+          "votePercent": 0.26149151249284763
+        },
+        {
+          "candidate": "JEREMY MYGLAND",
+          "votes": 1340,
+          "isWinner": false,
+          "votePercent": 0.25557886706084304
+        }
+      ],
+      "reportingTime": "6/10/2024 12:53:41 PM"
+    },
     "opponents": [
       {
         "slug": "becky-beard",
@@ -3202,6 +3905,31 @@
       ]
     },
     "coverage": [],
+    "primaryResults": {
+      "race": "SD-38",
+      "party": "R",
+      "resultsTotal": [
+        {
+          "candidate": "BECKY BEARD",
+          "votes": 2532,
+          "isWinner": true,
+          "votePercent": 0.4829296204463094
+        },
+        {
+          "candidate": "GREGORY FRAZER",
+          "votes": 1371,
+          "isWinner": false,
+          "votePercent": 0.26149151249284763
+        },
+        {
+          "candidate": "JEREMY MYGLAND",
+          "votes": 1340,
+          "isWinner": false,
+          "votePercent": 0.25557886706084304
+        }
+      ],
+      "reportingTime": "6/10/2024 12:53:41 PM"
+    },
     "opponents": [
       {
         "slug": "becky-beard",
@@ -3284,6 +4012,19 @@
       ]
     },
     "coverage": [],
+    "primaryResults": {
+      "race": "SD-38",
+      "party": "D",
+      "resultsTotal": [
+        {
+          "candidate": "JEFFREY BENSON",
+          "votes": 1799,
+          "isWinner": true,
+          "votePercent": 1
+        }
+      ],
+      "reportingTime": "6/10/2024 12:53:41 PM"
+    },
     "opponents": [
       {
         "slug": "becky-beard",
@@ -3366,6 +4107,31 @@
       ]
     },
     "coverage": [],
+    "primaryResults": {
+      "race": "SD-38",
+      "party": "R",
+      "resultsTotal": [
+        {
+          "candidate": "BECKY BEARD",
+          "votes": 2532,
+          "isWinner": true,
+          "votePercent": 0.4829296204463094
+        },
+        {
+          "candidate": "GREGORY FRAZER",
+          "votes": 1371,
+          "isWinner": false,
+          "votePercent": 0.26149151249284763
+        },
+        {
+          "candidate": "JEREMY MYGLAND",
+          "votes": 1340,
+          "isWinner": false,
+          "votePercent": 0.25557886706084304
+        }
+      ],
+      "reportingTime": "6/10/2024 12:53:41 PM"
+    },
     "opponents": [
       {
         "slug": "becky-beard",
@@ -3448,6 +4214,19 @@
       ]
     },
     "coverage": [],
+    "primaryResults": {
+      "race": "SD-39",
+      "party": "R",
+      "resultsTotal": [
+        {
+          "candidate": "E WYLIE GALT",
+          "votes": 5074,
+          "isWinner": true,
+          "votePercent": 1
+        }
+      ],
+      "reportingTime": "6/10/2024 12:53:41 PM"
+    },
     "opponents": [
       {
         "slug": "e-wylie-galt",
@@ -3518,6 +4297,19 @@
       ]
     },
     "coverage": [],
+    "primaryResults": {
+      "race": "SD-39",
+      "party": "D",
+      "resultsTotal": [
+        {
+          "candidate": "BRUCE SHULTZ",
+          "votes": 1078,
+          "isWinner": true,
+          "votePercent": 1
+        }
+      ],
+      "reportingTime": "6/10/2024 12:53:41 PM"
+    },
     "opponents": [
       {
         "slug": "e-wylie-galt",
@@ -3588,6 +4380,19 @@
       ]
     },
     "coverage": [],
+    "primaryResults": {
+      "race": "SD-40",
+      "party": "D",
+      "resultsTotal": [
+        {
+          "candidate": "LAURA SMITH",
+          "votes": 3198,
+          "isWinner": true,
+          "votePercent": 1
+        }
+      ],
+      "reportingTime": "6/10/2024 12:53:41 PM"
+    },
     "opponents": [
       {
         "slug": "laura-smith",
@@ -3658,6 +4463,19 @@
       ]
     },
     "coverage": [],
+    "primaryResults": {
+      "race": "SD-40",
+      "party": "R",
+      "resultsTotal": [
+        {
+          "candidate": "GREG L GUTHRIE",
+          "votes": 2546,
+          "isWinner": true,
+          "votePercent": 1
+        }
+      ],
+      "reportingTime": "6/10/2024 12:53:41 PM"
+    },
     "opponents": [
       {
         "slug": "laura-smith",
@@ -3728,6 +4546,31 @@
       ]
     },
     "coverage": [],
+    "primaryResults": {
+      "race": "SD-44",
+      "party": "R",
+      "resultsTotal": [
+        {
+          "candidate": "THERESA MANZELLA",
+          "votes": 3013,
+          "isWinner": true,
+          "votePercent": 0.49328749181401443
+        },
+        {
+          "candidate": "WAYNE RUSK",
+          "votes": 2606,
+          "isWinner": false,
+          "votePercent": 0.4266535690897184
+        },
+        {
+          "candidate": "BRAD DAVIS",
+          "votes": 489,
+          "isWinner": false,
+          "votePercent": 0.08005893909626718
+        }
+      ],
+      "reportingTime": "6/10/2024 12:53:41 PM"
+    },
     "opponents": [
       {
         "slug": "wayne-rusk",
@@ -3810,6 +4653,31 @@
       ]
     },
     "coverage": [],
+    "primaryResults": {
+      "race": "SD-44",
+      "party": "R",
+      "resultsTotal": [
+        {
+          "candidate": "THERESA MANZELLA",
+          "votes": 3013,
+          "isWinner": true,
+          "votePercent": 0.49328749181401443
+        },
+        {
+          "candidate": "WAYNE RUSK",
+          "votes": 2606,
+          "isWinner": false,
+          "votePercent": 0.4266535690897184
+        },
+        {
+          "candidate": "BRAD DAVIS",
+          "votes": 489,
+          "isWinner": false,
+          "votePercent": 0.08005893909626718
+        }
+      ],
+      "reportingTime": "6/10/2024 12:53:41 PM"
+    },
     "opponents": [
       {
         "slug": "wayne-rusk",
@@ -3892,6 +4760,31 @@
       ]
     },
     "coverage": [],
+    "primaryResults": {
+      "race": "SD-44",
+      "party": "R",
+      "resultsTotal": [
+        {
+          "candidate": "THERESA MANZELLA",
+          "votes": 3013,
+          "isWinner": true,
+          "votePercent": 0.49328749181401443
+        },
+        {
+          "candidate": "WAYNE RUSK",
+          "votes": 2606,
+          "isWinner": false,
+          "votePercent": 0.4266535690897184
+        },
+        {
+          "candidate": "BRAD DAVIS",
+          "votes": 489,
+          "isWinner": false,
+          "votePercent": 0.08005893909626718
+        }
+      ],
+      "reportingTime": "6/10/2024 12:53:41 PM"
+    },
     "opponents": [
       {
         "slug": "wayne-rusk",
@@ -3974,6 +4867,19 @@
       ]
     },
     "coverage": [],
+    "primaryResults": {
+      "race": "SD-44",
+      "party": "D",
+      "resultsTotal": [
+        {
+          "candidate": "CADE SCATOLINI",
+          "votes": 1327,
+          "isWinner": true,
+          "votePercent": 1
+        }
+      ],
+      "reportingTime": "6/10/2024 12:53:41 PM"
+    },
     "opponents": [
       {
         "slug": "wayne-rusk",
@@ -4056,6 +4962,25 @@
       ]
     },
     "coverage": [],
+    "primaryResults": {
+      "race": "SD-45",
+      "party": "R",
+      "resultsTotal": [
+        {
+          "candidate": "DENLEY M LOGE",
+          "votes": 2932,
+          "isWinner": true,
+          "votePercent": 0.7095837366892546
+        },
+        {
+          "candidate": "ANNAMARIE WHITE",
+          "votes": 1200,
+          "isWinner": false,
+          "votePercent": 0.2904162633107454
+        }
+      ],
+      "reportingTime": "6/10/2024 12:53:41 PM"
+    },
     "opponents": [
       {
         "slug": "denley-m-loge",
@@ -4132,6 +5057,19 @@
       ]
     },
     "coverage": [],
+    "primaryResults": {
+      "race": "SD-45",
+      "party": "D",
+      "resultsTotal": [
+        {
+          "candidate": "DEVIN JACKSON",
+          "votes": 2020,
+          "isWinner": true,
+          "votePercent": 1
+        }
+      ],
+      "reportingTime": "6/10/2024 12:53:41 PM"
+    },
     "opponents": [
       {
         "slug": "denley-m-loge",
@@ -4208,6 +5146,25 @@
       ]
     },
     "coverage": [],
+    "primaryResults": {
+      "race": "SD-45",
+      "party": "R",
+      "resultsTotal": [
+        {
+          "candidate": "DENLEY M LOGE",
+          "votes": 2932,
+          "isWinner": true,
+          "votePercent": 0.7095837366892546
+        },
+        {
+          "candidate": "ANNAMARIE WHITE",
+          "votes": 1200,
+          "isWinner": false,
+          "votePercent": 0.2904162633107454
+        }
+      ],
+      "reportingTime": "6/10/2024 12:53:41 PM"
+    },
     "opponents": [
       {
         "slug": "denley-m-loge",
@@ -4284,6 +5241,25 @@
       ]
     },
     "coverage": [],
+    "primaryResults": {
+      "race": "SD-46",
+      "party": "D",
+      "resultsTotal": [
+        {
+          "candidate": "JACINDA MORIGEAU",
+          "votes": 1759,
+          "isWinner": true,
+          "votePercent": 0.5395705521472393
+        },
+        {
+          "candidate": "C B PEARSON",
+          "votes": 1501,
+          "isWinner": false,
+          "votePercent": 0.46042944785276074
+        }
+      ],
+      "reportingTime": "6/10/2024 12:53:41 PM"
+    },
     "opponents": [
       {
         "slug": "c-b-pearson",
@@ -4360,6 +5336,19 @@
       ]
     },
     "coverage": [],
+    "primaryResults": {
+      "race": "SD-46",
+      "party": "R",
+      "resultsTotal": [
+        {
+          "candidate": "CHARLES HEADLEY",
+          "votes": 2169,
+          "isWinner": true,
+          "votePercent": 1
+        }
+      ],
+      "reportingTime": "6/10/2024 12:53:41 PM"
+    },
     "opponents": [
       {
         "slug": "c-b-pearson",
@@ -4436,6 +5425,25 @@
       ]
     },
     "coverage": [],
+    "primaryResults": {
+      "race": "SD-46",
+      "party": "D",
+      "resultsTotal": [
+        {
+          "candidate": "JACINDA MORIGEAU",
+          "votes": 1759,
+          "isWinner": true,
+          "votePercent": 0.5395705521472393
+        },
+        {
+          "candidate": "C B PEARSON",
+          "votes": 1501,
+          "isWinner": false,
+          "votePercent": 0.46042944785276074
+        }
+      ],
+      "reportingTime": "6/10/2024 12:53:41 PM"
+    },
     "opponents": [
       {
         "slug": "c-b-pearson",
@@ -4512,6 +5520,19 @@
       ]
     },
     "coverage": [],
+    "primaryResults": {
+      "race": "SD-47",
+      "party": "D",
+      "resultsTotal": [
+        {
+          "candidate": "ELLIE HILL BOLDMAN",
+          "votes": 3499,
+          "isWinner": true,
+          "votePercent": 1
+        }
+      ],
+      "reportingTime": "6/10/2024 12:53:41 PM"
+    },
     "opponents": [
       {
         "slug": "ellie-hill-boldman",
@@ -4588,6 +5609,25 @@
       ]
     },
     "coverage": [],
+    "primaryResults": {
+      "race": "SD-47",
+      "party": "R",
+      "resultsTotal": [
+        {
+          "candidate": "ABIGAIL MAKI",
+          "votes": 1490,
+          "isWinner": true,
+          "votePercent": 0.6754306436990027
+        },
+        {
+          "candidate": "ERICA SIATE",
+          "votes": 716,
+          "isWinner": false,
+          "votePercent": 0.32456935630099726
+        }
+      ],
+      "reportingTime": "6/10/2024 12:53:41 PM"
+    },
     "opponents": [
       {
         "slug": "ellie-hill-boldman",
@@ -4664,6 +5704,25 @@
       ]
     },
     "coverage": [],
+    "primaryResults": {
+      "race": "SD-47",
+      "party": "R",
+      "resultsTotal": [
+        {
+          "candidate": "ABIGAIL MAKI",
+          "votes": 1490,
+          "isWinner": true,
+          "votePercent": 0.6754306436990027
+        },
+        {
+          "candidate": "ERICA SIATE",
+          "votes": 716,
+          "isWinner": false,
+          "votePercent": 0.32456935630099726
+        }
+      ],
+      "reportingTime": "6/10/2024 12:53:41 PM"
+    },
     "opponents": [
       {
         "slug": "ellie-hill-boldman",
@@ -4740,6 +5799,19 @@
       ]
     },
     "coverage": [],
+    "primaryResults": {
+      "race": "HD-1",
+      "party": "R",
+      "resultsTotal": [
+        {
+          "candidate": "NEIL DURAM",
+          "votes": 1885,
+          "isWinner": true,
+          "votePercent": 1
+        }
+      ],
+      "reportingTime": "6/10/2024 12:53:41 PM"
+    },
     "opponents": [
       {
         "slug": "neil-duram",
@@ -4810,6 +5882,19 @@
       ]
     },
     "coverage": [],
+    "primaryResults": {
+      "race": "HD-1",
+      "party": "D",
+      "resultsTotal": [
+        {
+          "candidate": "DAKOTA V ADAMS",
+          "votes": 460,
+          "isWinner": true,
+          "votePercent": 1
+        }
+      ],
+      "reportingTime": "6/10/2024 12:53:41 PM"
+    },
     "opponents": [
       {
         "slug": "neil-duram",
@@ -4880,6 +5965,25 @@
       ]
     },
     "coverage": [],
+    "primaryResults": {
+      "race": "HD-2",
+      "party": "R",
+      "resultsTotal": [
+        {
+          "candidate": "TOM MILLETT",
+          "votes": 1266,
+          "isWinner": true,
+          "votePercent": 0.5715575620767495
+        },
+        {
+          "candidate": "THOMAS JENKINS",
+          "votes": 949,
+          "isWinner": false,
+          "votePercent": 0.42844243792325054
+        }
+      ],
+      "reportingTime": "6/10/2024 12:53:41 PM"
+    },
     "opponents": [
       {
         "slug": "tom-millett",
@@ -4956,6 +6060,25 @@
       ]
     },
     "coverage": [],
+    "primaryResults": {
+      "race": "HD-2",
+      "party": "R",
+      "resultsTotal": [
+        {
+          "candidate": "TOM MILLETT",
+          "votes": 1266,
+          "isWinner": true,
+          "votePercent": 0.5715575620767495
+        },
+        {
+          "candidate": "THOMAS JENKINS",
+          "votes": 949,
+          "isWinner": false,
+          "votePercent": 0.42844243792325054
+        }
+      ],
+      "reportingTime": "6/10/2024 12:53:41 PM"
+    },
     "opponents": [
       {
         "slug": "tom-millett",
@@ -5032,6 +6155,19 @@
       ]
     },
     "coverage": [],
+    "primaryResults": {
+      "race": "HD-2",
+      "party": "D",
+      "resultsTotal": [
+        {
+          "candidate": "ELIZABETH STORY",
+          "votes": 537,
+          "isWinner": true,
+          "votePercent": 1
+        }
+      ],
+      "reportingTime": "6/10/2024 12:53:41 PM"
+    },
     "opponents": [
       {
         "slug": "tom-millett",
@@ -5108,6 +6244,25 @@
       ]
     },
     "coverage": [],
+    "primaryResults": {
+      "race": "HD-3",
+      "party": "D",
+      "resultsTotal": [
+        {
+          "candidate": "DEBO POWERS",
+          "votes": 993,
+          "isWinner": true,
+          "votePercent": 0.7323008849557522
+        },
+        {
+          "candidate": "GUTHRIE QUIST",
+          "votes": 363,
+          "isWinner": false,
+          "votePercent": 0.2676991150442478
+        }
+      ],
+      "reportingTime": "6/10/2024 12:53:41 PM"
+    },
     "opponents": [
       {
         "slug": "debo-powers",
@@ -5184,6 +6339,25 @@
       ]
     },
     "coverage": [],
+    "primaryResults": {
+      "race": "HD-3",
+      "party": "D",
+      "resultsTotal": [
+        {
+          "candidate": "DEBO POWERS",
+          "votes": 993,
+          "isWinner": true,
+          "votePercent": 0.7323008849557522
+        },
+        {
+          "candidate": "GUTHRIE QUIST",
+          "votes": 363,
+          "isWinner": false,
+          "votePercent": 0.2676991150442478
+        }
+      ],
+      "reportingTime": "6/10/2024 12:53:41 PM"
+    },
     "opponents": [
       {
         "slug": "debo-powers",
@@ -5260,6 +6434,19 @@
       ]
     },
     "coverage": [],
+    "primaryResults": {
+      "race": "HD-3",
+      "party": "R",
+      "resultsTotal": [
+        {
+          "candidate": "CATHY MITCHELL",
+          "votes": 1199,
+          "isWinner": true,
+          "votePercent": 1
+        }
+      ],
+      "reportingTime": "6/10/2024 12:53:41 PM"
+    },
     "opponents": [
       {
         "slug": "debo-powers",
@@ -5336,6 +6523,19 @@
       ]
     },
     "coverage": [],
+    "primaryResults": {
+      "race": "HD-4",
+      "party": "R",
+      "resultsTotal": [
+        {
+          "candidate": "LYN BENNETT",
+          "votes": 1126,
+          "isWinner": true,
+          "votePercent": 1
+        }
+      ],
+      "reportingTime": "6/10/2024 12:53:41 PM"
+    },
     "opponents": [
       {
         "slug": "lyn-bennett",
@@ -5406,6 +6606,19 @@
       ]
     },
     "coverage": [],
+    "primaryResults": {
+      "race": "HD-4",
+      "party": "D",
+      "resultsTotal": [
+        {
+          "candidate": "LINDSEY JORDAN",
+          "votes": 888,
+          "isWinner": true,
+          "votePercent": 1
+        }
+      ],
+      "reportingTime": "6/10/2024 12:53:41 PM"
+    },
     "opponents": [
       {
         "slug": "lyn-bennett",
@@ -5476,6 +6689,19 @@
       ]
     },
     "coverage": [],
+    "primaryResults": {
+      "race": "HD-5",
+      "party": "R",
+      "resultsTotal": [
+        {
+          "candidate": "BRAXTON MITCHELL",
+          "votes": 1861,
+          "isWinner": true,
+          "votePercent": 1
+        }
+      ],
+      "reportingTime": "6/10/2024 12:53:41 PM"
+    },
     "opponents": [
       {
         "slug": "braxton-mitchell",
@@ -5546,6 +6772,19 @@
       ]
     },
     "coverage": [],
+    "primaryResults": {
+      "race": "HD-5",
+      "party": "D",
+      "resultsTotal": [
+        {
+          "candidate": "STEVE PAUGH",
+          "votes": 569,
+          "isWinner": true,
+          "votePercent": 1
+        }
+      ],
+      "reportingTime": "6/10/2024 12:53:41 PM"
+    },
     "opponents": [
       {
         "slug": "braxton-mitchell",
@@ -5616,6 +6855,19 @@
       ]
     },
     "coverage": [],
+    "primaryResults": {
+      "race": "HD-6",
+      "party": "R",
+      "resultsTotal": [
+        {
+          "candidate": "AMY REGIER",
+          "votes": 1994,
+          "isWinner": true,
+          "votePercent": 1
+        }
+      ],
+      "reportingTime": "6/10/2024 12:53:41 PM"
+    },
     "opponents": [
       {
         "slug": "amy-regier",
@@ -5686,6 +6938,19 @@
       ]
     },
     "coverage": [],
+    "primaryResults": {
+      "race": "HD-6",
+      "party": "D",
+      "resultsTotal": [
+        {
+          "candidate": "VELVET PHILLIPSSULLIVAN",
+          "votes": 785,
+          "isWinner": true,
+          "votePercent": 1
+        }
+      ],
+      "reportingTime": "6/10/2024 12:53:41 PM"
+    },
     "opponents": [
       {
         "slug": "amy-regier",
@@ -5756,6 +7021,25 @@
       ]
     },
     "coverage": [],
+    "primaryResults": {
+      "race": "HD-7",
+      "party": "R",
+      "resultsTotal": [
+        {
+          "candidate": "COURTENAY SPRUNGER",
+          "votes": 848,
+          "isWinner": true,
+          "votePercent": 0.6281481481481481
+        },
+        {
+          "candidate": "SHAUN PANDINA",
+          "votes": 502,
+          "isWinner": false,
+          "votePercent": 0.3718518518518519
+        }
+      ],
+      "reportingTime": "6/10/2024 12:53:41 PM"
+    },
     "opponents": [
       {
         "slug": "courtenay-sprunger",
@@ -5832,6 +7116,25 @@
       ]
     },
     "coverage": [],
+    "primaryResults": {
+      "race": "HD-7",
+      "party": "R",
+      "resultsTotal": [
+        {
+          "candidate": "COURTENAY SPRUNGER",
+          "votes": 848,
+          "isWinner": true,
+          "votePercent": 0.6281481481481481
+        },
+        {
+          "candidate": "SHAUN PANDINA",
+          "votes": 502,
+          "isWinner": false,
+          "votePercent": 0.3718518518518519
+        }
+      ],
+      "reportingTime": "6/10/2024 12:53:41 PM"
+    },
     "opponents": [
       {
         "slug": "courtenay-sprunger",
@@ -5908,6 +7211,19 @@
       ]
     },
     "coverage": [],
+    "primaryResults": {
+      "race": "HD-7",
+      "party": "D",
+      "resultsTotal": [
+        {
+          "candidate": "ARTHUR FRETHEIM",
+          "votes": 572,
+          "isWinner": true,
+          "votePercent": 1
+        }
+      ],
+      "reportingTime": "6/10/2024 12:53:41 PM"
+    },
     "opponents": [
       {
         "slug": "courtenay-sprunger",
@@ -5984,6 +7300,25 @@
       ]
     },
     "coverage": [],
+    "primaryResults": {
+      "race": "HD-8",
+      "party": "R",
+      "resultsTotal": [
+        {
+          "candidate": "LUKAS SCHUBERT",
+          "votes": 1502,
+          "isWinner": true,
+          "votePercent": 0.5962683604605002
+        },
+        {
+          "candidate": "TONY BROCKMAN",
+          "votes": 1017,
+          "isWinner": false,
+          "votePercent": 0.4037316395394998
+        }
+      ],
+      "reportingTime": "6/10/2024 12:53:41 PM"
+    },
     "opponents": [
       {
         "slug": "lukas-schubert",
@@ -6060,6 +7395,25 @@
       ]
     },
     "coverage": [],
+    "primaryResults": {
+      "race": "HD-8",
+      "party": "R",
+      "resultsTotal": [
+        {
+          "candidate": "LUKAS SCHUBERT",
+          "votes": 1502,
+          "isWinner": true,
+          "votePercent": 0.5962683604605002
+        },
+        {
+          "candidate": "TONY BROCKMAN",
+          "votes": 1017,
+          "isWinner": false,
+          "votePercent": 0.4037316395394998
+        }
+      ],
+      "reportingTime": "6/10/2024 12:53:41 PM"
+    },
     "opponents": [
       {
         "slug": "lukas-schubert",
@@ -6136,6 +7490,19 @@
       ]
     },
     "coverage": [],
+    "primaryResults": {
+      "race": "HD-8",
+      "party": "D",
+      "resultsTotal": [
+        {
+          "candidate": "BETH SIBERT",
+          "votes": 528,
+          "isWinner": true,
+          "votePercent": 1
+        }
+      ],
+      "reportingTime": "6/10/2024 12:53:41 PM"
+    },
     "opponents": [
       {
         "slug": "lukas-schubert",
@@ -6212,6 +7579,25 @@
       ]
     },
     "coverage": [],
+    "primaryResults": {
+      "race": "HD-9",
+      "party": "R",
+      "resultsTotal": [
+        {
+          "candidate": "STEVEN C KELLY",
+          "votes": 1223,
+          "isWinner": true,
+          "votePercent": 0.5536441828881847
+        },
+        {
+          "candidate": "LEE HUESTIS",
+          "votes": 986,
+          "isWinner": false,
+          "votePercent": 0.4463558171118153
+        }
+      ],
+      "reportingTime": "6/10/2024 12:53:41 PM"
+    },
     "opponents": [
       {
         "slug": "lee-huestis",
@@ -6288,6 +7674,25 @@
       ]
     },
     "coverage": [],
+    "primaryResults": {
+      "race": "HD-9",
+      "party": "R",
+      "resultsTotal": [
+        {
+          "candidate": "STEVEN C KELLY",
+          "votes": 1223,
+          "isWinner": true,
+          "votePercent": 0.5536441828881847
+        },
+        {
+          "candidate": "LEE HUESTIS",
+          "votes": 986,
+          "isWinner": false,
+          "votePercent": 0.4463558171118153
+        }
+      ],
+      "reportingTime": "6/10/2024 12:53:41 PM"
+    },
     "opponents": [
       {
         "slug": "lee-huestis",
@@ -6364,6 +7769,19 @@
       ]
     },
     "coverage": [],
+    "primaryResults": {
+      "race": "HD-9",
+      "party": "D",
+      "resultsTotal": [
+        {
+          "candidate": "JOANNE MORROW",
+          "votes": 571,
+          "isWinner": true,
+          "votePercent": 1
+        }
+      ],
+      "reportingTime": "6/10/2024 12:53:41 PM"
+    },
     "opponents": [
       {
         "slug": "lee-huestis",
@@ -6440,6 +7858,19 @@
       ]
     },
     "coverage": [],
+    "primaryResults": {
+      "race": "HD-10",
+      "party": "D",
+      "resultsTotal": [
+        {
+          "candidate": "DEVIN T MARCONI",
+          "votes": 441,
+          "isWinner": true,
+          "votePercent": 1
+        }
+      ],
+      "reportingTime": "6/10/2024 12:53:41 PM"
+    },
     "opponents": [
       {
         "slug": "devin-t-marconi",
@@ -6510,6 +7941,19 @@
       ]
     },
     "coverage": [],
+    "primaryResults": {
+      "race": "HD-10",
+      "party": "R",
+      "resultsTotal": [
+        {
+          "candidate": "TERRY FALK",
+          "votes": 1690,
+          "isWinner": true,
+          "votePercent": 1
+        }
+      ],
+      "reportingTime": "6/10/2024 12:53:41 PM"
+    },
     "opponents": [
       {
         "slug": "devin-t-marconi",
@@ -6580,6 +8024,25 @@
       ]
     },
     "coverage": [],
+    "primaryResults": {
+      "race": "HD-11",
+      "party": "R",
+      "resultsTotal": [
+        {
+          "candidate": "ED BYRNE",
+          "votes": 1636,
+          "isWinner": true,
+          "votePercent": 0.6289888504421376
+        },
+        {
+          "candidate": "ROB TRACY",
+          "votes": 965,
+          "isWinner": false,
+          "votePercent": 0.37101114955786235
+        }
+      ],
+      "reportingTime": "6/10/2024 12:53:41 PM"
+    },
     "opponents": [
       {
         "slug": "rob-tracy",
@@ -6656,6 +8119,25 @@
       ]
     },
     "coverage": [],
+    "primaryResults": {
+      "race": "HD-11",
+      "party": "R",
+      "resultsTotal": [
+        {
+          "candidate": "ED BYRNE",
+          "votes": 1636,
+          "isWinner": true,
+          "votePercent": 0.6289888504421376
+        },
+        {
+          "candidate": "ROB TRACY",
+          "votes": 965,
+          "isWinner": false,
+          "votePercent": 0.37101114955786235
+        }
+      ],
+      "reportingTime": "6/10/2024 12:53:41 PM"
+    },
     "opponents": [
       {
         "slug": "rob-tracy",
@@ -6732,6 +8214,19 @@
       ]
     },
     "coverage": [],
+    "primaryResults": {
+      "race": "HD-11",
+      "party": "D",
+      "resultsTotal": [
+        {
+          "candidate": "JENNIFER ALLEN",
+          "votes": 641,
+          "isWinner": true,
+          "votePercent": 1
+        }
+      ],
+      "reportingTime": "6/10/2024 12:53:41 PM"
+    },
     "opponents": [
       {
         "slug": "rob-tracy",
@@ -6808,6 +8303,19 @@
       ]
     },
     "coverage": [],
+    "primaryResults": {
+      "race": "HD-12",
+      "party": "R",
+      "resultsTotal": [
+        {
+          "candidate": "TRACY A SHARP",
+          "votes": 2157,
+          "isWinner": true,
+          "votePercent": 1
+        }
+      ],
+      "reportingTime": "6/10/2024 12:53:41 PM"
+    },
     "opponents": [
       {
         "slug": "tracy-a-sharp",
@@ -6878,6 +8386,19 @@
       ]
     },
     "coverage": [],
+    "primaryResults": {
+      "race": "HD-12",
+      "party": "D",
+      "resultsTotal": [
+        {
+          "candidate": "BARRY OLSON",
+          "votes": 906,
+          "isWinner": true,
+          "votePercent": 1
+        }
+      ],
+      "reportingTime": "6/10/2024 12:53:41 PM"
+    },
     "opponents": [
       {
         "slug": "tracy-a-sharp",
@@ -6948,6 +8469,19 @@
       ]
     },
     "coverage": [],
+    "primaryResults": {
+      "race": "HD-13",
+      "party": "D",
+      "resultsTotal": [
+        {
+          "candidate": "SHIRLEY AZZOPARDI",
+          "votes": 899,
+          "isWinner": true,
+          "votePercent": 1
+        }
+      ],
+      "reportingTime": "6/10/2024 12:53:41 PM"
+    },
     "opponents": [
       {
         "slug": "shirley-azzopardi",
@@ -7018,6 +8552,19 @@
       ]
     },
     "coverage": [],
+    "primaryResults": {
+      "race": "HD-13",
+      "party": "R",
+      "resultsTotal": [
+        {
+          "candidate": "LINDA E REKSTEN",
+          "votes": 1902,
+          "isWinner": true,
+          "votePercent": 1
+        }
+      ],
+      "reportingTime": "6/10/2024 12:53:41 PM"
+    },
     "opponents": [
       {
         "slug": "shirley-azzopardi",
@@ -7088,6 +8635,19 @@
       ]
     },
     "coverage": [],
+    "primaryResults": {
+      "race": "HD-14",
+      "party": "R",
+      "resultsTotal": [
+        {
+          "candidate": "PAUL C FIELDER",
+          "votes": 2436,
+          "isWinner": true,
+          "votePercent": 1
+        }
+      ],
+      "reportingTime": "6/10/2024 12:53:41 PM"
+    },
     "opponents": [
       {
         "slug": "paul-c-fielder",
@@ -7158,6 +8718,19 @@
       ]
     },
     "coverage": [],
+    "primaryResults": {
+      "race": "HD-14",
+      "party": "D",
+      "resultsTotal": [
+        {
+          "candidate": "COLLEEN HINDS",
+          "votes": 726,
+          "isWinner": true,
+          "votePercent": 1
+        }
+      ],
+      "reportingTime": "6/10/2024 12:53:41 PM"
+    },
     "opponents": [
       {
         "slug": "paul-c-fielder",
@@ -7228,6 +8801,19 @@
       ]
     },
     "coverage": [],
+    "primaryResults": {
+      "race": "HD-15",
+      "party": "R",
+      "resultsTotal": [
+        {
+          "candidate": "RALPH FOSTER",
+          "votes": 714,
+          "isWinner": true,
+          "votePercent": 1
+        }
+      ],
+      "reportingTime": "6/10/2024 12:53:41 PM"
+    },
     "opponents": [
       {
         "slug": "ralph-foster",
@@ -7298,6 +8884,19 @@
       ]
     },
     "coverage": [],
+    "primaryResults": {
+      "race": "HD-15",
+      "party": "D",
+      "resultsTotal": [
+        {
+          "candidate": "THEDIS CROWE",
+          "votes": 668,
+          "isWinner": true,
+          "votePercent": 1
+        }
+      ],
+      "reportingTime": "6/10/2024 12:53:41 PM"
+    },
     "opponents": [
       {
         "slug": "ralph-foster",
@@ -7368,6 +8967,19 @@
       ]
     },
     "coverage": [],
+    "primaryResults": {
+      "race": "HD-16",
+      "party": "D",
+      "resultsTotal": [
+        {
+          "candidate": "TYSON T RUNNING WOLF",
+          "votes": 721,
+          "isWinner": true,
+          "votePercent": 1
+        }
+      ],
+      "reportingTime": "6/10/2024 12:53:41 PM"
+    },
     "opponents": [
       {
         "slug": "tyson-t-running-wolf",
@@ -7444,6 +9056,25 @@
       ]
     },
     "coverage": [],
+    "primaryResults": {
+      "race": "HD-16",
+      "party": "R",
+      "resultsTotal": [
+        {
+          "candidate": "ELAINE UTTERBACK  MITCHELL",
+          "votes": 584,
+          "isWinner": true,
+          "votePercent": 0.7078787878787879
+        },
+        {
+          "candidate": "ROLLAND ELY HEAGY",
+          "votes": 241,
+          "isWinner": false,
+          "votePercent": 0.2921212121212121
+        }
+      ],
+      "reportingTime": "6/10/2024 12:53:41 PM"
+    },
     "opponents": [
       {
         "slug": "tyson-t-running-wolf",
@@ -7520,6 +9151,25 @@
       ]
     },
     "coverage": [],
+    "primaryResults": {
+      "race": "HD-16",
+      "party": "R",
+      "resultsTotal": [
+        {
+          "candidate": "ELAINE UTTERBACK  MITCHELL",
+          "votes": 584,
+          "isWinner": true,
+          "votePercent": 0.7078787878787879
+        },
+        {
+          "candidate": "ROLLAND ELY HEAGY",
+          "votes": 241,
+          "isWinner": false,
+          "votePercent": 0.2921212121212121
+        }
+      ],
+      "reportingTime": "6/10/2024 12:53:41 PM"
+    },
     "opponents": [
       {
         "slug": "tyson-t-running-wolf",
@@ -7596,6 +9246,19 @@
       ]
     },
     "coverage": [],
+    "primaryResults": {
+      "race": "HD-17",
+      "party": "R",
+      "resultsTotal": [
+        {
+          "candidate": "ZACK WIRTH",
+          "votes": 2216,
+          "isWinner": true,
+          "votePercent": 1
+        }
+      ],
+      "reportingTime": "6/10/2024 12:53:41 PM"
+    },
     "opponents": [
       {
         "slug": "zack-wirth",
@@ -7666,6 +9329,19 @@
       ]
     },
     "coverage": [],
+    "primaryResults": {
+      "race": "HD-17",
+      "party": "D",
+      "resultsTotal": [
+        {
+          "candidate": "LEONARD BATES",
+          "votes": 773,
+          "isWinner": true,
+          "votePercent": 1
+        }
+      ],
+      "reportingTime": "6/10/2024 12:53:41 PM"
+    },
     "opponents": [
       {
         "slug": "zack-wirth",
@@ -7736,6 +9412,19 @@
       ]
     },
     "coverage": [],
+    "primaryResults": {
+      "race": "HD-18",
+      "party": "D",
+      "resultsTotal": [
+        {
+          "candidate": "DAVID ARENDS",
+          "votes": 570,
+          "isWinner": true,
+          "votePercent": 1
+        }
+      ],
+      "reportingTime": "6/10/2024 12:53:41 PM"
+    },
     "opponents": [
       {
         "slug": "david-arends",
@@ -7846,6 +9535,25 @@
         "author": "Mara Silvers"
       }
     ],
+    "primaryResults": {
+      "race": "HD-18",
+      "party": "R",
+      "resultsTotal": [
+        {
+          "candidate": "LLEW JONES",
+          "votes": 1906,
+          "isWinner": true,
+          "votePercent": 0.7117251680358476
+        },
+        {
+          "candidate": "JAMES COOMBS",
+          "votes": 772,
+          "isWinner": false,
+          "votePercent": 0.2882748319641524
+        }
+      ],
+      "reportingTime": "6/10/2024 12:53:41 PM"
+    },
     "opponents": [
       {
         "slug": "david-arends",
@@ -7922,6 +9630,25 @@
       ]
     },
     "coverage": [],
+    "primaryResults": {
+      "race": "HD-18",
+      "party": "R",
+      "resultsTotal": [
+        {
+          "candidate": "LLEW JONES",
+          "votes": 1906,
+          "isWinner": true,
+          "votePercent": 0.7117251680358476
+        },
+        {
+          "candidate": "JAMES COOMBS",
+          "votes": 772,
+          "isWinner": false,
+          "votePercent": 0.2882748319641524
+        }
+      ],
+      "reportingTime": "6/10/2024 12:53:41 PM"
+    },
     "opponents": [
       {
         "slug": "david-arends",
@@ -7998,6 +9725,19 @@
       ]
     },
     "coverage": [],
+    "primaryResults": {
+      "race": "HD-19",
+      "party": "D",
+      "resultsTotal": [
+        {
+          "candidate": "JANE WEBER",
+          "votes": 620,
+          "isWinner": true,
+          "votePercent": 1
+        }
+      ],
+      "reportingTime": "6/10/2024 12:53:41 PM"
+    },
     "opponents": [
       {
         "slug": "jane-weber",
@@ -8074,6 +9814,25 @@
       ]
     },
     "coverage": [],
+    "primaryResults": {
+      "race": "HD-19",
+      "party": "R",
+      "resultsTotal": [
+        {
+          "candidate": "HANNAH TREBAS",
+          "votes": 432,
+          "isWinner": true,
+          "votePercent": 0.6233766233766234
+        },
+        {
+          "candidate": "DERREN AUGER",
+          "votes": 261,
+          "isWinner": false,
+          "votePercent": 0.37662337662337664
+        }
+      ],
+      "reportingTime": "6/10/2024 12:53:41 PM"
+    },
     "opponents": [
       {
         "slug": "jane-weber",
@@ -8150,6 +9909,25 @@
       ]
     },
     "coverage": [],
+    "primaryResults": {
+      "race": "HD-19",
+      "party": "R",
+      "resultsTotal": [
+        {
+          "candidate": "HANNAH TREBAS",
+          "votes": 432,
+          "isWinner": true,
+          "votePercent": 0.6233766233766234
+        },
+        {
+          "candidate": "DERREN AUGER",
+          "votes": 261,
+          "isWinner": false,
+          "votePercent": 0.37662337662337664
+        }
+      ],
+      "reportingTime": "6/10/2024 12:53:41 PM"
+    },
     "opponents": [
       {
         "slug": "jane-weber",
@@ -8226,6 +10004,19 @@
       ]
     },
     "coverage": [],
+    "primaryResults": {
+      "race": "HD-20",
+      "party": "D",
+      "resultsTotal": [
+        {
+          "candidate": "RINA FONTANA MOORE",
+          "votes": 1022,
+          "isWinner": true,
+          "votePercent": 1
+        }
+      ],
+      "reportingTime": "6/10/2024 12:53:41 PM"
+    },
     "opponents": [
       {
         "slug": "rina-fontana-moore",
@@ -8302,6 +10093,25 @@
       ]
     },
     "coverage": [],
+    "primaryResults": {
+      "race": "HD-20",
+      "party": "R",
+      "resultsTotal": [
+        {
+          "candidate": "MELISSA NIKOLAKAKOS",
+          "votes": 766,
+          "isWinner": true,
+          "votePercent": 0.5123745819397993
+        },
+        {
+          "candidate": "STEVEN GALLOWAY",
+          "votes": 729,
+          "isWinner": false,
+          "votePercent": 0.48762541806020065
+        }
+      ],
+      "reportingTime": "6/10/2024 12:53:41 PM"
+    },
     "opponents": [
       {
         "slug": "rina-fontana-moore",
@@ -8378,6 +10188,25 @@
       ]
     },
     "coverage": [],
+    "primaryResults": {
+      "race": "HD-20",
+      "party": "R",
+      "resultsTotal": [
+        {
+          "candidate": "MELISSA NIKOLAKAKOS",
+          "votes": 766,
+          "isWinner": true,
+          "votePercent": 0.5123745819397993
+        },
+        {
+          "candidate": "STEVEN GALLOWAY",
+          "votes": 729,
+          "isWinner": false,
+          "votePercent": 0.48762541806020065
+        }
+      ],
+      "reportingTime": "6/10/2024 12:53:41 PM"
+    },
     "opponents": [
       {
         "slug": "rina-fontana-moore",
@@ -8454,6 +10283,19 @@
       ]
     },
     "coverage": [],
+    "primaryResults": {
+      "race": "HD-21",
+      "party": "D",
+      "resultsTotal": [
+        {
+          "candidate": "LELA GRAHAM",
+          "votes": 955,
+          "isWinner": true,
+          "votePercent": 1
+        }
+      ],
+      "reportingTime": "6/10/2024 12:53:41 PM"
+    },
     "opponents": [
       {
         "slug": "lela-graham",
@@ -8530,6 +10372,25 @@
       ]
     },
     "coverage": [],
+    "primaryResults": {
+      "race": "HD-21",
+      "party": "R",
+      "resultsTotal": [
+        {
+          "candidate": "ED BUTTREY",
+          "votes": 1326,
+          "isWinner": true,
+          "votePercent": 0.7261774370208105
+        },
+        {
+          "candidate": "JAMES OSTERMAN",
+          "votes": 500,
+          "isWinner": false,
+          "votePercent": 0.2738225629791895
+        }
+      ],
+      "reportingTime": "6/10/2024 12:53:41 PM"
+    },
     "opponents": [
       {
         "slug": "lela-graham",
@@ -8606,6 +10467,25 @@
       ]
     },
     "coverage": [],
+    "primaryResults": {
+      "race": "HD-21",
+      "party": "R",
+      "resultsTotal": [
+        {
+          "candidate": "ED BUTTREY",
+          "votes": 1326,
+          "isWinner": true,
+          "votePercent": 0.7261774370208105
+        },
+        {
+          "candidate": "JAMES OSTERMAN",
+          "votes": 500,
+          "isWinner": false,
+          "votePercent": 0.2738225629791895
+        }
+      ],
+      "reportingTime": "6/10/2024 12:53:41 PM"
+    },
     "opponents": [
       {
         "slug": "lela-graham",
@@ -8682,6 +10562,25 @@
       ]
     },
     "coverage": [],
+    "primaryResults": {
+      "race": "HD-22",
+      "party": "R",
+      "resultsTotal": [
+        {
+          "candidate": "GEORGE NIKOLAKAKOS",
+          "votes": 680,
+          "isWinner": true,
+          "votePercent": 0.7180570221752904
+        },
+        {
+          "candidate": "JAMES G WHITAKER",
+          "votes": 267,
+          "isWinner": false,
+          "votePercent": 0.2819429778247096
+        }
+      ],
+      "reportingTime": "6/10/2024 12:53:41 PM"
+    },
     "opponents": [
       {
         "slug": "george-nikolakakos",
@@ -8758,6 +10657,19 @@
       ]
     },
     "coverage": [],
+    "primaryResults": {
+      "race": "HD-22",
+      "party": "D",
+      "resultsTotal": [
+        {
+          "candidate": "RONALD K PAULICK",
+          "votes": 541,
+          "isWinner": true,
+          "votePercent": 1
+        }
+      ],
+      "reportingTime": "6/10/2024 12:53:41 PM"
+    },
     "opponents": [
       {
         "slug": "george-nikolakakos",
@@ -8834,6 +10746,25 @@
       ]
     },
     "coverage": [],
+    "primaryResults": {
+      "race": "HD-22",
+      "party": "R",
+      "resultsTotal": [
+        {
+          "candidate": "GEORGE NIKOLAKAKOS",
+          "votes": 680,
+          "isWinner": true,
+          "votePercent": 0.7180570221752904
+        },
+        {
+          "candidate": "JAMES G WHITAKER",
+          "votes": 267,
+          "isWinner": false,
+          "votePercent": 0.2819429778247096
+        }
+      ],
+      "reportingTime": "6/10/2024 12:53:41 PM"
+    },
     "opponents": [
       {
         "slug": "george-nikolakakos",
@@ -8910,6 +10841,37 @@
       ]
     },
     "coverage": [],
+    "primaryResults": {
+      "race": "HD-23",
+      "party": "R",
+      "resultsTotal": [
+        {
+          "candidate": "ERIC TILLEMAN",
+          "votes": 820,
+          "isWinner": true,
+          "votePercent": 0.6096654275092936
+        },
+        {
+          "candidate": "PETE ANDERSON",
+          "votes": 293,
+          "isWinner": false,
+          "votePercent": 0.2178438661710037
+        },
+        {
+          "candidate": "JOHN H  PROUD",
+          "votes": 184,
+          "isWinner": false,
+          "votePercent": 0.13680297397769517
+        },
+        {
+          "candidate": "JOSH DENULLY",
+          "votes": 48,
+          "isWinner": false,
+          "votePercent": 0.035687732342007436
+        }
+      ],
+      "reportingTime": "6/10/2024 12:53:41 PM"
+    },
     "opponents": [
       {
         "slug": "eric-tilleman",
@@ -9004,6 +10966,19 @@
       ]
     },
     "coverage": [],
+    "primaryResults": {
+      "race": "HD-23",
+      "party": "D",
+      "resultsTotal": [
+        {
+          "candidate": "SANDOR R HOPKINS",
+          "votes": 837,
+          "isWinner": true,
+          "votePercent": 1
+        }
+      ],
+      "reportingTime": "6/10/2024 12:53:41 PM"
+    },
     "opponents": [
       {
         "slug": "eric-tilleman",
@@ -9098,6 +11073,10 @@
       ]
     },
     "coverage": [],
+    "primaryResults": {
+      "race": "HD-23",
+      "resultsTotal": null
+    },
     "opponents": [
       {
         "slug": "eric-tilleman",
@@ -9192,6 +11171,37 @@
       ]
     },
     "coverage": [],
+    "primaryResults": {
+      "race": "HD-23",
+      "party": "R",
+      "resultsTotal": [
+        {
+          "candidate": "ERIC TILLEMAN",
+          "votes": 820,
+          "isWinner": true,
+          "votePercent": 0.6096654275092936
+        },
+        {
+          "candidate": "PETE ANDERSON",
+          "votes": 293,
+          "isWinner": false,
+          "votePercent": 0.2178438661710037
+        },
+        {
+          "candidate": "JOHN H  PROUD",
+          "votes": 184,
+          "isWinner": false,
+          "votePercent": 0.13680297397769517
+        },
+        {
+          "candidate": "JOSH DENULLY",
+          "votes": 48,
+          "isWinner": false,
+          "votePercent": 0.035687732342007436
+        }
+      ],
+      "reportingTime": "6/10/2024 12:53:41 PM"
+    },
     "opponents": [
       {
         "slug": "eric-tilleman",
@@ -9286,6 +11296,37 @@
       ]
     },
     "coverage": [],
+    "primaryResults": {
+      "race": "HD-23",
+      "party": "R",
+      "resultsTotal": [
+        {
+          "candidate": "ERIC TILLEMAN",
+          "votes": 820,
+          "isWinner": true,
+          "votePercent": 0.6096654275092936
+        },
+        {
+          "candidate": "PETE ANDERSON",
+          "votes": 293,
+          "isWinner": false,
+          "votePercent": 0.2178438661710037
+        },
+        {
+          "candidate": "JOHN H  PROUD",
+          "votes": 184,
+          "isWinner": false,
+          "votePercent": 0.13680297397769517
+        },
+        {
+          "candidate": "JOSH DENULLY",
+          "votes": 48,
+          "isWinner": false,
+          "votePercent": 0.035687732342007436
+        }
+      ],
+      "reportingTime": "6/10/2024 12:53:41 PM"
+    },
     "opponents": [
       {
         "slug": "eric-tilleman",
@@ -9380,6 +11421,37 @@
       ]
     },
     "coverage": [],
+    "primaryResults": {
+      "race": "HD-23",
+      "party": "R",
+      "resultsTotal": [
+        {
+          "candidate": "ERIC TILLEMAN",
+          "votes": 820,
+          "isWinner": true,
+          "votePercent": 0.6096654275092936
+        },
+        {
+          "candidate": "PETE ANDERSON",
+          "votes": 293,
+          "isWinner": false,
+          "votePercent": 0.2178438661710037
+        },
+        {
+          "candidate": "JOHN H  PROUD",
+          "votes": 184,
+          "isWinner": false,
+          "votePercent": 0.13680297397769517
+        },
+        {
+          "candidate": "JOSH DENULLY",
+          "votes": 48,
+          "isWinner": false,
+          "votePercent": 0.035687732342007436
+        }
+      ],
+      "reportingTime": "6/10/2024 12:53:41 PM"
+    },
     "opponents": [
       {
         "slug": "eric-tilleman",
@@ -9492,6 +11564,19 @@
         "author": "MTFP Staff"
       }
     ],
+    "primaryResults": {
+      "race": "HD-24",
+      "party": "R",
+      "resultsTotal": [
+        {
+          "candidate": "STEVE FITZPATRICK",
+          "votes": 1493,
+          "isWinner": true,
+          "votePercent": 1
+        }
+      ],
+      "reportingTime": "6/10/2024 12:53:41 PM"
+    },
     "opponents": [
       {
         "slug": "steve-fitzpatrick",
@@ -9556,6 +11641,19 @@
       ]
     },
     "coverage": [],
+    "primaryResults": {
+      "race": "HD-25",
+      "party": "D",
+      "resultsTotal": [
+        {
+          "candidate": "JAMES RICKLEY",
+          "votes": 541,
+          "isWinner": true,
+          "votePercent": 1
+        }
+      ],
+      "reportingTime": "6/10/2024 12:53:41 PM"
+    },
     "opponents": [
       {
         "slug": "james-rickley",
@@ -9626,6 +11724,19 @@
       ]
     },
     "coverage": [],
+    "primaryResults": {
+      "race": "HD-25",
+      "party": "R",
+      "resultsTotal": [
+        {
+          "candidate": "STEVE GIST",
+          "votes": 1842,
+          "isWinner": true,
+          "votePercent": 1
+        }
+      ],
+      "reportingTime": "6/10/2024 12:53:41 PM"
+    },
     "opponents": [
       {
         "slug": "james-rickley",
@@ -9696,6 +11807,25 @@
       ]
     },
     "coverage": [],
+    "primaryResults": {
+      "race": "HD-26",
+      "party": "R",
+      "resultsTotal": [
+        {
+          "candidate": "RUSSEL MINER",
+          "votes": 1447,
+          "isWinner": true,
+          "votePercent": 0.5281021897810219
+        },
+        {
+          "candidate": "DANA  DARLINGTON",
+          "votes": 1293,
+          "isWinner": false,
+          "votePercent": 0.4718978102189781
+        }
+      ],
+      "reportingTime": "6/10/2024 12:53:41 PM"
+    },
     "opponents": [
       {
         "slug": "russel-miner",
@@ -9766,6 +11896,25 @@
       ]
     },
     "coverage": [],
+    "primaryResults": {
+      "race": "HD-26",
+      "party": "R",
+      "resultsTotal": [
+        {
+          "candidate": "RUSSEL MINER",
+          "votes": 1447,
+          "isWinner": true,
+          "votePercent": 0.5281021897810219
+        },
+        {
+          "candidate": "DANA  DARLINGTON",
+          "votes": 1293,
+          "isWinner": false,
+          "votePercent": 0.4718978102189781
+        }
+      ],
+      "reportingTime": "6/10/2024 12:53:41 PM"
+    },
     "opponents": [
       {
         "slug": "russel-miner",
@@ -9836,6 +11985,19 @@
       ]
     },
     "coverage": [],
+    "primaryResults": {
+      "race": "HD-27",
+      "party": "D",
+      "resultsTotal": [
+        {
+          "candidate": "PAUL TUSS",
+          "votes": 863,
+          "isWinner": true,
+          "votePercent": 1
+        }
+      ],
+      "reportingTime": "6/10/2024 12:53:41 PM"
+    },
     "opponents": [
       {
         "slug": "paul-tuss",
@@ -9906,6 +12068,19 @@
       ]
     },
     "coverage": [],
+    "primaryResults": {
+      "race": "HD-27",
+      "party": "R",
+      "resultsTotal": [
+        {
+          "candidate": "ED HILL",
+          "votes": 999,
+          "isWinner": true,
+          "votePercent": 1
+        }
+      ],
+      "reportingTime": "6/10/2024 12:53:41 PM"
+    },
     "opponents": [
       {
         "slug": "paul-tuss",
@@ -9976,6 +12151,31 @@
       ]
     },
     "coverage": [],
+    "primaryResults": {
+      "race": "HD-28",
+      "party": "R",
+      "resultsTotal": [
+        {
+          "candidate": "ERIC ALBUS",
+          "votes": 1119,
+          "isWinner": true,
+          "votePercent": 0.40631808278867104
+        },
+        {
+          "candidate": "MARK L WICKS",
+          "votes": 913,
+          "isWinner": false,
+          "votePercent": 0.33151779230210604
+        },
+        {
+          "candidate": "WAYNE STAHL",
+          "votes": 722,
+          "isWinner": false,
+          "votePercent": 0.262164124909223
+        }
+      ],
+      "reportingTime": "6/10/2024 12:53:41 PM"
+    },
     "opponents": [
       {
         "slug": "eric-albus",
@@ -10058,6 +12258,31 @@
       ]
     },
     "coverage": [],
+    "primaryResults": {
+      "race": "HD-28",
+      "party": "R",
+      "resultsTotal": [
+        {
+          "candidate": "ERIC ALBUS",
+          "votes": 1119,
+          "isWinner": true,
+          "votePercent": 0.40631808278867104
+        },
+        {
+          "candidate": "MARK L WICKS",
+          "votes": 913,
+          "isWinner": false,
+          "votePercent": 0.33151779230210604
+        },
+        {
+          "candidate": "WAYNE STAHL",
+          "votes": 722,
+          "isWinner": false,
+          "votePercent": 0.262164124909223
+        }
+      ],
+      "reportingTime": "6/10/2024 12:53:41 PM"
+    },
     "opponents": [
       {
         "slug": "eric-albus",
@@ -10140,6 +12365,31 @@
       ]
     },
     "coverage": [],
+    "primaryResults": {
+      "race": "HD-28",
+      "party": "R",
+      "resultsTotal": [
+        {
+          "candidate": "ERIC ALBUS",
+          "votes": 1119,
+          "isWinner": true,
+          "votePercent": 0.40631808278867104
+        },
+        {
+          "candidate": "MARK L WICKS",
+          "votes": 913,
+          "isWinner": false,
+          "votePercent": 0.33151779230210604
+        },
+        {
+          "candidate": "WAYNE STAHL",
+          "votes": 722,
+          "isWinner": false,
+          "votePercent": 0.262164124909223
+        }
+      ],
+      "reportingTime": "6/10/2024 12:53:41 PM"
+    },
     "opponents": [
       {
         "slug": "eric-albus",
@@ -10222,6 +12472,19 @@
       ]
     },
     "coverage": [],
+    "primaryResults": {
+      "race": "HD-28",
+      "party": "D",
+      "resultsTotal": [
+        {
+          "candidate": "BLAKE BORST",
+          "votes": 481,
+          "isWinner": true,
+          "votePercent": 1
+        }
+      ],
+      "reportingTime": "6/10/2024 12:53:41 PM"
+    },
     "opponents": [
       {
         "slug": "eric-albus",
@@ -10304,6 +12567,25 @@
       ]
     },
     "coverage": [],
+    "primaryResults": {
+      "race": "HD-29",
+      "party": "R",
+      "resultsTotal": [
+        {
+          "candidate": "VALERIE MOORE",
+          "votes": 2018,
+          "isWinner": true,
+          "votePercent": 0.6877982276755283
+        },
+        {
+          "candidate": "MILES KNUDSEN  ",
+          "votes": 916,
+          "isWinner": false,
+          "votePercent": 0.3122017723244717
+        }
+      ],
+      "reportingTime": "6/10/2024 12:53:41 PM"
+    },
     "opponents": [
       {
         "slug": "miles-knudsen",
@@ -10374,6 +12656,25 @@
       ]
     },
     "coverage": [],
+    "primaryResults": {
+      "race": "HD-29",
+      "party": "R",
+      "resultsTotal": [
+        {
+          "candidate": "VALERIE MOORE",
+          "votes": 2018,
+          "isWinner": true,
+          "votePercent": 0.6877982276755283
+        },
+        {
+          "candidate": "MILES KNUDSEN  ",
+          "votes": 916,
+          "isWinner": false,
+          "votePercent": 0.3122017723244717
+        }
+      ],
+      "reportingTime": "6/10/2024 12:53:41 PM"
+    },
     "opponents": [
       {
         "slug": "miles-knudsen",
@@ -10444,6 +12745,19 @@
       ]
     },
     "coverage": [],
+    "primaryResults": {
+      "race": "HD-30",
+      "party": "R",
+      "resultsTotal": [
+        {
+          "candidate": "MORGAN THIEL",
+          "votes": 1489,
+          "isWinner": true,
+          "votePercent": 1
+        }
+      ],
+      "reportingTime": "6/10/2024 12:53:41 PM"
+    },
     "opponents": [
       {
         "slug": "morgan-thiel",
@@ -10527,6 +12841,25 @@
         "author": "Arren Kimbel-Sannit"
       }
     ],
+    "primaryResults": {
+      "race": "HD-31",
+      "party": "D",
+      "resultsTotal": [
+        {
+          "candidate": "FRANK J SMITH",
+          "votes": 315,
+          "isWinner": true,
+          "votePercent": 0.6104651162790697
+        },
+        {
+          "candidate": "LANCE FOURSTAR",
+          "votes": 201,
+          "isWinner": false,
+          "votePercent": 0.38953488372093026
+        }
+      ],
+      "reportingTime": "6/10/2024 12:53:41 PM"
+    },
     "opponents": [
       {
         "slug": "lance-fourstar",
@@ -10603,6 +12936,25 @@
       ]
     },
     "coverage": [],
+    "primaryResults": {
+      "race": "HD-31",
+      "party": "D",
+      "resultsTotal": [
+        {
+          "candidate": "FRANK J SMITH",
+          "votes": 315,
+          "isWinner": true,
+          "votePercent": 0.6104651162790697
+        },
+        {
+          "candidate": "LANCE FOURSTAR",
+          "votes": 201,
+          "isWinner": false,
+          "votePercent": 0.38953488372093026
+        }
+      ],
+      "reportingTime": "6/10/2024 12:53:41 PM"
+    },
     "opponents": [
       {
         "slug": "lance-fourstar",
@@ -10679,6 +13031,19 @@
       ]
     },
     "coverage": [],
+    "primaryResults": {
+      "race": "HD-31",
+      "party": "R",
+      "resultsTotal": [
+        {
+          "candidate": "KEVIN TAYLOR",
+          "votes": 630,
+          "isWinner": true,
+          "votePercent": 1
+        }
+      ],
+      "reportingTime": "6/10/2024 12:53:41 PM"
+    },
     "opponents": [
       {
         "slug": "lance-fourstar",
@@ -10755,6 +13120,19 @@
       ]
     },
     "coverage": [],
+    "primaryResults": {
+      "race": "HD-32",
+      "party": "D",
+      "resultsTotal": [
+        {
+          "candidate": "MIKE FOX",
+          "votes": 393,
+          "isWinner": true,
+          "votePercent": 1
+        }
+      ],
+      "reportingTime": "6/10/2024 12:53:41 PM"
+    },
     "opponents": [
       {
         "slug": "mike-fox",
@@ -10825,6 +13203,19 @@
       ]
     },
     "coverage": [],
+    "primaryResults": {
+      "race": "HD-32",
+      "party": "R",
+      "resultsTotal": [
+        {
+          "candidate": "JASON ULRICH",
+          "votes": 704,
+          "isWinner": true,
+          "votePercent": 1
+        }
+      ],
+      "reportingTime": "6/10/2024 12:53:41 PM"
+    },
     "opponents": [
       {
         "slug": "mike-fox",
@@ -10895,6 +13286,25 @@
       ]
     },
     "coverage": [],
+    "primaryResults": {
+      "race": "HD-33",
+      "party": "R",
+      "resultsTotal": [
+        {
+          "candidate": "BRANDON LER",
+          "votes": 1579,
+          "isWinner": true,
+          "votePercent": 0.630591054313099
+        },
+        {
+          "candidate": "KATHY HOILAND",
+          "votes": 925,
+          "isWinner": false,
+          "votePercent": 0.36940894568690097
+        }
+      ],
+      "reportingTime": "6/10/2024 12:53:41 PM"
+    },
     "opponents": [
       {
         "slug": "brandon-ler",
@@ -10965,6 +13375,25 @@
       ]
     },
     "coverage": [],
+    "primaryResults": {
+      "race": "HD-33",
+      "party": "R",
+      "resultsTotal": [
+        {
+          "candidate": "BRANDON LER",
+          "votes": 1579,
+          "isWinner": true,
+          "votePercent": 0.630591054313099
+        },
+        {
+          "candidate": "KATHY HOILAND",
+          "votes": 925,
+          "isWinner": false,
+          "votePercent": 0.36940894568690097
+        }
+      ],
+      "reportingTime": "6/10/2024 12:53:41 PM"
+    },
     "opponents": [
       {
         "slug": "brandon-ler",
@@ -11057,6 +13486,19 @@
         "author": "Arren Kimbel-Sannit"
       }
     ],
+    "primaryResults": {
+      "race": "HD-34",
+      "party": "R",
+      "resultsTotal": [
+        {
+          "candidate": "JERRY SCHILLINGER",
+          "votes": 3225,
+          "isWinner": true,
+          "votePercent": 1
+        }
+      ],
+      "reportingTime": "6/10/2024 12:53:41 PM"
+    },
     "opponents": [
       {
         "slug": "jerry-schillinger",
@@ -11121,6 +13563,19 @@
       ]
     },
     "coverage": [],
+    "primaryResults": {
+      "race": "HD-35",
+      "party": "R",
+      "resultsTotal": [
+        {
+          "candidate": "GARY W PARRY",
+          "votes": 2557,
+          "isWinner": true,
+          "votePercent": 1
+        }
+      ],
+      "reportingTime": "6/10/2024 12:53:41 PM"
+    },
     "opponents": [
       {
         "slug": "gary-w-parry",
@@ -11191,6 +13646,19 @@
       ]
     },
     "coverage": [],
+    "primaryResults": {
+      "race": "HD-35",
+      "party": "D",
+      "resultsTotal": [
+        {
+          "candidate": "KIM KREIDER",
+          "votes": 434,
+          "isWinner": true,
+          "votePercent": 1
+        }
+      ],
+      "reportingTime": "6/10/2024 12:53:41 PM"
+    },
     "opponents": [
       {
         "slug": "gary-w-parry",
@@ -11261,6 +13729,19 @@
       ]
     },
     "coverage": [],
+    "primaryResults": {
+      "race": "HD-36",
+      "party": "R",
+      "resultsTotal": [
+        {
+          "candidate": "GREG KMETZ",
+          "votes": 1597,
+          "isWinner": true,
+          "votePercent": 1
+        }
+      ],
+      "reportingTime": "6/10/2024 12:53:41 PM"
+    },
     "opponents": [
       {
         "slug": "greg-kmetz",
@@ -11331,6 +13812,19 @@
       ]
     },
     "coverage": [],
+    "primaryResults": {
+      "race": "HD-36",
+      "party": "D",
+      "resultsTotal": [
+        {
+          "candidate": "STAN TAYLOR",
+          "votes": 532,
+          "isWinner": true,
+          "votePercent": 1
+        }
+      ],
+      "reportingTime": "6/10/2024 12:53:41 PM"
+    },
     "opponents": [
       {
         "slug": "greg-kmetz",
@@ -11401,6 +13895,19 @@
       ]
     },
     "coverage": [],
+    "primaryResults": {
+      "race": "HD-37",
+      "party": "R",
+      "resultsTotal": [
+        {
+          "candidate": "SHANE KLAKKEN",
+          "votes": 2478,
+          "isWinner": true,
+          "votePercent": 1
+        }
+      ],
+      "reportingTime": "6/10/2024 12:53:41 PM"
+    },
     "opponents": [
       {
         "slug": "shane-klakken",
@@ -11471,6 +13978,19 @@
       ]
     },
     "coverage": [],
+    "primaryResults": {
+      "race": "HD-37",
+      "party": "D",
+      "resultsTotal": [
+        {
+          "candidate": "ANDREA PAYNE",
+          "votes": 664,
+          "isWinner": true,
+          "votePercent": 1
+        }
+      ],
+      "reportingTime": "6/10/2024 12:53:41 PM"
+    },
     "opponents": [
       {
         "slug": "shane-klakken",
@@ -11541,6 +14061,25 @@
       ]
     },
     "coverage": [],
+    "primaryResults": {
+      "race": "HD-38",
+      "party": "R",
+      "resultsTotal": [
+        {
+          "candidate": "GREG OBLANDER",
+          "votes": 2272,
+          "isWinner": true,
+          "votePercent": 0.8211058908565233
+        },
+        {
+          "candidate": "NANCY KEMLER",
+          "votes": 495,
+          "isWinner": false,
+          "votePercent": 0.1788941091434767
+        }
+      ],
+      "reportingTime": "6/10/2024 12:53:41 PM"
+    },
     "opponents": [
       {
         "slug": "greg-oblander",
@@ -11611,6 +14150,25 @@
       ]
     },
     "coverage": [],
+    "primaryResults": {
+      "race": "HD-38",
+      "party": "R",
+      "resultsTotal": [
+        {
+          "candidate": "GREG OBLANDER",
+          "votes": 2272,
+          "isWinner": true,
+          "votePercent": 0.8211058908565233
+        },
+        {
+          "candidate": "NANCY KEMLER",
+          "votes": 495,
+          "isWinner": false,
+          "votePercent": 0.1788941091434767
+        }
+      ],
+      "reportingTime": "6/10/2024 12:53:41 PM"
+    },
     "opponents": [
       {
         "slug": "greg-oblander",
@@ -11681,6 +14239,19 @@
       ]
     },
     "coverage": [],
+    "primaryResults": {
+      "race": "HD-39",
+      "party": "D",
+      "resultsTotal": [
+        {
+          "candidate": "MELISSA SMITH",
+          "votes": 622,
+          "isWinner": true,
+          "votePercent": 1
+        }
+      ],
+      "reportingTime": "6/10/2024 12:53:41 PM"
+    },
     "opponents": [
       {
         "slug": "melissa-smith",
@@ -11751,6 +14322,19 @@
       ]
     },
     "coverage": [],
+    "primaryResults": {
+      "race": "HD-39",
+      "party": "R",
+      "resultsTotal": [
+        {
+          "candidate": "KERRI SEEKINS-CROWE",
+          "votes": 1496,
+          "isWinner": true,
+          "votePercent": 1
+        }
+      ],
+      "reportingTime": "6/10/2024 12:53:41 PM"
+    },
     "opponents": [
       {
         "slug": "melissa-smith",
@@ -11821,6 +14405,25 @@
       ]
     },
     "coverage": [],
+    "primaryResults": {
+      "race": "HD-40",
+      "party": "R",
+      "resultsTotal": [
+        {
+          "candidate": "MIKE VINTON",
+          "votes": 1195,
+          "isWinner": true,
+          "votePercent": 0.6664807585052984
+        },
+        {
+          "candidate": "JOSH VISOCAN",
+          "votes": 598,
+          "isWinner": false,
+          "votePercent": 0.33351924149470163
+        }
+      ],
+      "reportingTime": "6/10/2024 12:53:41 PM"
+    },
     "opponents": [
       {
         "slug": "mike-vinton",
@@ -11897,6 +14500,19 @@
       ]
     },
     "coverage": [],
+    "primaryResults": {
+      "race": "HD-40",
+      "party": "D",
+      "resultsTotal": [
+        {
+          "candidate": "BOB AUCH",
+          "votes": 484,
+          "isWinner": true,
+          "votePercent": 1
+        }
+      ],
+      "reportingTime": "6/10/2024 12:53:41 PM"
+    },
     "opponents": [
       {
         "slug": "mike-vinton",
@@ -11973,6 +14589,25 @@
       ]
     },
     "coverage": [],
+    "primaryResults": {
+      "race": "HD-40",
+      "party": "R",
+      "resultsTotal": [
+        {
+          "candidate": "MIKE VINTON",
+          "votes": 1195,
+          "isWinner": true,
+          "votePercent": 0.6664807585052984
+        },
+        {
+          "candidate": "JOSH VISOCAN",
+          "votes": 598,
+          "isWinner": false,
+          "votePercent": 0.33351924149470163
+        }
+      ],
+      "reportingTime": "6/10/2024 12:53:41 PM"
+    },
     "opponents": [
       {
         "slug": "mike-vinton",
@@ -12049,6 +14684,19 @@
       ]
     },
     "coverage": [],
+    "primaryResults": {
+      "race": "HD-41",
+      "party": "D",
+      "resultsTotal": [
+        {
+          "candidate": "JADE SOOKTIS",
+          "votes": 370,
+          "isWinner": true,
+          "votePercent": 1
+        }
+      ],
+      "reportingTime": "6/10/2024 12:53:41 PM"
+    },
     "opponents": [
       {
         "slug": "jade-sooktis",
@@ -12119,6 +14767,19 @@
       ]
     },
     "coverage": [],
+    "primaryResults": {
+      "race": "HD-41",
+      "party": "R",
+      "resultsTotal": [
+        {
+          "candidate": "DA WALLOWING BULL",
+          "votes": 418,
+          "isWinner": true,
+          "votePercent": 1
+        }
+      ],
+      "reportingTime": "6/10/2024 12:53:41 PM"
+    },
     "opponents": [
       {
         "slug": "jade-sooktis",
@@ -12189,6 +14850,19 @@
       ]
     },
     "coverage": [],
+    "primaryResults": {
+      "race": "HD-42",
+      "party": "R",
+      "resultsTotal": [
+        {
+          "candidate": "BILL HODGES",
+          "votes": 770,
+          "isWinner": true,
+          "votePercent": 1
+        }
+      ],
+      "reportingTime": "6/10/2024 12:53:41 PM"
+    },
     "opponents": [
       {
         "slug": "bill-hodges",
@@ -12259,6 +14933,19 @@
       ]
     },
     "coverage": [],
+    "primaryResults": {
+      "race": "HD-42",
+      "party": "D",
+      "resultsTotal": [
+        {
+          "candidate": "SIDNEY CHIP FITZPATRICK",
+          "votes": 454,
+          "isWinner": true,
+          "votePercent": 1
+        }
+      ],
+      "reportingTime": "6/10/2024 12:53:41 PM"
+    },
     "opponents": [
       {
         "slug": "bill-hodges",
@@ -12329,6 +15016,19 @@
       ]
     },
     "coverage": [],
+    "primaryResults": {
+      "race": "HD-43",
+      "party": "R",
+      "resultsTotal": [
+        {
+          "candidate": "LARRY BREWSTER",
+          "votes": 1456,
+          "isWinner": true,
+          "votePercent": 1
+        }
+      ],
+      "reportingTime": "6/10/2024 12:53:41 PM"
+    },
     "opponents": [
       {
         "slug": "larry-brewster",
@@ -12399,6 +15099,19 @@
       ]
     },
     "coverage": [],
+    "primaryResults": {
+      "race": "HD-43",
+      "party": "D",
+      "resultsTotal": [
+        {
+          "candidate": "ALEXANDER CLARK",
+          "votes": 710,
+          "isWinner": true,
+          "votePercent": 1
+        }
+      ],
+      "reportingTime": "6/10/2024 12:53:41 PM"
+    },
     "opponents": [
       {
         "slug": "larry-brewster",
@@ -12469,6 +15182,19 @@
       ]
     },
     "coverage": [],
+    "primaryResults": {
+      "race": "HD-44",
+      "party": "R",
+      "resultsTotal": [
+        {
+          "candidate": "KATIE ZOLNIKOV",
+          "votes": 1795,
+          "isWinner": true,
+          "votePercent": 1
+        }
+      ],
+      "reportingTime": "6/10/2024 12:53:41 PM"
+    },
     "opponents": [
       {
         "slug": "katie-zolnikov",
@@ -12533,6 +15259,19 @@
       ]
     },
     "coverage": [],
+    "primaryResults": {
+      "race": "HD-45",
+      "party": "D",
+      "resultsTotal": [
+        {
+          "candidate": "DENISE BAUM",
+          "votes": 1007,
+          "isWinner": true,
+          "votePercent": 1
+        }
+      ],
+      "reportingTime": "6/10/2024 12:53:41 PM"
+    },
     "opponents": [
       {
         "slug": "denise-baum",
@@ -12603,6 +15342,19 @@
       ]
     },
     "coverage": [],
+    "primaryResults": {
+      "race": "HD-45",
+      "party": "R",
+      "resultsTotal": [
+        {
+          "candidate": "KASSIDY OLSON",
+          "votes": 1181,
+          "isWinner": true,
+          "votePercent": 1
+        }
+      ],
+      "reportingTime": "6/10/2024 12:53:41 PM"
+    },
     "opponents": [
       {
         "slug": "denise-baum",
@@ -12673,6 +15425,19 @@
       ]
     },
     "coverage": [],
+    "primaryResults": {
+      "race": "HD-46",
+      "party": "D",
+      "resultsTotal": [
+        {
+          "candidate": "EMMA KERR CARPENTER",
+          "votes": 922,
+          "isWinner": true,
+          "votePercent": 1
+        }
+      ],
+      "reportingTime": "6/10/2024 12:53:41 PM"
+    },
     "opponents": [
       {
         "slug": "emma-kerr-carpenter",
@@ -12743,6 +15508,19 @@
       ]
     },
     "coverage": [],
+    "primaryResults": {
+      "race": "HD-46",
+      "party": "R",
+      "resultsTotal": [
+        {
+          "candidate": "STARR EMERY",
+          "votes": 988,
+          "isWinner": true,
+          "votePercent": 1
+        }
+      ],
+      "reportingTime": "6/10/2024 12:53:41 PM"
+    },
     "opponents": [
       {
         "slug": "emma-kerr-carpenter",
@@ -12813,6 +15591,19 @@
       ]
     },
     "coverage": [],
+    "primaryResults": {
+      "race": "HD-47",
+      "party": "D",
+      "resultsTotal": [
+        {
+          "candidate": "JAMES REAVIS",
+          "votes": 602,
+          "isWinner": true,
+          "votePercent": 1
+        }
+      ],
+      "reportingTime": "6/10/2024 12:53:41 PM"
+    },
     "opponents": [
       {
         "slug": "james-reavis",
@@ -12889,6 +15680,25 @@
       ]
     },
     "coverage": [],
+    "primaryResults": {
+      "race": "HD-47",
+      "party": "R",
+      "resultsTotal": [
+        {
+          "candidate": "STEPHANIE MONCADA",
+          "votes": 346,
+          "isWinner": true,
+          "votePercent": 0.5242424242424243
+        },
+        {
+          "candidate": "THOMAS MAHON",
+          "votes": 314,
+          "isWinner": false,
+          "votePercent": 0.47575757575757577
+        }
+      ],
+      "reportingTime": "6/10/2024 12:53:41 PM"
+    },
     "opponents": [
       {
         "slug": "james-reavis",
@@ -12965,6 +15775,25 @@
       ]
     },
     "coverage": [],
+    "primaryResults": {
+      "race": "HD-47",
+      "party": "R",
+      "resultsTotal": [
+        {
+          "candidate": "STEPHANIE MONCADA",
+          "votes": 346,
+          "isWinner": true,
+          "votePercent": 0.5242424242424243
+        },
+        {
+          "candidate": "THOMAS MAHON",
+          "votes": 314,
+          "isWinner": false,
+          "votePercent": 0.47575757575757577
+        }
+      ],
+      "reportingTime": "6/10/2024 12:53:41 PM"
+    },
     "opponents": [
       {
         "slug": "james-reavis",
@@ -13041,6 +15870,19 @@
       ]
     },
     "coverage": [],
+    "primaryResults": {
+      "race": "HD-48",
+      "party": "R",
+      "resultsTotal": [
+        {
+          "candidate": "CURTIS SCHOMER",
+          "votes": 1016,
+          "isWinner": true,
+          "votePercent": 1
+        }
+      ],
+      "reportingTime": "6/10/2024 12:53:41 PM"
+    },
     "opponents": [
       {
         "slug": "curtis-schomer",
@@ -13111,6 +15953,19 @@
       ]
     },
     "coverage": [],
+    "primaryResults": {
+      "race": "HD-48",
+      "party": "D",
+      "resultsTotal": [
+        {
+          "candidate": "ANNE ROSS",
+          "votes": 680,
+          "isWinner": true,
+          "votePercent": 1
+        }
+      ],
+      "reportingTime": "6/10/2024 12:53:41 PM"
+    },
     "opponents": [
       {
         "slug": "curtis-schomer",
@@ -13181,6 +16036,19 @@
       ]
     },
     "coverage": [],
+    "primaryResults": {
+      "race": "HD-49",
+      "party": "R",
+      "resultsTotal": [
+        {
+          "candidate": "SHERRY ESSMANN",
+          "votes": 1456,
+          "isWinner": true,
+          "votePercent": 1
+        }
+      ],
+      "reportingTime": "6/10/2024 12:53:41 PM"
+    },
     "opponents": [
       {
         "slug": "sherry-essmann",
@@ -13251,6 +16119,19 @@
       ]
     },
     "coverage": [],
+    "primaryResults": {
+      "race": "HD-49",
+      "party": "D",
+      "resultsTotal": [
+        {
+          "candidate": "RUDOLF HADEN",
+          "votes": 883,
+          "isWinner": true,
+          "votePercent": 1
+        }
+      ],
+      "reportingTime": "6/10/2024 12:53:41 PM"
+    },
     "opponents": [
       {
         "slug": "sherry-essmann",
@@ -13321,6 +16202,19 @@
       ]
     },
     "coverage": [],
+    "primaryResults": {
+      "race": "HD-50",
+      "party": "R",
+      "resultsTotal": [
+        {
+          "candidate": "ANTHONY NICASTRO",
+          "votes": 1845,
+          "isWinner": true,
+          "votePercent": 1
+        }
+      ],
+      "reportingTime": "6/10/2024 12:53:41 PM"
+    },
     "opponents": [
       {
         "slug": "anthony-nicastro",
@@ -13391,6 +16285,19 @@
       ]
     },
     "coverage": [],
+    "primaryResults": {
+      "race": "HD-50",
+      "party": "D",
+      "resultsTotal": [
+        {
+          "candidate": "SHAWN C GIESICK",
+          "votes": 785,
+          "isWinner": true,
+          "votePercent": 1
+        }
+      ],
+      "reportingTime": "6/10/2024 12:53:41 PM"
+    },
     "opponents": [
       {
         "slug": "anthony-nicastro",
@@ -13461,6 +16368,19 @@
       ]
     },
     "coverage": [],
+    "primaryResults": {
+      "race": "HD-51",
+      "party": "R",
+      "resultsTotal": [
+        {
+          "candidate": "JODEE ETCHART",
+          "votes": 1664,
+          "isWinner": true,
+          "votePercent": 1
+        }
+      ],
+      "reportingTime": "6/10/2024 12:53:41 PM"
+    },
     "opponents": [
       {
         "slug": "jodee-etchart",
@@ -13525,6 +16445,19 @@
       ]
     },
     "coverage": [],
+    "primaryResults": {
+      "race": "HD-52",
+      "party": "R",
+      "resultsTotal": [
+        {
+          "candidate": "BILL MERCER",
+          "votes": 2294,
+          "isWinner": true,
+          "votePercent": 1
+        }
+      ],
+      "reportingTime": "6/10/2024 12:53:41 PM"
+    },
     "opponents": [
       {
         "slug": "bill-mercer",
@@ -13595,6 +16528,19 @@
       ]
     },
     "coverage": [],
+    "primaryResults": {
+      "race": "HD-52",
+      "party": "D",
+      "resultsTotal": [
+        {
+          "candidate": "CAROLE BOERNER",
+          "votes": 912,
+          "isWinner": true,
+          "votePercent": 1
+        }
+      ],
+      "reportingTime": "6/10/2024 12:53:41 PM"
+    },
     "opponents": [
       {
         "slug": "bill-mercer",
@@ -13665,6 +16611,25 @@
       ]
     },
     "coverage": [],
+    "primaryResults": {
+      "race": "HD-53",
+      "party": "R",
+      "resultsTotal": [
+        {
+          "candidate": "NELLY NICOL",
+          "votes": 1166,
+          "isWinner": true,
+          "votePercent": 0.5240449438202247
+        },
+        {
+          "candidate": "DAVID AUSTIN",
+          "votes": 1059,
+          "isWinner": false,
+          "votePercent": 0.4759550561797753
+        }
+      ],
+      "reportingTime": "6/10/2024 12:53:41 PM"
+    },
     "opponents": [
       {
         "slug": "nelly-nicol",
@@ -13741,6 +16706,19 @@
       ]
     },
     "coverage": [],
+    "primaryResults": {
+      "race": "HD-53",
+      "party": "D",
+      "resultsTotal": [
+        {
+          "candidate": "ELLIE KERNS",
+          "votes": 584,
+          "isWinner": true,
+          "votePercent": 1
+        }
+      ],
+      "reportingTime": "6/10/2024 12:53:41 PM"
+    },
     "opponents": [
       {
         "slug": "nelly-nicol",
@@ -13817,6 +16795,25 @@
       ]
     },
     "coverage": [],
+    "primaryResults": {
+      "race": "HD-53",
+      "party": "R",
+      "resultsTotal": [
+        {
+          "candidate": "NELLY NICOL",
+          "votes": 1166,
+          "isWinner": true,
+          "votePercent": 0.5240449438202247
+        },
+        {
+          "candidate": "DAVID AUSTIN",
+          "votes": 1059,
+          "isWinner": false,
+          "votePercent": 0.4759550561797753
+        }
+      ],
+      "reportingTime": "6/10/2024 12:53:41 PM"
+    },
     "opponents": [
       {
         "slug": "nelly-nicol",
@@ -13893,6 +16890,19 @@
       ]
     },
     "coverage": [],
+    "primaryResults": {
+      "race": "HD-54",
+      "party": "R",
+      "resultsTotal": [
+        {
+          "candidate": "LEE DEMING",
+          "votes": 1669,
+          "isWinner": true,
+          "votePercent": 1
+        }
+      ],
+      "reportingTime": "6/10/2024 12:53:41 PM"
+    },
     "opponents": [
       {
         "slug": "lee-deming",
@@ -13957,6 +16967,31 @@
       ]
     },
     "coverage": [],
+    "primaryResults": {
+      "race": "HD-55",
+      "party": "R",
+      "resultsTotal": [
+        {
+          "candidate": "BRAD BARKER",
+          "votes": 1514,
+          "isWinner": true,
+          "votePercent": 0.5218890037917959
+        },
+        {
+          "candidate": "MARY HORMAN",
+          "votes": 726,
+          "isWinner": false,
+          "votePercent": 0.250258531540848
+        },
+        {
+          "candidate": "LISA BENNETT",
+          "votes": 661,
+          "isWinner": false,
+          "votePercent": 0.2278524646673561
+        }
+      ],
+      "reportingTime": "6/10/2024 12:53:41 PM"
+    },
     "opponents": [
       {
         "slug": "brad-barker",
@@ -14039,6 +17074,19 @@
       ]
     },
     "coverage": [],
+    "primaryResults": {
+      "race": "HD-55",
+      "party": "D",
+      "resultsTotal": [
+        {
+          "candidate": "KIM GILLAN",
+          "votes": 955,
+          "isWinner": true,
+          "votePercent": 1
+        }
+      ],
+      "reportingTime": "6/10/2024 12:53:41 PM"
+    },
     "opponents": [
       {
         "slug": "brad-barker",
@@ -14121,6 +17169,31 @@
       ]
     },
     "coverage": [],
+    "primaryResults": {
+      "race": "HD-55",
+      "party": "R",
+      "resultsTotal": [
+        {
+          "candidate": "BRAD BARKER",
+          "votes": 1514,
+          "isWinner": true,
+          "votePercent": 0.5218890037917959
+        },
+        {
+          "candidate": "MARY HORMAN",
+          "votes": 726,
+          "isWinner": false,
+          "votePercent": 0.250258531540848
+        },
+        {
+          "candidate": "LISA BENNETT",
+          "votes": 661,
+          "isWinner": false,
+          "votePercent": 0.2278524646673561
+        }
+      ],
+      "reportingTime": "6/10/2024 12:53:41 PM"
+    },
     "opponents": [
       {
         "slug": "brad-barker",
@@ -14225,6 +17298,31 @@
         "author": "Arren Kimbel-Sannit"
       }
     ],
+    "primaryResults": {
+      "race": "HD-55",
+      "party": "R",
+      "resultsTotal": [
+        {
+          "candidate": "BRAD BARKER",
+          "votes": 1514,
+          "isWinner": true,
+          "votePercent": 0.5218890037917959
+        },
+        {
+          "candidate": "MARY HORMAN",
+          "votes": 726,
+          "isWinner": false,
+          "votePercent": 0.250258531540848
+        },
+        {
+          "candidate": "LISA BENNETT",
+          "votes": 661,
+          "isWinner": false,
+          "votePercent": 0.2278524646673561
+        }
+      ],
+      "reportingTime": "6/10/2024 12:53:41 PM"
+    },
     "opponents": [
       {
         "slug": "brad-barker",
@@ -14307,6 +17405,19 @@
       ]
     },
     "coverage": [],
+    "primaryResults": {
+      "race": "HD-56",
+      "party": "R",
+      "resultsTotal": [
+        {
+          "candidate": "FIONA NAVE",
+          "votes": 2540,
+          "isWinner": true,
+          "votePercent": 1
+        }
+      ],
+      "reportingTime": "6/10/2024 12:53:41 PM"
+    },
     "opponents": [
       {
         "slug": "fiona-nave",
@@ -14371,6 +17482,19 @@
       ]
     },
     "coverage": [],
+    "primaryResults": {
+      "race": "HD-57",
+      "party": "R",
+      "resultsTotal": [
+        {
+          "candidate": "MARTY MALONE",
+          "votes": 1820,
+          "isWinner": true,
+          "votePercent": 1
+        }
+      ],
+      "reportingTime": "6/10/2024 12:53:41 PM"
+    },
     "opponents": [
       {
         "slug": "marty-malone",
@@ -14441,6 +17565,19 @@
       ]
     },
     "coverage": [],
+    "primaryResults": {
+      "race": "HD-57",
+      "party": "D",
+      "resultsTotal": [
+        {
+          "candidate": "SCOTT ROSENZWEIG",
+          "votes": 1452,
+          "isWinner": true,
+          "votePercent": 1
+        }
+      ],
+      "reportingTime": "6/10/2024 12:53:41 PM"
+    },
     "opponents": [
       {
         "slug": "marty-malone",
@@ -14511,6 +17648,19 @@
       ]
     },
     "coverage": [],
+    "primaryResults": {
+      "race": "HD-58",
+      "party": "R",
+      "resultsTotal": [
+        {
+          "candidate": "JASON GUNDERSON",
+          "votes": 1272,
+          "isWinner": true,
+          "votePercent": 1
+        }
+      ],
+      "reportingTime": "6/10/2024 12:53:41 PM"
+    },
     "opponents": [
       {
         "slug": "jason-gunderson",
@@ -14587,6 +17737,25 @@
       ]
     },
     "coverage": [],
+    "primaryResults": {
+      "race": "HD-58",
+      "party": "D",
+      "resultsTotal": [
+        {
+          "candidate": "JAMIE L ISALY",
+          "votes": 1362,
+          "isWinner": true,
+          "votePercent": 0.9116465863453815
+        },
+        {
+          "candidate": "DEAN WILLIAMSON",
+          "votes": 132,
+          "isWinner": false,
+          "votePercent": 0.08835341365461848
+        }
+      ],
+      "reportingTime": "6/10/2024 12:53:41 PM"
+    },
     "opponents": [
       {
         "slug": "jason-gunderson",
@@ -14663,6 +17832,25 @@
       ]
     },
     "coverage": [],
+    "primaryResults": {
+      "race": "HD-58",
+      "party": "D",
+      "resultsTotal": [
+        {
+          "candidate": "JAMIE L ISALY",
+          "votes": 1362,
+          "isWinner": true,
+          "votePercent": 0.9116465863453815
+        },
+        {
+          "candidate": "DEAN WILLIAMSON",
+          "votes": 132,
+          "isWinner": false,
+          "votePercent": 0.08835341365461848
+        }
+      ],
+      "reportingTime": "6/10/2024 12:53:41 PM"
+    },
     "opponents": [
       {
         "slug": "jason-gunderson",
@@ -14739,6 +17927,19 @@
       ]
     },
     "coverage": [],
+    "primaryResults": {
+      "race": "HD-59",
+      "party": "D",
+      "resultsTotal": [
+        {
+          "candidate": "ED STAFMAN",
+          "votes": 1966,
+          "isWinner": true,
+          "votePercent": 1
+        }
+      ],
+      "reportingTime": "6/10/2024 12:53:41 PM"
+    },
     "opponents": [
       {
         "slug": "ed-stafman",
@@ -14809,6 +18010,19 @@
       ]
     },
     "coverage": [],
+    "primaryResults": {
+      "race": "HD-59",
+      "party": "R",
+      "resultsTotal": [
+        {
+          "candidate": "MARC GREENDORFER",
+          "votes": 1090,
+          "isWinner": true,
+          "votePercent": 1
+        }
+      ],
+      "reportingTime": "6/10/2024 12:53:41 PM"
+    },
     "opponents": [
       {
         "slug": "ed-stafman",
@@ -14879,6 +18093,19 @@
       ]
     },
     "coverage": [],
+    "primaryResults": {
+      "race": "HD-60",
+      "party": "D",
+      "resultsTotal": [
+        {
+          "candidate": "ALANAH GRIFFITH",
+          "votes": 1112,
+          "isWinner": true,
+          "votePercent": 1
+        }
+      ],
+      "reportingTime": "6/10/2024 12:53:41 PM"
+    },
     "opponents": [
       {
         "slug": "alanah-griffith",
@@ -14949,6 +18176,19 @@
       ]
     },
     "coverage": [],
+    "primaryResults": {
+      "race": "HD-60",
+      "party": "R",
+      "resultsTotal": [
+        {
+          "candidate": "JERRY JOHNSON",
+          "votes": 1011,
+          "isWinner": true,
+          "votePercent": 1
+        }
+      ],
+      "reportingTime": "6/10/2024 12:53:41 PM"
+    },
     "opponents": [
       {
         "slug": "alanah-griffith",
@@ -15019,6 +18259,19 @@
       ]
     },
     "coverage": [],
+    "primaryResults": {
+      "race": "HD-61",
+      "party": "D",
+      "resultsTotal": [
+        {
+          "candidate": "BECKY EDWARDS",
+          "votes": 692,
+          "isWinner": true,
+          "votePercent": 1
+        }
+      ],
+      "reportingTime": "6/10/2024 12:53:41 PM"
+    },
     "opponents": [
       {
         "slug": "becky-edwards",
@@ -15089,6 +18342,19 @@
       ]
     },
     "coverage": [],
+    "primaryResults": {
+      "race": "HD-61",
+      "party": "R",
+      "resultsTotal": [
+        {
+          "candidate": "THOMAS CARLSON",
+          "votes": 133,
+          "isWinner": true,
+          "votePercent": 1
+        }
+      ],
+      "reportingTime": "6/10/2024 12:53:41 PM"
+    },
     "opponents": [
       {
         "slug": "becky-edwards",
@@ -15159,6 +18425,25 @@
       ]
     },
     "coverage": [],
+    "primaryResults": {
+      "race": "HD-62",
+      "party": "D",
+      "resultsTotal": [
+        {
+          "candidate": "JOSHUA A SECKINGER",
+          "votes": 503,
+          "isWinner": true,
+          "votePercent": 0.5289169295478444
+        },
+        {
+          "candidate": "RIO ROLAND",
+          "votes": 448,
+          "isWinner": false,
+          "votePercent": 0.47108307045215564
+        }
+      ],
+      "reportingTime": "6/10/2024 12:53:41 PM"
+    },
     "opponents": [
       {
         "slug": "rio-roland",
@@ -15235,6 +18520,25 @@
       ]
     },
     "coverage": [],
+    "primaryResults": {
+      "race": "HD-62",
+      "party": "D",
+      "resultsTotal": [
+        {
+          "candidate": "JOSHUA A SECKINGER",
+          "votes": 503,
+          "isWinner": true,
+          "votePercent": 0.5289169295478444
+        },
+        {
+          "candidate": "RIO ROLAND",
+          "votes": 448,
+          "isWinner": false,
+          "votePercent": 0.47108307045215564
+        }
+      ],
+      "reportingTime": "6/10/2024 12:53:41 PM"
+    },
     "opponents": [
       {
         "slug": "rio-roland",
@@ -15311,6 +18615,19 @@
       ]
     },
     "coverage": [],
+    "primaryResults": {
+      "race": "HD-62",
+      "party": "R",
+      "resultsTotal": [
+        {
+          "candidate": "OWEN LANG",
+          "votes": 861,
+          "isWinner": true,
+          "votePercent": 1
+        }
+      ],
+      "reportingTime": "6/10/2024 12:53:41 PM"
+    },
     "opponents": [
       {
         "slug": "rio-roland",
@@ -15387,6 +18704,25 @@
       ]
     },
     "coverage": [],
+    "primaryResults": {
+      "race": "HD-63",
+      "party": "D",
+      "resultsTotal": [
+        {
+          "candidate": "PETER STRAND",
+          "votes": 810,
+          "isWinner": true,
+          "votePercent": 0.791015625
+        },
+        {
+          "candidate": "JOHN HANSEN",
+          "votes": 214,
+          "isWinner": false,
+          "votePercent": 0.208984375
+        }
+      ],
+      "reportingTime": "6/10/2024 12:53:41 PM"
+    },
     "opponents": [
       {
         "slug": "peter-strand",
@@ -15469,6 +18805,25 @@
       ]
     },
     "coverage": [],
+    "primaryResults": {
+      "race": "HD-63",
+      "party": "D",
+      "resultsTotal": [
+        {
+          "candidate": "PETER STRAND",
+          "votes": 810,
+          "isWinner": true,
+          "votePercent": 0.791015625
+        },
+        {
+          "candidate": "JOHN HANSEN",
+          "votes": 214,
+          "isWinner": false,
+          "votePercent": 0.208984375
+        }
+      ],
+      "reportingTime": "6/10/2024 12:53:41 PM"
+    },
     "opponents": [
       {
         "slug": "peter-strand",
@@ -15551,6 +18906,25 @@
       ]
     },
     "coverage": [],
+    "primaryResults": {
+      "race": "HD-63",
+      "party": "R",
+      "resultsTotal": [
+        {
+          "candidate": "MARK LEWIS",
+          "votes": 529,
+          "isWinner": true,
+          "votePercent": 0.6713197969543148
+        },
+        {
+          "candidate": "JOE FLYNN",
+          "votes": 259,
+          "isWinner": false,
+          "votePercent": 0.3286802030456853
+        }
+      ],
+      "reportingTime": "6/10/2024 12:53:41 PM"
+    },
     "opponents": [
       {
         "slug": "peter-strand",
@@ -15633,6 +19007,25 @@
       ]
     },
     "coverage": [],
+    "primaryResults": {
+      "race": "HD-63",
+      "party": "R",
+      "resultsTotal": [
+        {
+          "candidate": "MARK LEWIS",
+          "votes": 529,
+          "isWinner": true,
+          "votePercent": 0.6713197969543148
+        },
+        {
+          "candidate": "JOE FLYNN",
+          "votes": 259,
+          "isWinner": false,
+          "votePercent": 0.3286802030456853
+        }
+      ],
+      "reportingTime": "6/10/2024 12:53:41 PM"
+    },
     "opponents": [
       {
         "slug": "peter-strand",
@@ -15715,6 +19108,19 @@
       ]
     },
     "coverage": [],
+    "primaryResults": {
+      "race": "HD-64",
+      "party": "R",
+      "resultsTotal": [
+        {
+          "candidate": "JOLENE  CRUM",
+          "votes": 765,
+          "isWinner": true,
+          "votePercent": 1
+        }
+      ],
+      "reportingTime": "6/10/2024 12:53:41 PM"
+    },
     "opponents": [
       {
         "slug": "jolene--crum",
@@ -15785,6 +19191,19 @@
       ]
     },
     "coverage": [],
+    "primaryResults": {
+      "race": "HD-64",
+      "party": "D",
+      "resultsTotal": [
+        {
+          "candidate": "KELLY KORTUM",
+          "votes": 1046,
+          "isWinner": true,
+          "votePercent": 1
+        }
+      ],
+      "reportingTime": "6/10/2024 12:53:41 PM"
+    },
     "opponents": [
       {
         "slug": "jolene--crum",
@@ -15855,6 +19274,25 @@
       ]
     },
     "coverage": [],
+    "primaryResults": {
+      "race": "HD-65",
+      "party": "D",
+      "resultsTotal": [
+        {
+          "candidate": "BRIAN CLOSE",
+          "votes": 855,
+          "isWinner": true,
+          "votePercent": 0.6159942363112392
+        },
+        {
+          "candidate": "ANJA WOOKEYHUFFMAN",
+          "votes": 533,
+          "isWinner": false,
+          "votePercent": 0.3840057636887608
+        }
+      ],
+      "reportingTime": "6/10/2024 12:53:41 PM"
+    },
     "opponents": [
       {
         "slug": "anja-wookeyhuffman",
@@ -15931,6 +19369,25 @@
       ]
     },
     "coverage": [],
+    "primaryResults": {
+      "race": "HD-65",
+      "party": "D",
+      "resultsTotal": [
+        {
+          "candidate": "BRIAN CLOSE",
+          "votes": 855,
+          "isWinner": true,
+          "votePercent": 0.6159942363112392
+        },
+        {
+          "candidate": "ANJA WOOKEYHUFFMAN",
+          "votes": 533,
+          "isWinner": false,
+          "votePercent": 0.3840057636887608
+        }
+      ],
+      "reportingTime": "6/10/2024 12:53:41 PM"
+    },
     "opponents": [
       {
         "slug": "anja-wookeyhuffman",
@@ -16007,6 +19464,19 @@
       ]
     },
     "coverage": [],
+    "primaryResults": {
+      "race": "HD-65",
+      "party": "R",
+      "resultsTotal": [
+        {
+          "candidate": "ESTHER FISHBAUGH",
+          "votes": 1020,
+          "isWinner": true,
+          "votePercent": 1
+        }
+      ],
+      "reportingTime": "6/10/2024 12:53:41 PM"
+    },
     "opponents": [
       {
         "slug": "anja-wookeyhuffman",
@@ -16083,6 +19553,19 @@
       ]
     },
     "coverage": [],
+    "primaryResults": {
+      "race": "HD-66",
+      "party": "D",
+      "resultsTotal": [
+        {
+          "candidate": "ERIC MATTHEWS",
+          "votes": 1576,
+          "isWinner": true,
+          "votePercent": 1
+        }
+      ],
+      "reportingTime": "6/10/2024 12:53:41 PM"
+    },
     "opponents": [
       {
         "slug": "eric-matthews",
@@ -16153,6 +19636,19 @@
       ]
     },
     "coverage": [],
+    "primaryResults": {
+      "race": "HD-66",
+      "party": "R",
+      "resultsTotal": [
+        {
+          "candidate": "MARLA DAVIS",
+          "votes": 1175,
+          "isWinner": true,
+          "votePercent": 1
+        }
+      ],
+      "reportingTime": "6/10/2024 12:53:41 PM"
+    },
     "opponents": [
       {
         "slug": "eric-matthews",
@@ -16223,6 +19719,19 @@
       ]
     },
     "coverage": [],
+    "primaryResults": {
+      "race": "HD-67",
+      "party": "D",
+      "resultsTotal": [
+        {
+          "candidate": "CARL ANDERSON",
+          "votes": 623,
+          "isWinner": true,
+          "votePercent": 1
+        }
+      ],
+      "reportingTime": "6/10/2024 12:53:41 PM"
+    },
     "opponents": [
       {
         "slug": "carl-anderson",
@@ -16293,6 +19802,19 @@
       ]
     },
     "coverage": [],
+    "primaryResults": {
+      "race": "HD-67",
+      "party": "R",
+      "resultsTotal": [
+        {
+          "candidate": "JEDEDIAH HINKLE",
+          "votes": 1170,
+          "isWinner": true,
+          "votePercent": 1
+        }
+      ],
+      "reportingTime": "6/10/2024 12:53:41 PM"
+    },
     "opponents": [
       {
         "slug": "carl-anderson",
@@ -16363,6 +19885,31 @@
       ]
     },
     "coverage": [],
+    "primaryResults": {
+      "race": "HD-68",
+      "party": "R",
+      "resultsTotal": [
+        {
+          "candidate": "CALEB HINKLE",
+          "votes": 993,
+          "isWinner": true,
+          "votePercent": 0.4918276374442793
+        },
+        {
+          "candidate": "JENNIFER CARLSON",
+          "votes": 696,
+          "isWinner": false,
+          "votePercent": 0.3447251114413076
+        },
+        {
+          "candidate": "SCOTT SALES",
+          "votes": 330,
+          "isWinner": false,
+          "votePercent": 0.16344725111441308
+        }
+      ],
+      "reportingTime": "6/10/2024 12:53:41 PM"
+    },
     "opponents": [
       {
         "slug": "caleb-hinkle",
@@ -16445,6 +19992,31 @@
       ]
     },
     "coverage": [],
+    "primaryResults": {
+      "race": "HD-68",
+      "party": "R",
+      "resultsTotal": [
+        {
+          "candidate": "CALEB HINKLE",
+          "votes": 993,
+          "isWinner": true,
+          "votePercent": 0.4918276374442793
+        },
+        {
+          "candidate": "JENNIFER CARLSON",
+          "votes": 696,
+          "isWinner": false,
+          "votePercent": 0.3447251114413076
+        },
+        {
+          "candidate": "SCOTT SALES",
+          "votes": 330,
+          "isWinner": false,
+          "votePercent": 0.16344725111441308
+        }
+      ],
+      "reportingTime": "6/10/2024 12:53:41 PM"
+    },
     "opponents": [
       {
         "slug": "caleb-hinkle",
@@ -16527,6 +20099,31 @@
       ]
     },
     "coverage": [],
+    "primaryResults": {
+      "race": "HD-68",
+      "party": "R",
+      "resultsTotal": [
+        {
+          "candidate": "CALEB HINKLE",
+          "votes": 993,
+          "isWinner": true,
+          "votePercent": 0.4918276374442793
+        },
+        {
+          "candidate": "JENNIFER CARLSON",
+          "votes": 696,
+          "isWinner": false,
+          "votePercent": 0.3447251114413076
+        },
+        {
+          "candidate": "SCOTT SALES",
+          "votes": 330,
+          "isWinner": false,
+          "votePercent": 0.16344725111441308
+        }
+      ],
+      "reportingTime": "6/10/2024 12:53:41 PM"
+    },
     "opponents": [
       {
         "slug": "caleb-hinkle",
@@ -16609,6 +20206,19 @@
       ]
     },
     "coverage": [],
+    "primaryResults": {
+      "race": "HD-68",
+      "party": "D",
+      "resultsTotal": [
+        {
+          "candidate": "ALEXANDER COLAFRANCESCO",
+          "votes": 505,
+          "isWinner": true,
+          "votePercent": 1
+        }
+      ],
+      "reportingTime": "6/10/2024 12:53:41 PM"
+    },
     "opponents": [
       {
         "slug": "caleb-hinkle",
@@ -16691,6 +20301,19 @@
       ]
     },
     "coverage": [],
+    "primaryResults": {
+      "race": "HD-69",
+      "party": "R",
+      "resultsTotal": [
+        {
+          "candidate": "KEN WALSH",
+          "votes": 2538,
+          "isWinner": true,
+          "votePercent": 1
+        }
+      ],
+      "reportingTime": "6/10/2024 12:53:41 PM"
+    },
     "opponents": [
       {
         "slug": "ken-walsh",
@@ -16755,6 +20378,31 @@
       ]
     },
     "coverage": [],
+    "primaryResults": {
+      "race": "HD-70",
+      "party": "R",
+      "resultsTotal": [
+        {
+          "candidate": "SHANNON MANESS",
+          "votes": 1456,
+          "isWinner": true,
+          "votePercent": 0.48957632817753866
+        },
+        {
+          "candidate": "MARY ANN NICHOLAS",
+          "votes": 1152,
+          "isWinner": false,
+          "votePercent": 0.3873570948217888
+        },
+        {
+          "candidate": "MIKE KLAKKEN",
+          "votes": 366,
+          "isWinner": false,
+          "votePercent": 0.1230665770006725
+        }
+      ],
+      "reportingTime": "6/10/2024 12:53:41 PM"
+    },
     "opponents": [
       {
         "slug": "mary-ann-nicholas",
@@ -16831,6 +20479,31 @@
       ]
     },
     "coverage": [],
+    "primaryResults": {
+      "race": "HD-70",
+      "party": "R",
+      "resultsTotal": [
+        {
+          "candidate": "SHANNON MANESS",
+          "votes": 1456,
+          "isWinner": true,
+          "votePercent": 0.48957632817753866
+        },
+        {
+          "candidate": "MARY ANN NICHOLAS",
+          "votes": 1152,
+          "isWinner": false,
+          "votePercent": 0.3873570948217888
+        },
+        {
+          "candidate": "MIKE KLAKKEN",
+          "votes": 366,
+          "isWinner": false,
+          "votePercent": 0.1230665770006725
+        }
+      ],
+      "reportingTime": "6/10/2024 12:53:41 PM"
+    },
     "opponents": [
       {
         "slug": "mary-ann-nicholas",
@@ -16907,6 +20580,31 @@
       ]
     },
     "coverage": [],
+    "primaryResults": {
+      "race": "HD-70",
+      "party": "R",
+      "resultsTotal": [
+        {
+          "candidate": "SHANNON MANESS",
+          "votes": 1456,
+          "isWinner": true,
+          "votePercent": 0.48957632817753866
+        },
+        {
+          "candidate": "MARY ANN NICHOLAS",
+          "votes": 1152,
+          "isWinner": false,
+          "votePercent": 0.3873570948217888
+        },
+        {
+          "candidate": "MIKE KLAKKEN",
+          "votes": 366,
+          "isWinner": false,
+          "votePercent": 0.1230665770006725
+        }
+      ],
+      "reportingTime": "6/10/2024 12:53:41 PM"
+    },
     "opponents": [
       {
         "slug": "mary-ann-nicholas",
@@ -16983,6 +20681,19 @@
       ]
     },
     "coverage": [],
+    "primaryResults": {
+      "race": "HD-71",
+      "party": "R",
+      "resultsTotal": [
+        {
+          "candidate": "H STEIGER",
+          "votes": 1119,
+          "isWinner": true,
+          "votePercent": 1
+        }
+      ],
+      "reportingTime": "6/10/2024 12:53:41 PM"
+    },
     "opponents": [
       {
         "slug": "h-steiger",
@@ -17053,6 +20764,19 @@
       ]
     },
     "coverage": [],
+    "primaryResults": {
+      "race": "HD-71",
+      "party": "D",
+      "resultsTotal": [
+        {
+          "candidate": "SCOTT P DEMAROIS",
+          "votes": 1869,
+          "isWinner": true,
+          "votePercent": 1
+        }
+      ],
+      "reportingTime": "6/10/2024 12:53:41 PM"
+    },
     "opponents": [
       {
         "slug": "h-steiger",
@@ -17123,6 +20847,19 @@
       ]
     },
     "coverage": [],
+    "primaryResults": {
+      "race": "HD-72",
+      "party": "D",
+      "resultsTotal": [
+        {
+          "candidate": "DONAVON HAWK",
+          "votes": 1734,
+          "isWinner": true,
+          "votePercent": 1
+        }
+      ],
+      "reportingTime": "6/10/2024 12:53:41 PM"
+    },
     "opponents": [
       {
         "slug": "donavon-hawk",
@@ -17193,6 +20930,19 @@
       ]
     },
     "coverage": [],
+    "primaryResults": {
+      "race": "HD-72",
+      "party": "R",
+      "resultsTotal": [
+        {
+          "candidate": "ANDY JOHNSON",
+          "votes": 827,
+          "isWinner": true,
+          "votePercent": 1
+        }
+      ],
+      "reportingTime": "6/10/2024 12:53:41 PM"
+    },
     "opponents": [
       {
         "slug": "donavon-hawk",
@@ -17263,6 +21013,19 @@
       ]
     },
     "coverage": [],
+    "primaryResults": {
+      "race": "HD-73",
+      "party": "D",
+      "resultsTotal": [
+        {
+          "candidate": "JENNIFER LYNCH",
+          "votes": 1505,
+          "isWinner": true,
+          "votePercent": 1
+        }
+      ],
+      "reportingTime": "6/10/2024 12:53:41 PM"
+    },
     "opponents": [
       {
         "slug": "jennifer-lynch",
@@ -17333,6 +21096,19 @@
       ]
     },
     "coverage": [],
+    "primaryResults": {
+      "race": "HD-73",
+      "party": "R",
+      "resultsTotal": [
+        {
+          "candidate": "ZACH TOMASZEWSKI",
+          "votes": 788,
+          "isWinner": true,
+          "votePercent": 1
+        }
+      ],
+      "reportingTime": "6/10/2024 12:53:41 PM"
+    },
     "opponents": [
       {
         "slug": "jennifer-lynch",
@@ -17403,6 +21179,19 @@
       ]
     },
     "coverage": [],
+    "primaryResults": {
+      "race": "HD-74",
+      "party": "D",
+      "resultsTotal": [
+        {
+          "candidate": "MARC J LEE",
+          "votes": 2235,
+          "isWinner": true,
+          "votePercent": 1
+        }
+      ],
+      "reportingTime": "6/10/2024 12:53:41 PM"
+    },
     "opponents": [
       {
         "slug": "marc-j-lee",
@@ -17473,6 +21262,19 @@
       ]
     },
     "coverage": [],
+    "primaryResults": {
+      "race": "HD-74",
+      "party": "R",
+      "resultsTotal": [
+        {
+          "candidate": "TRENIN BAYLESS",
+          "votes": 1237,
+          "isWinner": true,
+          "votePercent": 1
+        }
+      ],
+      "reportingTime": "6/10/2024 12:53:41 PM"
+    },
     "opponents": [
       {
         "slug": "marc-j-lee",
@@ -17543,6 +21345,19 @@
       ]
     },
     "coverage": [],
+    "primaryResults": {
+      "race": "HD-75",
+      "party": "R",
+      "resultsTotal": [
+        {
+          "candidate": "MARTA BERTOGLIO",
+          "votes": 2242,
+          "isWinner": true,
+          "votePercent": 1
+        }
+      ],
+      "reportingTime": "6/10/2024 12:53:41 PM"
+    },
     "opponents": [
       {
         "slug": "marta-bertoglio",
@@ -17613,6 +21428,19 @@
       ]
     },
     "coverage": [],
+    "primaryResults": {
+      "race": "HD-75",
+      "party": "D",
+      "resultsTotal": [
+        {
+          "candidate": "NANCY JANE LIEN",
+          "votes": 1079,
+          "isWinner": true,
+          "votePercent": 1
+        }
+      ],
+      "reportingTime": "6/10/2024 12:53:41 PM"
+    },
     "opponents": [
       {
         "slug": "marta-bertoglio",
@@ -17683,6 +21511,25 @@
       ]
     },
     "coverage": [],
+    "primaryResults": {
+      "race": "HD-76",
+      "party": "R",
+      "resultsTotal": [
+        {
+          "candidate": "JOHN FITZPATRICK",
+          "votes": 1465,
+          "isWinner": true,
+          "votePercent": 0.5171196611366043
+        },
+        {
+          "candidate": "DAVE KESLER III",
+          "votes": 1368,
+          "isWinner": false,
+          "votePercent": 0.4828803388633957
+        }
+      ],
+      "reportingTime": "6/10/2024 12:53:41 PM"
+    },
     "opponents": [
       {
         "slug": "john-fitzpatrick",
@@ -17759,6 +21606,10 @@
       ]
     },
     "coverage": [],
+    "primaryResults": {
+      "race": "HD-76",
+      "resultsTotal": null
+    },
     "opponents": [
       {
         "slug": "john-fitzpatrick",
@@ -17835,6 +21686,25 @@
       ]
     },
     "coverage": [],
+    "primaryResults": {
+      "race": "HD-76",
+      "party": "R",
+      "resultsTotal": [
+        {
+          "candidate": "JOHN FITZPATRICK",
+          "votes": 1465,
+          "isWinner": true,
+          "votePercent": 0.5171196611366043
+        },
+        {
+          "candidate": "DAVE KESLER III",
+          "votes": 1368,
+          "isWinner": false,
+          "votePercent": 0.4828803388633957
+        }
+      ],
+      "reportingTime": "6/10/2024 12:53:41 PM"
+    },
     "opponents": [
       {
         "slug": "john-fitzpatrick",
@@ -17911,6 +21781,25 @@
       ]
     },
     "coverage": [],
+    "primaryResults": {
+      "race": "HD-77",
+      "party": "R",
+      "resultsTotal": [
+        {
+          "candidate": "JANE GILLETTE",
+          "votes": 1561,
+          "isWinner": true,
+          "votePercent": 0.5106313379129865
+        },
+        {
+          "candidate": "KYLE MCMURRAY",
+          "votes": 1496,
+          "isWinner": false,
+          "votePercent": 0.4893686620870134
+        }
+      ],
+      "reportingTime": "6/10/2024 12:53:41 PM"
+    },
     "opponents": [
       {
         "slug": "kyle-mcmurray",
@@ -17987,6 +21876,25 @@
       ]
     },
     "coverage": [],
+    "primaryResults": {
+      "race": "HD-77",
+      "party": "R",
+      "resultsTotal": [
+        {
+          "candidate": "JANE GILLETTE",
+          "votes": 1561,
+          "isWinner": true,
+          "votePercent": 0.5106313379129865
+        },
+        {
+          "candidate": "KYLE MCMURRAY",
+          "votes": 1496,
+          "isWinner": false,
+          "votePercent": 0.4893686620870134
+        }
+      ],
+      "reportingTime": "6/10/2024 12:53:41 PM"
+    },
     "opponents": [
       {
         "slug": "kyle-mcmurray",
@@ -18063,6 +21971,19 @@
       ]
     },
     "coverage": [],
+    "primaryResults": {
+      "race": "HD-77",
+      "party": "D",
+      "resultsTotal": [
+        {
+          "candidate": "JEREMIAH DAWSON",
+          "votes": 546,
+          "isWinner": true,
+          "votePercent": 1
+        }
+      ],
+      "reportingTime": "6/10/2024 12:53:41 PM"
+    },
     "opponents": [
       {
         "slug": "kyle-mcmurray",
@@ -18094,7 +22015,7 @@
     "summaryLine": null,
     "summaryNarrative": null,
     "isIncumbent": false,
-    "cap_tracker_2023_link": null,
+    "cap_tracker_2023_link": "https://apps.montanafreepress.org/capitol-tracker-2023/lawmakers/James-Bergstrom/",
     "campaignWebsite": null,
     "campaignFB": null,
     "campaignTW": null,
@@ -18139,6 +22060,25 @@
       ]
     },
     "coverage": [],
+    "primaryResults": {
+      "race": "HD-78",
+      "party": "R",
+      "resultsTotal": [
+        {
+          "candidate": "RANDYN GREGG",
+          "votes": 1572,
+          "isWinner": true,
+          "votePercent": 0.5287588294651867
+        },
+        {
+          "candidate": "JAMES H BERGSTROM",
+          "votes": 1401,
+          "isWinner": false,
+          "votePercent": 0.47124117053481335
+        }
+      ],
+      "reportingTime": "6/10/2024 12:53:41 PM"
+    },
     "opponents": [
       {
         "slug": "james-h-bergstrom",
@@ -18215,6 +22155,25 @@
       ]
     },
     "coverage": [],
+    "primaryResults": {
+      "race": "HD-78",
+      "party": "R",
+      "resultsTotal": [
+        {
+          "candidate": "RANDYN GREGG",
+          "votes": 1572,
+          "isWinner": true,
+          "votePercent": 0.5287588294651867
+        },
+        {
+          "candidate": "JAMES H BERGSTROM",
+          "votes": 1401,
+          "isWinner": false,
+          "votePercent": 0.47124117053481335
+        }
+      ],
+      "reportingTime": "6/10/2024 12:53:41 PM"
+    },
     "opponents": [
       {
         "slug": "james-h-bergstrom",
@@ -18291,6 +22250,19 @@
       ]
     },
     "coverage": [],
+    "primaryResults": {
+      "race": "HD-78",
+      "party": "D",
+      "resultsTotal": [
+        {
+          "candidate": "GLENN A LAMBERT",
+          "votes": 524,
+          "isWinner": true,
+          "votePercent": 1
+        }
+      ],
+      "reportingTime": "6/10/2024 12:53:41 PM"
+    },
     "opponents": [
       {
         "slug": "james-h-bergstrom",
@@ -18367,6 +22339,25 @@
       ]
     },
     "coverage": [],
+    "primaryResults": {
+      "race": "HD-79",
+      "party": "R",
+      "resultsTotal": [
+        {
+          "candidate": "JILL SARK",
+          "votes": 1009,
+          "isWinner": true,
+          "votePercent": 0.663379355687048
+        },
+        {
+          "candidate": "DEMETRI JOSLIN",
+          "votes": 512,
+          "isWinner": false,
+          "votePercent": 0.336620644312952
+        }
+      ],
+      "reportingTime": "6/10/2024 12:53:41 PM"
+    },
     "opponents": [
       {
         "slug": "jill-sark",
@@ -18455,6 +22446,31 @@
       ]
     },
     "coverage": [],
+    "primaryResults": {
+      "race": "HD-79",
+      "party": "D",
+      "resultsTotal": [
+        {
+          "candidate": "LUKE MUSZKIEWICZ",
+          "votes": 1210,
+          "isWinner": true,
+          "votePercent": 0.5694117647058824
+        },
+        {
+          "candidate": "EMILY HARRIS",
+          "votes": 783,
+          "isWinner": false,
+          "votePercent": 0.3684705882352941
+        },
+        {
+          "candidate": "ANNE WOODLAND",
+          "votes": 132,
+          "isWinner": false,
+          "votePercent": 0.06211764705882353
+        }
+      ],
+      "reportingTime": "6/10/2024 12:53:41 PM"
+    },
     "opponents": [
       {
         "slug": "jill-sark",
@@ -18543,6 +22559,31 @@
       ]
     },
     "coverage": [],
+    "primaryResults": {
+      "race": "HD-79",
+      "party": "D",
+      "resultsTotal": [
+        {
+          "candidate": "LUKE MUSZKIEWICZ",
+          "votes": 1210,
+          "isWinner": true,
+          "votePercent": 0.5694117647058824
+        },
+        {
+          "candidate": "EMILY HARRIS",
+          "votes": 783,
+          "isWinner": false,
+          "votePercent": 0.3684705882352941
+        },
+        {
+          "candidate": "ANNE WOODLAND",
+          "votes": 132,
+          "isWinner": false,
+          "votePercent": 0.06211764705882353
+        }
+      ],
+      "reportingTime": "6/10/2024 12:53:41 PM"
+    },
     "opponents": [
       {
         "slug": "jill-sark",
@@ -18631,6 +22672,31 @@
       ]
     },
     "coverage": [],
+    "primaryResults": {
+      "race": "HD-79",
+      "party": "D",
+      "resultsTotal": [
+        {
+          "candidate": "LUKE MUSZKIEWICZ",
+          "votes": 1210,
+          "isWinner": true,
+          "votePercent": 0.5694117647058824
+        },
+        {
+          "candidate": "EMILY HARRIS",
+          "votes": 783,
+          "isWinner": false,
+          "votePercent": 0.3684705882352941
+        },
+        {
+          "candidate": "ANNE WOODLAND",
+          "votes": 132,
+          "isWinner": false,
+          "votePercent": 0.06211764705882353
+        }
+      ],
+      "reportingTime": "6/10/2024 12:53:41 PM"
+    },
     "opponents": [
       {
         "slug": "jill-sark",
@@ -18719,6 +22785,25 @@
       ]
     },
     "coverage": [],
+    "primaryResults": {
+      "race": "HD-79",
+      "party": "R",
+      "resultsTotal": [
+        {
+          "candidate": "JILL SARK",
+          "votes": 1009,
+          "isWinner": true,
+          "votePercent": 0.663379355687048
+        },
+        {
+          "candidate": "DEMETRI JOSLIN",
+          "votes": 512,
+          "isWinner": false,
+          "votePercent": 0.336620644312952
+        }
+      ],
+      "reportingTime": "6/10/2024 12:53:41 PM"
+    },
     "opponents": [
       {
         "slug": "jill-sark",
@@ -18807,6 +22892,19 @@
       ]
     },
     "coverage": [],
+    "primaryResults": {
+      "race": "HD-80",
+      "party": "D",
+      "resultsTotal": [
+        {
+          "candidate": "MELISSA ROMANO",
+          "votes": 1249,
+          "isWinner": true,
+          "votePercent": 1
+        }
+      ],
+      "reportingTime": "6/10/2024 12:53:41 PM"
+    },
     "opponents": [
       {
         "slug": "melissa-romano",
@@ -18877,6 +22975,19 @@
       ]
     },
     "coverage": [],
+    "primaryResults": {
+      "race": "HD-80",
+      "party": "R",
+      "resultsTotal": [
+        {
+          "candidate": "RACHEL BURRIGHT",
+          "votes": 1129,
+          "isWinner": true,
+          "votePercent": 1
+        }
+      ],
+      "reportingTime": "6/10/2024 12:53:41 PM"
+    },
     "opponents": [
       {
         "slug": "melissa-romano",
@@ -18947,6 +23058,19 @@
       ]
     },
     "coverage": [],
+    "primaryResults": {
+      "race": "HD-81",
+      "party": "D",
+      "resultsTotal": [
+        {
+          "candidate": "MARY M CAFERRO",
+          "votes": 1512,
+          "isWinner": true,
+          "votePercent": 1
+        }
+      ],
+      "reportingTime": "6/10/2024 12:53:41 PM"
+    },
     "opponents": [
       {
         "slug": "mary-m-caferro",
@@ -19017,6 +23141,19 @@
       ]
     },
     "coverage": [],
+    "primaryResults": {
+      "race": "HD-81",
+      "party": "R",
+      "resultsTotal": [
+        {
+          "candidate": "DUSTIN SCOTT",
+          "votes": 1272,
+          "isWinner": true,
+          "votePercent": 1
+        }
+      ],
+      "reportingTime": "6/10/2024 12:53:41 PM"
+    },
     "opponents": [
       {
         "slug": "mary-m-caferro",
@@ -19087,6 +23224,25 @@
       ]
     },
     "coverage": [],
+    "primaryResults": {
+      "race": "HD-82",
+      "party": "D",
+      "resultsTotal": [
+        {
+          "candidate": "PETE ELVERUM",
+          "votes": 913,
+          "isWinner": true,
+          "votePercent": 0.5424836601307189
+        },
+        {
+          "candidate": "SK ROSSI",
+          "votes": 770,
+          "isWinner": false,
+          "votePercent": 0.45751633986928103
+        }
+      ],
+      "reportingTime": "6/10/2024 12:53:41 PM"
+    },
     "opponents": [
       {
         "slug": "sk-rossi",
@@ -19163,6 +23319,19 @@
       ]
     },
     "coverage": [],
+    "primaryResults": {
+      "race": "HD-82",
+      "party": "R",
+      "resultsTotal": [
+        {
+          "candidate": "JOHN LOONEY SR",
+          "votes": 1047,
+          "isWinner": true,
+          "votePercent": 1
+        }
+      ],
+      "reportingTime": "6/10/2024 12:53:41 PM"
+    },
     "opponents": [
       {
         "slug": "sk-rossi",
@@ -19239,6 +23408,25 @@
       ]
     },
     "coverage": [],
+    "primaryResults": {
+      "race": "HD-82",
+      "party": "D",
+      "resultsTotal": [
+        {
+          "candidate": "PETE ELVERUM",
+          "votes": 913,
+          "isWinner": true,
+          "votePercent": 0.5424836601307189
+        },
+        {
+          "candidate": "SK ROSSI",
+          "votes": 770,
+          "isWinner": false,
+          "votePercent": 0.45751633986928103
+        }
+      ],
+      "reportingTime": "6/10/2024 12:53:41 PM"
+    },
     "opponents": [
       {
         "slug": "sk-rossi",
@@ -19315,6 +23503,19 @@
       ]
     },
     "coverage": [],
+    "primaryResults": {
+      "race": "HD-83",
+      "party": "D",
+      "resultsTotal": [
+        {
+          "candidate": "JILL COHENOUR",
+          "votes": 1735,
+          "isWinner": true,
+          "votePercent": 1
+        }
+      ],
+      "reportingTime": "6/10/2024 12:53:41 PM"
+    },
     "opponents": [
       {
         "slug": "jill-cohenour",
@@ -19391,6 +23592,25 @@
       ]
     },
     "coverage": [],
+    "primaryResults": {
+      "race": "HD-83",
+      "party": "R",
+      "resultsTotal": [
+        {
+          "candidate": "WES FEIST",
+          "votes": 816,
+          "isWinner": true,
+          "votePercent": 0.6570048309178744
+        },
+        {
+          "candidate": "CHRISTOPHER ST JEAN",
+          "votes": 426,
+          "isWinner": false,
+          "votePercent": 0.34299516908212563
+        }
+      ],
+      "reportingTime": "6/10/2024 12:53:41 PM"
+    },
     "opponents": [
       {
         "slug": "jill-cohenour",
@@ -19467,6 +23687,25 @@
       ]
     },
     "coverage": [],
+    "primaryResults": {
+      "race": "HD-83",
+      "party": "R",
+      "resultsTotal": [
+        {
+          "candidate": "WES FEIST",
+          "votes": 816,
+          "isWinner": true,
+          "votePercent": 0.6570048309178744
+        },
+        {
+          "candidate": "CHRISTOPHER ST JEAN",
+          "votes": 426,
+          "isWinner": false,
+          "votePercent": 0.34299516908212563
+        }
+      ],
+      "reportingTime": "6/10/2024 12:53:41 PM"
+    },
     "opponents": [
       {
         "slug": "jill-cohenour",
@@ -19543,6 +23782,25 @@
       ]
     },
     "coverage": [],
+    "primaryResults": {
+      "race": "HD-84",
+      "party": "R",
+      "resultsTotal": [
+        {
+          "candidate": "JULIE DOOLING",
+          "votes": 1884,
+          "isWinner": true,
+          "votePercent": 0.7863105175292153
+        },
+        {
+          "candidate": "JON JACKSON",
+          "votes": 512,
+          "isWinner": false,
+          "votePercent": 0.21368948247078465
+        }
+      ],
+      "reportingTime": "6/10/2024 12:53:41 PM"
+    },
     "opponents": [
       {
         "slug": "julie-dooling",
@@ -19625,6 +23883,25 @@
       ]
     },
     "coverage": [],
+    "primaryResults": {
+      "race": "HD-84",
+      "party": "D",
+      "resultsTotal": [
+        {
+          "candidate": "MICHELE R CREPEAU",
+          "votes": 810,
+          "isWinner": true,
+          "votePercent": 0.8075772681954138
+        },
+        {
+          "candidate": "DAVID WILLIAMS",
+          "votes": 193,
+          "isWinner": false,
+          "votePercent": 0.19242273180458624
+        }
+      ],
+      "reportingTime": "6/10/2024 12:53:41 PM"
+    },
     "opponents": [
       {
         "slug": "julie-dooling",
@@ -19707,6 +23984,25 @@
       ]
     },
     "coverage": [],
+    "primaryResults": {
+      "race": "HD-84",
+      "party": "R",
+      "resultsTotal": [
+        {
+          "candidate": "JULIE DOOLING",
+          "votes": 1884,
+          "isWinner": true,
+          "votePercent": 0.7863105175292153
+        },
+        {
+          "candidate": "JON JACKSON",
+          "votes": 512,
+          "isWinner": false,
+          "votePercent": 0.21368948247078465
+        }
+      ],
+      "reportingTime": "6/10/2024 12:53:41 PM"
+    },
     "opponents": [
       {
         "slug": "julie-dooling",
@@ -19789,6 +24085,25 @@
       ]
     },
     "coverage": [],
+    "primaryResults": {
+      "race": "HD-84",
+      "party": "D",
+      "resultsTotal": [
+        {
+          "candidate": "MICHELE R CREPEAU",
+          "votes": 810,
+          "isWinner": true,
+          "votePercent": 0.8075772681954138
+        },
+        {
+          "candidate": "DAVID WILLIAMS",
+          "votes": 193,
+          "isWinner": false,
+          "votePercent": 0.19242273180458624
+        }
+      ],
+      "reportingTime": "6/10/2024 12:53:41 PM"
+    },
     "opponents": [
       {
         "slug": "julie-dooling",
@@ -19871,6 +24186,25 @@
       ]
     },
     "coverage": [],
+    "primaryResults": {
+      "race": "HD-85",
+      "party": "R",
+      "resultsTotal": [
+        {
+          "candidate": "KATHY LOVE",
+          "votes": 1588,
+          "isWinner": true,
+          "votePercent": 0.52635067948293
+        },
+        {
+          "candidate": "MICHELE BINKLEY",
+          "votes": 1429,
+          "isWinner": false,
+          "votePercent": 0.4736493205170699
+        }
+      ],
+      "reportingTime": "6/10/2024 12:53:41 PM"
+    },
     "opponents": [
       {
         "slug": "michele-binkley",
@@ -19947,6 +24281,25 @@
       ]
     },
     "coverage": [],
+    "primaryResults": {
+      "race": "HD-85",
+      "party": "R",
+      "resultsTotal": [
+        {
+          "candidate": "KATHY LOVE",
+          "votes": 1588,
+          "isWinner": true,
+          "votePercent": 0.52635067948293
+        },
+        {
+          "candidate": "MICHELE BINKLEY",
+          "votes": 1429,
+          "isWinner": false,
+          "votePercent": 0.4736493205170699
+        }
+      ],
+      "reportingTime": "6/10/2024 12:53:41 PM"
+    },
     "opponents": [
       {
         "slug": "michele-binkley",
@@ -20023,6 +24376,19 @@
       ]
     },
     "coverage": [],
+    "primaryResults": {
+      "race": "HD-85",
+      "party": "D",
+      "resultsTotal": [
+        {
+          "candidate": "LAURA MAE JACKSON",
+          "votes": 659,
+          "isWinner": true,
+          "votePercent": 1
+        }
+      ],
+      "reportingTime": "6/10/2024 12:53:41 PM"
+    },
     "opponents": [
       {
         "slug": "michele-binkley",
@@ -20099,6 +24465,25 @@
       ]
     },
     "coverage": [],
+    "primaryResults": {
+      "race": "HD-86",
+      "party": "R",
+      "resultsTotal": [
+        {
+          "candidate": "DAVID BEDEY",
+          "votes": 1870,
+          "isWinner": true,
+          "votePercent": 0.7573916565411097
+        },
+        {
+          "candidate": "ROBERT WALLACE",
+          "votes": 599,
+          "isWinner": false,
+          "votePercent": 0.24260834345889024
+        }
+      ],
+      "reportingTime": "6/10/2024 12:53:41 PM"
+    },
     "opponents": [
       {
         "slug": "david-bedey",
@@ -20175,6 +24560,25 @@
       ]
     },
     "coverage": [],
+    "primaryResults": {
+      "race": "HD-86",
+      "party": "R",
+      "resultsTotal": [
+        {
+          "candidate": "DAVID BEDEY",
+          "votes": 1870,
+          "isWinner": true,
+          "votePercent": 0.7573916565411097
+        },
+        {
+          "candidate": "ROBERT WALLACE",
+          "votes": 599,
+          "isWinner": false,
+          "votePercent": 0.24260834345889024
+        }
+      ],
+      "reportingTime": "6/10/2024 12:53:41 PM"
+    },
     "opponents": [
       {
         "slug": "david-bedey",
@@ -20251,6 +24655,19 @@
       ]
     },
     "coverage": [],
+    "primaryResults": {
+      "race": "HD-86",
+      "party": "D",
+      "resultsTotal": [
+        {
+          "candidate": "JEFF KEMPKA",
+          "votes": 869,
+          "isWinner": true,
+          "votePercent": 1
+        }
+      ],
+      "reportingTime": "6/10/2024 12:53:41 PM"
+    },
     "opponents": [
       {
         "slug": "david-bedey",
@@ -20327,6 +24744,19 @@
       ]
     },
     "coverage": [],
+    "primaryResults": {
+      "race": "HD-87",
+      "party": "R",
+      "resultsTotal": [
+        {
+          "candidate": "RON MARSHALL",
+          "votes": 2450,
+          "isWinner": true,
+          "votePercent": 1
+        }
+      ],
+      "reportingTime": "6/10/2024 12:53:41 PM"
+    },
     "opponents": [
       {
         "slug": "ron-marshall",
@@ -20397,6 +24827,19 @@
       ]
     },
     "coverage": [],
+    "primaryResults": {
+      "race": "HD-87",
+      "party": "D",
+      "resultsTotal": [
+        {
+          "candidate": "TAMMIE MILLIGAN",
+          "votes": 621,
+          "isWinner": true,
+          "votePercent": 1
+        }
+      ],
+      "reportingTime": "6/10/2024 12:53:41 PM"
+    },
     "opponents": [
       {
         "slug": "ron-marshall",
@@ -20467,6 +24910,25 @@
       ]
     },
     "coverage": [],
+    "primaryResults": {
+      "race": "HD-88",
+      "party": "R",
+      "resultsTotal": [
+        {
+          "candidate": "GREG OVERSTREET",
+          "votes": 1554,
+          "isWinner": true,
+          "votePercent": 0.5418410041841004
+        },
+        {
+          "candidate": "KIM DAILEY",
+          "votes": 1314,
+          "isWinner": false,
+          "votePercent": 0.4581589958158996
+        }
+      ],
+      "reportingTime": "6/10/2024 12:53:41 PM"
+    },
     "opponents": [
       {
         "slug": "greg-overstreet",
@@ -20543,6 +25005,25 @@
       ]
     },
     "coverage": [],
+    "primaryResults": {
+      "race": "HD-88",
+      "party": "R",
+      "resultsTotal": [
+        {
+          "candidate": "GREG OVERSTREET",
+          "votes": 1554,
+          "isWinner": true,
+          "votePercent": 0.5418410041841004
+        },
+        {
+          "candidate": "KIM DAILEY",
+          "votes": 1314,
+          "isWinner": false,
+          "votePercent": 0.4581589958158996
+        }
+      ],
+      "reportingTime": "6/10/2024 12:53:41 PM"
+    },
     "opponents": [
       {
         "slug": "greg-overstreet",
@@ -20619,6 +25100,19 @@
       ]
     },
     "coverage": [],
+    "primaryResults": {
+      "race": "HD-88",
+      "party": "D",
+      "resultsTotal": [
+        {
+          "candidate": "EVAN SCHROEDEL",
+          "votes": 773,
+          "isWinner": true,
+          "votePercent": 1
+        }
+      ],
+      "reportingTime": "6/10/2024 12:53:41 PM"
+    },
     "opponents": [
       {
         "slug": "greg-overstreet",
@@ -20695,6 +25189,19 @@
       ]
     },
     "coverage": [],
+    "primaryResults": {
+      "race": "HD-89",
+      "party": "D",
+      "resultsTotal": [
+        {
+          "candidate": "MARK A THANE",
+          "votes": 1482,
+          "isWinner": true,
+          "votePercent": 1
+        }
+      ],
+      "reportingTime": "6/10/2024 12:53:41 PM"
+    },
     "opponents": [
       {
         "slug": "mark-a-thane",
@@ -20765,6 +25272,19 @@
       ]
     },
     "coverage": [],
+    "primaryResults": {
+      "race": "HD-89",
+      "party": "R",
+      "resultsTotal": [
+        {
+          "candidate": "LYN HELLEGAARD",
+          "votes": 1243,
+          "isWinner": true,
+          "votePercent": 1
+        }
+      ],
+      "reportingTime": "6/10/2024 12:53:41 PM"
+    },
     "opponents": [
       {
         "slug": "mark-a-thane",
@@ -20835,6 +25355,31 @@
       ]
     },
     "coverage": [],
+    "primaryResults": {
+      "race": "HD-90",
+      "party": "R",
+      "resultsTotal": [
+        {
+          "candidate": "CURTIS J COCHRAN",
+          "votes": 1028,
+          "isWinner": true,
+          "votePercent": 0.38954149298976887
+        },
+        {
+          "candidate": "JEFF STANEK",
+          "votes": 887,
+          "isWinner": false,
+          "votePercent": 0.3361121636983706
+        },
+        {
+          "candidate": "STEVEN DELISLE",
+          "votes": 724,
+          "isWinner": false,
+          "votePercent": 0.27434634331186053
+        }
+      ],
+      "reportingTime": "6/10/2024 12:53:41 PM"
+    },
     "opponents": [
       {
         "slug": "curtis-j-cochran",
@@ -20911,6 +25456,31 @@
       ]
     },
     "coverage": [],
+    "primaryResults": {
+      "race": "HD-90",
+      "party": "R",
+      "resultsTotal": [
+        {
+          "candidate": "CURTIS J COCHRAN",
+          "votes": 1028,
+          "isWinner": true,
+          "votePercent": 0.38954149298976887
+        },
+        {
+          "candidate": "JEFF STANEK",
+          "votes": 887,
+          "isWinner": false,
+          "votePercent": 0.3361121636983706
+        },
+        {
+          "candidate": "STEVEN DELISLE",
+          "votes": 724,
+          "isWinner": false,
+          "votePercent": 0.27434634331186053
+        }
+      ],
+      "reportingTime": "6/10/2024 12:53:41 PM"
+    },
     "opponents": [
       {
         "slug": "curtis-j-cochran",
@@ -20987,6 +25557,31 @@
       ]
     },
     "coverage": [],
+    "primaryResults": {
+      "race": "HD-90",
+      "party": "R",
+      "resultsTotal": [
+        {
+          "candidate": "CURTIS J COCHRAN",
+          "votes": 1028,
+          "isWinner": true,
+          "votePercent": 0.38954149298976887
+        },
+        {
+          "candidate": "JEFF STANEK",
+          "votes": 887,
+          "isWinner": false,
+          "votePercent": 0.3361121636983706
+        },
+        {
+          "candidate": "STEVEN DELISLE",
+          "votes": 724,
+          "isWinner": false,
+          "votePercent": 0.27434634331186053
+        }
+      ],
+      "reportingTime": "6/10/2024 12:53:41 PM"
+    },
     "opponents": [
       {
         "slug": "curtis-j-cochran",
@@ -21063,6 +25658,19 @@
       ]
     },
     "coverage": [],
+    "primaryResults": {
+      "race": "HD-91",
+      "party": "D",
+      "resultsTotal": [
+        {
+          "candidate": "SHELLY R FYANT",
+          "votes": 1264,
+          "isWinner": true,
+          "votePercent": 1
+        }
+      ],
+      "reportingTime": "6/10/2024 12:53:41 PM"
+    },
     "opponents": [
       {
         "slug": "shelly-r-fyant",
@@ -21133,6 +25741,19 @@
       ]
     },
     "coverage": [],
+    "primaryResults": {
+      "race": "HD-91",
+      "party": "R",
+      "resultsTotal": [
+        {
+          "candidate": "JOE READ",
+          "votes": 1246,
+          "isWinner": true,
+          "votePercent": 1
+        }
+      ],
+      "reportingTime": "6/10/2024 12:53:41 PM"
+    },
     "opponents": [
       {
         "slug": "shelly-r-fyant",
@@ -21203,6 +25824,19 @@
       ]
     },
     "coverage": [],
+    "primaryResults": {
+      "race": "HD-92",
+      "party": "R",
+      "resultsTotal": [
+        {
+          "candidate": "TED MORGAN",
+          "votes": 1011,
+          "isWinner": true,
+          "votePercent": 1
+        }
+      ],
+      "reportingTime": "6/10/2024 12:53:41 PM"
+    },
     "opponents": [
       {
         "slug": "ted-morgan",
@@ -21273,6 +25907,19 @@
       ]
     },
     "coverage": [],
+    "primaryResults": {
+      "race": "HD-92",
+      "party": "D",
+      "resultsTotal": [
+        {
+          "candidate": "CONNIE KEOGH",
+          "votes": 1794,
+          "isWinner": true,
+          "votePercent": 1
+        }
+      ],
+      "reportingTime": "6/10/2024 12:53:41 PM"
+    },
     "opponents": [
       {
         "slug": "ted-morgan",
@@ -21343,6 +25990,19 @@
       ]
     },
     "coverage": [],
+    "primaryResults": {
+      "race": "HD-93",
+      "party": "D",
+      "resultsTotal": [
+        {
+          "candidate": "KATIE SULLIVAN",
+          "votes": 1722,
+          "isWinner": true,
+          "votePercent": 1
+        }
+      ],
+      "reportingTime": "6/10/2024 12:53:41 PM"
+    },
     "opponents": [
       {
         "slug": "katie-sullivan",
@@ -21413,6 +26073,19 @@
       ]
     },
     "coverage": [],
+    "primaryResults": {
+      "race": "HD-93",
+      "party": "R",
+      "resultsTotal": [
+        {
+          "candidate": "ROY HANDLEY",
+          "votes": 926,
+          "isWinner": true,
+          "votePercent": 1
+        }
+      ],
+      "reportingTime": "6/10/2024 12:53:41 PM"
+    },
     "opponents": [
       {
         "slug": "katie-sullivan",
@@ -21483,6 +26156,19 @@
       ]
     },
     "coverage": [],
+    "primaryResults": {
+      "race": "HD-94",
+      "party": "D",
+      "resultsTotal": [
+        {
+          "candidate": "MARILYN MARLER",
+          "votes": 1865,
+          "isWinner": true,
+          "votePercent": 1
+        }
+      ],
+      "reportingTime": "6/10/2024 12:53:41 PM"
+    },
     "opponents": [
       {
         "slug": "marilyn-marler",
@@ -21553,6 +26239,19 @@
       ]
     },
     "coverage": [],
+    "primaryResults": {
+      "race": "HD-94",
+      "party": "R",
+      "resultsTotal": [
+        {
+          "candidate": "DELANEY MALMSTEN",
+          "votes": 1095,
+          "isWinner": true,
+          "votePercent": 1
+        }
+      ],
+      "reportingTime": "6/10/2024 12:53:41 PM"
+    },
     "opponents": [
       {
         "slug": "marilyn-marler",
@@ -21623,6 +26322,19 @@
       ]
     },
     "coverage": [],
+    "primaryResults": {
+      "race": "HD-95",
+      "party": "D",
+      "resultsTotal": [
+        {
+          "candidate": "ZOOEY ZEPHYR",
+          "votes": 2183,
+          "isWinner": true,
+          "votePercent": 1
+        }
+      ],
+      "reportingTime": "6/10/2024 12:53:41 PM"
+    },
     "opponents": [
       {
         "slug": "zooey-zephyr",
@@ -21693,6 +26405,19 @@
       ]
     },
     "coverage": [],
+    "primaryResults": {
+      "race": "HD-95",
+      "party": "R",
+      "resultsTotal": [
+        {
+          "candidate": "BARBARA W STARMER",
+          "votes": 307,
+          "isWinner": true,
+          "votePercent": 1
+        }
+      ],
+      "reportingTime": "6/10/2024 12:53:41 PM"
+    },
     "opponents": [
       {
         "slug": "zooey-zephyr",
@@ -21763,6 +26488,19 @@
       ]
     },
     "coverage": [],
+    "primaryResults": {
+      "race": "HD-96",
+      "party": "D",
+      "resultsTotal": [
+        {
+          "candidate": "BOB CARTER",
+          "votes": 1489,
+          "isWinner": true,
+          "votePercent": 1
+        }
+      ],
+      "reportingTime": "6/10/2024 12:53:41 PM"
+    },
     "opponents": [
       {
         "slug": "bob-carter",
@@ -21833,6 +26571,19 @@
       ]
     },
     "coverage": [],
+    "primaryResults": {
+      "race": "HD-96",
+      "party": "R",
+      "resultsTotal": [
+        {
+          "candidate": "ROBERT LABAIR",
+          "votes": 949,
+          "isWinner": true,
+          "votePercent": 1
+        }
+      ],
+      "reportingTime": "6/10/2024 12:53:41 PM"
+    },
     "opponents": [
       {
         "slug": "bob-carter",
@@ -21903,6 +26654,25 @@
       ]
     },
     "coverage": [],
+    "primaryResults": {
+      "race": "HD-97",
+      "party": "D",
+      "resultsTotal": [
+        {
+          "candidate": "MELODY CUNNINGHAM",
+          "votes": 1341,
+          "isWinner": true,
+          "votePercent": 0.8308550185873605
+        },
+        {
+          "candidate": "LISA VERLANIC FOWLER",
+          "votes": 273,
+          "isWinner": false,
+          "votePercent": 0.1691449814126394
+        }
+      ],
+      "reportingTime": "6/10/2024 12:53:41 PM"
+    },
     "opponents": [
       {
         "slug": "melody-cunningham",
@@ -21985,6 +26755,19 @@
       ]
     },
     "coverage": [],
+    "primaryResults": {
+      "race": "HD-97",
+      "party": "L",
+      "resultsTotal": [
+        {
+          "candidate": "RICHARD L ARMERDING",
+          "votes": 5,
+          "isWinner": true,
+          "votePercent": 1
+        }
+      ],
+      "reportingTime": "6/10/2024 12:53:41 PM"
+    },
     "opponents": [
       {
         "slug": "melody-cunningham",
@@ -22067,6 +26850,19 @@
       ]
     },
     "coverage": [],
+    "primaryResults": {
+      "race": "HD-97",
+      "party": "R",
+      "resultsTotal": [
+        {
+          "candidate": "NICK KNOWLES",
+          "votes": 843,
+          "isWinner": true,
+          "votePercent": 1
+        }
+      ],
+      "reportingTime": "6/10/2024 12:53:41 PM"
+    },
     "opponents": [
       {
         "slug": "melody-cunningham",
@@ -22149,6 +26945,25 @@
       ]
     },
     "coverage": [],
+    "primaryResults": {
+      "race": "HD-97",
+      "party": "D",
+      "resultsTotal": [
+        {
+          "candidate": "MELODY CUNNINGHAM",
+          "votes": 1341,
+          "isWinner": true,
+          "votePercent": 0.8308550185873605
+        },
+        {
+          "candidate": "LISA VERLANIC FOWLER",
+          "votes": 273,
+          "isWinner": false,
+          "votePercent": 0.1691449814126394
+        }
+      ],
+      "reportingTime": "6/10/2024 12:53:41 PM"
+    },
     "opponents": [
       {
         "slug": "melody-cunningham",
@@ -22231,6 +27046,19 @@
       ]
     },
     "coverage": [],
+    "primaryResults": {
+      "race": "HD-98",
+      "party": "D",
+      "resultsTotal": [
+        {
+          "candidate": "JONATHAN KARLEN",
+          "votes": 1371,
+          "isWinner": true,
+          "votePercent": 1
+        }
+      ],
+      "reportingTime": "6/10/2024 12:53:41 PM"
+    },
     "opponents": [
       {
         "slug": "jonathan-karlen",
@@ -22301,6 +27129,19 @@
       ]
     },
     "coverage": [],
+    "primaryResults": {
+      "race": "HD-98",
+      "party": "R",
+      "resultsTotal": [
+        {
+          "candidate": "JACE BEARD",
+          "votes": 843,
+          "isWinner": true,
+          "votePercent": 1
+        }
+      ],
+      "reportingTime": "6/10/2024 12:53:41 PM"
+    },
     "opponents": [
       {
         "slug": "jonathan-karlen",
@@ -22371,6 +27212,19 @@
       ]
     },
     "coverage": [],
+    "primaryResults": {
+      "race": "HD-99",
+      "party": "D",
+      "resultsTotal": [
+        {
+          "candidate": "TOM FRANCE",
+          "votes": 1536,
+          "isWinner": true,
+          "votePercent": 1
+        }
+      ],
+      "reportingTime": "6/10/2024 12:53:41 PM"
+    },
     "opponents": [
       {
         "slug": "tom-france",
@@ -22441,6 +27295,19 @@
       ]
     },
     "coverage": [],
+    "primaryResults": {
+      "race": "HD-99",
+      "party": "R",
+      "resultsTotal": [
+        {
+          "candidate": "RYAN DARLING",
+          "votes": 1008,
+          "isWinner": true,
+          "votePercent": 1
+        }
+      ],
+      "reportingTime": "6/10/2024 12:53:41 PM"
+    },
     "opponents": [
       {
         "slug": "tom-france",
@@ -22511,6 +27378,25 @@
       ]
     },
     "coverage": [],
+    "primaryResults": {
+      "race": "HD-100",
+      "party": "D",
+      "resultsTotal": [
+        {
+          "candidate": "SJ HOWELL",
+          "votes": 1220,
+          "isWinner": true,
+          "votePercent": 0.7231772377000593
+        },
+        {
+          "candidate": "TIM GARRISON",
+          "votes": 467,
+          "isWinner": false,
+          "votePercent": 0.27682276229994074
+        }
+      ],
+      "reportingTime": "6/10/2024 12:53:41 PM"
+    },
     "opponents": [
       {
         "slug": "sj-howell",
@@ -22587,6 +27473,25 @@
       ]
     },
     "coverage": [],
+    "primaryResults": {
+      "race": "HD-100",
+      "party": "D",
+      "resultsTotal": [
+        {
+          "candidate": "SJ HOWELL",
+          "votes": 1220,
+          "isWinner": true,
+          "votePercent": 0.7231772377000593
+        },
+        {
+          "candidate": "TIM GARRISON",
+          "votes": 467,
+          "isWinner": false,
+          "votePercent": 0.27682276229994074
+        }
+      ],
+      "reportingTime": "6/10/2024 12:53:41 PM"
+    },
     "opponents": [
       {
         "slug": "sj-howell",
@@ -22663,6 +27568,19 @@
       ]
     },
     "coverage": [],
+    "primaryResults": {
+      "race": "HD-100",
+      "party": "R",
+      "resultsTotal": [
+        {
+          "candidate": "CHRISTOPHER PAUL BUCKLES",
+          "votes": 352,
+          "isWinner": true,
+          "votePercent": 1
+        }
+      ],
+      "reportingTime": "6/10/2024 12:53:41 PM"
+    },
     "opponents": [
       {
         "slug": "sj-howell",

@@ -1,0 +1,539 @@
+[
+  {
+    "race": "us-senate",
+    "party": "R",
+    "reportingTime": "6/10/2024 12:53:48 PM",
+    "resultsTotal": [
+      {
+        "candidate": "TIM SHEEHY",
+        "votes": 138202,
+        "isWinner": true,
+        "votePercent": 0.7363115693012601
+      },
+      {
+        "candidate": "BRAD JOHNSON",
+        "votes": 36460,
+        "isWinner": false,
+        "votePercent": 0.1942513119688857
+      },
+      {
+        "candidate": "CHARLES WALKINGCHILD SR",
+        "votes": 13033,
+        "isWinner": false,
+        "votePercent": 0.06943711872985428
+      }
+    ]
+  },
+  {
+    "race": "us-senate",
+    "party": "D",
+    "reportingTime": "6/10/2024 12:53:48 PM",
+    "resultsTotal": [
+      {
+        "candidate": "JON TESTER",
+        "votes": 103347,
+        "isWinner": true,
+        "votePercent": 0.9698752780202146
+      },
+      {
+        "candidate": "MICHAEL HUMMERT",
+        "votes": 3210,
+        "isWinner": false,
+        "votePercent": 0.030124721979785468
+      }
+    ]
+  },
+  {
+    "race": "us-senate",
+    "party": "G",
+    "reportingTime": "6/10/2024 12:53:48 PM",
+    "resultsTotal": [
+      {
+        "candidate": "MICHAEL DOWNEY",
+        "votes": 665,
+        "isWinner": true,
+        "votePercent": 0.6203358208955224
+      },
+      {
+        "candidate": "ROBERT BARB",
+        "votes": 407,
+        "isWinner": false,
+        "votePercent": 0.37966417910447764
+      }
+    ]
+  },
+  {
+    "race": "us-house-1",
+    "party": "R",
+    "reportingTime": "6/10/2024 12:53:48 PM",
+    "resultsTotal": [
+      {
+        "candidate": "RYAN K ZINKE",
+        "votes": 65247,
+        "isWinner": true,
+        "votePercent": 0.7380381422075425
+      },
+      {
+        "candidate": "MARY TODD",
+        "votes": 23159,
+        "isWinner": false,
+        "votePercent": 0.2619618577924575
+      }
+    ]
+  },
+  {
+    "race": "us-house-1",
+    "party": "D",
+    "reportingTime": "6/10/2024 12:53:48 PM",
+    "resultsTotal": [
+      {
+        "candidate": "MONICA TRANEL",
+        "votes": 59192,
+        "isWinner": true,
+        "votePercent": 1
+      }
+    ]
+  },
+  {
+    "race": "us-house-1",
+    "party": "L",
+    "reportingTime": "6/10/2024 12:53:48 PM",
+    "resultsTotal": [
+      {
+        "candidate": "DENNIS HAYES",
+        "votes": 379,
+        "isWinner": true,
+        "votePercent": 0.6523235800344234
+      },
+      {
+        "candidate": "ERNIE NOBLE",
+        "votes": 202,
+        "isWinner": false,
+        "votePercent": 0.3476764199655766
+      }
+    ]
+  },
+  {
+    "race": "us-house-2",
+    "party": "R",
+    "reportingTime": "6/10/2024 12:53:48 PM",
+    "resultsTotal": [
+      {
+        "candidate": "TROY DOWNING",
+        "votes": 36050,
+        "isWinner": true,
+        "votePercent": 0.36150135876377565
+      },
+      {
+        "candidate": "DENNY REHBERG",
+        "votes": 17070,
+        "isWinner": false,
+        "votePercent": 0.17117415240215397
+      },
+      {
+        "candidate": "STACY ZINN",
+        "votes": 13478,
+        "isWinner": false,
+        "votePercent": 0.13515437762602409
+      },
+      {
+        "candidate": "ELSIE ARNTZEN",
+        "votes": 9394,
+        "isWinner": false,
+        "votePercent": 0.09420093659436639
+      },
+      {
+        "candidate": "KEN BOGNER",
+        "votes": 8969,
+        "isWinner": false,
+        "votePercent": 0.08993913139396127
+      },
+      {
+        "candidate": "RIC HOLDEN",
+        "votes": 7063,
+        "isWinner": false,
+        "votePercent": 0.07082618854226207
+      },
+      {
+        "candidate": "JOEL G. KRAUTTER",
+        "votes": 3409,
+        "isWinner": false,
+        "votePercent": 0.03418469159572014
+      },
+      {
+        "candidate": "KYLE AUSTIN",
+        "votes": 3138,
+        "isWinner": false,
+        "votePercent": 0.031467164044402994
+      },
+      {
+        "candidate": "ED WALKER",
+        "votes": 1152,
+        "isWinner": false,
+        "votePercent": 0.011551999037333413
+      }
+    ]
+  },
+  {
+    "race": "us-house-2",
+    "party": "D",
+    "reportingTime": "6/10/2024 12:53:48 PM",
+    "resultsTotal": [
+      {
+        "candidate": "JOHN B DRISCOLL",
+        "votes": 13317,
+        "isWinner": true,
+        "votePercent": 0.3331165420116567
+      },
+      {
+        "candidate": "STEVE HELD",
+        "votes": 10583,
+        "isWinner": false,
+        "votePercent": 0.2647272181504365
+      },
+      {
+        "candidate": "MING CABRERA",
+        "votes": 8341,
+        "isWinner": false,
+        "votePercent": 0.2086449708582435
+      },
+      {
+        "candidate": "KEVIN HAMM",
+        "votes": 7736,
+        "isWinner": false,
+        "votePercent": 0.1935112689796633
+      }
+    ]
+  },
+  {
+    "race": "governor",
+    "party": "R",
+    "reportingTime": "6/10/2024 12:53:48 PM",
+    "resultsTotal": [
+      {
+        "candidate": "GREG GIANFORTE",
+        "votes": 143137,
+        "isWinner": true,
+        "votePercent": 0.7527504312339602
+      },
+      {
+        "candidate": "TANNER SMITH",
+        "votes": 47015,
+        "isWinner": false,
+        "votePercent": 0.2472495687660398
+      }
+    ]
+  },
+  {
+    "race": "governor",
+    "party": "D",
+    "reportingTime": "6/10/2024 12:53:48 PM",
+    "resultsTotal": [
+      {
+        "candidate": "RYAN BUSSE",
+        "votes": 70260,
+        "isWinner": true,
+        "votePercent": 0.7101632384899176
+      },
+      {
+        "candidate": "JIM HUNT",
+        "votes": 28675,
+        "isWinner": false,
+        "votePercent": 0.28983676151008236
+      }
+    ]
+  },
+  {
+    "race": "secretary-of-state",
+    "party": "R",
+    "reportingTime": "6/10/2024 12:53:48 PM",
+    "resultsTotal": [
+      {
+        "candidate": "CHRISTI JACOBSEN",
+        "votes": 163359,
+        "isWinner": true,
+        "votePercent": 1
+      }
+    ]
+  },
+  {
+    "race": "secretary-of-state",
+    "party": "D",
+    "reportingTime": "6/10/2024 12:53:48 PM",
+    "resultsTotal": [
+      {
+        "candidate": "JESSE JAMES MULLEN",
+        "votes": 92154,
+        "isWinner": true,
+        "votePercent": 1
+      }
+    ]
+  },
+  {
+    "race": "attorney-general",
+    "party": "R",
+    "reportingTime": "6/10/2024 12:53:48 PM",
+    "resultsTotal": [
+      {
+        "candidate": "AUSTIN KNUDSEN",
+        "votes": 146740,
+        "isWinner": true,
+        "votePercent": 0.8226858107161078
+      },
+      {
+        "candidate": "LOGAN OLSON",
+        "votes": 31627,
+        "isWinner": false,
+        "votePercent": 0.1773141892838922
+      }
+    ]
+  },
+  {
+    "race": "attorney-general",
+    "party": "D",
+    "reportingTime": "6/10/2024 12:53:48 PM",
+    "resultsTotal": [
+      {
+        "candidate": "BEN ALKE",
+        "votes": 92599,
+        "isWinner": true,
+        "votePercent": 1
+      }
+    ]
+  },
+  {
+    "race": "state-auditor",
+    "party": "R",
+    "reportingTime": "6/10/2024 12:53:48 PM",
+    "resultsTotal": [
+      {
+        "candidate": "JAMES BROWN",
+        "votes": 113284,
+        "isWinner": true,
+        "votePercent": 0.6958262952612021
+      },
+      {
+        "candidate": "JOHN JAY WILLOUGHBY",
+        "votes": 49521,
+        "isWinner": false,
+        "votePercent": 0.30417370473879796
+      }
+    ]
+  },
+  {
+    "race": "state-auditor",
+    "party": "D",
+    "reportingTime": "6/10/2024 12:53:48 PM",
+    "resultsTotal": [
+      {
+        "candidate": "JOHN REPKE",
+        "votes": 91604,
+        "isWinner": true,
+        "votePercent": 1
+      }
+    ]
+  },
+  {
+    "race": "superintendent",
+    "party": "R",
+    "reportingTime": "6/10/2024 12:53:48 PM",
+    "resultsTotal": [
+      {
+        "candidate": "SUSIE HEDALEN",
+        "votes": 98539,
+        "isWinner": true,
+        "votePercent": 0.6234357008186868
+      },
+      {
+        "candidate": "SHARYL ALLEN",
+        "votes": 59519,
+        "isWinner": false,
+        "votePercent": 0.3765642991813132
+      }
+    ]
+  },
+  {
+    "race": "superintendent",
+    "party": "D",
+    "reportingTime": "6/10/2024 12:53:48 PM",
+    "resultsTotal": [
+      {
+        "candidate": "SHANNON OBRIEN",
+        "votes": 93575,
+        "isWinner": true,
+        "votePercent": 1
+      }
+    ]
+  },
+  {
+    "race": "psc-2",
+    "party": "R",
+    "reportingTime": "6/10/2024 12:53:48 PM",
+    "resultsTotal": [
+      {
+        "candidate": "BRAD MOLNAR",
+        "votes": 16301,
+        "isWinner": true,
+        "votePercent": 0.5197857211185868
+      },
+      {
+        "candidate": "KIRK BUSHMAN",
+        "votes": 15060,
+        "isWinner": false,
+        "votePercent": 0.4802142788814132
+      }
+    ]
+  },
+  {
+    "race": "psc-2",
+    "party": "D",
+    "reportingTime": "6/10/2024 12:53:48 PM",
+    "resultsTotal": [
+      {
+        "candidate": "SUSAN BILO",
+        "votes": 16656,
+        "isWinner": true,
+        "votePercent": 1
+      }
+    ]
+  },
+  {
+    "race": "psc-3",
+    "party": "R",
+    "reportingTime": "6/10/2024 12:53:48 PM",
+    "resultsTotal": [
+      {
+        "candidate": "JEFF WELBORN",
+        "votes": 13291,
+        "isWinner": true,
+        "votePercent": 0.39459074310483033
+      },
+      {
+        "candidate": "SUZZANN NORDWICK",
+        "votes": 13047,
+        "isWinner": false,
+        "votePercent": 0.387346732773209
+      },
+      {
+        "candidate": "ROB ELWOOD",
+        "votes": 7345,
+        "isWinner": false,
+        "votePercent": 0.21806252412196064
+      }
+    ]
+  },
+  {
+    "race": "psc-3",
+    "party": "D",
+    "reportingTime": "6/10/2024 12:53:48 PM",
+    "resultsTotal": [
+      {
+        "candidate": "LEONARD \"LENNY\" WILLIAMS",
+        "votes": 21495,
+        "isWinner": true,
+        "votePercent": 1
+      }
+    ]
+  },
+  {
+    "race": "psc-4",
+    "party": "R",
+    "reportingTime": "6/10/2024 12:53:48 PM",
+    "resultsTotal": [
+      {
+        "candidate": "JENNIFER  FIELDER",
+        "votes": 30872,
+        "isWinner": true,
+        "votePercent": 1
+      }
+    ]
+  },
+  {
+    "race": "clerk-of-court",
+    "party": "R",
+    "reportingTime": "6/10/2024 12:53:48 PM",
+    "resultsTotal": [
+      {
+        "candidate": "BOWEN GREENWOOD",
+        "votes": 82457,
+        "isWinner": true,
+        "votePercent": 0.5270973433225089
+      },
+      {
+        "candidate": "JASON W ELLSWORTH",
+        "votes": 73979,
+        "isWinner": false,
+        "votePercent": 0.4729026566774911
+      }
+    ]
+  },
+  {
+    "race": "clerk-of-court",
+    "party": "D",
+    "reportingTime": "6/10/2024 12:53:48 PM",
+    "resultsTotal": [
+      {
+        "candidate": "ERIN FARRIS-OLSEN",
+        "votes": 74254,
+        "isWinner": true,
+        "votePercent": 0.8274624736730668
+      },
+      {
+        "candidate": "JORDAN OPHUS",
+        "votes": 15483,
+        "isWinner": false,
+        "votePercent": 0.17253752632693314
+      }
+    ]
+  },
+  {
+    "race": "supco-chief-justice",
+    "party": "NP",
+    "reportingTime": "6/10/2024 12:53:48 PM",
+    "resultsTotal": [
+      {
+        "candidate": "CORY SWANSON",
+        "votes": 120041,
+        "isWinner": true,
+        "votePercent": 0.46206224932061557
+      },
+      {
+        "candidate": "JEREMIAH LYNCH",
+        "votes": 97732,
+        "isWinner": false,
+        "votePercent": 0.3761903662132305
+      },
+      {
+        "candidate": "DOUG  MARSHALL",
+        "votes": 42021,
+        "isWinner": false,
+        "votePercent": 0.16174738446615394
+      }
+    ]
+  },
+  {
+    "race": "supco-3",
+    "party": "NP",
+    "reportingTime": "6/10/2024 12:53:48 PM",
+    "resultsTotal": [
+      {
+        "candidate": "KATHERINE BIDEGARAY",
+        "votes": 126041,
+        "isWinner": true,
+        "votePercent": 0.4869493660127184
+      },
+      {
+        "candidate": "DAN WILSON",
+        "votes": 89314,
+        "isWinner": false,
+        "votePercent": 0.3450575263292098
+      },
+      {
+        "candidate": "JERRY ONEIL",
+        "votes": 43483,
+        "isWinner": false,
+        "votePercent": 0.16799310765807185
+      }
+    ]
+  }
+]

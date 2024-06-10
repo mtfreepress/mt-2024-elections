@@ -40,6 +40,8 @@ async function main() {
     const legeDistricts = await getCsv('./inputs/legislative-districts/districts.csv',)
     const legeQuestions = await getCsv('./inputs/lvw-questionnaire/lwvmt24-races.csv',)
     const coverage = getJson('./inputs/coverage/articles.json')
+    const primaryResultListing = getJson('./inputs/results/cleaned/2024-primary-legislative.json')
+    console.log(primaryResultListing)
 
     // cleaning
     candidates.forEach(d => {
@@ -112,12 +114,24 @@ async function main() {
                 question: question.replace(/Question \d\:\s*\n/, '').replaceAll('  ', ' ').trim(),
                 answer: questionnaireMatch[question].replaceAll('  ', ' '),
             })) : [],
+
+
         }
 
         // Coverage
         const candidateCoverage = coverage
             .sort((a, b) => new Date(b.date) - new Date(a.date))
             .filter(article => article.tags.map(urlize).includes(l.slug))
+
+        // Primary election results
+        console.log({ l })
+        const primaryResults = {
+            race: l.raceSlug,
+            raceDisplayName: l.displayName,
+            party: l.party,
+            resultsTotal: null, // fallback
+            ...primaryResultListing.find(d => d.race === l.raceSlug && d.party === l['Party Preference'][0])
+        }
 
         return {
             raceSlug: l.raceSlug,
@@ -144,6 +158,7 @@ async function main() {
             district,
             questionnaire,
             coverage: candidateCoverage,
+            primaryResults,
         }
 
     })

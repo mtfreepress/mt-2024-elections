@@ -24,6 +24,7 @@ const ballotInitiatives = getYml('./inputs/content/ballot-initiatives.yml')
 const coverage = getJson('./inputs/coverage/articles.json')
 const howToVoteContent = getMD('./inputs/content/how-to-vote.md')
 const federalCampaignFinance = getJson('./inputs/fec/finance.json')
+const primaryResults = getJson('./inputs/results/cleaned/2024-primary-statewide.json')
 
 
 // const questionnaires = getJson('./inputs/mtfp-questionnaire/dummy-answers.json')
@@ -69,6 +70,9 @@ candidates.forEach(candidate => {
     if (!race) console.error('-- No race for candidate', candidate.slug)
     candidate.raceSlug = race.raceSlug
     candidate.raceDisplayName = race.displayName
+
+    // Merge in information about active candidates in race
+    // Including current candidate to keep "opponents" menus consistent within races
     candidate.opponents = race.candidates
         // .filter(candidateSlug => candidateSlug !== candidate.slug) // exclude this candidate
         // Skipping exclude to do 'contenders' v. 'opponents'
@@ -86,14 +90,18 @@ candidates.forEach(candidate => {
                 party: c.party,
             }
         })
+
+    // merge in MTFP coverage data
     candidate.coverage = coverage
         .sort((a, b) => new Date(b.date) - new Date(a.date))
         .filter(article => article.tags.map(urlize).includes(candidate.slug))
 
+
+    // merge in campaign finance data 
+    // currently for federal candidates only
     if (race.finance) {
         candidate.finance = race.finance.map(competitor => {
             const match = candidates.find(d => d.displayName === competitor.displayName)
-            console.log({ match: match.status })
             return {
                 ...competitor,
                 isThisCandidate: (competitor.displayName === candidate.displayName),
@@ -105,6 +113,7 @@ candidates.forEach(candidate => {
     }
 
 
+    // merge in questionnaire responses
     const questionnaireMatch = questionnaires.find(d => d.nameSlug === candidate.slug)
     if (!questionnaireMatch) console.log(`${candidate.slug} missing questionnaire answers`)
     candidate.questionnaire = {
@@ -112,6 +121,15 @@ candidates.forEach(candidate => {
         responses: (questionnaireMatch && questionnaireMatch.questionnaireMaterial !== null) ?
             questionnaireMatch.questionnaireMaterial.map(d => ({ question: d.question, answer: d.response }))
             : []
+    }
+
+    // merge in primary election results
+    candidate.primaryResults = {
+        race: race.raceSlug,
+        raceDisplayName: race.displayName,
+        party: candidate.party,
+        resultsTotal: null, // fallback
+        ...primaryResults.find(d => d.race === race.raceSlug && d.party === candidate.party)
     }
 })
 

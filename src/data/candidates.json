@@ -296,6 +296,68 @@
           "answer": null
         }
       ]
+    },
+    "primaryResults": {
+      "race": "us-house-2",
+      "raceDisplayName": "U.S. House District 2 (East)",
+      "party": "R",
+      "resultsTotal": [
+        {
+          "candidate": "TROY DOWNING",
+          "votes": 36050,
+          "isWinner": true,
+          "votePercent": 0.36150135876377565
+        },
+        {
+          "candidate": "DENNY REHBERG",
+          "votes": 17070,
+          "isWinner": false,
+          "votePercent": 0.17117415240215397
+        },
+        {
+          "candidate": "STACY ZINN",
+          "votes": 13478,
+          "isWinner": false,
+          "votePercent": 0.13515437762602409
+        },
+        {
+          "candidate": "ELSIE ARNTZEN",
+          "votes": 9394,
+          "isWinner": false,
+          "votePercent": 0.09420093659436639
+        },
+        {
+          "candidate": "KEN BOGNER",
+          "votes": 8969,
+          "isWinner": false,
+          "votePercent": 0.08993913139396127
+        },
+        {
+          "candidate": "RIC HOLDEN",
+          "votes": 7063,
+          "isWinner": false,
+          "votePercent": 0.07082618854226207
+        },
+        {
+          "candidate": "JOEL G. KRAUTTER",
+          "votes": 3409,
+          "isWinner": false,
+          "votePercent": 0.03418469159572014
+        },
+        {
+          "candidate": "KYLE AUSTIN",
+          "votes": 3138,
+          "isWinner": false,
+          "votePercent": 0.031467164044402994
+        },
+        {
+          "candidate": "ED WALKER",
+          "votes": 1152,
+          "isWinner": false,
+          "votePercent": 0.011551999037333413
+        }
+      ],
+      "reportingTime": "6/10/2024 12:53:48 PM"
     }
   },
   {
@@ -738,6 +800,32 @@
           "answer": "We must put America First. If we're going to send military support overseas, we better damn well know why we're doing it, the American people better be behind it, and it better benefit our national interest.\n\nWe can't let the politicians back in Washington keep putting America Last and shoveling our resources, people and cash overseas as other countries take advantage of us. Everything we do as a country, domestically and internationally, should benefit the American people and serve our national interest, because when America acts in its own interest, the rest of the world benefits. When we're a strong America with a strong economy and a strong presence, everyone else benefits. We must get back to that. \n\nOur government should always serve American interests and put Americans first. That's what America First means, and that's the type of commonsense leadership I'm going to fight for in the Senate.\n"
         }
       ]
+    },
+    "primaryResults": {
+      "race": "us-senate",
+      "raceDisplayName": "U.S. Senate",
+      "party": "R",
+      "resultsTotal": [
+        {
+          "candidate": "TIM SHEEHY",
+          "votes": 138202,
+          "isWinner": true,
+          "votePercent": 0.7363115693012601
+        },
+        {
+          "candidate": "BRAD JOHNSON",
+          "votes": 36460,
+          "isWinner": false,
+          "votePercent": 0.1942513119688857
+        },
+        {
+          "candidate": "CHARLES WALKINGCHILD SR",
+          "votes": 13033,
+          "isWinner": false,
+          "votePercent": 0.06943711872985428
+        }
+      ],
+      "reportingTime": "6/10/2024 12:53:48 PM"
     }
   },
   {
@@ -885,6 +973,26 @@
           "answer": "Faith SHOULD pay a paramount role in Montana life....unfortunately it doesn't. As a legislator and as governor we can't constitutionally mandate people to have religion in their lives. It is the role of missionaries and churches to spread the word. As governor I would advocate for and educate the people on living by the \"Golden Rule\" and be kind to one another. Treating others the way you want to be treated resonates with all ages and genres.\n"
         }
       ]
+    },
+    "primaryResults": {
+      "race": "governor",
+      "raceDisplayName": "Governor",
+      "party": "R",
+      "resultsTotal": [
+        {
+          "candidate": "GREG GIANFORTE",
+          "votes": 143137,
+          "isWinner": true,
+          "votePercent": 0.7527504312339602
+        },
+        {
+          "candidate": "TANNER SMITH",
+          "votes": 47015,
+          "isWinner": false,
+          "votePercent": 0.2472495687660398
+        }
+      ],
+      "reportingTime": "6/10/2024 12:53:48 PM"
     }
   },
   {
@@ -973,6 +1081,32 @@
           "answer": "As your PSC commissioner, I'll be committed to instituting more transparency into the rate-setting process and insisting on a Montana First mentality, while working towards Montana energy independence and future energy solutions.\n\nMontanans want to more fully understand how utility rates are calculated. As part of an open government process, through public outreach I plan to develop and give educational presentations detailing the steps of rate decisions. Transparency brings accountability to governmental processes.\n\nI want to see Montana strive for energy independence and have energy solutions planned into the future. I support the development and advancement of all cost-effective energy resources and energy storage technologies. By promoting Montana First regulatory policies, the PSC will best ensure Montana has a strong economy, which correlates to constant, reliable, affordable utilities, as well as a safe and healthy environment in which to continue our Montana way of life.\n"
         }
       ]
+    },
+    "primaryResults": {
+      "race": "psc-3",
+      "raceDisplayName": "Public Service Commission (Seat 3)",
+      "party": "R",
+      "resultsTotal": [
+        {
+          "candidate": "JEFF WELBORN",
+          "votes": 13291,
+          "isWinner": true,
+          "votePercent": 0.39459074310483033
+        },
+        {
+          "candidate": "SUZZANN NORDWICK",
+          "votes": 13047,
+          "isWinner": false,
+          "votePercent": 0.387346732773209
+        },
+        {
+          "candidate": "ROB ELWOOD",
+          "votes": 7345,
+          "isWinner": false,
+          "votePercent": 0.21806252412196064
+        }
+      ],
+      "reportingTime": "6/10/2024 12:53:48 PM"
     }
   },
   {
@@ -1082,6 +1216,26 @@
           "answer": "As state superintendent, I will closely work with colleagues in the Legislature, executive branch, and university system to implement new education laws successfully. Montana students are best served when state agencies work together. I can bring leaders together to expand educational opportunities. I have worked with education committees, the Regents, and executive branch agencies. Montana passed innovative education laws in the last session. As state superintendent, I will faithfully execute the laws of our state and ensure that there are no roadblocks to families accessing the personalized educational opportunities they deserve.\n"
         }
       ]
+    },
+    "primaryResults": {
+      "race": "superintendent",
+      "raceDisplayName": "Superintendent of Public Instruction",
+      "party": "R",
+      "resultsTotal": [
+        {
+          "candidate": "SUSIE HEDALEN",
+          "votes": 98539,
+          "isWinner": true,
+          "votePercent": 0.6234357008186868
+        },
+        {
+          "candidate": "SHARYL ALLEN",
+          "votes": 59519,
+          "isWinner": false,
+          "votePercent": 0.3765642991813132
+        }
+      ],
+      "reportingTime": "6/10/2024 12:53:48 PM"
     }
   },
   {
@@ -1142,6 +1296,20 @@
           "answer": "1. Montana and other western states are increasingly experiencing droughts that reduce the water needed to operate hydroelectric dams and potentially thermoelectric power plants — like Colstrip. This is one other benefit of wind and solar —  they do not require water for operation. Hydropower provides 36% of Montana’s electricity; thus, the PSC must consider this when overseeing utility long-range plan development.\n\n2. Colstrip’s economy depends on coal and the eventual closing of the power plant due to costs and pollution is a very contentious issue. Past efforts to address were deemed insufficient. Montana's governor, Legislature, NorthWestern Energy and the PSC need to step-up and develop a detailed, coordinated plan. It can include job training and providing incentives to attract companies looking to build. I would invite companies that manufacture components and technologies used for energy- and water-efficient buildings.\n"
         }
       ]
+    },
+    "primaryResults": {
+      "race": "psc-2",
+      "raceDisplayName": "Public Service Commission (Seat 2)",
+      "party": "D",
+      "resultsTotal": [
+        {
+          "candidate": "SUSAN BILO",
+          "votes": 16656,
+          "isWinner": true,
+          "votePercent": 1
+        }
+      ],
+      "reportingTime": "6/10/2024 12:53:48 PM"
     }
   },
   {
@@ -1449,6 +1617,38 @@
           "answer": "I’d take it right to the pharmaceutical and health care corporations. We have the highest prices for prescriptions in the world. Taxpayers subsidize much of the development. That ain’t right. It’s price-gouging and Congress needs to do more to stop it by expanding our ability to negotiate for lower prescription prices to benefit all Montanans and Americans. Seniors, veterans, and others in need shouldn’t have to head to Canada for affordable life-saving medications. I would also look for ways to expand options and requirements for states to provide Medicaid to those who don’t receive health care through their employer. Gov. Gianforte just shamelessly kicked over 120,000 Montanans, including children, off of health care. Many have jobs but simply can’t afford other options. It’s not only cruel, but it's just bad business. It hurts employers whose employees lost coverage and, as we know, it will raise health care costs for everyone else — another tax — leading to rural provider closures.\n"
         }
       ]
+    },
+    "primaryResults": {
+      "race": "us-house-2",
+      "raceDisplayName": "U.S. House District 2 (East)",
+      "party": "D",
+      "resultsTotal": [
+        {
+          "candidate": "JOHN B DRISCOLL",
+          "votes": 13317,
+          "isWinner": true,
+          "votePercent": 0.3331165420116567
+        },
+        {
+          "candidate": "STEVE HELD",
+          "votes": 10583,
+          "isWinner": false,
+          "votePercent": 0.2647272181504365
+        },
+        {
+          "candidate": "MING CABRERA",
+          "votes": 8341,
+          "isWinner": false,
+          "votePercent": 0.2086449708582435
+        },
+        {
+          "candidate": "KEVIN HAMM",
+          "votes": 7736,
+          "isWinner": false,
+          "votePercent": 0.1935112689796633
+        }
+      ],
+      "reportingTime": "6/10/2024 12:53:48 PM"
     }
   },
   {
@@ -1728,6 +1928,68 @@
           "answer": "We need to lower cost of health care services, provide better telemedicine services and work to lower prescription cost.\n"
         }
       ]
+    },
+    "primaryResults": {
+      "race": "us-house-2",
+      "raceDisplayName": "U.S. House District 2 (East)",
+      "party": "R",
+      "resultsTotal": [
+        {
+          "candidate": "TROY DOWNING",
+          "votes": 36050,
+          "isWinner": true,
+          "votePercent": 0.36150135876377565
+        },
+        {
+          "candidate": "DENNY REHBERG",
+          "votes": 17070,
+          "isWinner": false,
+          "votePercent": 0.17117415240215397
+        },
+        {
+          "candidate": "STACY ZINN",
+          "votes": 13478,
+          "isWinner": false,
+          "votePercent": 0.13515437762602409
+        },
+        {
+          "candidate": "ELSIE ARNTZEN",
+          "votes": 9394,
+          "isWinner": false,
+          "votePercent": 0.09420093659436639
+        },
+        {
+          "candidate": "KEN BOGNER",
+          "votes": 8969,
+          "isWinner": false,
+          "votePercent": 0.08993913139396127
+        },
+        {
+          "candidate": "RIC HOLDEN",
+          "votes": 7063,
+          "isWinner": false,
+          "votePercent": 0.07082618854226207
+        },
+        {
+          "candidate": "JOEL G. KRAUTTER",
+          "votes": 3409,
+          "isWinner": false,
+          "votePercent": 0.03418469159572014
+        },
+        {
+          "candidate": "KYLE AUSTIN",
+          "votes": 3138,
+          "isWinner": false,
+          "votePercent": 0.031467164044402994
+        },
+        {
+          "candidate": "ED WALKER",
+          "votes": 1152,
+          "isWinner": false,
+          "votePercent": 0.011551999037333413
+        }
+      ],
+      "reportingTime": "6/10/2024 12:53:48 PM"
     }
   },
   {
@@ -1869,6 +2131,12 @@
           "answer": "We should not. Period. We can only send aid at this time by increasing our debt or printing money (inflation) in other words we can only send support by hurting Americans to do it. If Congress is determined to support one side or the other, it can do its job and declare war. If we want to support wars in other countries the federal government can issue limited time special bonds, and let Americans decide if they wish to contribute of their own free will. We know when the bonds will mature and can budget for that. Our country cannot sustain all of the endless wars and troop deployments around the world, not to mention the severe impact this has on our veterans that return broken.\n"
         }
       ]
+    },
+    "primaryResults": {
+      "race": "us-senate",
+      "raceDisplayName": "U.S. Senate",
+      "party": "L",
+      "resultsTotal": null
     }
   },
   {
@@ -1962,6 +2230,26 @@
           "answer": "As the longest tenured deputy during her 8 years (3.5), there were seasons of peace and progress.  Here are three that stand out. \n\n1. The Digital Communications team, early in the tenure was on fire and a tremendous asset in capturing and telling educational stories across the state.  This work was great.\n2. Telework implementation during COVID was a reflection of good as it tied strongly to the changing workforce and priorities. \n3. The focus on the family right-sized the lens of the OPI to remember the power and importance of parents. \n\nChallenges: \n1. The OPI staff turnover, and the loss of staff history - due to lack of systems to ensure systems worked on processes rather than people. \n2. The waning relationship with the Board of Public Education \n3. The elimination of monthly representation at MASS meetings - left the impression that the OPI was not so interested in the work of our school leaders or supporting their work.\n"
         }
       ]
+    },
+    "primaryResults": {
+      "race": "superintendent",
+      "raceDisplayName": "Superintendent of Public Instruction",
+      "party": "R",
+      "resultsTotal": [
+        {
+          "candidate": "SUSIE HEDALEN",
+          "votes": 98539,
+          "isWinner": true,
+          "votePercent": 0.6234357008186868
+        },
+        {
+          "candidate": "SHARYL ALLEN",
+          "votes": 59519,
+          "isWinner": false,
+          "votePercent": 0.3765642991813132
+        }
+      ],
+      "reportingTime": "6/10/2024 12:53:48 PM"
     }
   },
   {
@@ -2018,6 +2306,20 @@
           "answer": "I am running for state superintendent because I know we can do better. The first order of business after being elected will be to request an independent audit of the financial and programmatic situation at OPI in order to identify major gaps and shortfalls. Rebuilding OPI’s reputation and getting the agency back on track will take hard work and focus. The complaint I hear repeatedly from school districts is that OPI is not being responsive. Not answering the phone and not providing guidance to schools is not unacceptable. Under my leadership, the OPI will be responsive and laser focused on supporting schools. Working with educators, community leaders, business owners and universities over the last 12 years, I know Montana has an abundance of talent that can be tapped to rebuild OPI. I’m ready to take on this challenge and will work tirelessly to build a culture of service and restore the pride we once all had in that office.\n"
         }
       ]
+    },
+    "primaryResults": {
+      "race": "superintendent",
+      "raceDisplayName": "Superintendent of Public Instruction",
+      "party": "D",
+      "resultsTotal": [
+        {
+          "candidate": "SHANNON OBRIEN",
+          "votes": 93575,
+          "isWinner": true,
+          "votePercent": 1
+        }
+      ],
+      "reportingTime": "6/10/2024 12:53:48 PM"
     }
   },
   {
@@ -2344,6 +2646,26 @@
           "answer": "The evidence is clear that Obamacare has been a failure for Montanans and health insurance plans continue to get more expensive. History has shown us that the best way to ensure affordable and accessible health care coverage is employer-sponsored coverage. Additionally, the U.S. needs to stop providing coverage to illegal aliens. It’s crushing our hospitals and clinics, stressing systems and all the costs are being pushed down to patients.\n"
         }
       ]
+    },
+    "primaryResults": {
+      "race": "us-house-1",
+      "raceDisplayName": "U.S. House District 1 (West)",
+      "party": "R",
+      "resultsTotal": [
+        {
+          "candidate": "RYAN K ZINKE",
+          "votes": 65247,
+          "isWinner": true,
+          "votePercent": 0.7380381422075425
+        },
+        {
+          "candidate": "MARY TODD",
+          "votes": 23159,
+          "isWinner": false,
+          "votePercent": 0.2619618577924575
+        }
+      ],
+      "reportingTime": "6/10/2024 12:53:48 PM"
     }
   },
   {
@@ -2533,6 +2855,26 @@
           "answer": "While I deeply respect the First Amendment right for all people to practice whatever faith they choose, I also believe in the First Amendment guarantee that our government respects no establishment of religion. To that end, I have significant concerns about Greg Gianforte’s efforts to fund private religious schools with public tax dollars. As governor, he wants to impose his extreme religious views on the rest of us, and I’ll fight his betrayal of our First Amendment rights at every turn.\n"
         }
       ]
+    },
+    "primaryResults": {
+      "race": "governor",
+      "raceDisplayName": "Governor",
+      "party": "D",
+      "resultsTotal": [
+        {
+          "candidate": "RYAN BUSSE",
+          "votes": 70260,
+          "isWinner": true,
+          "votePercent": 0.7101632384899176
+        },
+        {
+          "candidate": "JIM HUNT",
+          "votes": 28675,
+          "isWinner": false,
+          "votePercent": 0.28983676151008236
+        }
+      ],
+      "reportingTime": "6/10/2024 12:53:48 PM"
     }
   },
   {
@@ -2606,6 +2948,12 @@
           "answer": "Yes. Libertarians are dedicated to principles of individual freedom autonomy and privacy.\n"
         }
       ]
+    },
+    "primaryResults": {
+      "race": "clerk-of-court",
+      "raceDisplayName": "Clerk of the State Supreme Court",
+      "party": "L",
+      "resultsTotal": null
     }
   },
   {
@@ -2747,6 +3095,26 @@
           "answer": null
         }
       ]
+    },
+    "primaryResults": {
+      "race": "us-senate",
+      "raceDisplayName": "U.S. Senate",
+      "party": "G",
+      "resultsTotal": [
+        {
+          "candidate": "MICHAEL DOWNEY",
+          "votes": 665,
+          "isWinner": true,
+          "votePercent": 0.6203358208955224
+        },
+        {
+          "candidate": "ROBERT BARB",
+          "votes": 407,
+          "isWinner": false,
+          "votePercent": 0.37966417910447764
+        }
+      ],
+      "reportingTime": "6/10/2024 12:53:48 PM"
     }
   },
   {
@@ -2835,6 +3203,32 @@
           "answer": "Railroad safety is an area where Montana has some unique requirements. Technology can help tremendously at uncontrolled crossings as well as with roadbed quality issues. Temperature extremes and bad weather make railroad safety more of a challenge here, but we can use technology to overcome some of these challenges. The PSC needs to work with the Legislature and the railroads to use technology to do that.\n"
         }
       ]
+    },
+    "primaryResults": {
+      "race": "psc-3",
+      "raceDisplayName": "Public Service Commission (Seat 3)",
+      "party": "R",
+      "resultsTotal": [
+        {
+          "candidate": "JEFF WELBORN",
+          "votes": 13291,
+          "isWinner": true,
+          "votePercent": 0.39459074310483033
+        },
+        {
+          "candidate": "SUZZANN NORDWICK",
+          "votes": 13047,
+          "isWinner": false,
+          "votePercent": 0.387346732773209
+        },
+        {
+          "candidate": "ROB ELWOOD",
+          "votes": 7345,
+          "isWinner": false,
+          "votePercent": 0.21806252412196064
+        }
+      ],
+      "reportingTime": "6/10/2024 12:53:48 PM"
     }
   },
   {
@@ -3114,6 +3508,68 @@
           "answer": "I never supported Obamacare. The day that bill passed was the day my health insurance premiums began to increase uncontrollably. I was told by the Democrats that I would be able to keep using my doctor and my premiums were not going to increase. They were clearly wrong. My bill from Montana Blue Cross-Blue Shield rose from $450 per month to $1,700 just before I canceled the plan. I ended up getting coverage from a unfunded Christian health care cost share policy. It is working and now I understand that the Democrats do not like Christian health care companies. Let's repeal Obamacare and let the free market go out and price the product in a competitive atmosphere.\n"
         }
       ]
+    },
+    "primaryResults": {
+      "race": "us-house-2",
+      "raceDisplayName": "U.S. House District 2 (East)",
+      "party": "R",
+      "resultsTotal": [
+        {
+          "candidate": "TROY DOWNING",
+          "votes": 36050,
+          "isWinner": true,
+          "votePercent": 0.36150135876377565
+        },
+        {
+          "candidate": "DENNY REHBERG",
+          "votes": 17070,
+          "isWinner": false,
+          "votePercent": 0.17117415240215397
+        },
+        {
+          "candidate": "STACY ZINN",
+          "votes": 13478,
+          "isWinner": false,
+          "votePercent": 0.13515437762602409
+        },
+        {
+          "candidate": "ELSIE ARNTZEN",
+          "votes": 9394,
+          "isWinner": false,
+          "votePercent": 0.09420093659436639
+        },
+        {
+          "candidate": "KEN BOGNER",
+          "votes": 8969,
+          "isWinner": false,
+          "votePercent": 0.08993913139396127
+        },
+        {
+          "candidate": "RIC HOLDEN",
+          "votes": 7063,
+          "isWinner": false,
+          "votePercent": 0.07082618854226207
+        },
+        {
+          "candidate": "JOEL G. KRAUTTER",
+          "votes": 3409,
+          "isWinner": false,
+          "votePercent": 0.03418469159572014
+        },
+        {
+          "candidate": "KYLE AUSTIN",
+          "votes": 3138,
+          "isWinner": false,
+          "votePercent": 0.031467164044402994
+        },
+        {
+          "candidate": "ED WALKER",
+          "votes": 1152,
+          "isWinner": false,
+          "votePercent": 0.011551999037333413
+        }
+      ],
+      "reportingTime": "6/10/2024 12:53:48 PM"
     }
   },
   {
@@ -3355,6 +3811,20 @@
           "answer": "I will support legislation to protect Montanans access to care and make sure they can afford it. Some steps I would take include making sure the 2008 Mental Health Parity Act is fully funded and followed, ensuring that Medicaid expansion remains intact, addressing the costs of prescription drugs as was done with the legislation that implemented $35 insulin, protecting veterans by supporting legislation like the PACT Act, listening to our Native Americans and acting to make sure they get health care in the communities they live in; addressing costs of transport for health care and making sure they are covered when necessary; making sure nursing home costs are covered so our nursing homes remain open.\n\nRural hospitals in our state also depend on Medicaid expansion and maintaining the program is crucial to ensuring our hospitals can keep their doors open. I will fight to protect Medicare and the expansion of Medicaid to ensure our Montana communities are safe and stable.\n"
         }
       ]
+    },
+    "primaryResults": {
+      "race": "us-house-1",
+      "raceDisplayName": "U.S. House District 1 (West)",
+      "party": "D",
+      "resultsTotal": [
+        {
+          "candidate": "MONICA TRANEL",
+          "votes": 59192,
+          "isWinner": true,
+          "votePercent": 1
+        }
+      ],
+      "reportingTime": "6/10/2024 12:53:48 PM"
     }
   },
   {
@@ -3680,6 +4150,38 @@
           "answer": "I would support lowering the Medicare eligibility age from 65 to 50 to extend health care coverage to a larger portion of the population. The success of the Affordable Care Act (ACA) has shown the need. Extending Medicare coverage to individuals aged 50 and above would ensure that more people have access to comprehensive health care services, including preventive care, treatment for chronic conditions, and financial protection from health care costs.\n\nI would support enabling Medicare to negotiate lower drug prices. Also, I support  addressing high provider prices in health care. Monopolistic practices can limit competition, drive up costs and reduce patient choice. Streamlining administrative paperwork would not only alleviate the burden on health care providers but also allow them to focus more on patient care and less on administration. By tackling integration, high prescription prices, and administrative inefficiencies, we can make real progress toward a more equitable system.\n"
         }
       ]
+    },
+    "primaryResults": {
+      "race": "us-house-2",
+      "raceDisplayName": "U.S. House District 2 (East)",
+      "party": "D",
+      "resultsTotal": [
+        {
+          "candidate": "JOHN B DRISCOLL",
+          "votes": 13317,
+          "isWinner": true,
+          "votePercent": 0.3331165420116567
+        },
+        {
+          "candidate": "STEVE HELD",
+          "votes": 10583,
+          "isWinner": false,
+          "votePercent": 0.2647272181504365
+        },
+        {
+          "candidate": "MING CABRERA",
+          "votes": 8341,
+          "isWinner": false,
+          "votePercent": 0.2086449708582435
+        },
+        {
+          "candidate": "KEVIN HAMM",
+          "votes": 7736,
+          "isWinner": false,
+          "votePercent": 0.1935112689796633
+        }
+      ],
+      "reportingTime": "6/10/2024 12:53:48 PM"
     }
   },
   {
@@ -3821,6 +4323,26 @@
           "answer": "We should allow our military industrial complex to sell arms to countries in order to protect their borders. It should be controlled by Congress. The keyword is sell, not provide them with the money to purchase. If we are to save our country from economic chaos and therefore the world from economic chaos. We must stop the policy of interfering in other countries issues. There have been more people killed in the past 60 years because of our intervention. It is a contributor to our $34 trillion debt. We should revisit every treaty we are involved in. Some will stand and some will need to be renegotiated. We need a strong navy, a well-trained expeditionary force, and a domestic force designed for the defense of our nation. We must harden our space and cyber defense. Once our debt has been paid off in full we can revisit helping other countries. We have a responsibility to our country to provide peace and tranquility within our borders.\n"
         }
       ]
+    },
+    "primaryResults": {
+      "race": "us-senate",
+      "raceDisplayName": "U.S. Senate",
+      "party": "D",
+      "resultsTotal": [
+        {
+          "candidate": "JON TESTER",
+          "votes": 103347,
+          "isWinner": true,
+          "votePercent": 0.9698752780202146
+        },
+        {
+          "candidate": "MICHAEL HUMMERT",
+          "votes": 3210,
+          "isWinner": false,
+          "votePercent": 0.030124721979785468
+        }
+      ],
+      "reportingTime": "6/10/2024 12:53:48 PM"
     }
   },
   {
@@ -3962,6 +4484,26 @@
           "answer": null
         }
       ]
+    },
+    "primaryResults": {
+      "race": "us-senate",
+      "raceDisplayName": "U.S. Senate",
+      "party": "G",
+      "resultsTotal": [
+        {
+          "candidate": "MICHAEL DOWNEY",
+          "votes": 665,
+          "isWinner": true,
+          "votePercent": 0.6203358208955224
+        },
+        {
+          "candidate": "ROBERT BARB",
+          "votes": 407,
+          "isWinner": false,
+          "votePercent": 0.37966417910447764
+        }
+      ],
+      "reportingTime": "6/10/2024 12:53:48 PM"
     }
   },
   {
@@ -4154,6 +4696,26 @@
           "answer": "End Obamacare and allow free-market enterprise; give the power back to the state so they can manage their own health care system.\n"
         }
       ]
+    },
+    "primaryResults": {
+      "race": "us-house-1",
+      "raceDisplayName": "U.S. House District 1 (West)",
+      "party": "R",
+      "resultsTotal": [
+        {
+          "candidate": "RYAN K ZINKE",
+          "votes": 65247,
+          "isWinner": true,
+          "votePercent": 0.7380381422075425
+        },
+        {
+          "candidate": "MARY TODD",
+          "votes": 23159,
+          "isWinner": false,
+          "votePercent": 0.2619618577924575
+        }
+      ],
+      "reportingTime": "6/10/2024 12:53:48 PM"
     }
   },
   {
@@ -4206,6 +4768,26 @@
           "answer": null
         }
       ]
+    },
+    "primaryResults": {
+      "race": "attorney-general",
+      "raceDisplayName": "Attorney General",
+      "party": "R",
+      "resultsTotal": [
+        {
+          "candidate": "AUSTIN KNUDSEN",
+          "votes": 146740,
+          "isWinner": true,
+          "votePercent": 0.8226858107161078
+        },
+        {
+          "candidate": "LOGAN OLSON",
+          "votes": 31627,
+          "isWinner": false,
+          "votePercent": 0.1773141892838922
+        }
+      ],
+      "reportingTime": "6/10/2024 12:53:48 PM"
     }
   },
   {
@@ -4272,6 +4854,20 @@
           "answer": null
         }
       ]
+    },
+    "primaryResults": {
+      "race": "psc-3",
+      "raceDisplayName": "Public Service Commission (Seat 3)",
+      "party": "D",
+      "resultsTotal": [
+        {
+          "candidate": "LEONARD \"LENNY\" WILLIAMS",
+          "votes": 21495,
+          "isWinner": true,
+          "votePercent": 1
+        }
+      ],
+      "reportingTime": "6/10/2024 12:53:48 PM"
     }
   },
   {
@@ -4551,6 +5147,68 @@
           "answer": "I would consolidate the health care system into the “United States Health Plan Corporation.” Doing so will eliminate government waste, improve provider payments, lower the cost of insurance for everyone and increase medical access to United States citizens.\n"
         }
       ]
+    },
+    "primaryResults": {
+      "race": "us-house-2",
+      "raceDisplayName": "U.S. House District 2 (East)",
+      "party": "R",
+      "resultsTotal": [
+        {
+          "candidate": "TROY DOWNING",
+          "votes": 36050,
+          "isWinner": true,
+          "votePercent": 0.36150135876377565
+        },
+        {
+          "candidate": "DENNY REHBERG",
+          "votes": 17070,
+          "isWinner": false,
+          "votePercent": 0.17117415240215397
+        },
+        {
+          "candidate": "STACY ZINN",
+          "votes": 13478,
+          "isWinner": false,
+          "votePercent": 0.13515437762602409
+        },
+        {
+          "candidate": "ELSIE ARNTZEN",
+          "votes": 9394,
+          "isWinner": false,
+          "votePercent": 0.09420093659436639
+        },
+        {
+          "candidate": "KEN BOGNER",
+          "votes": 8969,
+          "isWinner": false,
+          "votePercent": 0.08993913139396127
+        },
+        {
+          "candidate": "RIC HOLDEN",
+          "votes": 7063,
+          "isWinner": false,
+          "votePercent": 0.07082618854226207
+        },
+        {
+          "candidate": "JOEL G. KRAUTTER",
+          "votes": 3409,
+          "isWinner": false,
+          "votePercent": 0.03418469159572014
+        },
+        {
+          "candidate": "KYLE AUSTIN",
+          "votes": 3138,
+          "isWinner": false,
+          "votePercent": 0.031467164044402994
+        },
+        {
+          "candidate": "ED WALKER",
+          "votes": 1152,
+          "isWinner": false,
+          "votePercent": 0.011551999037333413
+        }
+      ],
+      "reportingTime": "6/10/2024 12:53:48 PM"
     }
   },
   {
@@ -4633,6 +5291,26 @@
           "answer": "I would like the citizens of Montana to benefit from Montana’s resources. The utility generation portfolio should be able to provide a surplus of power that can be marketed to the industrial sector and other states with the benefits of these sales used to relieve the cost to Montana citizens.\n"
         }
       ]
+    },
+    "primaryResults": {
+      "race": "psc-2",
+      "raceDisplayName": "Public Service Commission (Seat 2)",
+      "party": "R",
+      "resultsTotal": [
+        {
+          "candidate": "BRAD MOLNAR",
+          "votes": 16301,
+          "isWinner": true,
+          "votePercent": 0.5197857211185868
+        },
+        {
+          "candidate": "KIRK BUSHMAN",
+          "votes": 15060,
+          "isWinner": false,
+          "votePercent": 0.4802142788814132
+        }
+      ],
+      "reportingTime": "6/10/2024 12:53:48 PM"
     }
   },
   {
@@ -4958,6 +5636,38 @@
           "answer": "Health literally equates to wealth so the healthier we are as a country, the wealthier we will all be and our overall economy will be stronger as well. Medicare should be expanded to everyone as a public option, and Medicare and Medicaid must be allowed, like all other health care insurers, to negotiate with pharmaceutical companies on the costs of treatments. We’ve seen lives improve when people have access to affordable, quality health care. Healthy people stay healthy because they aren’t afraid a regular check-up is going to bankrupt them. Healthy people with access to preventative care are also able to focus their energy on careers and business ideas, rather than struggling to be well. It’s well past time that we all agree that making sure someone can see a doctor when a little issue arises without fear of losing their jobs or facing bankruptcy, is better than having someone wait till they need to hit the ER for help.\n"
         }
       ]
+    },
+    "primaryResults": {
+      "race": "us-house-2",
+      "raceDisplayName": "U.S. House District 2 (East)",
+      "party": "D",
+      "resultsTotal": [
+        {
+          "candidate": "JOHN B DRISCOLL",
+          "votes": 13317,
+          "isWinner": true,
+          "votePercent": 0.3331165420116567
+        },
+        {
+          "candidate": "STEVE HELD",
+          "votes": 10583,
+          "isWinner": false,
+          "votePercent": 0.2647272181504365
+        },
+        {
+          "candidate": "MING CABRERA",
+          "votes": 8341,
+          "isWinner": false,
+          "votePercent": 0.2086449708582435
+        },
+        {
+          "candidate": "KEVIN HAMM",
+          "votes": 7736,
+          "isWinner": false,
+          "votePercent": 0.1935112689796633
+        }
+      ],
+      "reportingTime": "6/10/2024 12:53:48 PM"
     }
   },
   {
@@ -5212,6 +5922,68 @@
           "answer": "The federal government needs to move towards more preventative medicine research instead of a \"sick-care\" system that is only concerned about healing the current disease. By focusing on disease prevention, it will reduce the amount of time people are in the hospital due to disease. To do this, we must adopt my bill I passed in Montana to expand medical right-to-try, shift NIH funding to age-related disease prevention, and reform the FDA towards innovation and efficacy.\n"
         }
       ]
+    },
+    "primaryResults": {
+      "race": "us-house-2",
+      "raceDisplayName": "U.S. House District 2 (East)",
+      "party": "R",
+      "resultsTotal": [
+        {
+          "candidate": "TROY DOWNING",
+          "votes": 36050,
+          "isWinner": true,
+          "votePercent": 0.36150135876377565
+        },
+        {
+          "candidate": "DENNY REHBERG",
+          "votes": 17070,
+          "isWinner": false,
+          "votePercent": 0.17117415240215397
+        },
+        {
+          "candidate": "STACY ZINN",
+          "votes": 13478,
+          "isWinner": false,
+          "votePercent": 0.13515437762602409
+        },
+        {
+          "candidate": "ELSIE ARNTZEN",
+          "votes": 9394,
+          "isWinner": false,
+          "votePercent": 0.09420093659436639
+        },
+        {
+          "candidate": "KEN BOGNER",
+          "votes": 8969,
+          "isWinner": false,
+          "votePercent": 0.08993913139396127
+        },
+        {
+          "candidate": "RIC HOLDEN",
+          "votes": 7063,
+          "isWinner": false,
+          "votePercent": 0.07082618854226207
+        },
+        {
+          "candidate": "JOEL G. KRAUTTER",
+          "votes": 3409,
+          "isWinner": false,
+          "votePercent": 0.03418469159572014
+        },
+        {
+          "candidate": "KYLE AUSTIN",
+          "votes": 3138,
+          "isWinner": false,
+          "votePercent": 0.031467164044402994
+        },
+        {
+          "candidate": "ED WALKER",
+          "votes": 1152,
+          "isWinner": false,
+          "votePercent": 0.011551999037333413
+        }
+      ],
+      "reportingTime": "6/10/2024 12:53:48 PM"
     }
   },
   {
@@ -5285,6 +6057,32 @@
           "answer": "The Montana Supreme Court can maintain its independence by ensuring its justices remain impartial and nonpartisan, not swayed by political groups or partisan activities. It is essential for justices to avoid even the appearance of partisanship to maintain public trust and the integrity of our judicial system.\n"
         }
       ]
+    },
+    "primaryResults": {
+      "race": "supco-3",
+      "raceDisplayName": "State Supreme Court (Seat 3)",
+      "party": "NP",
+      "resultsTotal": [
+        {
+          "candidate": "KATHERINE BIDEGARAY",
+          "votes": 126041,
+          "isWinner": true,
+          "votePercent": 0.4869493660127184
+        },
+        {
+          "candidate": "DAN WILSON",
+          "votes": 89314,
+          "isWinner": false,
+          "votePercent": 0.3450575263292098
+        },
+        {
+          "candidate": "JERRY ONEIL",
+          "votes": 43483,
+          "isWinner": false,
+          "votePercent": 0.16799310765807185
+        }
+      ],
+      "reportingTime": "6/10/2024 12:53:48 PM"
     }
   },
   {
@@ -5380,6 +6178,12 @@
           "answer": "Church ought to be entirely separate from state. Flags don't belong in churches, and crosses don't belong in government buildings. Conflating the two impoverishes both. Render unto Caesar that which is Caesar's, and render unto God that which is God's.\n"
         }
       ]
+    },
+    "primaryResults": {
+      "race": "governor",
+      "raceDisplayName": "Governor",
+      "party": "L",
+      "resultsTotal": null
     }
   },
   {
@@ -5453,6 +6257,26 @@
           "answer": "No. The judicial branch of the Montana state government is made up primarily of non-partisan offices. The clerk of the Montana Supreme court should, in my opinion, also be non-partisan as it is the duty of such office to support the court in the regulation of state law among many other duties without ideological restraint.\n"
         }
       ]
+    },
+    "primaryResults": {
+      "race": "clerk-of-court",
+      "raceDisplayName": "Clerk of the State Supreme Court",
+      "party": "D",
+      "resultsTotal": [
+        {
+          "candidate": "ERIN FARRIS-OLSEN",
+          "votes": 74254,
+          "isWinner": true,
+          "votePercent": 0.8274624736730668
+        },
+        {
+          "candidate": "JORDAN OPHUS",
+          "votes": 15483,
+          "isWinner": false,
+          "votePercent": 0.17253752632693314
+        }
+      ],
+      "reportingTime": "6/10/2024 12:53:48 PM"
     }
   },
   {
@@ -5796,6 +6620,26 @@
           "answer": "As chairman of the Senate Defense Appropriations Subcommittee my top priority is to always keep America safe, and ensure Montana stays the greatest state in the greatest country in the world. Our military priorities should lie in protecting America and our allies, and staying ahead of our adversaries like China and Russia who want to replace us as the world’s leading superpower. I’ll fight tooth and nail to defend America from military, economic, and democratic threats. \n\nWe should be strategic and only involve America in foreign conflicts when it strengthens our alliances and benefits the United States. The U.S. can’t and shouldn’t get involved in every foreign conflict, but America is safer when we have strong alliances and our allies know they can trust the U.S. to stand by them when facing threats. \n\nMy top priority will always be defending Montana and our nation, full stop. I’ll continue fighting to forcefully counter foreign adversaries like China, Russia, Iran and North Korea.\n"
         }
       ]
+    },
+    "primaryResults": {
+      "race": "us-senate",
+      "raceDisplayName": "U.S. Senate",
+      "party": "D",
+      "resultsTotal": [
+        {
+          "candidate": "JON TESTER",
+          "votes": 103347,
+          "isWinner": true,
+          "votePercent": 0.9698752780202146
+        },
+        {
+          "candidate": "MICHAEL HUMMERT",
+          "votes": 3210,
+          "isWinner": false,
+          "votePercent": 0.030124721979785468
+        }
+      ],
+      "reportingTime": "6/10/2024 12:53:48 PM"
     }
   },
   {
@@ -5848,6 +6692,20 @@
           "answer": "I have no intent to seek another office and will not only commit to serving the full term as state auditor, but also to being fully engaged in the work of the office during my entire term.\n"
         }
       ]
+    },
+    "primaryResults": {
+      "race": "state-auditor",
+      "raceDisplayName": "State Auditor",
+      "party": "D",
+      "resultsTotal": [
+        {
+          "candidate": "JOHN REPKE",
+          "votes": 91604,
+          "isWinner": true,
+          "votePercent": 1
+        }
+      ],
+      "reportingTime": "6/10/2024 12:53:48 PM"
     }
   },
   {
@@ -5906,6 +6764,12 @@
           "answer": null
         }
       ]
+    },
+    "primaryResults": {
+      "race": "secretary-of-state",
+      "raceDisplayName": "Secretary of State",
+      "party": "L",
+      "resultsTotal": null
     }
   },
   {
@@ -5979,6 +6843,26 @@
           "answer": "I'm 63 years old. I am not and never will be a politician and can promise the voters I have NO INTENTION OF PURSUING ANY OTHER OFFICE. I'm here to put a stop to that trend.\n"
         }
       ]
+    },
+    "primaryResults": {
+      "race": "state-auditor",
+      "raceDisplayName": "State Auditor",
+      "party": "R",
+      "resultsTotal": [
+        {
+          "candidate": "JAMES BROWN",
+          "votes": 113284,
+          "isWinner": true,
+          "votePercent": 0.6958262952612021
+        },
+        {
+          "candidate": "JOHN JAY WILLOUGHBY",
+          "votes": 49521,
+          "isWinner": false,
+          "votePercent": 0.30417370473879796
+        }
+      ],
+      "reportingTime": "6/10/2024 12:53:48 PM"
     }
   },
   {
@@ -6304,6 +7188,38 @@
           "answer": "Increase Indian Health Service Funding fivefold and help restore Medicaid and Extended Medicaid to Montanans.\n"
         }
       ]
+    },
+    "primaryResults": {
+      "race": "us-house-2",
+      "raceDisplayName": "U.S. House District 2 (East)",
+      "party": "D",
+      "resultsTotal": [
+        {
+          "candidate": "JOHN B DRISCOLL",
+          "votes": 13317,
+          "isWinner": true,
+          "votePercent": 0.3331165420116567
+        },
+        {
+          "candidate": "STEVE HELD",
+          "votes": 10583,
+          "isWinner": false,
+          "votePercent": 0.2647272181504365
+        },
+        {
+          "candidate": "MING CABRERA",
+          "votes": 8341,
+          "isWinner": false,
+          "votePercent": 0.2086449708582435
+        },
+        {
+          "candidate": "KEVIN HAMM",
+          "votes": 7736,
+          "isWinner": false,
+          "votePercent": 0.1935112689796633
+        }
+      ],
+      "reportingTime": "6/10/2024 12:53:48 PM"
     }
   },
   {
@@ -6600,6 +7516,68 @@
           "answer": "Americans deserve a health care system that provides high-quality health care that is both accessible and affordable.\n\nCongress needs to shine a spotlight on all sectors of the health care industry and look for ways to promote transparency for consumers and the public, as the best ways of raising awareness about practices that may not be in consumers interests. Areas Congress should look at in the health care industry includes the influence and power of the pharmaceutical industry on the cost of prescription drugs, as well as the many mergers and consolidations of hospitals. The interests of families, patients and communities must be put first, over shareholder profits and dividends. The health care industry is not a traditional market where there is ample choice for consumers, which means there are dangers for monopolistic and anticompetitive abuses occurring, requiring adequate oversight at the federal and state level.\n"
         }
       ]
+    },
+    "primaryResults": {
+      "race": "us-house-2",
+      "raceDisplayName": "U.S. House District 2 (East)",
+      "party": "R",
+      "resultsTotal": [
+        {
+          "candidate": "TROY DOWNING",
+          "votes": 36050,
+          "isWinner": true,
+          "votePercent": 0.36150135876377565
+        },
+        {
+          "candidate": "DENNY REHBERG",
+          "votes": 17070,
+          "isWinner": false,
+          "votePercent": 0.17117415240215397
+        },
+        {
+          "candidate": "STACY ZINN",
+          "votes": 13478,
+          "isWinner": false,
+          "votePercent": 0.13515437762602409
+        },
+        {
+          "candidate": "ELSIE ARNTZEN",
+          "votes": 9394,
+          "isWinner": false,
+          "votePercent": 0.09420093659436639
+        },
+        {
+          "candidate": "KEN BOGNER",
+          "votes": 8969,
+          "isWinner": false,
+          "votePercent": 0.08993913139396127
+        },
+        {
+          "candidate": "RIC HOLDEN",
+          "votes": 7063,
+          "isWinner": false,
+          "votePercent": 0.07082618854226207
+        },
+        {
+          "candidate": "JOEL G. KRAUTTER",
+          "votes": 3409,
+          "isWinner": false,
+          "votePercent": 0.03418469159572014
+        },
+        {
+          "candidate": "KYLE AUSTIN",
+          "votes": 3138,
+          "isWinner": false,
+          "votePercent": 0.031467164044402994
+        },
+        {
+          "candidate": "ED WALKER",
+          "votes": 1152,
+          "isWinner": false,
+          "votePercent": 0.011551999037333413
+        }
+      ],
+      "reportingTime": "6/10/2024 12:53:48 PM"
     }
   },
   {
@@ -6695,6 +7673,26 @@
           "answer": "I grew up in a family and a community of faith. Faith steers my moral compass to treat all people fairly and with respect, regardless of their values and circumstances. I believe faith is private to each person and provides a framework for how each of us approaches our family, neighbors, community and society. Each person should be able to live their faith as they choose without government interference.\n"
         }
       ]
+    },
+    "primaryResults": {
+      "race": "governor",
+      "raceDisplayName": "Governor",
+      "party": "D",
+      "resultsTotal": [
+        {
+          "candidate": "RYAN BUSSE",
+          "votes": 70260,
+          "isWinner": true,
+          "votePercent": 0.7101632384899176
+        },
+        {
+          "candidate": "JIM HUNT",
+          "votes": 28675,
+          "isWinner": false,
+          "votePercent": 0.28983676151008236
+        }
+      ],
+      "reportingTime": "6/10/2024 12:53:48 PM"
     }
   },
   {
@@ -6770,6 +7768,20 @@
           "answer": "While the state website received a facelift, its functionality did not improve. In fact, it degraded as the secretary of state prioritized aesthetics over function. Montana's business community deserves a state website without dead links and has undergone a high degree of user engineering. The current offerings of the secretary of state place a large workload on Montana's businesses rather than providing a higher degree of customer service. This disadvantages Montana's small business community, the backbone of our small town Main Streets.\n"
         }
       ]
+    },
+    "primaryResults": {
+      "race": "secretary-of-state",
+      "raceDisplayName": "Secretary of State",
+      "party": "D",
+      "resultsTotal": [
+        {
+          "candidate": "JESSE JAMES MULLEN",
+          "votes": 92154,
+          "isWinner": true,
+          "votePercent": 1
+        }
+      ],
+      "reportingTime": "6/10/2024 12:53:48 PM"
     }
   },
   {
@@ -6822,6 +7834,32 @@
           "answer": "The Montana Supreme Court needs to quit legislating from the bench advancing a political philosophy and judicial monopoly. Otherwise there will be a movement to amend the Montana Constitution to put some control over the court, such as making it subject to partisan elections or be subject to a legislative override.\n"
         }
       ]
+    },
+    "primaryResults": {
+      "race": "supco-3",
+      "raceDisplayName": "State Supreme Court (Seat 3)",
+      "party": "NP",
+      "resultsTotal": [
+        {
+          "candidate": "KATHERINE BIDEGARAY",
+          "votes": 126041,
+          "isWinner": true,
+          "votePercent": 0.4869493660127184
+        },
+        {
+          "candidate": "DAN WILSON",
+          "votes": 89314,
+          "isWinner": false,
+          "votePercent": 0.3450575263292098
+        },
+        {
+          "candidate": "JERRY ONEIL",
+          "votes": 43483,
+          "isWinner": false,
+          "votePercent": 0.16799310765807185
+        }
+      ],
+      "reportingTime": "6/10/2024 12:53:48 PM"
     }
   },
   {
@@ -6924,6 +7962,32 @@
           "answer": "It is essential that the judicial branch of government be independent and nonpartisan, and that it be perceived as such. One is a function of the other. So long as the courts are perceived to be independent and nonpartisan, their rulings will be perceived as legitimate, and their orders will be respected. But if courts begin to issue rulings based not on the law and the facts but along political lines, the public’s trust in them will fade and their future rulings will not be perceived as legitimate. I believe the very act of issuing nonpartisan, impartial decisions will ensure that the courts continue to function as the founders intended. And function they must, because the courts are our society’s last line of defense against authoritarianism, oligarchy, and many other political ills.\n"
         }
       ]
+    },
+    "primaryResults": {
+      "race": "supco-chief-justice",
+      "raceDisplayName": "State Supreme Court (Chief Justice)",
+      "party": "NP",
+      "resultsTotal": [
+        {
+          "candidate": "CORY SWANSON",
+          "votes": 120041,
+          "isWinner": true,
+          "votePercent": 0.46206224932061557
+        },
+        {
+          "candidate": "JEREMIAH LYNCH",
+          "votes": 97732,
+          "isWinner": false,
+          "votePercent": 0.3761903662132305
+        },
+        {
+          "candidate": "DOUG  MARSHALL",
+          "votes": 42021,
+          "isWinner": false,
+          "votePercent": 0.16174738446615394
+        }
+      ],
+      "reportingTime": "6/10/2024 12:53:48 PM"
     }
   },
   {
@@ -6995,6 +8059,20 @@
           "answer": null
         }
       ]
+    },
+    "primaryResults": {
+      "race": "psc-4",
+      "raceDisplayName": "Public Service Commission (Seat 4)",
+      "party": "R",
+      "resultsTotal": [
+        {
+          "candidate": "JENNIFER  FIELDER",
+          "votes": 30872,
+          "isWinner": true,
+          "votePercent": 1
+        }
+      ],
+      "reportingTime": "6/10/2024 12:53:48 PM"
     }
   },
   {
@@ -7083,6 +8161,32 @@
           "answer": "Educate the public on the role of the PSC, and like any public process, encourage folks to take an active role in the process itself by communicating with their respective PSC commissioners, and more importantly the ratepayer’s advocate agency, the Montana Consumer Counsel, by having a hand in setting the policy that affects all Montanans.\n\nCommissioners need to be good listeners and keep an open mind in order to strike a fair balance between reliable and affordable service rates.\n\nSimply put, its putting people ahead of politics, while also keeping the providers in a position of viability, so they continue to provide vital services to all Montana ratepayers.\n"
         }
       ]
+    },
+    "primaryResults": {
+      "race": "psc-3",
+      "raceDisplayName": "Public Service Commission (Seat 3)",
+      "party": "R",
+      "resultsTotal": [
+        {
+          "candidate": "JEFF WELBORN",
+          "votes": 13291,
+          "isWinner": true,
+          "votePercent": 0.39459074310483033
+        },
+        {
+          "candidate": "SUZZANN NORDWICK",
+          "votes": 13047,
+          "isWinner": false,
+          "votePercent": 0.387346732773209
+        },
+        {
+          "candidate": "ROB ELWOOD",
+          "votes": 7345,
+          "isWinner": false,
+          "votePercent": 0.21806252412196064
+        }
+      ],
+      "reportingTime": "6/10/2024 12:53:48 PM"
     }
   },
   {
@@ -7156,6 +8260,26 @@
           "answer": null
         }
       ]
+    },
+    "primaryResults": {
+      "race": "clerk-of-court",
+      "raceDisplayName": "Clerk of the State Supreme Court",
+      "party": "R",
+      "resultsTotal": [
+        {
+          "candidate": "BOWEN GREENWOOD",
+          "votes": 82457,
+          "isWinner": true,
+          "votePercent": 0.5270973433225089
+        },
+        {
+          "candidate": "JASON W ELLSWORTH",
+          "votes": 73979,
+          "isWinner": false,
+          "votePercent": 0.4729026566774911
+        }
+      ],
+      "reportingTime": "6/10/2024 12:53:48 PM"
     }
   },
   {
@@ -7260,6 +8384,26 @@
           "answer": "If I am elected as state auditor, yes, I intend to serve my full term.\n"
         }
       ]
+    },
+    "primaryResults": {
+      "race": "state-auditor",
+      "raceDisplayName": "State Auditor",
+      "party": "R",
+      "resultsTotal": [
+        {
+          "candidate": "JAMES BROWN",
+          "votes": 113284,
+          "isWinner": true,
+          "votePercent": 0.6958262952612021
+        },
+        {
+          "candidate": "JOHN JAY WILLOUGHBY",
+          "votes": 49521,
+          "isWinner": false,
+          "votePercent": 0.30417370473879796
+        }
+      ],
+      "reportingTime": "6/10/2024 12:53:48 PM"
     }
   },
   {
@@ -7617,6 +8761,26 @@
           "answer": "My faith is a guiding light and deeply personal. Just as faith guides many Montanans, my faith has positively influenced my life.\n\nGovernment alone can’t provide the full services and support to the people it serves. A central part of our Montana way of life is neighbors help neighbors. Our nonprofit organizations and places of worship also support and serve others. For example, about one in four individuals who seek help for mental health turn to faith leaders before they seek clinical professionals.\n\nIn 2022, our Department of Public Health and Human Services launched the Office of Faith and Community Based Services to strengthen partnerships with organizations that play a fundamental role in supporting health and wellness, as well as self-reliant individuals. By working with these organizations we’re expanding resources and strategies to improve health outcomes for all Montanans.\n\nWe’ll continue to emphasize partnerships between the state and organizations that support Montanans.\n"
         }
       ]
+    },
+    "primaryResults": {
+      "race": "governor",
+      "raceDisplayName": "Governor",
+      "party": "R",
+      "resultsTotal": [
+        {
+          "candidate": "GREG GIANFORTE",
+          "votes": 143137,
+          "isWinner": true,
+          "votePercent": 0.7527504312339602
+        },
+        {
+          "candidate": "TANNER SMITH",
+          "votes": 47015,
+          "isWinner": false,
+          "votePercent": 0.2472495687660398
+        }
+      ],
+      "reportingTime": "6/10/2024 12:53:48 PM"
     }
   },
   {
@@ -7752,6 +8916,26 @@
           "answer": null
         }
       ]
+    },
+    "primaryResults": {
+      "race": "us-house-1",
+      "raceDisplayName": "U.S. House District 1 (West)",
+      "party": "L",
+      "resultsTotal": [
+        {
+          "candidate": "DENNIS HAYES",
+          "votes": 379,
+          "isWinner": true,
+          "votePercent": 0.6523235800344234
+        },
+        {
+          "candidate": "ERNIE NOBLE",
+          "votes": 202,
+          "isWinner": false,
+          "votePercent": 0.3476764199655766
+        }
+      ],
+      "reportingTime": "6/10/2024 12:53:48 PM"
     }
   },
   {
@@ -7825,6 +9009,26 @@
           "answer": "I am a proud Democrat that grew up with parents on both sides of the political spectrum. The Democratic values of fairness and equality help shape my vision for the clerk of the Supreme Court. I truly believe that the rights of all Montanans need to be protected regardless of political affiliation. The court must remain impartial so that everyone can get a fair shake and our individual and collective freedom is protected. Although I have strong personal convictions, I will, as I have many times in my career, check my politics at the door when it comes to legal issues and positions presented to the court.\n"
         }
       ]
+    },
+    "primaryResults": {
+      "race": "clerk-of-court",
+      "raceDisplayName": "Clerk of the State Supreme Court",
+      "party": "D",
+      "resultsTotal": [
+        {
+          "candidate": "ERIN FARRIS-OLSEN",
+          "votes": 74254,
+          "isWinner": true,
+          "votePercent": 0.8274624736730668
+        },
+        {
+          "candidate": "JORDAN OPHUS",
+          "votes": 15483,
+          "isWinner": false,
+          "votePercent": 0.17253752632693314
+        }
+      ],
+      "reportingTime": "6/10/2024 12:53:48 PM"
     }
   },
   {
@@ -8166,6 +9370,68 @@
           "answer": "The government needs to reign in the regulations and strengthen the freedom to choose what health insurance they want. Congress must enact legislation that treats employees the same way as employers. Workers should be able to purchase their own plan with pre-tax dollars and take it with them from job to job. This would be especially beneficial for those later in life when health problems often materialize.\n\nObamacare’s top-down, one-size-fits-all strategy increased costs, decreased quality and consolidated the health care market, reducing competition and choice for patients. Montanans must be empowered to take control of their health care decisions and allowed to purchase the insurance they want, not the insurance the government dictates to them. Congress must promote transparency in health care price and quality, so families are not surprised by bills. I will work to improve health care access for our rural and aging communities in Montana who are often ignored by D.C. special interests.\n"
         }
       ]
+    },
+    "primaryResults": {
+      "race": "us-house-2",
+      "raceDisplayName": "U.S. House District 2 (East)",
+      "party": "R",
+      "resultsTotal": [
+        {
+          "candidate": "TROY DOWNING",
+          "votes": 36050,
+          "isWinner": true,
+          "votePercent": 0.36150135876377565
+        },
+        {
+          "candidate": "DENNY REHBERG",
+          "votes": 17070,
+          "isWinner": false,
+          "votePercent": 0.17117415240215397
+        },
+        {
+          "candidate": "STACY ZINN",
+          "votes": 13478,
+          "isWinner": false,
+          "votePercent": 0.13515437762602409
+        },
+        {
+          "candidate": "ELSIE ARNTZEN",
+          "votes": 9394,
+          "isWinner": false,
+          "votePercent": 0.09420093659436639
+        },
+        {
+          "candidate": "KEN BOGNER",
+          "votes": 8969,
+          "isWinner": false,
+          "votePercent": 0.08993913139396127
+        },
+        {
+          "candidate": "RIC HOLDEN",
+          "votes": 7063,
+          "isWinner": false,
+          "votePercent": 0.07082618854226207
+        },
+        {
+          "candidate": "JOEL G. KRAUTTER",
+          "votes": 3409,
+          "isWinner": false,
+          "votePercent": 0.03418469159572014
+        },
+        {
+          "candidate": "KYLE AUSTIN",
+          "votes": 3138,
+          "isWinner": false,
+          "votePercent": 0.031467164044402994
+        },
+        {
+          "candidate": "ED WALKER",
+          "votes": 1152,
+          "isWinner": false,
+          "votePercent": 0.011551999037333413
+        }
+      ],
+      "reportingTime": "6/10/2024 12:53:48 PM"
     }
   },
   {
@@ -8391,6 +9657,68 @@
           "answer": null
         }
       ]
+    },
+    "primaryResults": {
+      "race": "us-house-2",
+      "raceDisplayName": "U.S. House District 2 (East)",
+      "party": "R",
+      "resultsTotal": [
+        {
+          "candidate": "TROY DOWNING",
+          "votes": 36050,
+          "isWinner": true,
+          "votePercent": 0.36150135876377565
+        },
+        {
+          "candidate": "DENNY REHBERG",
+          "votes": 17070,
+          "isWinner": false,
+          "votePercent": 0.17117415240215397
+        },
+        {
+          "candidate": "STACY ZINN",
+          "votes": 13478,
+          "isWinner": false,
+          "votePercent": 0.13515437762602409
+        },
+        {
+          "candidate": "ELSIE ARNTZEN",
+          "votes": 9394,
+          "isWinner": false,
+          "votePercent": 0.09420093659436639
+        },
+        {
+          "candidate": "KEN BOGNER",
+          "votes": 8969,
+          "isWinner": false,
+          "votePercent": 0.08993913139396127
+        },
+        {
+          "candidate": "RIC HOLDEN",
+          "votes": 7063,
+          "isWinner": false,
+          "votePercent": 0.07082618854226207
+        },
+        {
+          "candidate": "JOEL G. KRAUTTER",
+          "votes": 3409,
+          "isWinner": false,
+          "votePercent": 0.03418469159572014
+        },
+        {
+          "candidate": "KYLE AUSTIN",
+          "votes": 3138,
+          "isWinner": false,
+          "votePercent": 0.031467164044402994
+        },
+        {
+          "candidate": "ED WALKER",
+          "votes": 1152,
+          "isWinner": false,
+          "votePercent": 0.011551999037333413
+        }
+      ],
+      "reportingTime": "6/10/2024 12:53:48 PM"
     }
   },
   {
@@ -8462,6 +9790,32 @@
           "answer": null
         }
       ]
+    },
+    "primaryResults": {
+      "race": "supco-chief-justice",
+      "raceDisplayName": "State Supreme Court (Chief Justice)",
+      "party": "NP",
+      "resultsTotal": [
+        {
+          "candidate": "CORY SWANSON",
+          "votes": 120041,
+          "isWinner": true,
+          "votePercent": 0.46206224932061557
+        },
+        {
+          "candidate": "JEREMIAH LYNCH",
+          "votes": 97732,
+          "isWinner": false,
+          "votePercent": 0.3761903662132305
+        },
+        {
+          "candidate": "DOUG  MARSHALL",
+          "votes": 42021,
+          "isWinner": false,
+          "votePercent": 0.16174738446615394
+        }
+      ],
+      "reportingTime": "6/10/2024 12:53:48 PM"
     }
   },
   {
@@ -8741,6 +10095,68 @@
           "answer": null
         }
       ]
+    },
+    "primaryResults": {
+      "race": "us-house-2",
+      "raceDisplayName": "U.S. House District 2 (East)",
+      "party": "R",
+      "resultsTotal": [
+        {
+          "candidate": "TROY DOWNING",
+          "votes": 36050,
+          "isWinner": true,
+          "votePercent": 0.36150135876377565
+        },
+        {
+          "candidate": "DENNY REHBERG",
+          "votes": 17070,
+          "isWinner": false,
+          "votePercent": 0.17117415240215397
+        },
+        {
+          "candidate": "STACY ZINN",
+          "votes": 13478,
+          "isWinner": false,
+          "votePercent": 0.13515437762602409
+        },
+        {
+          "candidate": "ELSIE ARNTZEN",
+          "votes": 9394,
+          "isWinner": false,
+          "votePercent": 0.09420093659436639
+        },
+        {
+          "candidate": "KEN BOGNER",
+          "votes": 8969,
+          "isWinner": false,
+          "votePercent": 0.08993913139396127
+        },
+        {
+          "candidate": "RIC HOLDEN",
+          "votes": 7063,
+          "isWinner": false,
+          "votePercent": 0.07082618854226207
+        },
+        {
+          "candidate": "JOEL G. KRAUTTER",
+          "votes": 3409,
+          "isWinner": false,
+          "votePercent": 0.03418469159572014
+        },
+        {
+          "candidate": "KYLE AUSTIN",
+          "votes": 3138,
+          "isWinner": false,
+          "votePercent": 0.031467164044402994
+        },
+        {
+          "candidate": "ED WALKER",
+          "votes": 1152,
+          "isWinner": false,
+          "votePercent": 0.011551999037333413
+        }
+      ],
+      "reportingTime": "6/10/2024 12:53:48 PM"
     }
   },
   {
@@ -8905,6 +10321,26 @@
           "answer": "The federal government needs to get out of health care they have no business messing with any of it that's what the problem is now too many fingers in it and too many people's getting money in their back pockets on what they're voting for.\n"
         }
       ]
+    },
+    "primaryResults": {
+      "race": "us-house-1",
+      "raceDisplayName": "U.S. House District 1 (West)",
+      "party": "L",
+      "resultsTotal": [
+        {
+          "candidate": "DENNIS HAYES",
+          "votes": 379,
+          "isWinner": true,
+          "votePercent": 0.6523235800344234
+        },
+        {
+          "candidate": "ERNIE NOBLE",
+          "votes": 202,
+          "isWinner": false,
+          "votePercent": 0.3476764199655766
+        }
+      ],
+      "reportingTime": "6/10/2024 12:53:48 PM"
     }
   },
   {
@@ -8978,6 +10414,32 @@
           "answer": "The Supreme Court must earn the respect of all Montanans by issuing decisions which are firmly rooted in the Constitution and our laws and by providing reasons for its decisions which stand up to the most rigorous standards. When the court lives up to these ideals, it will achieve and maintain its proper role and authority as the independent and non-political decider of the cases that come before it.\n"
         }
       ]
+    },
+    "primaryResults": {
+      "race": "supco-3",
+      "raceDisplayName": "State Supreme Court (Seat 3)",
+      "party": "NP",
+      "resultsTotal": [
+        {
+          "candidate": "KATHERINE BIDEGARAY",
+          "votes": 126041,
+          "isWinner": true,
+          "votePercent": 0.4869493660127184
+        },
+        {
+          "candidate": "DAN WILSON",
+          "votes": 89314,
+          "isWinner": false,
+          "votePercent": 0.3450575263292098
+        },
+        {
+          "candidate": "JERRY ONEIL",
+          "votes": 43483,
+          "isWinner": false,
+          "votePercent": 0.16799310765807185
+        }
+      ],
+      "reportingTime": "6/10/2024 12:53:48 PM"
     }
   },
   {
@@ -9086,6 +10548,32 @@
           "answer": "To modify a phrase from Chief Justice John Roberts, the quickest way to remove politics from case decisions is to stop deciding cases on the basis of politics.\n\nThe Supreme Court should focus on good old-fashioned appellate judging, no matter the case before it. But some cases are inherently political, so what to do? Just focus on good old-fashioned appellate judging. Follow the rules of interpretation like you would for any case. Let the law lead to the outcome, don't decide the outcome and then modify the law or overturn precedent to get there. That is fundamental to the problem and the solution.\n\nIf the judiciary simply does its job in this manner, then political cases will be just like every other case: the loser will be upset, but the reasoning will be clear and unassailable. The Supreme Court should uphold the rule of law by removing political concerns from its legal interpretations. Let the law be clear, and let the political chips fall where they may.\n"
         }
       ]
+    },
+    "primaryResults": {
+      "race": "supco-chief-justice",
+      "raceDisplayName": "State Supreme Court (Chief Justice)",
+      "party": "NP",
+      "resultsTotal": [
+        {
+          "candidate": "CORY SWANSON",
+          "votes": 120041,
+          "isWinner": true,
+          "votePercent": 0.46206224932061557
+        },
+        {
+          "candidate": "JEREMIAH LYNCH",
+          "votes": 97732,
+          "isWinner": false,
+          "votePercent": 0.3761903662132305
+        },
+        {
+          "candidate": "DOUG  MARSHALL",
+          "votes": 42021,
+          "isWinner": false,
+          "votePercent": 0.16174738446615394
+        }
+      ],
+      "reportingTime": "6/10/2024 12:53:48 PM"
     }
   },
   {
@@ -9241,6 +10729,20 @@
           "answer": "During my time as secretary of state, Montana has become the model for serving the business community, by reducing red tape, cutting and eliminating fees, implementing efficiencies and providing exceptional customer service, where Montanans can start a business anywhere at anytime in record speed. I will continue to apply this approach in my second term.\n"
         }
       ]
+    },
+    "primaryResults": {
+      "race": "secretary-of-state",
+      "raceDisplayName": "Secretary of State",
+      "party": "R",
+      "resultsTotal": [
+        {
+          "candidate": "CHRISTI JACOBSEN",
+          "votes": 163359,
+          "isWinner": true,
+          "votePercent": 1
+        }
+      ],
+      "reportingTime": "6/10/2024 12:53:48 PM"
     }
   },
   {
@@ -9382,6 +10884,32 @@
           "answer": null
         }
       ]
+    },
+    "primaryResults": {
+      "race": "us-senate",
+      "raceDisplayName": "U.S. Senate",
+      "party": "R",
+      "resultsTotal": [
+        {
+          "candidate": "TIM SHEEHY",
+          "votes": 138202,
+          "isWinner": true,
+          "votePercent": 0.7363115693012601
+        },
+        {
+          "candidate": "BRAD JOHNSON",
+          "votes": 36460,
+          "isWinner": false,
+          "votePercent": 0.1942513119688857
+        },
+        {
+          "candidate": "CHARLES WALKINGCHILD SR",
+          "votes": 13033,
+          "isWinner": false,
+          "votePercent": 0.06943711872985428
+        }
+      ],
+      "reportingTime": "6/10/2024 12:53:48 PM"
     }
   },
   {
@@ -9464,6 +10992,26 @@
           "answer": "We should no longer simply accept NorthWestern Energy's report dispatchable energy sources. The PSC should [sit] down with NWE and work together on long-range planning., i.e., a far more hands-on approach.\n"
         }
       ]
+    },
+    "primaryResults": {
+      "race": "psc-2",
+      "raceDisplayName": "Public Service Commission (Seat 2)",
+      "party": "R",
+      "resultsTotal": [
+        {
+          "candidate": "BRAD MOLNAR",
+          "votes": 16301,
+          "isWinner": true,
+          "votePercent": 0.5197857211185868
+        },
+        {
+          "candidate": "KIRK BUSHMAN",
+          "votes": 15060,
+          "isWinner": false,
+          "votePercent": 0.4802142788814132
+        }
+      ],
+      "reportingTime": "6/10/2024 12:53:48 PM"
     }
   },
   {
@@ -9634,6 +11182,32 @@
           "answer": "First and foremost, military aid should be provided to another country only when a clear national interest has been identified. And then, that aid should be forthcoming only after we have assurances that there will be meaningful transparency and accountability regarding the use of the resources provided.\n"
         }
       ]
+    },
+    "primaryResults": {
+      "race": "us-senate",
+      "raceDisplayName": "U.S. Senate",
+      "party": "R",
+      "resultsTotal": [
+        {
+          "candidate": "TIM SHEEHY",
+          "votes": 138202,
+          "isWinner": true,
+          "votePercent": 0.7363115693012601
+        },
+        {
+          "candidate": "BRAD JOHNSON",
+          "votes": 36460,
+          "isWinner": false,
+          "votePercent": 0.1942513119688857
+        },
+        {
+          "candidate": "CHARLES WALKINGCHILD SR",
+          "votes": 13033,
+          "isWinner": false,
+          "votePercent": 0.06943711872985428
+        }
+      ],
+      "reportingTime": "6/10/2024 12:53:48 PM"
     }
   },
   {
@@ -9707,6 +11281,26 @@
           "answer": "The clerk of the Montana Supreme Court is a partisan office, and thank God. In a Montana Supreme Court where extremist, progressive ideologues rule the day, Republicans must preserve every advantage we can get. I am the only Republican anywhere near that court. We cannot risk losing the gains we've made.\n\nThe clerk's office is a unique opportunity to be a team player with the conservatives working to reform our out of control Judiciary. I love that work, and I want to keep doing it.\n"
         }
       ]
+    },
+    "primaryResults": {
+      "race": "clerk-of-court",
+      "raceDisplayName": "Clerk of the State Supreme Court",
+      "party": "R",
+      "resultsTotal": [
+        {
+          "candidate": "BOWEN GREENWOOD",
+          "votes": 82457,
+          "isWinner": true,
+          "votePercent": 0.5270973433225089
+        },
+        {
+          "candidate": "JASON W ELLSWORTH",
+          "votes": 73979,
+          "isWinner": false,
+          "votePercent": 0.4729026566774911
+        }
+      ],
+      "reportingTime": "6/10/2024 12:53:48 PM"
     }
   },
   {
@@ -9796,6 +11390,20 @@
           "answer": "As attorney general of the state of Montana, my job will be to set aside politics and make decisions based on the facts and the law. Regardless of their political party, I will work with every Montana state legislator in good faith and in accordance with the Montana Constitution. I am not a career politician, an activist or an extremist. I am a highly-qualified, experienced attorney who wants to serve the best interests of all Montanans and get things done.\n"
         }
       ]
+    },
+    "primaryResults": {
+      "race": "attorney-general",
+      "raceDisplayName": "Attorney General",
+      "party": "D",
+      "resultsTotal": [
+        {
+          "candidate": "BEN ALKE",
+          "votes": 92599,
+          "isWinner": true,
+          "votePercent": 1
+        }
+      ],
+      "reportingTime": "6/10/2024 12:53:48 PM"
     }
   },
   {
@@ -10079,6 +11687,26 @@
           "answer": "Defending state laws has become an increasingly large part of the litigation work the Department of Justice undertakes as special interest groups seek to overturn the laws duly passed by the state Legislature. The attorney general’s job is to enforce and defend the laws of our state —  period. If someone won’t commit to doing the job, they shouldn’t be running for the position.\n"
         }
       ]
+    },
+    "primaryResults": {
+      "race": "attorney-general",
+      "raceDisplayName": "Attorney General",
+      "party": "R",
+      "resultsTotal": [
+        {
+          "candidate": "AUSTIN KNUDSEN",
+          "votes": 146740,
+          "isWinner": true,
+          "votePercent": 0.8226858107161078
+        },
+        {
+          "candidate": "LOGAN OLSON",
+          "votes": 31627,
+          "isWinner": false,
+          "votePercent": 0.1773141892838922
+        }
+      ],
+      "reportingTime": "6/10/2024 12:53:48 PM"
     }
   }
 ]
