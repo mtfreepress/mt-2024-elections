@@ -24,15 +24,16 @@
         "candidate_name": "SHEEHY, TIM",
         "candidate_pcc_id": "C00844159",
         "candidate_pcc_name": "TIM SHEEHY FOR MONTANA",
-        "cash_on_hand_end_period": 2223272.77,
+        "cash_on_hand_end_period": 2427731.66,
         "committee_ids": [
+          "C00829465",
           "C00844159"
         ],
         "coverage_end_date": "2024-05-15",
         "incumbent_challenge_full": "Challenger",
         "party_full": "REPUBLICAN PARTY",
-        "total_disbursements": 8324164.37,
-        "total_receipts": 10547437.14
+        "total_disbursements": 8347783.29,
+        "total_receipts": 10775514.95
       },
       {
         "candidate_election_year": 2024,

@@ -8,6 +8,7 @@ import Link from 'next/link';
 import Markdown from 'react-markdown'
 
 import AddressLookup from '../components/AddressLookup'
+import SearchForCandidate from '../components/SearchForCandidate'
 import MajorRaceOverview from '../components/MajorRaceOverview'
 import LegislativeRaceOverview from '../components/LegislativeRaceOverview'
 import LegislativeDistrictSelector from '../components/LegislativeDistrictSelector'
@@ -20,6 +21,7 @@ import {
     getBallotIssues,
     getLegislativeDistrictOverviews,
     getHowToVoteText,
+    getFullCandidateList,
 } from '../lib/overview'
 
 const RACE_LEVELS = [
@@ -65,6 +67,7 @@ export async function getStaticProps() {
     const text = getOverviewText()
     const ballotIssues = getBallotIssues()
     const votingFAQ = getHowToVoteText()
+    const fullCandidateList = getFullCandidateList()
     return {
         props: {
             races,
@@ -72,11 +75,12 @@ export async function getStaticProps() {
             ballotIssues,
             text,
             votingFAQ,
+            fullCandidateList
         }
     }
 }
 
-export default function Home({ races, legislativeRaces, ballotIssues, text, votingFAQ }) {
+export default function Home({ races, legislativeRaces, ballotIssues, text, votingFAQ, fullCandidateList }) {
 
     // State for filtering overview to candidates for a given voter address
     // Design approach here is to make this optional for readers who won't engage with interactivity
@@ -119,6 +123,8 @@ export default function Home({ races, legislativeRaces, ballotIssues, text, voti
         >
 
             <Markdown>{overviewLedeIn}</Markdown>
+
+            <SearchForCandidate candidates={fullCandidateList} />
 
             {/* <AddressLookup selDistricts={selDistricts} setSelDistricts={setSelDistricts} /> */}
 

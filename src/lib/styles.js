@@ -7,6 +7,13 @@ export const PARTIES = [
     { key: 'NP', noun: 'Nonpartisan', adjective: 'Nonpartisan', color: '#666' },
 ]
 
+export const STATUS = [
+    { key: 'active', label: '➡️ Active' },
+    { key: 'lost-primary', label: '❌ Lost June 4 primary' },
+    { key: 'lost-general', label: '❌ Lost Nov. 5 general election' },
+    { key: 'won', label: '✅ Won Nov. 5 general election' },
+]
+
 // SVG social media icons
 const web = <svg role="img" xmlns="http://www.w3.org/2000/svg" viewBox="0 0 24 24"><title>Web</title><path d="M12,0C5.4,0,0,5.4,0,12c0,6.6,5.4,12,12,12s12-5.4,12-12C24,5.4,18.6,0,12,0z M13.5,3.2l0.6,1.3l-5,1l1,3.7l3.6,1l1.4,3.3 l3.4-0.5H20v2.1l-1.5,2.6c-1.7,2-4.2,3.3-7.1,3.3c0,0,0,0,0,0l-2.3-1.5l1-2l2.4-0.3l0.1-3l-3.5-1.7l-4.4-0.4L3.2,8.8 c0-0.2,0.1-0.3,0.1-0.5l2.8-2.8l1.6-1.6C8.9,3.3,10.2,3,11.6,3C12.3,3,12.9,3.1,13.5,3.2z" /></svg>
 // Source: https://simpleicons.org/
