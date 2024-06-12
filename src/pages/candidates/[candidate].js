@@ -1,18 +1,19 @@
 
 import { css } from '@emotion/react'
 
-import Link from 'next/link';
+import Link from 'next/link'
 import Markdown from 'react-markdown'
 
-import Layout from '../../design/Layout';
+import Layout from '../../design/Layout'
 import LowdownCTA from '../../design/LowdownCTA'
 
 import CandidatePageSummary from '../../components/CandidatePageSummary'
-import CandidateWebLinks from '../../components/CandidateWebLinks'
+// import CandidateWebLinks from '../../components/CandidateWebLinks'
 import CandidatePageOpponents from '../../components/CandidatePageOpponents'
 import RaceFinance from '../../components/RaceFinance'
 import CandidateQuestionnaire from '../../components/CandidateQuestionnaire'
-import LinksList from '../../components/LinksList';
+import LinksList from '../../components/LinksList'
+import RaceResults from '../../components/RaceResults'
 
 import text from '../../data/text'
 
@@ -85,6 +86,7 @@ export default function CandidatePage({ pageData, votingFAQ }) {
         coverage,
         raceSlug,
         raceDisplayName,
+        primaryResults
     } = pageData
     const pageDescription = `${displayName} (${party}) is running as a candidate for ${raceDisplayName} in Montana's 2024 election. See biographic details, issue positions and information on how to vote.`
     return (
@@ -103,6 +105,7 @@ export default function CandidatePage({ pageData, votingFAQ }) {
                 <span><Link href="#bio">About {lastName}</Link></span>
                 <span><Link href="#issues">On the issues</Link></span>
                 <span><Link href="#coverage">{lastName} in MTFP coverage</Link></span>
+                <span><Link href="#results">Election results</Link></span>
                 <span><Link href="#voting-faq">Voting in Montana</Link></span>
                 <span><Link href="#about">About this project</Link></span>
             </div>
@@ -155,8 +158,9 @@ export default function CandidatePage({ pageData, votingFAQ }) {
                 <LinksList articles={coverage} />
             </section>
 
-            <a className="link-anchor" id="finance"></a>
+
             <section>
+                <a className="link-anchor" id="finance"></a>
                 <h2>CAMPAIGN FINANCE</h2>
                 {/* <Markdown>{questionnaireStateOfficeLedein}</Markdown> */}
                 {finance ?
@@ -165,6 +169,19 @@ export default function CandidatePage({ pageData, votingFAQ }) {
                         raceSlug={raceSlug}
                     /> :
                     <div className="note">Campaign finance information for non-federal candidates is publicly available through the state <a href="https://cers-ext.mt.gov/CampaignTracker/dashboard">Campaign Electronic Reporting System</a> maintained by the Montana Commissioner of Political Practices. MTFP isn&apos;t presenting that data on this guide at the current time because the COPP system doesn&apos;t make it possible to easily export reliable campaign finance summary data for the races that office oversees.</div>
+                }
+            </section>
+
+            <section>
+                <a className="link-anchor" id="results"></a>
+                <h2>Election outcomes</h2>
+                {
+                    (party !== 'I') && primaryResults.resultsTotal && (primaryResults.resultsTotal.length > 0) ? <RaceResults
+                        results={primaryResults}
+                        primaryParty={party} // null for general elex results
+                        title={`June 4 primary`}
+                    />
+                        : <p>No party primary was conducted.</p>
                 }
             </section>
 

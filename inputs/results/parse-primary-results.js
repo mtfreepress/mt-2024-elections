@@ -65,6 +65,7 @@ function getSheetData(file, sheetName) {
     const resultsTotal = cols.map((col, i) => {
         return {
             candidate: col,
+            party, // will need to change for general
             votes: totals[i],
         }
     }).sort((a, b) => b.votes - a.votes)

@@ -3,6 +3,9 @@ import { timeFormat } from 'd3-time-format'
 
 export const urlize = str => str.toLowerCase().replaceAll(/\s/g, '-')
 
+export const numberFormat = format(',.0f')
+export const percentFormat = format('.1%')
+
 export const formatDate = timeFormat('%b %-d, %Y')
 export const formatTimeLong = timeFormat('%-I:%M %p %b %-d, %Y')
 

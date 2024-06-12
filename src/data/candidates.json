@@ -304,54 +304,63 @@
       "resultsTotal": [
         {
           "candidate": "TROY DOWNING",
+          "party": "R",
           "votes": 36050,
           "isWinner": true,
           "votePercent": 0.36150135876377565
         },
         {
           "candidate": "DENNY REHBERG",
+          "party": "R",
           "votes": 17070,
           "isWinner": false,
           "votePercent": 0.17117415240215397
         },
         {
           "candidate": "STACY ZINN",
+          "party": "R",
           "votes": 13478,
           "isWinner": false,
           "votePercent": 0.13515437762602409
         },
         {
           "candidate": "ELSIE ARNTZEN",
+          "party": "R",
           "votes": 9394,
           "isWinner": false,
           "votePercent": 0.09420093659436639
         },
         {
           "candidate": "KEN BOGNER",
+          "party": "R",
           "votes": 8969,
           "isWinner": false,
           "votePercent": 0.08993913139396127
         },
         {
           "candidate": "RIC HOLDEN",
+          "party": "R",
           "votes": 7063,
           "isWinner": false,
           "votePercent": 0.07082618854226207
         },
         {
           "candidate": "JOEL G. KRAUTTER",
+          "party": "R",
           "votes": 3409,
           "isWinner": false,
           "votePercent": 0.03418469159572014
         },
         {
           "candidate": "KYLE AUSTIN",
+          "party": "R",
           "votes": 3138,
           "isWinner": false,
           "votePercent": 0.031467164044402994
         },
         {
           "candidate": "ED WALKER",
+          "party": "R",
           "votes": 1152,
           "isWinner": false,
           "votePercent": 0.011551999037333413
@@ -808,18 +817,21 @@
       "resultsTotal": [
         {
           "candidate": "TIM SHEEHY",
+          "party": "R",
           "votes": 138202,
           "isWinner": true,
           "votePercent": 0.7363115693012601
         },
         {
           "candidate": "BRAD JOHNSON",
+          "party": "R",
           "votes": 36460,
           "isWinner": false,
           "votePercent": 0.1942513119688857
         },
         {
           "candidate": "CHARLES WALKINGCHILD SR",
+          "party": "R",
           "votes": 13033,
           "isWinner": false,
           "votePercent": 0.06943711872985428
@@ -981,12 +993,14 @@
       "resultsTotal": [
         {
           "candidate": "GREG GIANFORTE",
+          "party": "R",
           "votes": 143137,
           "isWinner": true,
           "votePercent": 0.7527504312339602
         },
         {
           "candidate": "TANNER SMITH",
+          "party": "R",
           "votes": 47015,
           "isWinner": false,
           "votePercent": 0.2472495687660398
@@ -1089,18 +1103,21 @@
       "resultsTotal": [
         {
           "candidate": "JEFF WELBORN",
+          "party": "R",
           "votes": 13291,
           "isWinner": true,
           "votePercent": 0.39459074310483033
         },
         {
           "candidate": "SUZZANN NORDWICK",
+          "party": "R",
           "votes": 13047,
           "isWinner": false,
           "votePercent": 0.387346732773209
         },
         {
           "candidate": "ROB ELWOOD",
+          "party": "R",
           "votes": 7345,
           "isWinner": false,
           "votePercent": 0.21806252412196064
@@ -1224,12 +1241,14 @@
       "resultsTotal": [
         {
           "candidate": "SUSIE HEDALEN",
+          "party": "R",
           "votes": 98539,
           "isWinner": true,
           "votePercent": 0.6234357008186868
         },
         {
           "candidate": "SHARYL ALLEN",
+          "party": "R",
           "votes": 59519,
           "isWinner": false,
           "votePercent": 0.3765642991813132
@@ -1304,6 +1323,7 @@
       "resultsTotal": [
         {
           "candidate": "SUSAN BILO",
+          "party": "D",
           "votes": 16656,
           "isWinner": true,
           "votePercent": 1
@@ -1625,24 +1645,28 @@
       "resultsTotal": [
         {
           "candidate": "JOHN B DRISCOLL",
+          "party": "D",
           "votes": 13317,
           "isWinner": true,
           "votePercent": 0.3331165420116567
         },
         {
           "candidate": "STEVE HELD",
+          "party": "D",
           "votes": 10583,
           "isWinner": false,
           "votePercent": 0.2647272181504365
         },
         {
           "candidate": "MING CABRERA",
+          "party": "D",
           "votes": 8341,
           "isWinner": false,
           "votePercent": 0.2086449708582435
         },
         {
           "candidate": "KEVIN HAMM",
+          "party": "D",
           "votes": 7736,
           "isWinner": false,
           "votePercent": 0.1935112689796633
@@ -1936,54 +1960,63 @@
       "resultsTotal": [
         {
           "candidate": "TROY DOWNING",
+          "party": "R",
           "votes": 36050,
           "isWinner": true,
           "votePercent": 0.36150135876377565
         },
         {
           "candidate": "DENNY REHBERG",
+          "party": "R",
           "votes": 17070,
           "isWinner": false,
           "votePercent": 0.17117415240215397
         },
         {
           "candidate": "STACY ZINN",
+          "party": "R",
           "votes": 13478,
           "isWinner": false,
           "votePercent": 0.13515437762602409
         },
         {
           "candidate": "ELSIE ARNTZEN",
+          "party": "R",
           "votes": 9394,
           "isWinner": false,
           "votePercent": 0.09420093659436639
         },
         {
           "candidate": "KEN BOGNER",
+          "party": "R",
           "votes": 8969,
           "isWinner": false,
           "votePercent": 0.08993913139396127
         },
         {
           "candidate": "RIC HOLDEN",
+          "party": "R",
           "votes": 7063,
           "isWinner": false,
           "votePercent": 0.07082618854226207
         },
         {
           "candidate": "JOEL G. KRAUTTER",
+          "party": "R",
           "votes": 3409,
           "isWinner": false,
           "votePercent": 0.03418469159572014
         },
         {
           "candidate": "KYLE AUSTIN",
+          "party": "R",
           "votes": 3138,
           "isWinner": false,
           "votePercent": 0.031467164044402994
         },
         {
           "candidate": "ED WALKER",
+          "party": "R",
           "votes": 1152,
           "isWinner": false,
           "votePercent": 0.011551999037333413
@@ -2238,12 +2271,14 @@
       "resultsTotal": [
         {
           "candidate": "SUSIE HEDALEN",
+          "party": "R",
           "votes": 98539,
           "isWinner": true,
           "votePercent": 0.6234357008186868
         },
         {
           "candidate": "SHARYL ALLEN",
+          "party": "R",
           "votes": 59519,
           "isWinner": false,
           "votePercent": 0.3765642991813132
@@ -2314,6 +2349,7 @@
       "resultsTotal": [
         {
           "candidate": "SHANNON OBRIEN",
+          "party": "D",
           "votes": 93575,
           "isWinner": true,
           "votePercent": 1
@@ -2654,12 +2690,14 @@
       "resultsTotal": [
         {
           "candidate": "RYAN K ZINKE",
+          "party": "R",
           "votes": 65247,
           "isWinner": true,
           "votePercent": 0.7380381422075425
         },
         {
           "candidate": "MARY TODD",
+          "party": "R",
           "votes": 23159,
           "isWinner": false,
           "votePercent": 0.2619618577924575
@@ -2863,12 +2901,14 @@
       "resultsTotal": [
         {
           "candidate": "RYAN BUSSE",
+          "party": "D",
           "votes": 70260,
           "isWinner": true,
           "votePercent": 0.7101632384899176
         },
         {
           "candidate": "JIM HUNT",
+          "party": "D",
           "votes": 28675,
           "isWinner": false,
           "votePercent": 0.28983676151008236
@@ -3103,12 +3143,14 @@
       "resultsTotal": [
         {
           "candidate": "MICHAEL DOWNEY",
+          "party": "G",
           "votes": 665,
           "isWinner": true,
           "votePercent": 0.6203358208955224
         },
         {
           "candidate": "ROBERT BARB",
+          "party": "G",
           "votes": 407,
           "isWinner": false,
           "votePercent": 0.37966417910447764
@@ -3211,18 +3253,21 @@
       "resultsTotal": [
         {
           "candidate": "JEFF WELBORN",
+          "party": "R",
           "votes": 13291,
           "isWinner": true,
           "votePercent": 0.39459074310483033
         },
         {
           "candidate": "SUZZANN NORDWICK",
+          "party": "R",
           "votes": 13047,
           "isWinner": false,
           "votePercent": 0.387346732773209
         },
         {
           "candidate": "ROB ELWOOD",
+          "party": "R",
           "votes": 7345,
           "isWinner": false,
           "votePercent": 0.21806252412196064
@@ -3516,54 +3561,63 @@
       "resultsTotal": [
         {
           "candidate": "TROY DOWNING",
+          "party": "R",
           "votes": 36050,
           "isWinner": true,
           "votePercent": 0.36150135876377565
         },
         {
           "candidate": "DENNY REHBERG",
+          "party": "R",
           "votes": 17070,
           "isWinner": false,
           "votePercent": 0.17117415240215397
         },
         {
           "candidate": "STACY ZINN",
+          "party": "R",
           "votes": 13478,
           "isWinner": false,
           "votePercent": 0.13515437762602409
         },
         {
           "candidate": "ELSIE ARNTZEN",
+          "party": "R",
           "votes": 9394,
           "isWinner": false,
           "votePercent": 0.09420093659436639
         },
         {
           "candidate": "KEN BOGNER",
+          "party": "R",
           "votes": 8969,
           "isWinner": false,
           "votePercent": 0.08993913139396127
         },
         {
           "candidate": "RIC HOLDEN",
+          "party": "R",
           "votes": 7063,
           "isWinner": false,
           "votePercent": 0.07082618854226207
         },
         {
           "candidate": "JOEL G. KRAUTTER",
+          "party": "R",
           "votes": 3409,
           "isWinner": false,
           "votePercent": 0.03418469159572014
         },
         {
           "candidate": "KYLE AUSTIN",
+          "party": "R",
           "votes": 3138,
           "isWinner": false,
           "votePercent": 0.031467164044402994
         },
         {
           "candidate": "ED WALKER",
+          "party": "R",
           "votes": 1152,
           "isWinner": false,
           "votePercent": 0.011551999037333413
@@ -3819,6 +3873,7 @@
       "resultsTotal": [
         {
           "candidate": "MONICA TRANEL",
+          "party": "D",
           "votes": 59192,
           "isWinner": true,
           "votePercent": 1
@@ -4158,24 +4213,28 @@
       "resultsTotal": [
         {
           "candidate": "JOHN B DRISCOLL",
+          "party": "D",
           "votes": 13317,
           "isWinner": true,
           "votePercent": 0.3331165420116567
         },
         {
           "candidate": "STEVE HELD",
+          "party": "D",
           "votes": 10583,
           "isWinner": false,
           "votePercent": 0.2647272181504365
         },
         {
           "candidate": "MING CABRERA",
+          "party": "D",
           "votes": 8341,
           "isWinner": false,
           "votePercent": 0.2086449708582435
         },
         {
           "candidate": "KEVIN HAMM",
+          "party": "D",
           "votes": 7736,
           "isWinner": false,
           "votePercent": 0.1935112689796633
@@ -4331,12 +4390,14 @@
       "resultsTotal": [
         {
           "candidate": "JON TESTER",
+          "party": "D",
           "votes": 103347,
           "isWinner": true,
           "votePercent": 0.9698752780202146
         },
         {
           "candidate": "MICHAEL HUMMERT",
+          "party": "D",
           "votes": 3210,
           "isWinner": false,
           "votePercent": 0.030124721979785468
@@ -4492,12 +4553,14 @@
       "resultsTotal": [
         {
           "candidate": "MICHAEL DOWNEY",
+          "party": "G",
           "votes": 665,
           "isWinner": true,
           "votePercent": 0.6203358208955224
         },
         {
           "candidate": "ROBERT BARB",
+          "party": "G",
           "votes": 407,
           "isWinner": false,
           "votePercent": 0.37966417910447764
@@ -4704,12 +4767,14 @@
       "resultsTotal": [
         {
           "candidate": "RYAN K ZINKE",
+          "party": "R",
           "votes": 65247,
           "isWinner": true,
           "votePercent": 0.7380381422075425
         },
         {
           "candidate": "MARY TODD",
+          "party": "R",
           "votes": 23159,
           "isWinner": false,
           "votePercent": 0.2619618577924575
@@ -4776,12 +4841,14 @@
       "resultsTotal": [
         {
           "candidate": "AUSTIN KNUDSEN",
+          "party": "R",
           "votes": 146740,
           "isWinner": true,
           "votePercent": 0.8226858107161078
         },
         {
           "candidate": "LOGAN OLSON",
+          "party": "R",
           "votes": 31627,
           "isWinner": false,
           "votePercent": 0.1773141892838922
@@ -4862,6 +4929,7 @@
       "resultsTotal": [
         {
           "candidate": "LEONARD \"LENNY\" WILLIAMS",
+          "party": "D",
           "votes": 21495,
           "isWinner": true,
           "votePercent": 1
@@ -5155,54 +5223,63 @@
       "resultsTotal": [
         {
           "candidate": "TROY DOWNING",
+          "party": "R",
           "votes": 36050,
           "isWinner": true,
           "votePercent": 0.36150135876377565
         },
         {
           "candidate": "DENNY REHBERG",
+          "party": "R",
           "votes": 17070,
           "isWinner": false,
           "votePercent": 0.17117415240215397
         },
         {
           "candidate": "STACY ZINN",
+          "party": "R",
           "votes": 13478,
           "isWinner": false,
           "votePercent": 0.13515437762602409
         },
         {
           "candidate": "ELSIE ARNTZEN",
+          "party": "R",
           "votes": 9394,
           "isWinner": false,
           "votePercent": 0.09420093659436639
         },
         {
           "candidate": "KEN BOGNER",
+          "party": "R",
           "votes": 8969,
           "isWinner": false,
           "votePercent": 0.08993913139396127
         },
         {
           "candidate": "RIC HOLDEN",
+          "party": "R",
           "votes": 7063,
           "isWinner": false,
           "votePercent": 0.07082618854226207
         },
         {
           "candidate": "JOEL G. KRAUTTER",
+          "party": "R",
           "votes": 3409,
           "isWinner": false,
           "votePercent": 0.03418469159572014
         },
         {
           "candidate": "KYLE AUSTIN",
+          "party": "R",
           "votes": 3138,
           "isWinner": false,
           "votePercent": 0.031467164044402994
         },
         {
           "candidate": "ED WALKER",
+          "party": "R",
           "votes": 1152,
           "isWinner": false,
           "votePercent": 0.011551999037333413
@@ -5299,12 +5376,14 @@
       "resultsTotal": [
         {
           "candidate": "BRAD MOLNAR",
+          "party": "R",
           "votes": 16301,
           "isWinner": true,
           "votePercent": 0.5197857211185868
         },
         {
           "candidate": "KIRK BUSHMAN",
+          "party": "R",
           "votes": 15060,
           "isWinner": false,
           "votePercent": 0.4802142788814132
@@ -5644,24 +5723,28 @@
       "resultsTotal": [
         {
           "candidate": "JOHN B DRISCOLL",
+          "party": "D",
           "votes": 13317,
           "isWinner": true,
           "votePercent": 0.3331165420116567
         },
         {
           "candidate": "STEVE HELD",
+          "party": "D",
           "votes": 10583,
           "isWinner": false,
           "votePercent": 0.2647272181504365
         },
         {
           "candidate": "MING CABRERA",
+          "party": "D",
           "votes": 8341,
           "isWinner": false,
           "votePercent": 0.2086449708582435
         },
         {
           "candidate": "KEVIN HAMM",
+          "party": "D",
           "votes": 7736,
           "isWinner": false,
           "votePercent": 0.1935112689796633
@@ -5930,54 +6013,63 @@
       "resultsTotal": [
         {
           "candidate": "TROY DOWNING",
+          "party": "R",
           "votes": 36050,
           "isWinner": true,
           "votePercent": 0.36150135876377565
         },
         {
           "candidate": "DENNY REHBERG",
+          "party": "R",
           "votes": 17070,
           "isWinner": false,
           "votePercent": 0.17117415240215397
         },
         {
           "candidate": "STACY ZINN",
+          "party": "R",
           "votes": 13478,
           "isWinner": false,
           "votePercent": 0.13515437762602409
         },
         {
           "candidate": "ELSIE ARNTZEN",
+          "party": "R",
           "votes": 9394,
           "isWinner": false,
           "votePercent": 0.09420093659436639
         },
         {
           "candidate": "KEN BOGNER",
+          "party": "R",
           "votes": 8969,
           "isWinner": false,
           "votePercent": 0.08993913139396127
         },
         {
           "candidate": "RIC HOLDEN",
+          "party": "R",
           "votes": 7063,
           "isWinner": false,
           "votePercent": 0.07082618854226207
         },
         {
           "candidate": "JOEL G. KRAUTTER",
+          "party": "R",
           "votes": 3409,
           "isWinner": false,
           "votePercent": 0.03418469159572014
         },
         {
           "candidate": "KYLE AUSTIN",
+          "party": "R",
           "votes": 3138,
           "isWinner": false,
           "votePercent": 0.031467164044402994
         },
         {
           "candidate": "ED WALKER",
+          "party": "R",
           "votes": 1152,
           "isWinner": false,
           "votePercent": 0.011551999037333413
@@ -6065,18 +6157,21 @@
       "resultsTotal": [
         {
           "candidate": "KATHERINE BIDEGARAY",
+          "party": "NP",
           "votes": 126041,
           "isWinner": true,
           "votePercent": 0.4869493660127184
         },
         {
           "candidate": "DAN WILSON",
+          "party": "NP",
           "votes": 89314,
           "isWinner": false,
           "votePercent": 0.3450575263292098
         },
         {
           "candidate": "JERRY ONEIL",
+          "party": "NP",
           "votes": 43483,
           "isWinner": false,
           "votePercent": 0.16799310765807185
@@ -6265,12 +6360,14 @@
       "resultsTotal": [
         {
           "candidate": "ERIN FARRIS-OLSEN",
+          "party": "D",
           "votes": 74254,
           "isWinner": true,
           "votePercent": 0.8274624736730668
         },
         {
           "candidate": "JORDAN OPHUS",
+          "party": "D",
           "votes": 15483,
           "isWinner": false,
           "votePercent": 0.17253752632693314
@@ -6628,12 +6725,14 @@
       "resultsTotal": [
         {
           "candidate": "JON TESTER",
+          "party": "D",
           "votes": 103347,
           "isWinner": true,
           "votePercent": 0.9698752780202146
         },
         {
           "candidate": "MICHAEL HUMMERT",
+          "party": "D",
           "votes": 3210,
           "isWinner": false,
           "votePercent": 0.030124721979785468
@@ -6700,6 +6799,7 @@
       "resultsTotal": [
         {
           "candidate": "JOHN REPKE",
+          "party": "D",
           "votes": 91604,
           "isWinner": true,
           "votePercent": 1
@@ -6851,12 +6951,14 @@
       "resultsTotal": [
         {
           "candidate": "JAMES BROWN",
+          "party": "R",
           "votes": 113284,
           "isWinner": true,
           "votePercent": 0.6958262952612021
         },
         {
           "candidate": "JOHN JAY WILLOUGHBY",
+          "party": "R",
           "votes": 49521,
           "isWinner": false,
           "votePercent": 0.30417370473879796
@@ -7196,24 +7298,28 @@
       "resultsTotal": [
         {
           "candidate": "JOHN B DRISCOLL",
+          "party": "D",
           "votes": 13317,
           "isWinner": true,
           "votePercent": 0.3331165420116567
         },
         {
           "candidate": "STEVE HELD",
+          "party": "D",
           "votes": 10583,
           "isWinner": false,
           "votePercent": 0.2647272181504365
         },
         {
           "candidate": "MING CABRERA",
+          "party": "D",
           "votes": 8341,
           "isWinner": false,
           "votePercent": 0.2086449708582435
         },
         {
           "candidate": "KEVIN HAMM",
+          "party": "D",
           "votes": 7736,
           "isWinner": false,
           "votePercent": 0.1935112689796633
@@ -7524,54 +7630,63 @@
       "resultsTotal": [
         {
           "candidate": "TROY DOWNING",
+          "party": "R",
           "votes": 36050,
           "isWinner": true,
           "votePercent": 0.36150135876377565
         },
         {
           "candidate": "DENNY REHBERG",
+          "party": "R",
           "votes": 17070,
           "isWinner": false,
           "votePercent": 0.17117415240215397
         },
         {
           "candidate": "STACY ZINN",
+          "party": "R",
           "votes": 13478,
           "isWinner": false,
           "votePercent": 0.13515437762602409
         },
         {
           "candidate": "ELSIE ARNTZEN",
+          "party": "R",
           "votes": 9394,
           "isWinner": false,
           "votePercent": 0.09420093659436639
         },
         {
           "candidate": "KEN BOGNER",
+          "party": "R",
           "votes": 8969,
           "isWinner": false,
           "votePercent": 0.08993913139396127
         },
         {
           "candidate": "RIC HOLDEN",
+          "party": "R",
           "votes": 7063,
           "isWinner": false,
           "votePercent": 0.07082618854226207
         },
         {
           "candidate": "JOEL G. KRAUTTER",
+          "party": "R",
           "votes": 3409,
           "isWinner": false,
           "votePercent": 0.03418469159572014
         },
         {
           "candidate": "KYLE AUSTIN",
+          "party": "R",
           "votes": 3138,
           "isWinner": false,
           "votePercent": 0.031467164044402994
         },
         {
           "candidate": "ED WALKER",
+          "party": "R",
           "votes": 1152,
           "isWinner": false,
           "votePercent": 0.011551999037333413
@@ -7681,12 +7796,14 @@
       "resultsTotal": [
         {
           "candidate": "RYAN BUSSE",
+          "party": "D",
           "votes": 70260,
           "isWinner": true,
           "votePercent": 0.7101632384899176
         },
         {
           "candidate": "JIM HUNT",
+          "party": "D",
           "votes": 28675,
           "isWinner": false,
           "votePercent": 0.28983676151008236
@@ -7776,6 +7893,7 @@
       "resultsTotal": [
         {
           "candidate": "JESSE JAMES MULLEN",
+          "party": "D",
           "votes": 92154,
           "isWinner": true,
           "votePercent": 1
@@ -7842,18 +7960,21 @@
       "resultsTotal": [
         {
           "candidate": "KATHERINE BIDEGARAY",
+          "party": "NP",
           "votes": 126041,
           "isWinner": true,
           "votePercent": 0.4869493660127184
         },
         {
           "candidate": "DAN WILSON",
+          "party": "NP",
           "votes": 89314,
           "isWinner": false,
           "votePercent": 0.3450575263292098
         },
         {
           "candidate": "JERRY ONEIL",
+          "party": "NP",
           "votes": 43483,
           "isWinner": false,
           "votePercent": 0.16799310765807185
@@ -7970,18 +8091,21 @@
       "resultsTotal": [
         {
           "candidate": "CORY SWANSON",
+          "party": "NP",
           "votes": 120041,
           "isWinner": true,
           "votePercent": 0.46206224932061557
         },
         {
           "candidate": "JEREMIAH LYNCH",
+          "party": "NP",
           "votes": 97732,
           "isWinner": false,
           "votePercent": 0.3761903662132305
         },
         {
           "candidate": "DOUG  MARSHALL",
+          "party": "NP",
           "votes": 42021,
           "isWinner": false,
           "votePercent": 0.16174738446615394
@@ -8067,6 +8191,7 @@
       "resultsTotal": [
         {
           "candidate": "JENNIFER  FIELDER",
+          "party": "R",
           "votes": 30872,
           "isWinner": true,
           "votePercent": 1
@@ -8169,18 +8294,21 @@
       "resultsTotal": [
         {
           "candidate": "JEFF WELBORN",
+          "party": "R",
           "votes": 13291,
           "isWinner": true,
           "votePercent": 0.39459074310483033
         },
         {
           "candidate": "SUZZANN NORDWICK",
+          "party": "R",
           "votes": 13047,
           "isWinner": false,
           "votePercent": 0.387346732773209
         },
         {
           "candidate": "ROB ELWOOD",
+          "party": "R",
           "votes": 7345,
           "isWinner": false,
           "votePercent": 0.21806252412196064
@@ -8268,12 +8396,14 @@
       "resultsTotal": [
         {
           "candidate": "BOWEN GREENWOOD",
+          "party": "R",
           "votes": 82457,
           "isWinner": true,
           "votePercent": 0.5270973433225089
         },
         {
           "candidate": "JASON W ELLSWORTH",
+          "party": "R",
           "votes": 73979,
           "isWinner": false,
           "votePercent": 0.4729026566774911
@@ -8392,12 +8522,14 @@
       "resultsTotal": [
         {
           "candidate": "JAMES BROWN",
+          "party": "R",
           "votes": 113284,
           "isWinner": true,
           "votePercent": 0.6958262952612021
         },
         {
           "candidate": "JOHN JAY WILLOUGHBY",
+          "party": "R",
           "votes": 49521,
           "isWinner": false,
           "votePercent": 0.30417370473879796
@@ -8769,12 +8901,14 @@
       "resultsTotal": [
         {
           "candidate": "GREG GIANFORTE",
+          "party": "R",
           "votes": 143137,
           "isWinner": true,
           "votePercent": 0.7527504312339602
         },
         {
           "candidate": "TANNER SMITH",
+          "party": "R",
           "votes": 47015,
           "isWinner": false,
           "votePercent": 0.2472495687660398
@@ -8924,12 +9058,14 @@
       "resultsTotal": [
         {
           "candidate": "DENNIS HAYES",
+          "party": "L",
           "votes": 379,
           "isWinner": true,
           "votePercent": 0.6523235800344234
         },
         {
           "candidate": "ERNIE NOBLE",
+          "party": "L",
           "votes": 202,
           "isWinner": false,
           "votePercent": 0.3476764199655766
@@ -9017,12 +9153,14 @@
       "resultsTotal": [
         {
           "candidate": "ERIN FARRIS-OLSEN",
+          "party": "D",
           "votes": 74254,
           "isWinner": true,
           "votePercent": 0.8274624736730668
         },
         {
           "candidate": "JORDAN OPHUS",
+          "party": "D",
           "votes": 15483,
           "isWinner": false,
           "votePercent": 0.17253752632693314
@@ -9378,54 +9516,63 @@
       "resultsTotal": [
         {
           "candidate": "TROY DOWNING",
+          "party": "R",
           "votes": 36050,
           "isWinner": true,
           "votePercent": 0.36150135876377565
         },
         {
           "candidate": "DENNY REHBERG",
+          "party": "R",
           "votes": 17070,
           "isWinner": false,
           "votePercent": 0.17117415240215397
         },
         {
           "candidate": "STACY ZINN",
+          "party": "R",
           "votes": 13478,
           "isWinner": false,
           "votePercent": 0.13515437762602409
         },
         {
           "candidate": "ELSIE ARNTZEN",
+          "party": "R",
           "votes": 9394,
           "isWinner": false,
           "votePercent": 0.09420093659436639
         },
         {
           "candidate": "KEN BOGNER",
+          "party": "R",
           "votes": 8969,
           "isWinner": false,
           "votePercent": 0.08993913139396127
         },
         {
           "candidate": "RIC HOLDEN",
+          "party": "R",
           "votes": 7063,
           "isWinner": false,
           "votePercent": 0.07082618854226207
         },
         {
           "candidate": "JOEL G. KRAUTTER",
+          "party": "R",
           "votes": 3409,
           "isWinner": false,
           "votePercent": 0.03418469159572014
         },
         {
           "candidate": "KYLE AUSTIN",
+          "party": "R",
           "votes": 3138,
           "isWinner": false,
           "votePercent": 0.031467164044402994
         },
         {
           "candidate": "ED WALKER",
+          "party": "R",
           "votes": 1152,
           "isWinner": false,
           "votePercent": 0.011551999037333413
@@ -9665,54 +9812,63 @@
       "resultsTotal": [
         {
           "candidate": "TROY DOWNING",
+          "party": "R",
           "votes": 36050,
           "isWinner": true,
           "votePercent": 0.36150135876377565
         },
         {
           "candidate": "DENNY REHBERG",
+          "party": "R",
           "votes": 17070,
           "isWinner": false,
           "votePercent": 0.17117415240215397
         },
         {
           "candidate": "STACY ZINN",
+          "party": "R",
           "votes": 13478,
           "isWinner": false,
           "votePercent": 0.13515437762602409
         },
         {
           "candidate": "ELSIE ARNTZEN",
+          "party": "R",
           "votes": 9394,
           "isWinner": false,
           "votePercent": 0.09420093659436639
         },
         {
           "candidate": "KEN BOGNER",
+          "party": "R",
           "votes": 8969,
           "isWinner": false,
           "votePercent": 0.08993913139396127
         },
         {
           "candidate": "RIC HOLDEN",
+          "party": "R",
           "votes": 7063,
           "isWinner": false,
           "votePercent": 0.07082618854226207
         },
         {
           "candidate": "JOEL G. KRAUTTER",
+          "party": "R",
           "votes": 3409,
           "isWinner": false,
           "votePercent": 0.03418469159572014
         },
         {
           "candidate": "KYLE AUSTIN",
+          "party": "R",
           "votes": 3138,
           "isWinner": false,
           "votePercent": 0.031467164044402994
         },
         {
           "candidate": "ED WALKER",
+          "party": "R",
           "votes": 1152,
           "isWinner": false,
           "votePercent": 0.011551999037333413
@@ -9798,18 +9954,21 @@
       "resultsTotal": [
         {
           "candidate": "CORY SWANSON",
+          "party": "NP",
           "votes": 120041,
           "isWinner": true,
           "votePercent": 0.46206224932061557
         },
         {
           "candidate": "JEREMIAH LYNCH",
+          "party": "NP",
           "votes": 97732,
           "isWinner": false,
           "votePercent": 0.3761903662132305
         },
         {
           "candidate": "DOUG  MARSHALL",
+          "party": "NP",
           "votes": 42021,
           "isWinner": false,
           "votePercent": 0.16174738446615394
@@ -10103,54 +10262,63 @@
       "resultsTotal": [
         {
           "candidate": "TROY DOWNING",
+          "party": "R",
           "votes": 36050,
           "isWinner": true,
           "votePercent": 0.36150135876377565
         },
         {
           "candidate": "DENNY REHBERG",
+          "party": "R",
           "votes": 17070,
           "isWinner": false,
           "votePercent": 0.17117415240215397
         },
         {
           "candidate": "STACY ZINN",
+          "party": "R",
           "votes": 13478,
           "isWinner": false,
           "votePercent": 0.13515437762602409
         },
         {
           "candidate": "ELSIE ARNTZEN",
+          "party": "R",
           "votes": 9394,
           "isWinner": false,
           "votePercent": 0.09420093659436639
         },
         {
           "candidate": "KEN BOGNER",
+          "party": "R",
           "votes": 8969,
           "isWinner": false,
           "votePercent": 0.08993913139396127
         },
         {
           "candidate": "RIC HOLDEN",
+          "party": "R",
           "votes": 7063,
           "isWinner": false,
           "votePercent": 0.07082618854226207
         },
         {
           "candidate": "JOEL G. KRAUTTER",
+          "party": "R",
           "votes": 3409,
           "isWinner": false,
           "votePercent": 0.03418469159572014
         },
         {
           "candidate": "KYLE AUSTIN",
+          "party": "R",
           "votes": 3138,
           "isWinner": false,
           "votePercent": 0.031467164044402994
         },
         {
           "candidate": "ED WALKER",
+          "party": "R",
           "votes": 1152,
           "isWinner": false,
           "votePercent": 0.011551999037333413
@@ -10329,12 +10497,14 @@
       "resultsTotal": [
         {
           "candidate": "DENNIS HAYES",
+          "party": "L",
           "votes": 379,
           "isWinner": true,
           "votePercent": 0.6523235800344234
         },
         {
           "candidate": "ERNIE NOBLE",
+          "party": "L",
           "votes": 202,
           "isWinner": false,
           "votePercent": 0.3476764199655766
@@ -10422,18 +10592,21 @@
       "resultsTotal": [
         {
           "candidate": "KATHERINE BIDEGARAY",
+          "party": "NP",
           "votes": 126041,
           "isWinner": true,
           "votePercent": 0.4869493660127184
         },
         {
           "candidate": "DAN WILSON",
+          "party": "NP",
           "votes": 89314,
           "isWinner": false,
           "votePercent": 0.3450575263292098
         },
         {
           "candidate": "JERRY ONEIL",
+          "party": "NP",
           "votes": 43483,
           "isWinner": false,
           "votePercent": 0.16799310765807185
@@ -10556,18 +10729,21 @@
       "resultsTotal": [
         {
           "candidate": "CORY SWANSON",
+          "party": "NP",
           "votes": 120041,
           "isWinner": true,
           "votePercent": 0.46206224932061557
         },
         {
           "candidate": "JEREMIAH LYNCH",
+          "party": "NP",
           "votes": 97732,
           "isWinner": false,
           "votePercent": 0.3761903662132305
         },
         {
           "candidate": "DOUG  MARSHALL",
+          "party": "NP",
           "votes": 42021,
           "isWinner": false,
           "votePercent": 0.16174738446615394
@@ -10737,6 +10913,7 @@
       "resultsTotal": [
         {
           "candidate": "CHRISTI JACOBSEN",
+          "party": "R",
           "votes": 163359,
           "isWinner": true,
           "votePercent": 1
@@ -10892,18 +11069,21 @@
       "resultsTotal": [
         {
           "candidate": "TIM SHEEHY",
+          "party": "R",
           "votes": 138202,
           "isWinner": true,
           "votePercent": 0.7363115693012601
         },
         {
           "candidate": "BRAD JOHNSON",
+          "party": "R",
           "votes": 36460,
           "isWinner": false,
           "votePercent": 0.1942513119688857
         },
         {
           "candidate": "CHARLES WALKINGCHILD SR",
+          "party": "R",
           "votes": 13033,
           "isWinner": false,
           "votePercent": 0.06943711872985428
@@ -11000,12 +11180,14 @@
       "resultsTotal": [
         {
           "candidate": "BRAD MOLNAR",
+          "party": "R",
           "votes": 16301,
           "isWinner": true,
           "votePercent": 0.5197857211185868
         },
         {
           "candidate": "KIRK BUSHMAN",
+          "party": "R",
           "votes": 15060,
           "isWinner": false,
           "votePercent": 0.4802142788814132
@@ -11190,18 +11372,21 @@
       "resultsTotal": [
         {
           "candidate": "TIM SHEEHY",
+          "party": "R",
           "votes": 138202,
           "isWinner": true,
           "votePercent": 0.7363115693012601
         },
         {
           "candidate": "BRAD JOHNSON",
+          "party": "R",
           "votes": 36460,
           "isWinner": false,
           "votePercent": 0.1942513119688857
         },
         {
           "candidate": "CHARLES WALKINGCHILD SR",
+          "party": "R",
           "votes": 13033,
           "isWinner": false,
           "votePercent": 0.06943711872985428
@@ -11289,12 +11474,14 @@
       "resultsTotal": [
         {
           "candidate": "BOWEN GREENWOOD",
+          "party": "R",
           "votes": 82457,
           "isWinner": true,
           "votePercent": 0.5270973433225089
         },
         {
           "candidate": "JASON W ELLSWORTH",
+          "party": "R",
           "votes": 73979,
           "isWinner": false,
           "votePercent": 0.4729026566774911
@@ -11398,6 +11585,7 @@
       "resultsTotal": [
         {
           "candidate": "BEN ALKE",
+          "party": "D",
           "votes": 92599,
           "isWinner": true,
           "votePercent": 1
@@ -11695,12 +11883,14 @@
       "resultsTotal": [
         {
           "candidate": "AUSTIN KNUDSEN",
+          "party": "R",
           "votes": 146740,
           "isWinner": true,
           "votePercent": 0.8226858107161078
         },
         {
           "candidate": "LOGAN OLSON",
+          "party": "R",
           "votes": 31627,
           "isWinner": false,
           "votePercent": 0.1773141892838922
