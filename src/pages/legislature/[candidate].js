@@ -1,9 +1,9 @@
 
 import { css } from '@emotion/react'
-import Link from 'next/link';
+import Link from 'next/link'
 import Markdown from 'react-markdown'
 
-import Layout from '../../design/Layout';
+import Layout from '../../design/Layout'
 import LowdownCTA from '../../design/LowdownCTA'
 
 import LegislativeCandidatePageSummary from '../../components/LegislativeCandidatePageSummary'
@@ -11,9 +11,10 @@ import CandidateWebLinks from '../../components/CandidateWebLinks'
 import CandidatePageOpponents from '../../components/CandidatePageOpponents'
 import CandidateQuestionnaire from '../../components/CandidateQuestionnaire'
 import LinksList from '../../components/LinksList'
+import RaceResults from '@/components/RaceResults'
 
 import text from '../../data/text'
-import { getAllCandidateIds, getCandidateData } from '../../lib/legislative-candidates';
+import { getAllCandidateIds, getCandidateData } from '../../lib/legislative-candidates'
 import { getHowToVoteText } from '../../lib/overview'
 
 const { questionnaireLegislatureLedein, overviewAboutThisProject } = text
@@ -69,7 +70,8 @@ export default function CandidatePage({ pageData, votingFAQ }) {
         questionnaire,
         coverage,
         raceDisplayName,
-        cap_tracker_2023_link
+        cap_tracker_2023_link,
+        primaryResults
     } = pageData
     const pageDescription = `${displayName} (${party}) is running as a candidate for ${raceDisplayName} in Montana's 2024 election. See biographic details, district boundaries and information on how to vote.`
     return (
@@ -88,6 +90,7 @@ export default function CandidatePage({ pageData, votingFAQ }) {
                 <Link href="#issues">On the issues</Link>
                 <Link href="#coverage">MTFP coverage</Link>
                 {cap_tracker_2023_link && <Link href={cap_tracker_2023_link}> Legislative record via MTFP Capitol Tracker</Link>}
+                <Link href="#results">Election results</Link>
                 <Link href="#voting-faq">Voting in Montana</Link>
                 <Link href="#about">About this project</Link>
             </div>
@@ -136,6 +139,19 @@ export default function CandidatePage({ pageData, votingFAQ }) {
             <section id="coverage">
                 <h2>MTFP COVERAGE</h2>
                 <LinksList articles={coverage} />
+            </section>
+
+            <section>
+                <a className="link-anchor" id="results"></a>
+                <h2>Election outcomes</h2>
+                {
+                    (party !== 'I') && primaryResults.resultsTotal && (primaryResults.resultsTotal.length > 0) ? <RaceResults
+                        results={primaryResults}
+                        primaryParty={party} // null for general elex results
+                        title={`June 4 primary`}
+                    />
+                        : <p>No party primary was conducted.</p>
+                }
             </section>
 
             <section>

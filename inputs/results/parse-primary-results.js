@@ -29,6 +29,12 @@ const STATEWIDE_RACES_TO_INCLUDE = {
     'SUPREME COURT JUSTICE #3': 'supco-3',
 }
 
+const NAME_SUBS = {
+    // necessary to merge with other data
+    "SIDNEY CHIP FITZPATRICK": "SIDNEY 'CHIP' FITZPATRICK"
+}
+const cleanName = name => NAME_SUBS[name] || name.trim()
+
 const statewideFile = reader.readFile(PATH_STATEWIDE)
 const statewide = statewideFile.SheetNames.map(sheet => getSheetData(statewideFile, sheet))
     .filter(d => Object.keys(STATEWIDE_RACES_TO_INCLUDE).includes(d.race))
@@ -52,9 +58,6 @@ writeJson('./inputs/results/cleaned/2024-primary-legislative.json', legislative)
 function getSheetData(file, sheetName) {
     const raw = reader.utils.sheet_to_json(file.Sheets[sheetName])
 
-    const meta = raw.map(d => d['2024 Unofficial Primary Election Results'])
-    // console.log(raw)
-
     const race = raw[3]['2024 Unofficial Primary Election Results'].replace('\r\n', ' ')
     const party = sheetName.match(/(REP)|(DEM)|(LIB)|(GRN)|(NON)/).find(d => d !== null)[0].replace('N', 'NP')
     const reportingTime = raw[2]['2024 Unofficial Primary Election Results'].replace('Downloaded at ', '')
@@ -64,8 +67,8 @@ function getSheetData(file, sheetName) {
 
     const resultsTotal = cols.map((col, i) => {
         return {
-            candidate: col,
-            party, // will need to change for general
+            candidate: cleanName(col),
+            party, // will need to change for general script
             votes: totals[i],
         }
     }).sort((a, b) => b.votes - a.votes)

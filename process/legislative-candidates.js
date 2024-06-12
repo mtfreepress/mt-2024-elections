@@ -41,7 +41,6 @@ async function main() {
     const legeQuestions = await getCsv('./inputs/lvw-questionnaire/lwvmt24-races.csv',)
     const coverage = getJson('./inputs/coverage/articles.json')
     const primaryResultListing = getJson('./inputs/results/cleaned/2024-primary-legislative.json')
-    console.log(primaryResultListing)
 
     // cleaning
     candidates.forEach(d => {
@@ -124,7 +123,6 @@ async function main() {
             .filter(article => article.tags.map(urlize).includes(l.slug))
 
         // Primary election results
-        console.log({ l })
         const primaryResults = {
             race: l.raceSlug,
             raceDisplayName: l.displayName,
@@ -132,6 +130,16 @@ async function main() {
             resultsTotal: null, // fallback
             ...primaryResultListing.find(d => d.race === l.raceSlug && d.party === l['Party Preference'][0])
         }
+        // Determine candidate status
+        let candidatePrimaryResult = primaryResultListing.map(d => d.resultsTotal).flat()
+            .find(d => d.candidate === l.Name)
+        if (!candidatePrimaryResult) {
+            // console.log('Missing primary result for', l.Name)
+            // Fallback for Libertarian candidates w/ no primary in 2024
+            candidatePrimaryResult = { isWinner: true }
+        }
+        // Will need to revise for pre-primary workflows
+        const status = candidatePrimaryResult.isWinner ? 'active' : 'lost-primary'
 
         return {
             raceSlug: l.raceSlug,
@@ -140,6 +148,7 @@ async function main() {
             slug: l.slug,
             displayName: l.Name,
             lastName: 'TK_LAST', // TODO - via annotations workflow
+            status,
 
             party: l['Party Preference'][0],
             summaryLine: null, // none for legislative candidates
@@ -165,6 +174,7 @@ async function main() {
     candidateOutput.forEach(c => {
         c.opponents = candidateOutput
             .filter(d => d.raceSlug === c.raceSlug)
+            .filter(d => d.status === 'active')
             .map(d => ({
                 slug: d.slug,
                 displayName: d.displayName,
@@ -182,6 +192,7 @@ async function main() {
                 slug: c.slug,
                 displayName: c.displayName,
                 party: c.party,
+                status: c.status,
                 cap_tracker_2023_link: c.cap_tracker_2023_link, // flags for current lawmker
                 hasResponses: c.questionnaire && c.questionnaire.hasResponses,
                 numMTFParticles: c.coverage.length,

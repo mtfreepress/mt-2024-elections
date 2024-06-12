@@ -57,6 +57,9 @@ const districtStyle = css`
         font-size: 1.1em;
         text-align: center;
     }
+    .candidates {
+        margin-bottom: 1em;
+    }
     .holdover {
         display: inline-block;
         border: 1px solid var(--tan5);
@@ -209,6 +212,9 @@ const District = (props) => {
     }
 
     const holdoverPartyInfo = PARTIES.find(d => d.key === holdover_party)
+    const activeCandidates = candidates.filter(c => c.status === 'active')
+    const inactiveCandidates = candidates.filter(c => c.status !== 'active')
+
 
     return <div css={districtStyle}>
         <h3>{district.replace('HD', 'House District').replace('SD', 'Senate District')}</h3>
@@ -241,9 +247,20 @@ const District = (props) => {
             </div>
         </div>
         }
-        <div>
-            {candidates.map(c => <Candidate key={c.slug} {...c} />)}
+        <div className="candidates">
+            {activeCandidates
+                .map(c => <Candidate key={c.slug} {...c} />)}
         </div>
+
+        {(inactiveCandidates.length > 0) && <details>
+            <summary>Candidates defeated in June 4 primary election</summary>
+            <div>
+                {inactiveCandidates
+                    .map(c => <Candidate key={c.slug} {...c} />)}
+            </div>
+
+        </details>}
+
     </div >
 
 }

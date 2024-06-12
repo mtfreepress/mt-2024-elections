@@ -1657,7 +1657,7 @@
         "votePercent": 0.6877982276755283
       },
       {
-        "candidate": "MILES KNUDSEN  ",
+        "candidate": "MILES KNUDSEN",
         "party": "R",
         "votes": 916,
         "isWinner": false,
@@ -1993,7 +1993,7 @@
     "reportingTime": "6/10/2024 12:53:41 PM",
     "resultsTotal": [
       {
-        "candidate": "SIDNEY CHIP FITZPATRICK",
+        "candidate": "SIDNEY 'CHIP' FITZPATRICK",
         "party": "D",
         "votes": 454,
         "isWinner": true,
