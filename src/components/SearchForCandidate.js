@@ -92,6 +92,7 @@ const candidateStyle = css`
         font-size: 1.2em;
         margin-bottom: 0;
         font-weight: bold;
+        text-transform: uppercase;
     }
     .tag-line {
         font-size: 0.8em;
@@ -136,12 +137,12 @@ const candidateStyle = css`
 const PLACEHOLDER = 'Enter candidate (e.g., Greg Gianforte)'
 
 function Candidate(props) {
-    const { slug, displayName, party, status, race,
+    const { slug, path, displayName, party, status, race,
         summaryLine, cap_tracker_2023_link, hasResponses, numMTFParticles } = props
     // cap_tracker_2023_link flags for current lawmakers
     const partyInfo = PARTIES.find(d => d.key === party)
     const statusInfo = STATUS.find(d => d.key === status)
-    return <div css={candidateStyle} style={{ borderTop: `3px solid ${partyInfo.color}` }}><Link href={`/legislature/${slug}`}>
+    return <div css={candidateStyle} style={{ borderTop: `3px solid ${partyInfo.color}` }}><Link href={`/${path}/${slug}`}>
         <div className="portrait-col" >
             <div className="party" style={{ background: partyInfo.color }}>{party}</div>
         </div>

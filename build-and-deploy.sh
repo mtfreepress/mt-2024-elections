@@ -10,6 +10,7 @@ node inputs/coverage/fetch.js
 
 node process/legislative-candidates.js
 node process/main.js
+node process/make-candidate-list.js
 
 # Build
 npm run build

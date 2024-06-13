@@ -5,10 +5,13 @@ import { numberFormat, percentFormat, formatDate } from '../lib/utils'
 
 const style = css`
     padding: 0.5em;
-    max-width: 450px;
     .title {
         font-style: italic;
         margin-bottom: 0.5em;
+    }
+    table {
+        /* border: 1px solid red; */
+        width: 100%;
     }
     thead > .result-row {
         border-left: 5px solid white;
@@ -16,8 +19,8 @@ const style = css`
     .result-row {
         display: flex;
         padding: 0.2em 0;
-        height: 18px;
-        width: 100%;
+        height: 16px;
+        font-size: 12px;
 
         border-bottom: 1px solid var(--gray2);
 
@@ -35,11 +38,11 @@ const style = css`
         margin-left: -4px;
     }
     .result-row-name {
-        flex: 0 0 200px;
+        flex: 0 0 13em;
         color: var(--gray4);
         margin-right: 0.5em;
         padding-left: 5px;
-        font-size: 14px;
+        
 
     }
     .result-row-percent {
@@ -48,7 +51,7 @@ const style = css`
         text-align: right;
     }
     .result-row-bar {
-        flex: 1 0 100px;
+        flex: 0 0 auto;
     }
     .date {
         font-style: italic;
@@ -85,7 +88,7 @@ const RaceResults = props => {
 
 export default RaceResults
 
-const BAR_RANGE = 120
+const BAR_RANGE = 60
 const Row = ({ candidate, votes, votePercent, isWinner, party }) => {
     const partyInfo = PARTIES.find(d => d.key === party)
     const barWidth = votePercent * BAR_RANGE
@@ -99,9 +102,9 @@ const Row = ({ candidate, votes, votePercent, isWinner, party }) => {
             {candidate}
         </td>
         <td className="result-row-percent">{numberFormat(votes)}</td>
-        <td className="result-row-bar"><svg>
+        <td className="result-row-bar"><svg width={BAR_RANGE + 50} height={14}>
             <rect fill={partyInfo.color} x={0} y={0} height={18} width={barWidth} />
-            <text x={barWidth + 5} y={14}>{percentFormat(votePercent)}</text>
+            <text x={barWidth + 5} y={12}>{percentFormat(votePercent)}</text>
         </svg></td>
     </tr>
 }
