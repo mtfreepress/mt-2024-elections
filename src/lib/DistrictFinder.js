@@ -32,7 +32,9 @@ export default class DistrictFinder {
                 coords: place.location,
                 fields: 'District'
             })
-            const hd = houseDistrictResponse.features[0].attributes['District']
+            const hd = houseDistrictResponse &&
+                houseDistrictResponse.features[0].attributes['District'] ||
+                null
 
             // State senate and PSC districts derived from state house disrict
             const sd = getCorrespondingSenateDistrictNumber(hd)
@@ -43,7 +45,9 @@ export default class DistrictFinder {
                 coords: place.location,
                 fields: 'DistrictNumber'
             })
-            const usHouse = congressionalDistrictResponse.features[0].attributes['DistrictNumber']
+            const usHouse = congressionalDistrictResponse &&
+                congressionalDistrictResponse.features[0].attributes['DistrictNumber'] ||
+                null
 
             callback({
                 matchedAddress,
