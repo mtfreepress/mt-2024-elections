@@ -5,7 +5,7 @@ import Link from "next/link";
 import { PARTIES, STATUS } from "@/lib/styles";
 
 const lookupStyle = css`
-    border: 1px solid var(--tan6);
+    border: 1px solid var(--gray6);
     background-color: var(--gray1);
     padding: 1em;
 

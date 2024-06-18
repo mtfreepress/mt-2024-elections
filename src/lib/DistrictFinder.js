@@ -3,6 +3,9 @@ import { getCorrespondingSenateDistrictNumber } from './utils'
 
 const GEOCODE_API_URL = 'https://gisservicemt.gov/arcgis/rest/services/MSDI_Framework/MontanaAddressLocator/GeocodeServer/findAddressCandidates'
 
+const STATE_HOUSE_DISTRICT_API_URL = 'https://gisservicemt.gov/arcgis/rest/services/MSDI_Framework/Boundaries/MapServer/62/query'
+const CONGRESSIONAL_DISTRICT_API_URL = 'https://gisservicemt.gov/arcgis/rest/services/MSDI_Framework/Boundaries/MapServer/34/query'
+
 // {
 //             source: '/hd-lookup',
 //             destination: 'https://gisservicemt.gov/arcgis/rest/services/MSDI_Framework/Boundaries/MapServer/62/query',
@@ -25,7 +28,7 @@ export default class DistrictFinder {
             const matchedAddress = place.address
             // Note URLs rerouted in next.config.mjs to avoid CORS issue
             const houseDistrictResponse = await this.getDistrict({
-                apiUrl: '/hd-lookup',
+                apiUrl: STATE_HOUSE_DISTRICT_API_URL,
                 coords: place.location,
                 fields: 'District'
             })
@@ -36,7 +39,7 @@ export default class DistrictFinder {
             const psc = HD_TO_PSC[hd]
 
             const congressionalDistrictResponse = await this.getDistrict({
-                apiUrl: '/congressional-lookup',
+                apiUrl: CONGRESSIONAL_DISTRICT_API_URL,
                 coords: place.location,
                 fields: 'DistrictNumber'
             })

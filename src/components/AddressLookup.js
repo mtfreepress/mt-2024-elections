@@ -4,14 +4,15 @@ import { css } from "@emotion/react";
 import DistrictFinder from '../lib/DistrictFinder'
 
 const lookupStyle = css`
-    border: 1px solid var(--tan6);
-    background-color: var(--tan1);
+    border: 1px solid var(--gray6);
+    background-color: var(--gray1);
     padding: 1em;
 
     margin-bottom: 1em;
 
     .ledein {
-        font-style: italic;
+        font-weight: bold;
+        text-transform: uppercase;
     }
 
     form {
@@ -78,11 +79,10 @@ export default function AddressLookup({
     }
 
     return <div css={lookupStyle}>
-        <div className="ledein">Optional: Customize this guide to show only races specific to your voting address.</div>
-        <div>[NOTE: This is not currently working]</div>
+        <div className="ledein">Show only candidates for your voting address</div>
         <form>
             <input onChange={handleChange} type="address" value={value || ''} placeholder={PLACEHOLDER} />
-            <button onClick={handleSubmit}>Customize</button>
+            <button onClick={handleSubmit}>Look up</button>
         </form>
         <div className="message">
             {(matchedAddress === null) && <div>{DEFAULT_MESSAGE}</div>}
