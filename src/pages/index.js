@@ -124,9 +124,9 @@ export default function Home({ races, legislativeRaces, ballotIssues, text, voti
 
             <Markdown>{overviewLedeIn}</Markdown>
 
-            {/* <SearchForCandidate candidates={fullCandidateList} /> */}
+            <SearchForCandidate candidates={fullCandidateList} />
 
-            <AddressLookup selDistricts={selDistricts} setSelDistricts={setSelDistricts} />
+            {/* <AddressLookup selDistricts={selDistricts} setSelDistricts={setSelDistricts} /> */}
 
 
             <section>
