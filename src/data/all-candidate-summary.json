@@ -42,7 +42,7 @@
     "summaryLine": "Metallurgical engineer",
     "race": "Public Service Commission (Seat 3)",
     "party": "R",
-    "status": "active",
+    "status": "lost-primary",
     "hasResponses": true,
     "numMTFParticles": 1,
     "cap_tracker_2023_link": null
@@ -588,6 +588,18 @@
     "cap_tracker_2023_link": null
   },
   {
+    "slug": "elena-evans",
+    "path": "candidates",
+    "displayName": "Elena Evans",
+    "summaryLine": "Missoula County environmental health manager",
+    "race": "Public Service Commission (Seat 4)",
+    "party": "I",
+    "status": "active",
+    "hasResponses": false,
+    "numMTFParticles": 1,
+    "cap_tracker_2023_link": null
+  },
+  {
     "slug": "ed-walker",
     "path": "candidates",
     "displayName": "Ed Walker",
@@ -632,7 +644,7 @@
     "party": "L",
     "status": "active",
     "hasResponses": true,
-    "numMTFParticles": 1,
+    "numMTFParticles": 2,
     "cap_tracker_2023_link": null
   },
   {

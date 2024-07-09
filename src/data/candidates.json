@@ -244,10 +244,10 @@
         "party": "R",
         "candidateCommitteeName": "AUSTIN FOR CONGRESS",
         "candidateId": "H2MT02175",
-        "totalReceipts": 0,
-        "totalDisbursments": 0,
-        "cashOnHand": 500,
-        "coverageEndDate": "2024-05-15",
+        "totalReceipts": 4550,
+        "totalDisbursments": 4500,
+        "cashOnHand": 550,
+        "coverageEndDate": "2024-06-30",
         "isThisCandidate": false,
         "candidateStatus": "lost-primary"
       }
@@ -1017,7 +1017,7 @@
     "summaryNarrative": "Nordwick, 61 as of Election Day, describes herself as the “only Trump Republican” running for the District 3 seat.\n\nNordwick, a longtime Walkerville resident, is a metallurgical engineer who has made several unsuccessful bids for the Montana Legislature in the past decade. She is president of the Montana Federation of Republican Women and serves on the Butte Natural Resources Damage Restoration Council.\n\nNordwick said her engineering and project management work for companies like DuPont, Sunshine Mining and Refining Company, and the Center for Advanced Material Processing has readied her for technical aspects of the commission’s work, such as calculating the operational costs of complex systems.\n\nNordwick argues the commission should protect good-paying jobs and take a “Montana first” approach to energy policy that prioritizes traditional energy sources. She calls for greater transparency in the PSC’s rate-setting process and said that commissioners should prioritize the needs of their constituents, not special interests.\n\n“I think Montanans should elect candidates who are well-rounded professional experts and not career politicians,” Nordwick told MTFP. “I have the knowledge to keep our trains on the tracks, our lights on and our Montana homes heated throughout the winter.”\n\nThis biography is based on Nordwick’s response to MTFP’s questionnaire, Nordwick’s campaign website and information on prior elections from Ballotpedia.\n",
     "party": "R",
     "isIncumbent": false,
-    "status": "active",
+    "status": "lost-primary",
     "fecId": null,
     "campaignWebsite": null,
     "campaignFB": null,
@@ -1028,12 +1028,6 @@
     "raceSlug": "psc-3",
     "raceDisplayName": "Public Service Commission (Seat 3)",
     "opponents": [
-      {
-        "slug": "suzzann-nordwick",
-        "displayName": "Suzzann Nordwick",
-        "summaryLine": "Metallurgical engineer",
-        "party": "R"
-      },
       {
         "slug": "jeff-welborn",
         "displayName": "Jeff Welborn",
@@ -1585,10 +1579,10 @@
         "party": "R",
         "candidateCommitteeName": "AUSTIN FOR CONGRESS",
         "candidateId": "H2MT02175",
-        "totalReceipts": 0,
-        "totalDisbursments": 0,
-        "cashOnHand": 500,
-        "coverageEndDate": "2024-05-15",
+        "totalReceipts": 4550,
+        "totalDisbursments": 4500,
+        "cashOnHand": 550,
+        "coverageEndDate": "2024-06-30",
         "isThisCandidate": false,
         "candidateStatus": "lost-primary"
       }
@@ -1900,10 +1894,10 @@
         "party": "R",
         "candidateCommitteeName": "AUSTIN FOR CONGRESS",
         "candidateId": "H2MT02175",
-        "totalReceipts": 0,
-        "totalDisbursments": 0,
-        "cashOnHand": 500,
-        "coverageEndDate": "2024-05-15",
+        "totalReceipts": 4550,
+        "totalDisbursments": 4500,
+        "cashOnHand": 550,
+        "coverageEndDate": "2024-06-30",
         "isThisCandidate": false,
         "candidateStatus": "lost-primary"
       }
@@ -3179,12 +3173,6 @@
     "raceDisplayName": "Public Service Commission (Seat 3)",
     "opponents": [
       {
-        "slug": "suzzann-nordwick",
-        "displayName": "Suzzann Nordwick",
-        "summaryLine": "Metallurgical engineer",
-        "party": "R"
-      },
-      {
         "slug": "jeff-welborn",
         "displayName": "Jeff Welborn",
         "summaryLine": "State senator",
@@ -3501,10 +3489,10 @@
         "party": "R",
         "candidateCommitteeName": "AUSTIN FOR CONGRESS",
         "candidateId": "H2MT02175",
-        "totalReceipts": 0,
-        "totalDisbursments": 0,
-        "cashOnHand": 500,
-        "coverageEndDate": "2024-05-15",
+        "totalReceipts": 4550,
+        "totalDisbursments": 4500,
+        "cashOnHand": 550,
+        "coverageEndDate": "2024-06-30",
         "isThisCandidate": false,
         "candidateStatus": "lost-primary"
       }
@@ -4153,10 +4141,10 @@
         "party": "R",
         "candidateCommitteeName": "AUSTIN FOR CONGRESS",
         "candidateId": "H2MT02175",
-        "totalReceipts": 0,
-        "totalDisbursments": 0,
-        "cashOnHand": 500,
-        "coverageEndDate": "2024-05-15",
+        "totalReceipts": 4550,
+        "totalDisbursments": 4500,
+        "cashOnHand": 550,
+        "coverageEndDate": "2024-06-30",
         "isThisCandidate": false,
         "candidateStatus": "lost-primary"
       }
@@ -4877,12 +4865,6 @@
     "raceDisplayName": "Public Service Commission (Seat 3)",
     "opponents": [
       {
-        "slug": "suzzann-nordwick",
-        "displayName": "Suzzann Nordwick",
-        "summaryLine": "Metallurgical engineer",
-        "party": "R"
-      },
-      {
         "slug": "jeff-welborn",
         "displayName": "Jeff Welborn",
         "summaryLine": "State senator",
@@ -5163,10 +5145,10 @@
         "party": "R",
         "candidateCommitteeName": "AUSTIN FOR CONGRESS",
         "candidateId": "H2MT02175",
-        "totalReceipts": 0,
-        "totalDisbursments": 0,
-        "cashOnHand": 500,
-        "coverageEndDate": "2024-05-15",
+        "totalReceipts": 4550,
+        "totalDisbursments": 4500,
+        "cashOnHand": 550,
+        "coverageEndDate": "2024-06-30",
         "isThisCandidate": true,
         "candidateStatus": "lost-primary"
       }
@@ -5663,10 +5645,10 @@
         "party": "R",
         "candidateCommitteeName": "AUSTIN FOR CONGRESS",
         "candidateId": "H2MT02175",
-        "totalReceipts": 0,
-        "totalDisbursments": 0,
-        "cashOnHand": 500,
-        "coverageEndDate": "2024-05-15",
+        "totalReceipts": 4550,
+        "totalDisbursments": 4500,
+        "cashOnHand": 550,
+        "coverageEndDate": "2024-06-30",
         "isThisCandidate": false,
         "candidateStatus": "lost-primary"
       }
@@ -5953,10 +5935,10 @@
         "party": "R",
         "candidateCommitteeName": "AUSTIN FOR CONGRESS",
         "candidateId": "H2MT02175",
-        "totalReceipts": 0,
-        "totalDisbursments": 0,
-        "cashOnHand": 500,
-        "coverageEndDate": "2024-05-15",
+        "totalReceipts": 4550,
+        "totalDisbursments": 4500,
+        "cashOnHand": 550,
+        "coverageEndDate": "2024-06-30",
         "isThisCandidate": false,
         "candidateStatus": "lost-primary"
       }
@@ -7238,10 +7220,10 @@
         "party": "R",
         "candidateCommitteeName": "AUSTIN FOR CONGRESS",
         "candidateId": "H2MT02175",
-        "totalReceipts": 0,
-        "totalDisbursments": 0,
-        "cashOnHand": 500,
-        "coverageEndDate": "2024-05-15",
+        "totalReceipts": 4550,
+        "totalDisbursments": 4500,
+        "cashOnHand": 550,
+        "coverageEndDate": "2024-06-30",
         "isThisCandidate": false,
         "candidateStatus": "lost-primary"
       }
@@ -7570,10 +7552,10 @@
         "party": "R",
         "candidateCommitteeName": "AUSTIN FOR CONGRESS",
         "candidateId": "H2MT02175",
-        "totalReceipts": 0,
-        "totalDisbursments": 0,
-        "cashOnHand": 500,
-        "coverageEndDate": "2024-05-15",
+        "totalReceipts": 4550,
+        "totalDisbursments": 4500,
+        "cashOnHand": 550,
+        "coverageEndDate": "2024-06-30",
         "isThisCandidate": false,
         "candidateStatus": "lost-primary"
       }
@@ -8138,6 +8120,12 @@
         "displayName": "Jennifer Fielder",
         "summaryLine": "Incumbent public service commissioner",
         "party": "R"
+      },
+      {
+        "slug": "elena-evans",
+        "displayName": "Elena Evans",
+        "summaryLine": "Missoula County environmental health manager",
+        "party": "I"
       }
     ],
     "coverage": [
@@ -8219,12 +8207,6 @@
     "raceSlug": "psc-3",
     "raceDisplayName": "Public Service Commission (Seat 3)",
     "opponents": [
-      {
-        "slug": "suzzann-nordwick",
-        "displayName": "Suzzann Nordwick",
-        "summaryLine": "Metallurgical engineer",
-        "party": "R"
-      },
       {
         "slug": "jeff-welborn",
         "displayName": "Jeff Welborn",
@@ -9456,10 +9438,10 @@
         "party": "R",
         "candidateCommitteeName": "AUSTIN FOR CONGRESS",
         "candidateId": "H2MT02175",
-        "totalReceipts": 0,
-        "totalDisbursments": 0,
-        "cashOnHand": 500,
-        "coverageEndDate": "2024-05-15",
+        "totalReceipts": 4550,
+        "totalDisbursments": 4500,
+        "cashOnHand": 550,
+        "coverageEndDate": "2024-06-30",
         "isThisCandidate": false,
         "candidateStatus": "lost-primary"
       }
@@ -9579,6 +9561,88 @@
         }
       ],
       "reportingTime": "6/10/2024 12:53:48 PM"
+    }
+  },
+  {
+    "slug": "elena-evans",
+    "displayName": "Elena Evans",
+    "lastName": "Evans",
+    "summaryLine": "Missoula County environmental health manager",
+    "summaryNarrative": "Evans is a political newcomer who was cleared to appear on the general election ballot as an independent after she collected more than 5,000 signatures from voters in the district. \n\nA geologist by training who works as Missoula County’s environmental health manager, Evans told MTFP in June that she was inspired to run for the Public Service Commission after it voted last year to increase rates for NorthWestern Energy’s residential electricity customers. She argues that members of the PSC are failing to treat the commission work as a  full-time job.\n\n“It’s disappointing that folks who get a really decent salary to fulfill this job aren’t necessarily participating to the fullest extent,” said Evans, who earned a master’s degree in geology from the University of Montana.\n\nIn addition to criticizing the commission’s vote on the rate hike, Evans has accused the sitting commissioners of opposing “commonsense, cost-saving measures” and harboring an “anti-technology sentiment.” Evans argues that the current commission’s approach hinders economic development in Montana by driving up energy bills for residential customers and companies, which often in turn pass on those increases to consumers.\n\nThis biography is based on an MTFP interview with Evans and information from her campaign website.\n",
+    "party": "I",
+    "isIncumbent": false,
+    "status": "active",
+    "fecId": null,
+    "campaignWebsite": null,
+    "campaignFB": null,
+    "campaignTW": null,
+    "campaignIG": null,
+    "campaignYT": null,
+    "campaignTT": null,
+    "raceSlug": "psc-4",
+    "raceDisplayName": "Public Service Commission (Seat 4)",
+    "opponents": [
+      {
+        "slug": "jennifer-fielder",
+        "displayName": "Jennifer Fielder",
+        "summaryLine": "Incumbent public service commissioner",
+        "party": "R"
+      },
+      {
+        "slug": "elena-evans",
+        "displayName": "Elena Evans",
+        "summaryLine": "Missoula County environmental health manager",
+        "party": "I"
+      }
+    ],
+    "coverage": [
+      {
+        "title": "Independent candidate Elena Evans cleared to run for PSC",
+        "date": "2024-06-28T12:07:12",
+        "link": "https://montanafreepress.org/2024/06/28/independent-candidate-qualifies-for-public-service-commission-race-in-montana/",
+        "tags": [
+          "2024 election Guide",
+          "Elena Evans",
+          "Montana Public Service Commission"
+        ],
+        "categories": [
+          "State Government"
+        ],
+        "featuredImage": "https://montanafreepress.org/2024/06/28/independent-candidate-qualifies-for-public-service-commission-race-in-montana/evans_pulp_1/",
+        "author": "Amanda Eggert"
+      }
+    ],
+    "finance": null,
+    "questionnaire": {
+      "hasResponses": false,
+      "responses": [
+        {
+          "question": "Regulatory matters under the PSC’s jurisdiction are often highly specialized and complex. Please describe your qualifications for performing the technical aspects of the commission's work.",
+          "answer": null
+        },
+        {
+          "question": "To what extent do you regard climate change as an issue that needs to be addressed by the PSC? What if any actions regarding climate change do you think it’s appropriate for the PSC to consider?",
+          "answer": null
+        },
+        {
+          "question": "Montana’s energy grid is facing a major transition as coal plants are taken offline. How should the PSC manage customer affordability and grid reliability as that transition takes place?",
+          "answer": null
+        },
+        {
+          "question": "What if any specific actions should be taken by the PSC to reduce Montana consumers’ power bills?",
+          "answer": null
+        },
+        {
+          "question": "What other issues within the PSC’s domain would you prioritize as a commissioner? What specific actions would you encourage regarding those issues?",
+          "answer": null
+        }
+      ]
+    },
+    "primaryResults": {
+      "race": "psc-4",
+      "raceDisplayName": "Public Service Commission (Seat 4)",
+      "party": "I",
+      "resultsTotal": null
     }
   },
   {
@@ -9752,10 +9816,10 @@
         "party": "R",
         "candidateCommitteeName": "AUSTIN FOR CONGRESS",
         "candidateId": "H2MT02175",
-        "totalReceipts": 0,
-        "totalDisbursments": 0,
-        "cashOnHand": 500,
-        "coverageEndDate": "2024-05-15",
+        "totalReceipts": 4550,
+        "totalDisbursments": 4500,
+        "cashOnHand": 550,
+        "coverageEndDate": "2024-06-30",
         "isThisCandidate": false,
         "candidateStatus": "lost-primary"
       }
@@ -10202,10 +10266,10 @@
         "party": "R",
         "candidateCommitteeName": "AUSTIN FOR CONGRESS",
         "candidateId": "H2MT02175",
-        "totalReceipts": 0,
-        "totalDisbursments": 0,
-        "cashOnHand": 500,
-        "coverageEndDate": "2024-05-15",
+        "totalReceipts": 4550,
+        "totalDisbursments": 4500,
+        "cashOnHand": 550,
+        "coverageEndDate": "2024-06-30",
         "isThisCandidate": false,
         "candidateStatus": "lost-primary"
       }
@@ -10366,6 +10430,22 @@
       }
     ],
     "coverage": [
+      {
+        "title": "Internet watchdog says secret group recruited pro-Trump Montana Libertarian into congressional race",
+        "date": "2024-06-18T15:53:06",
+        "link": "https://montanafreepress.org/2024/06/18/secret-group-recruits-montana-libertarian-candidate-for-congress/",
+        "tags": [
+          "2024 election Guide",
+          "2024 elections",
+          "Dark Money",
+          "Dennis Hayes"
+        ],
+        "categories": [
+          "2024 Elections"
+        ],
+        "featuredImage": "https://montanafreepress.org/2024/06/18/secret-group-recruits-montana-libertarian-candidate-for-congress/untitled-design-2024-06-18t174615-807/",
+        "author": "Tom Lutey"
+      },
       {
         "title": "What Montana’s U.S. House candidates are saying about the southern border",
         "date": "2024-05-21T16:09:25",
