@@ -355,10 +355,10 @@
         "party": "R",
         "candidateCommitteeName": "AUSTIN FOR CONGRESS",
         "candidateId": "H2MT02175",
-        "totalReceipts": 0,
-        "totalDisbursments": 0,
-        "cashOnHand": 500,
-        "coverageEndDate": "2024-05-15"
+        "totalReceipts": 4550,
+        "totalDisbursments": 4500,
+        "cashOnHand": 550,
+        "coverageEndDate": "2024-06-30"
       }
     ],
     "inactiveCandidates": [
@@ -874,6 +874,14 @@
         "displayName": "Jennifer Fielder",
         "summaryLine": "Incumbent public service commissioner",
         "party": "R",
+        "hasResponses": false,
+        "numMTFParticles": 1
+      },
+      {
+        "slug": "elena-evans",
+        "displayName": "Elena Evans",
+        "summaryLine": "Missoula County environmental health manager",
+        "party": "I",
         "hasResponses": false,
         "numMTFParticles": 1
       }

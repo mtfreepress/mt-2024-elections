@@ -1805,3 +1805,17 @@
       response:
     - question: What other issues within the PSC’s domain would you prioritize as a commissioner? What specific actions would you encourage regarding those issues?
       response:
+
+- candidateName: Elena Evans
+  nameSlug: elena-evans
+  questionnaireMaterial:
+    - question: Regulatory matters under the PSC’s jurisdiction are often highly specialized and complex. Please describe your qualifications for performing the technical aspects of the commission's work.
+      response:
+    - question: To what extent do you regard climate change as an issue that needs to be addressed by the PSC? What if any actions regarding climate change do you think it’s appropriate for the PSC to consider?
+      response:
+    - question: Montana’s energy grid is facing a major transition as coal plants are taken offline. How should the PSC manage customer affordability and grid reliability as that transition takes place?
+      response:
+    - question: What if any specific actions should be taken by the PSC to reduce Montana consumers’ power bills?
+      response:
+    - question: What other issues within the PSC’s domain would you prioritize as a commissioner? What specific actions would you encourage regarding those issues?
+      response:

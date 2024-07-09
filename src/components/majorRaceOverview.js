@@ -191,24 +191,27 @@ export default function MajorRaceOverview({ race, showMap }) {
             }
 
         </div>
-        <details>
-            <summary>Candidates defeated in June 4 primary election</summary>
-            <div className="party-buckets">
-                {
-                    PARTIES.map(party => {
-                        const candidatesInBucket = inactiveCandidates.filter(d => d.party === party.key)
-                        if (candidatesInBucket.length === 0) return null
-                        return <div className="party-bucket" key={party.key} style={{ borderLeft: `3px solid ${party.color}` }}>
-                            <h4 style={{
-                                color: party.color
-                            }}>{pluralize(party.noun, candidatesInBucket.length)}</h4>
-                            <div>{candidatesInBucket.map(d => <Candidate key={d.slug} {...d} />)}</div>
-                        </div>
-                    })
-                }
+        {
+            (inactiveCandidates.length > 0) && <details>
+                <summary>Candidates defeated in June 4 primary election</summary>
+                <div className="party-buckets">
+                    {
+                        PARTIES.map(party => {
+                            const candidatesInBucket = inactiveCandidates.filter(d => d.party === party.key)
+                            if (candidatesInBucket.length === 0) return null
+                            return <div className="party-bucket" key={party.key} style={{ borderLeft: `3px solid ${party.color}` }}>
+                                <h4 style={{
+                                    color: party.color
+                                }}>{pluralize(party.noun, candidatesInBucket.length)}</h4>
+                                <div>{candidatesInBucket.map(d => <Candidate key={d.slug} {...d} />)}</div>
+                            </div>
+                        })
+                    }
 
-            </div>
-        </details>
+                </div>
+            </details>
+        }
+
         <div className="note">{note}</div>
     </div>
 }

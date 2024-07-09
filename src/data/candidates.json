@@ -244,10 +244,10 @@
         "party": "R",
         "candidateCommitteeName": "AUSTIN FOR CONGRESS",
         "candidateId": "H2MT02175",
-        "totalReceipts": 0,
-        "totalDisbursments": 0,
-        "cashOnHand": 500,
-        "coverageEndDate": "2024-05-15",
+        "totalReceipts": 4550,
+        "totalDisbursments": 4500,
+        "cashOnHand": 550,
+        "coverageEndDate": "2024-06-30",
         "isThisCandidate": false,
         "candidateStatus": "lost-primary"
       }
@@ -1585,10 +1585,10 @@
         "party": "R",
         "candidateCommitteeName": "AUSTIN FOR CONGRESS",
         "candidateId": "H2MT02175",
-        "totalReceipts": 0,
-        "totalDisbursments": 0,
-        "cashOnHand": 500,
-        "coverageEndDate": "2024-05-15",
+        "totalReceipts": 4550,
+        "totalDisbursments": 4500,
+        "cashOnHand": 550,
+        "coverageEndDate": "2024-06-30",
         "isThisCandidate": false,
         "candidateStatus": "lost-primary"
       }
@@ -1900,10 +1900,10 @@
         "party": "R",
         "candidateCommitteeName": "AUSTIN FOR CONGRESS",
         "candidateId": "H2MT02175",
-        "totalReceipts": 0,
-        "totalDisbursments": 0,
-        "cashOnHand": 500,
-        "coverageEndDate": "2024-05-15",
+        "totalReceipts": 4550,
+        "totalDisbursments": 4500,
+        "cashOnHand": 550,
+        "coverageEndDate": "2024-06-30",
         "isThisCandidate": false,
         "candidateStatus": "lost-primary"
       }
@@ -3501,10 +3501,10 @@
         "party": "R",
         "candidateCommitteeName": "AUSTIN FOR CONGRESS",
         "candidateId": "H2MT02175",
-        "totalReceipts": 0,
-        "totalDisbursments": 0,
-        "cashOnHand": 500,
-        "coverageEndDate": "2024-05-15",
+        "totalReceipts": 4550,
+        "totalDisbursments": 4500,
+        "cashOnHand": 550,
+        "coverageEndDate": "2024-06-30",
         "isThisCandidate": false,
         "candidateStatus": "lost-primary"
       }
@@ -4153,10 +4153,10 @@
         "party": "R",
         "candidateCommitteeName": "AUSTIN FOR CONGRESS",
         "candidateId": "H2MT02175",
-        "totalReceipts": 0,
-        "totalDisbursments": 0,
-        "cashOnHand": 500,
-        "coverageEndDate": "2024-05-15",
+        "totalReceipts": 4550,
+        "totalDisbursments": 4500,
+        "cashOnHand": 550,
+        "coverageEndDate": "2024-06-30",
         "isThisCandidate": false,
         "candidateStatus": "lost-primary"
       }
@@ -5163,10 +5163,10 @@
         "party": "R",
         "candidateCommitteeName": "AUSTIN FOR CONGRESS",
         "candidateId": "H2MT02175",
-        "totalReceipts": 0,
-        "totalDisbursments": 0,
-        "cashOnHand": 500,
-        "coverageEndDate": "2024-05-15",
+        "totalReceipts": 4550,
+        "totalDisbursments": 4500,
+        "cashOnHand": 550,
+        "coverageEndDate": "2024-06-30",
         "isThisCandidate": true,
         "candidateStatus": "lost-primary"
       }
@@ -5663,10 +5663,10 @@
         "party": "R",
         "candidateCommitteeName": "AUSTIN FOR CONGRESS",
         "candidateId": "H2MT02175",
-        "totalReceipts": 0,
-        "totalDisbursments": 0,
-        "cashOnHand": 500,
-        "coverageEndDate": "2024-05-15",
+        "totalReceipts": 4550,
+        "totalDisbursments": 4500,
+        "cashOnHand": 550,
+        "coverageEndDate": "2024-06-30",
         "isThisCandidate": false,
         "candidateStatus": "lost-primary"
       }
@@ -5953,10 +5953,10 @@
         "party": "R",
         "candidateCommitteeName": "AUSTIN FOR CONGRESS",
         "candidateId": "H2MT02175",
-        "totalReceipts": 0,
-        "totalDisbursments": 0,
-        "cashOnHand": 500,
-        "coverageEndDate": "2024-05-15",
+        "totalReceipts": 4550,
+        "totalDisbursments": 4500,
+        "cashOnHand": 550,
+        "coverageEndDate": "2024-06-30",
         "isThisCandidate": false,
         "candidateStatus": "lost-primary"
       }
@@ -7238,10 +7238,10 @@
         "party": "R",
         "candidateCommitteeName": "AUSTIN FOR CONGRESS",
         "candidateId": "H2MT02175",
-        "totalReceipts": 0,
-        "totalDisbursments": 0,
-        "cashOnHand": 500,
-        "coverageEndDate": "2024-05-15",
+        "totalReceipts": 4550,
+        "totalDisbursments": 4500,
+        "cashOnHand": 550,
+        "coverageEndDate": "2024-06-30",
         "isThisCandidate": false,
         "candidateStatus": "lost-primary"
       }
@@ -7570,10 +7570,10 @@
         "party": "R",
         "candidateCommitteeName": "AUSTIN FOR CONGRESS",
         "candidateId": "H2MT02175",
-        "totalReceipts": 0,
-        "totalDisbursments": 0,
-        "cashOnHand": 500,
-        "coverageEndDate": "2024-05-15",
+        "totalReceipts": 4550,
+        "totalDisbursments": 4500,
+        "cashOnHand": 550,
+        "coverageEndDate": "2024-06-30",
         "isThisCandidate": false,
         "candidateStatus": "lost-primary"
       }
@@ -8138,6 +8138,12 @@
         "displayName": "Jennifer Fielder",
         "summaryLine": "Incumbent public service commissioner",
         "party": "R"
+      },
+      {
+        "slug": "elena-evans",
+        "displayName": "Elena Evans",
+        "summaryLine": "Missoula County environmental health manager",
+        "party": "I"
       }
     ],
     "coverage": [
@@ -9456,10 +9462,10 @@
         "party": "R",
         "candidateCommitteeName": "AUSTIN FOR CONGRESS",
         "candidateId": "H2MT02175",
-        "totalReceipts": 0,
-        "totalDisbursments": 0,
-        "cashOnHand": 500,
-        "coverageEndDate": "2024-05-15",
+        "totalReceipts": 4550,
+        "totalDisbursments": 4500,
+        "cashOnHand": 550,
+        "coverageEndDate": "2024-06-30",
         "isThisCandidate": false,
         "candidateStatus": "lost-primary"
       }
@@ -9579,6 +9585,88 @@
         }
       ],
       "reportingTime": "6/10/2024 12:53:48 PM"
+    }
+  },
+  {
+    "slug": "elena-evans",
+    "displayName": "Elena Evans",
+    "lastName": "Evans",
+    "summaryLine": "Missoula County environmental health manager",
+    "summaryNarrative": "",
+    "party": "I",
+    "isIncumbent": false,
+    "status": "active",
+    "fecId": null,
+    "campaignWebsite": null,
+    "campaignFB": null,
+    "campaignTW": null,
+    "campaignIG": null,
+    "campaignYT": null,
+    "campaignTT": null,
+    "raceSlug": "psc-4",
+    "raceDisplayName": "Public Service Commission (Seat 4)",
+    "opponents": [
+      {
+        "slug": "jennifer-fielder",
+        "displayName": "Jennifer Fielder",
+        "summaryLine": "Incumbent public service commissioner",
+        "party": "R"
+      },
+      {
+        "slug": "elena-evans",
+        "displayName": "Elena Evans",
+        "summaryLine": "Missoula County environmental health manager",
+        "party": "I"
+      }
+    ],
+    "coverage": [
+      {
+        "title": "Independent candidate Elena Evans cleared to run for PSC",
+        "date": "2024-06-28T12:07:12",
+        "link": "https://montanafreepress.org/2024/06/28/independent-candidate-qualifies-for-public-service-commission-race-in-montana/",
+        "tags": [
+          "2024 election Guide",
+          "Elena Evans",
+          "Montana Public Service Commission"
+        ],
+        "categories": [
+          "State Government"
+        ],
+        "featuredImage": "https://montanafreepress.org/2024/06/28/independent-candidate-qualifies-for-public-service-commission-race-in-montana/evans_pulp_1/",
+        "author": "Amanda Eggert"
+      }
+    ],
+    "finance": null,
+    "questionnaire": {
+      "hasResponses": false,
+      "responses": [
+        {
+          "question": "Regulatory matters under the PSC’s jurisdiction are often highly specialized and complex. Please describe your qualifications for performing the technical aspects of the commission's work.",
+          "answer": null
+        },
+        {
+          "question": "To what extent do you regard climate change as an issue that needs to be addressed by the PSC? What if any actions regarding climate change do you think it’s appropriate for the PSC to consider?",
+          "answer": null
+        },
+        {
+          "question": "Montana’s energy grid is facing a major transition as coal plants are taken offline. How should the PSC manage customer affordability and grid reliability as that transition takes place?",
+          "answer": null
+        },
+        {
+          "question": "What if any specific actions should be taken by the PSC to reduce Montana consumers’ power bills?",
+          "answer": null
+        },
+        {
+          "question": "What other issues within the PSC’s domain would you prioritize as a commissioner? What specific actions would you encourage regarding those issues?",
+          "answer": null
+        }
+      ]
+    },
+    "primaryResults": {
+      "race": "psc-4",
+      "raceDisplayName": "Public Service Commission (Seat 4)",
+      "party": "I",
+      "resultsTotal": null
     }
   },
   {
@@ -9752,10 +9840,10 @@
         "party": "R",
         "candidateCommitteeName": "AUSTIN FOR CONGRESS",
         "candidateId": "H2MT02175",
-        "totalReceipts": 0,
-        "totalDisbursments": 0,
-        "cashOnHand": 500,
-        "coverageEndDate": "2024-05-15",
+        "totalReceipts": 4550,
+        "totalDisbursments": 4500,
+        "cashOnHand": 550,
+        "coverageEndDate": "2024-06-30",
         "isThisCandidate": false,
         "candidateStatus": "lost-primary"
       }
@@ -10202,10 +10290,10 @@
         "party": "R",
         "candidateCommitteeName": "AUSTIN FOR CONGRESS",
         "candidateId": "H2MT02175",
-        "totalReceipts": 0,
-        "totalDisbursments": 0,
-        "cashOnHand": 500,
-        "coverageEndDate": "2024-05-15",
+        "totalReceipts": 4550,
+        "totalDisbursments": 4500,
+        "cashOnHand": 550,
+        "coverageEndDate": "2024-06-30",
         "isThisCandidate": false,
         "candidateStatus": "lost-primary"
       }
