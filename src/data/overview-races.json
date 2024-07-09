@@ -825,14 +825,6 @@
     "note": null,
     "candidates": [
       {
-        "slug": "suzzann-nordwick",
-        "displayName": "Suzzann Nordwick",
-        "summaryLine": "Metallurgical engineer",
-        "party": "R",
-        "hasResponses": true,
-        "numMTFParticles": 1
-      },
-      {
         "slug": "jeff-welborn",
         "displayName": "Jeff Welborn",
         "summaryLine": "State senator",
@@ -855,6 +847,14 @@
         "slug": "rob-elwood",
         "displayName": "Rob Elwood",
         "summaryLine": "Harlowton IT professional",
+        "party": "R",
+        "hasResponses": true,
+        "numMTFParticles": 1
+      },
+      {
+        "slug": "suzzann-nordwick",
+        "displayName": "Suzzann Nordwick",
+        "summaryLine": "Metallurgical engineer",
         "party": "R",
         "hasResponses": true,
         "numMTFParticles": 1

@@ -151,7 +151,7 @@ function Candidate(props) {
                 <div className="name">{displayName}</div>
                 {summaryLine && <div className="current">{summaryLine}</div>}
                 {cap_tracker_2023_link && <div className="current">Sitting lawmaker</div>}
-                <div class="position"><span style={{ color: partyInfo.color }}>{partyInfo.noun}</span> for {race}</div>
+                <div className="position"><span style={{ color: partyInfo.color }}>{partyInfo.noun}</span> for {race}</div>
                 <div className="status">{statusInfo.label}</div>
 
                 <div className="tag-line">
@@ -182,7 +182,7 @@ export default function SearchForCandidate({
 
     return <div css={lookupStyle}>
         <div className="ledein">Search 2024 Montana candidates by name</div>
-        <div class="note">This guide includes federal, state-level and legislative candidates. County commissioners and other local positions are excluded.</div>
+        <div className="note">This guide includes federal, state-level and legislative candidates. County commissioners and other local positions are excluded.</div>
         <form>
             <input onChange={handleChange} type="text" value={searchText} placeholder={PLACEHOLDER} />
         </form>
