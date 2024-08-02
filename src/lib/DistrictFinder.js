@@ -1,22 +1,16 @@
 import { HD_TO_PSC } from './../data/hd-to-psc'
 import { getCorrespondingSenateDistrictNumber } from './utils'
 
-const GEOCODE_API_URL = 'https://gisservicemt.gov/arcgis/rest/services/MSDI_Framework/MontanaAddressLocator/GeocodeServer/findAddressCandidates'
+// const GEOCODE_API_URL = 'https://gisservicemt.gov/arcgis/rest/services/MSDI_Framework/MontanaAddressLocator/GeocodeServer/findAddressCandidates'
 
-const STATE_HOUSE_DISTRICT_API_URL = 'https://gisservicemt.gov/arcgis/rest/services/MSDI_Framework/Boundaries/MapServer/62/query'
-const CONGRESSIONAL_DISTRICT_API_URL = 'https://gisservicemt.gov/arcgis/rest/services/MSDI_Framework/Boundaries/MapServer/34/query'
+// const STATE_HOUSE_DISTRICT_API_URL = 'https://gisservicemt.gov/arcgis/rest/services/MSDI_Framework/Boundaries/MapServer/62/query'
+// const CONGRESSIONAL_DISTRICT_API_URL = 'https://gisservicemt.gov/arcgis/rest/services/MSDI_Framework/Boundaries/MapServer/34/query'
 
-// {
-//             source: '/hd-lookup',
-//             destination: 'https://gisservicemt.gov/arcgis/rest/services/MSDI_Framework/Boundaries/MapServer/62/query',
-//         },
-//         {
-//             source: '/congressional-lookup',
-//             destination: 'https://gisservicemt.gov/arcgis/rest/services/MSDI_Framework/Boundaries/MapServer/34/query'
-//         }
+const BASE_PATH = 'http://localhost:3000' // change before deploying
 
-// House test query
-// ?where=&text=&objectIds=&time=&geometry=%7B"x"%3A-12360980.600350775%2C"y"%3A5726894.334985688%2C"spatialReference"%3A%7B"wkid"%3A102100%2C"latestWkid"%3A3857%7D%7D&geometryType=esriGeometryPoint&inSR=&spatialRel=esriSpatialRelIntersects&relationParam=&outFields=*&returnGeometry=false&returnTrueCurves=false&maxAllowableOffset=&geometryPrecision=&outSR=&having=&returnIdsOnly=false&returnCountOnly=false&orderByFields=&groupByFieldsForStatistics=&outStatistics=&returnZ=false&returnM=false&gdbVersion=&historicMoment=&returnDistinctValues=false&resultOffset=&resultRecordCount=&queryByDistance=&returnExtentOnly=false&datumTransformation=&parameterValues=&rangeValues=&quantizationParameters=&f=html
+const STATE_HOUSE_DISTRICT_API_URL = `${BASE_PATH}/hd-lookup`
+const CONGRESSIONAL_DISTRICT_API_URL = `${BASE_PATH}/congressional-lookup`
+const GEOCODE_API_URL = `${BASE_PATH}/geocode`
 
 export default class DistrictFinder {
 

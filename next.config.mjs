@@ -21,18 +21,6 @@ const nextConfig = {
             }
         ]
     },
-    // rewrites() {
-    //     return [
-    //         {
-    //             source: '/hd-lookup',
-    //             destination: 'https://gisservicemt.gov/arcgis/rest/services/MSDI_Framework/Boundaries/MapServer/62/query',
-    //         },
-    //         {
-    //             source: '/congressional-lookup',
-    //             destination: 'https://gisservicemt.gov/arcgis/rest/services/MSDI_Framework/Boundaries/MapServer/34/query'
-    //         }
-    //     ];
-    // }
 };
 
 export default nextConfig;
