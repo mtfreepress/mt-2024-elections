@@ -50,48 +50,80 @@ export default function AddressLookup({
     selDistricts,
     setSelDistricts,
 }) {
-    const { usHouse, psc, mtHouse, mtSenate, matchedAddress } = selDistricts
-    const [value, setValue] = useState(null)
+    const { usHouse, psc, mtHouse, mtSenate, matchedAddress } = selDistricts;
+    const [value, setValue] = useState(null);
+    const [error, setError] = useState(null);
 
-    const districtFinder = new DistrictFinder()
+    const districtFinder = new DistrictFinder();
 
     function handleChange(event) {
-        const input = event.target.value
-        setValue(input)
+        const input = event.target.value;
+        setValue(input);
+        setError(null); // Reset error on input change
     }
+// TODO: Get feedback on styling etc of error message
     function handleSubmit(event) {
-        event.preventDefault()
-        const result = districtFinder.matchAddressToDistricts(
+        event.preventDefault();
+        districtFinder.matchAddressToDistricts(
             value,
-            match => setSelDistricts(match), // success callback,
-            err => console.log({ err }), // fallback
-        )
-        // TODO - finish implementing this
-    }
-    function reset() {
-        setSelDistricts({
-            usHouse: null, // 'us-house-1' or 'us-house-2'
-            psc: null, // 'psc-2','psc-3','psc-4'
-            mtHouse: 'HD-1', // e.g. 'HD-1',
-            mtSenate: 'SD-1', // e.g. 'SD-1'
-            matchedAddress: null
-        })
+            match => {
+                setSelDistricts(match);
+                setError(null);
+            },
+            err => setError('Invalid address, please make sure you enter in this format: 1301 E 6th Ave, Helena')
+        );
     }
 
-    return <div css={lookupStyle}>
-        <div className="ledein">Show only candidates for your voting address</div>
-        <form>
-            <input onChange={handleChange} type="address" value={value || ''} placeholder={PLACEHOLDER} />
-            <button onClick={handleSubmit}>Look up</button>
-        </form>
-        <div className="message">
-            {(matchedAddress === null) && <div>{DEFAULT_MESSAGE}</div>}
-            {(matchedAddress !== null) && <div>
-                <div>Districts for <strong>{matchedAddress}</strong>:</div>
-                <div>[Results: {usHouse}, {psc}, {mtHouse}, {mtSenate}]</div>
-                <div>TODO - implement handling for bad address lookups</div>
-                <a onClick={reset}>Reset</a>
-            </div>}
+    function reset() {
+        setSelDistricts({
+            usHouse: null,
+            psc: null,
+            mtHouse: 'HD-1',
+            mtSenate: 'SD-1',
+            matchedAddress: null
+        });
+        setValue(null);
+        setError(null);
+    }
+
+    return (
+        <div css={lookupStyle}>
+            <div className="ledein">Show only candidates for your voting address</div>
+            <form>
+                <input onChange={handleChange} type="address" value={value || ''} placeholder={PLACEHOLDER} />
+                <button onClick={handleSubmit}>Look up</button>
+            </form>
+            <div className="message">
+                {error && (
+                    <div css={errorStyle}>
+                        <strong>Error:</strong> {error}
+                    </div>
+                )}
+                {(matchedAddress === null && !error) && <div>{DEFAULT_MESSAGE}</div>}
+                {(matchedAddress !== null && !error) && (
+                    <div>
+                        <div>Districts for <strong>{matchedAddress}</strong>:</div>
+                        <div>[Results: {usHouse}, {psc}, {mtHouse}, {mtSenate}]</div>
+                        <a onClick={reset}>Reset</a>
+                    </div>
+                )}
+            </div>
         </div>
-    </div>
+    );
 }
+
+const errorStyle = css`
+    background-color: #ffdddd;
+    color: #d8000c;
+    border: 1px solid #d8000c;
+    padding: 10px;
+    border-radius: 5px;
+    margin-bottom: 10px;
+    font-size: 16px;
+    font-weight: bold;
+    display: flex;
+    align-items: center;
+    svg {
+        margin-right: 10px;
+    }
+`;
