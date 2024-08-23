@@ -64,7 +64,6 @@ export default function Layout({
         <meta name="twitter:description" content={socialDescription} />
 
         <link rel="preload" href="https://use.typekit.net/fsd6htq.css" as="style" />
-        <link rel="stylesheet" href="https://use.typekit.net/fsd6htq.css" />
 
       </Head>
       {/* Google Analytics */}

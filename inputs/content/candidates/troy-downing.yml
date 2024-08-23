@@ -24,9 +24,9 @@ isIncumbent: false
 status: active
 fecId: H4MT02098
 ## Campaign web links
-campaignWebsite:
-campaignFB:
-campaignTW:
-campaignIG:
+campaignWebsite: https://www.troydowning.com/
+campaignFB: https://www.facebook.com/TroyDowningMT
+campaignTW: https://twitter.com/TroyDowningMT
+campaignIG: https://www.instagram.com/troydowningmt
 campaignYT:
 campaignTT:

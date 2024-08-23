@@ -1,7 +1,7 @@
 ---
 slug: sid-daud
-displayName: Sid Daud
-lastName: Daud
+displayName: Sid Daoud
+lastName: Daoud
 summaryLine: Kalispell city councilman
 summaryNarrative: |
   Daoud, 57 as of Election Day, is a Libertarian who says he hopes to usher in a new era of representation for Montana in the U.S. Senate.
@@ -21,9 +21,9 @@ isIncumbent: false
 status: active
 fecId:
 ## Campaign web links
-campaignWebsite:
-campaignFB:
-campaignTW:
-campaignIG:
+campaignWebsite: https://libertysid.com/
+campaignFB: https://www.facebook.com/pg/vote4sid/
+campaignTW: https://www.instagram.com/Daoud4Liberty/
+campaignIG: https://www.twitter.com/Daoud4Liberty
 campaignYT:
 campaignTT:
