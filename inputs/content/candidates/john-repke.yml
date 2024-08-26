@@ -18,9 +18,9 @@ isIncumbent: false
 status: active
 fecId:
 ## Campaign web links
-campaignWebsite:
-campaignFB:
+campaignWebsite: https://www.repkeformontana.com/
+campaignFB: https://www.facebook.com/repkeformt
 campaignTW:
-campaignIG:
+campaignIG: https://www.instagram.com/repkeformt/
 campaignYT:
 campaignTT:

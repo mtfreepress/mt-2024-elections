@@ -19,8 +19,8 @@ isIncumbent: false
 status: active
 fecId:
 ## Campaign web links
-campaignWebsite:
-campaignFB:
+campaignWebsite: https://www.jamesbrownformontana.com/
+campaignFB: https://www.facebook.com/JamesBrownMontana/
 campaignTW:
 campaignIG:
 campaignYT:

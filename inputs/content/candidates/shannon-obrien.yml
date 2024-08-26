@@ -18,9 +18,9 @@ isIncumbent: false
 status: active
 fecId:
 ## Campaign web links
-campaignWebsite:
-campaignFB:
-campaignTW:
-campaignIG:
-campaignYT:
+campaignWebsite: https://www.montanansforshannon.com/
+campaignFB: https://facebook.com/montanansforshannon
+campaignTW: https://twitter.com/Shannon4Montana
+campaignIG: https://instagram.com/montanansforshannon
+campaignYT: https://youtube.com/@montanansforshannon
 campaignTT:
