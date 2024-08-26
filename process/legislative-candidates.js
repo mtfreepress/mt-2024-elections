@@ -32,17 +32,44 @@ const LEGE_QUESTIONS = [
     'Question 5:  \nMany education leaders are concerned that the state’s existing school funding formula isn’t keeping up with the costs of educating students. What proposals, if any, would you support to ensure adequate and sustainable long-term funding is available for public pre-K–12, college/university, and vocational education programs?',
 ]
 
-const PARTY_ORDER = ['R', 'D', 'L', 'G']
+const PARTY_ORDER = ['R', 'D', 'L', 'G', 'I']
+
+const MANUAL_ADD_INDEPENDENT_CANDIDATES = [
+    {
+        'Status': 'FILED',
+        'Name': 'KELLEY DURBIN-WILLIAMS',
+        'District Type': 'Senate',
+        'District': 'SENATE DISTRICT 45',
+        'Party Preference': 'IND',
+    },
+    {
+        'Status': 'FILED',
+        'Name': 'JANNA HAFER',
+        'District Type': 'House',
+        'District': 'HOUSE DISTRICT 51',
+        'Party Preference': 'IND',
+    },
+]
 
 async function main() {
-    const candidates = await getCsv('./inputs/filings/CandidateList.csv',)
+    let candidates = await getCsv('./inputs/filings/CandidateList.csv',) // Includes manually added independent candidates
     const candidateAnnotations = await getCsv('./inputs/content/lege-candidate-annotations.csv',)
     const legeDistricts = await getCsv('./inputs/legislative-districts/districts.csv',)
-    const legeQuestions = await getCsv('./inputs/lvw-questionnaire/lwvmt24-races.csv',)
+    const legeQuestionsPrePrimary = await getCsv('./inputs/lvw-questionnaire/pre-primary-lwvmt24-races.csv',)
+    const legeQuestionsPostPrimary = await getCsv('./inputs/lvw-questionnaire/lwvmt24-races.csv',)
     const coverage = getJson('./inputs/coverage/articles.json')
     const primaryResultListing = getJson('./inputs/results/cleaned/2024-primary-legislative.json')
 
+    // merging legeQuestions because post-primary updates from LWV don't 
+    // include candidates that lost their primaries
+    const legeQuestions = legeQuestionsPrePrimary.map(d => d['Full Name']).map(name => {
+        const postPrimaryMatch = legeQuestionsPostPrimary.find(d => d['Full Name'] === name)
+        if (postPrimaryMatch) return postPrimaryMatch
+        return legeQuestionsPrePrimary.find(d => d['Full Name'] === name)
+    })
+
     // cleaning
+    candidates = candidates.concat(MANUAL_ADD_INDEPENDENT_CANDIDATES)
     candidates.forEach(d => {
         d.Name = d.Name.trim()
         d.Name = NAME_REPLACE[d.Name] || d.Name
