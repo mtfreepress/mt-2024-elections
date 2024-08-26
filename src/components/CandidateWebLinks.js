@@ -58,7 +58,6 @@ const SocialTag = ({ url, type, icon, replace }) => {
 }
 
 export default function CandidateWebLinks(props) {
-    console.log(props)
     const webLinks = WEB_LINKS.map(type => {
         const url = props['campaign' + type.key] // e.g. campaignWebsite or campaignFB
         if (!url) return null
