@@ -72,12 +72,6 @@ export default function CandidatePage({ pageData, votingFAQ }) {
         raceDisplayName,
         cap_tracker_2023_link,
         primaryResults,
-        campaignWebsite,
-        campaignFB,
-        campaignTW,
-        campaignIG,
-        campaignYT,
-        campaignTT,
     } = pageData
     const pageDescription = `${displayName} (${party}) is running as a candidate for ${raceDisplayName} in Montana's 2024 election. See biographic details, district boundaries and information on how to vote.`
     return (
@@ -112,13 +106,14 @@ export default function CandidatePage({ pageData, votingFAQ }) {
 
                 />
             </section>
+           
 
 
 
             {/* NARRATIVE SECTION */}
             <section>
                 <Markdown>{summaryNarrative}</Markdown>
-                <CandidateWebLinks {...pageData} />
+                {/* <CandidateWebLinks {...pageData} /> */}
             </section>
 
             <LowdownCTA />

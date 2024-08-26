@@ -88,6 +88,7 @@ export default function CandidatePage({ pageData, votingFAQ }) {
         raceDisplayName,
         primaryResults
     } = pageData
+    console.log('Web Links:', pageData);
     const pageDescription = `${displayName} (${party}) is running as a candidate for ${raceDisplayName} in Montana's 2024 election. See biographic details, issue positions and information on how to vote.`
     return (
         <Layout pageCss={candidatePageStyle}
