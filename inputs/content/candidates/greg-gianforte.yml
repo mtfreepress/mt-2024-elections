@@ -21,9 +21,9 @@ isIncumbent: false
 status: active
 fecId:
 ## Campaign web links
-campaignWebsite:
-campaignFB:
-campaignTW:
-campaignIG:
-campaignYT:
+campaignWebsite: https://gregformontana.com/
+campaignFB: https://www.facebook.com/RepGianforte
+campaignTW: https://twitter.com/GregForMontana
+campaignIG: https://www.instagram.com/govgianforte/
+campaignYT: https://www.youtube.com/RepGianforte
 campaignTT:
