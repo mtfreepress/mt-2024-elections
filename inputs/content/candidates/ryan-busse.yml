@@ -20,9 +20,9 @@ isIncumbent: false
 status: active
 fecId:
 ## Campaign web links
-campaignWebsite:
-campaignFB:
-campaignTW:
-campaignIG:
+campaignWebsite: https://busseformontana.com/
+campaignFB: https://www.facebook.com/profile.php?id=61550979818697
+campaignTW: https://twitter.com/ryandbusse
+campaignIG: https://www.instagram.com/ryandbusse/
 campaignYT:
-campaignTT:
+campaignTT: https://www.tiktok.com/@ryan.busse

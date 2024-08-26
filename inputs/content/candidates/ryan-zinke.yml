@@ -18,9 +18,9 @@ isIncumbent: true
 status: active
 fecId: H4MT01041
 ## Campaign web links
-campaignWebsite:
-campaignFB:
-campaignTW:
-campaignIG:
-campaignYT:
+campaignWebsite: https://www.ryanzinke.com/
+campaignFB: https://www.facebook.com/ryanzinke
+campaignTW: https://twitter.com/RyanZinke
+campaignIG: https://www.instagram.com/zinkeformontana/
+campaignYT: https://www.youtube.com/channel/UCclJSG2Y6DdU0bFGLv50ikw
 campaignTT:

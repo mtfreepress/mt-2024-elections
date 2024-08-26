@@ -96,14 +96,13 @@
     "cap_tracker_2023_link": null
   },
   {
-    "slug": "sid-daud",
+    "slug": "sid-daoud",
     "path": "candidates",
-    "displayName": "Sid Daud",
+    "displayName": "Sid Daoud",
     "summaryLine": "Kalispell city councilman",
     "race": "U.S. Senate",
     "party": "L",
     "status": "active",
-    "hasResponses": true,
     "numMTFParticles": 0,
     "cap_tracker_2023_link": null
   },
@@ -174,7 +173,7 @@
     "summaryLine": "Billings resident",
     "race": "U.S. Senate",
     "party": "G",
-    "status": "lost-primary",
+    "status": "active",
     "hasResponses": false,
     "numMTFParticles": 0,
     "cap_tracker_2023_link": null
@@ -246,7 +245,7 @@
     "summaryLine": "Helena resident",
     "race": "U.S. Senate",
     "party": "G",
-    "status": "active",
+    "status": "inactive",
     "hasResponses": false,
     "numMTFParticles": 0,
     "cap_tracker_2023_link": null

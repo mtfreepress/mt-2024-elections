@@ -18,8 +18,8 @@ isIncumbent: true
 status: active
 fecId:
 ## Campaign web links
-campaignWebsite:
-campaignFB:
+campaignWebsite: https://austinformontana.com/
+campaignFB: https://www.facebook.com/AustinKnudsenMT
 campaignTW:
 campaignIG:
 campaignYT:
