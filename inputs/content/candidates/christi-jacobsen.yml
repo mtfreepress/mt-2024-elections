@@ -16,9 +16,9 @@ isIncumbent: true
 status: active
 fecId:
 ## Campaign web links
-campaignWebsite:
-campaignFB:
-campaignTW:
+campaignWebsite: https://christijacobsen.com/
+campaignFB: https://www.facebook.com/Christi4Montana/
+campaignTW: https://twitter.com/christi4montana/
 campaignIG:
 campaignYT:
 campaignTT:

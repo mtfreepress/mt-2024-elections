@@ -20,9 +20,9 @@ isIncumbent: false
 status: active
 fecId: S4MT00183
 ## Campaign web links
-campaignWebsite:
-campaignFB:
-campaignTW:
-campaignIG:
-campaignYT:
+campaignWebsite: https://timformt.com/
+campaignFB: https://facebook.com/sheehyformt
+campaignTW: https://twitter.com/sheehyformt
+campaignIG: https://instagram.com/sheehyformt
+campaignYT: https://www.youtube.com/channel/UCehSiAGQ6hCRL13kz56J2Gg
 campaignTT:
