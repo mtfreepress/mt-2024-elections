@@ -10,3 +10,6 @@ This is a [Next.js](https://nextjs.org/) project.
 - `process` - Data processing code that bundles inputs into data for display
 - `src` - Code for Next.js-based static web app using processsed data (page templates, components, styling, etc.)
 - `public` - Images and other static content
+
+## Helpful Commands
+- To update all YAML files (so the page updates) run: `node process/main.js`

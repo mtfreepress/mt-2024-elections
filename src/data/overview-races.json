@@ -25,17 +25,16 @@
         "numMTFParticles": 17
       },
       {
-        "slug": "sid-daud",
-        "displayName": "Sid Daud",
+        "slug": "sid-daoud",
+        "displayName": "Sid Daoud",
         "summaryLine": "Kalispell city councilman",
         "party": "L",
-        "hasResponses": true,
         "numMTFParticles": 0
       },
       {
-        "slug": "michael-downey",
-        "displayName": "Michael Downey",
-        "summaryLine": "Helena resident",
+        "slug": "robert-barb",
+        "displayName": "Robert Barb",
+        "summaryLine": "Billings resident",
         "party": "G",
         "hasResponses": false,
         "numMTFParticles": 0
@@ -109,9 +108,9 @@
         "numMTFParticles": 0
       },
       {
-        "slug": "robert-barb",
-        "displayName": "Robert Barb",
-        "summaryLine": "Billings resident",
+        "slug": "michael-downey",
+        "displayName": "Michael Downey",
+        "summaryLine": "Helena resident",
         "party": "G",
         "hasResponses": false,
         "numMTFParticles": 0

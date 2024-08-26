@@ -51,14 +51,14 @@ const SocialTag = ({ url, type, icon, replace }) => {
         label = 'YouTube'
     }
 
-    return <a css={socialTagStyle} href={`https://${url}`}>
+    return <a css={socialTagStyle} href={`${url}`}>
         <span className="icon">{icon}</span>
         <span className="icon-label">{label}</span>
     </a>
 }
 
 export default function CandidateWebLinks(props) {
-
+    console.log(props)
     const webLinks = WEB_LINKS.map(type => {
         const url = props['campaign' + type.key] // e.g. campaignWebsite or campaignFB
         if (!url) return null
