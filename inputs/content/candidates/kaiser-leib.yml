@@ -20,9 +20,9 @@ isIncumbent: false
 status: active
 fecId:
 ## Campaign web links
-campaignWebsite:
+campaignWebsite: https://kaiserformontana.us/
 campaignFB:
-campaignTW:
-campaignIG:
+campaignTW: https://twitter.com/KaiserForMT
+campaignIG: https://www.instagram.com/kaiser.leib/
 campaignYT:
 campaignTT:
