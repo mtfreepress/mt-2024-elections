@@ -8,7 +8,7 @@ import Layout from '../../design/Layout'
 import LowdownCTA from '../../design/LowdownCTA'
 
 import CandidatePageSummary from '../../components/CandidatePageSummary'
-// import CandidateWebLinks from '../../components/CandidateWebLinks'
+import CandidateWebLinks from '../../components/CandidateWebLinks'
 import CandidatePageOpponents from '../../components/CandidatePageOpponents'
 import RaceFinance from '../../components/RaceFinance'
 import CandidateQuestionnaire from '../../components/CandidateQuestionnaire'
@@ -126,7 +126,7 @@ export default function CandidatePage({ pageData, votingFAQ }) {
             <a className="link-anchor" id="bio"></a>
             <section>
                 <Markdown>{summaryNarrative}</Markdown>
-                {/* <CandidateWebLinks {...pageData} /> */}
+                <CandidateWebLinks {...pageData} />
             </section>
 
             <LowdownCTA />
