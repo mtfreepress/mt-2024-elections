@@ -20,7 +20,7 @@
     "party": "R",
     "status": "active",
     "hasResponses": true,
-    "numMTFParticles": 17,
+    "numMTFParticles": 18,
     "cap_tracker_2023_link": null
   },
   {
@@ -151,7 +151,7 @@
     "party": "D",
     "status": "active",
     "hasResponses": true,
-    "numMTFParticles": 7,
+    "numMTFParticles": 8,
     "cap_tracker_2023_link": null
   },
   {
@@ -175,7 +175,7 @@
     "party": "G",
     "status": "active",
     "hasResponses": false,
-    "numMTFParticles": 0,
+    "numMTFParticles": 1,
     "cap_tracker_2023_link": null
   },
   {
@@ -247,7 +247,7 @@
     "party": "G",
     "status": "inactive",
     "hasResponses": false,
-    "numMTFParticles": 0,
+    "numMTFParticles": 1,
     "cap_tracker_2023_link": null
   },
   {
@@ -379,7 +379,7 @@
     "party": "D",
     "status": "active",
     "hasResponses": true,
-    "numMTFParticles": 11,
+    "numMTFParticles": 12,
     "cap_tracker_2023_link": null
   },
   {
@@ -547,7 +547,7 @@
     "party": "R",
     "status": "active",
     "hasResponses": true,
-    "numMTFParticles": 17,
+    "numMTFParticles": 20,
     "cap_tracker_2023_link": null
   },
   {
@@ -679,7 +679,7 @@
     "party": "R",
     "status": "active",
     "hasResponses": true,
-    "numMTFParticles": 5,
+    "numMTFParticles": 6,
     "cap_tracker_2023_link": null
   },
   {
@@ -1122,7 +1122,7 @@
     "race": "Senate District 30",
     "party": "D",
     "status": "active",
-    "hasResponses": false,
+    "hasResponses": true,
     "numMTFParticles": 0,
     "cap_tracker_2023_link": null
   },
@@ -1146,7 +1146,7 @@
     "race": "Senate District 33",
     "party": "D",
     "status": "active",
-    "hasResponses": false,
+    "hasResponses": true,
     "numMTFParticles": 0,
     "cap_tracker_2023_link": "https://apps.montanafreepress.org/capitol-tracker-2023/lawmakers/Chris-Pope/"
   },
@@ -1422,7 +1422,7 @@
     "race": "Senate District 45",
     "party": "D",
     "status": "active",
-    "hasResponses": false,
+    "hasResponses": true,
     "numMTFParticles": 0,
     "cap_tracker_2023_link": null
   },
@@ -2274,7 +2274,7 @@
     "race": "House District 25",
     "party": "D",
     "status": "active",
-    "hasResponses": false,
+    "hasResponses": true,
     "numMTFParticles": 0,
     "cap_tracker_2023_link": null
   },
@@ -2924,7 +2924,7 @@
     "status": "active",
     "hasResponses": false,
     "numMTFParticles": 0,
-    "cap_tracker_2023_link": null
+    "cap_tracker_2023_link": "https://apps.montanafreepress.org/capitol-tracker-2023/lawmakers/Jodee-Etchart/"
   },
   {
     "slug": "bill-mercer",
@@ -3090,7 +3090,7 @@
     "race": "House District 58",
     "party": "R",
     "status": "active",
-    "hasResponses": false,
+    "hasResponses": true,
     "numMTFParticles": 0,
     "cap_tracker_2023_link": null
   },
@@ -4399,6 +4399,28 @@
     "party": "R",
     "status": "active",
     "hasResponses": true,
+    "numMTFParticles": 0,
+    "cap_tracker_2023_link": null
+  },
+  {
+    "slug": "kelley-durbin-williams",
+    "path": "legislature",
+    "displayName": "KELLEY DURBIN-WILLIAMS",
+    "summaryLine": null,
+    "race": "Senate District 45",
+    "party": "I",
+    "status": "active",
+    "numMTFParticles": 0,
+    "cap_tracker_2023_link": null
+  },
+  {
+    "slug": "janna-hafer",
+    "path": "legislature",
+    "displayName": "JANNA HAFER",
+    "summaryLine": null,
+    "race": "House District 51",
+    "party": "I",
+    "status": "active",
     "numMTFParticles": 0,
     "cap_tracker_2023_link": null
   }

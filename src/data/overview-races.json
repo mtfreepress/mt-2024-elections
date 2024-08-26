@@ -14,7 +14,7 @@
         "summaryLine": "Incumbent U.S. senator",
         "party": "D",
         "hasResponses": true,
-        "numMTFParticles": 11
+        "numMTFParticles": 12
       },
       {
         "slug": "tim-sheehy",
@@ -22,7 +22,7 @@
         "summaryLine": "Bozeman businessman",
         "party": "R",
         "hasResponses": true,
-        "numMTFParticles": 17
+        "numMTFParticles": 18
       },
       {
         "slug": "sid-daoud",
@@ -37,7 +37,7 @@
         "summaryLine": "Billings resident",
         "party": "G",
         "hasResponses": false,
-        "numMTFParticles": 0
+        "numMTFParticles": 1
       }
     ],
     "finance": [
@@ -46,30 +46,30 @@
         "party": "D",
         "candidateCommitteeName": "MONTANANS FOR TESTER",
         "candidateId": "S6MT00162",
-        "totalReceipts": 37330566.84,
-        "totalDisbursments": 26017759.69,
-        "cashOnHand": 11793381.02,
-        "coverageEndDate": "2024-05-15"
+        "totalReceipts": 43775556.22,
+        "totalDisbursments": 33373881.22,
+        "cashOnHand": 10882248.87,
+        "coverageEndDate": "2024-06-30"
       },
       {
         "displayName": "Tim Sheehy",
         "party": "R",
         "candidateCommitteeName": "TIM SHEEHY FOR MONTANA",
         "candidateId": "S4MT00183",
-        "totalReceipts": 10775514.95,
-        "totalDisbursments": 8347783.29,
-        "cashOnHand": 2427731.66,
-        "coverageEndDate": "2024-05-15"
+        "totalReceipts": 14065647.85,
+        "totalDisbursments": 10795081.65,
+        "cashOnHand": 3270566.2,
+        "coverageEndDate": "2024-06-30"
       },
       {
         "displayName": "Brad Johnson",
         "party": "R",
         "candidateCommitteeName": "BRAD FOR MONTANA",
         "candidateId": "S2MT00062",
-        "totalReceipts": 42967.97,
-        "totalDisbursments": 39697.16,
-        "cashOnHand": 3270.81,
-        "coverageEndDate": "2024-05-15"
+        "totalReceipts": 43094,
+        "totalDisbursments": 43094,
+        "cashOnHand": 0,
+        "coverageEndDate": "2024-06-30"
       },
       {
         "displayName": "Charles Walkingchild",
@@ -113,7 +113,7 @@
         "summaryLine": "Helena resident",
         "party": "G",
         "hasResponses": false,
-        "numMTFParticles": 0
+        "numMTFParticles": 1
       }
     ]
   },
@@ -157,30 +157,30 @@
         "party": "R",
         "candidateCommitteeName": "ZINKE FOR CONGRESS",
         "candidateId": "H4MT01041",
-        "totalReceipts": 5752008.24,
-        "totalDisbursments": 3341562.2,
-        "cashOnHand": 2520494.16,
-        "coverageEndDate": "2024-05-15"
+        "totalReceipts": 6795218.18,
+        "totalDisbursments": 3797356.14,
+        "cashOnHand": 3107910.16,
+        "coverageEndDate": "2024-06-30"
       },
       {
         "displayName": "Monica Tranel",
         "party": "D",
         "candidateCommitteeName": "MONICA TRANEL FOR MONTANA",
         "candidateId": "H2MT02092",
-        "totalReceipts": 2340724.68,
-        "totalDisbursments": 826277.4,
-        "cashOnHand": 1524332.93,
-        "coverageEndDate": "2024-05-15"
+        "totalReceipts": 3114477.64,
+        "totalDisbursments": 1009866.97,
+        "cashOnHand": 2114496.32,
+        "coverageEndDate": "2024-06-30"
       },
       {
         "displayName": "Mary Todd",
         "party": "R",
         "candidateCommitteeName": "MARY TODD FOR MONTANA - 2024",
         "candidateId": "H2MT00112",
-        "totalReceipts": 87253.15,
-        "totalDisbursments": 67177.61,
-        "cashOnHand": 20075.54,
-        "coverageEndDate": "2024-05-15"
+        "totalReceipts": 122732.43,
+        "totalDisbursments": 122732.43,
+        "cashOnHand": 0,
+        "coverageEndDate": "2024-06-30"
       },
       {
         "displayName": "Dennis Hayes",
@@ -244,30 +244,40 @@
         "party": "R",
         "candidateCommitteeName": "TROY DOWNING FOR CONGRESS",
         "candidateId": "H4MT02098",
-        "totalReceipts": 1818816.51,
-        "totalDisbursments": 1383494.21,
-        "cashOnHand": 435322.3,
-        "coverageEndDate": "2024-05-15"
+        "totalReceipts": 2107242.87,
+        "totalDisbursments": 2010881.73,
+        "cashOnHand": 96361.14,
+        "coverageEndDate": "2024-06-30"
       },
       {
         "displayName": "Elsie Arntzen",
         "party": "R",
         "candidateCommitteeName": "ELSIE ARNTZEN FOR CONGRESS",
         "candidateId": "H4MT01058",
-        "totalReceipts": 871444.22,
-        "totalDisbursments": 805097.1,
-        "cashOnHand": 66347.12,
-        "coverageEndDate": "2024-05-15"
+        "totalReceipts": 881587.96,
+        "totalDisbursments": 868741.06,
+        "cashOnHand": 12846.9,
+        "coverageEndDate": "2024-06-30"
       },
       {
         "displayName": "Denny Rehberg",
         "party": "R",
         "candidateCommitteeName": "MONTANANS FOR REHBERG 2024",
         "candidateId": "H0MT00033",
-        "totalReceipts": 601991.74,
-        "totalDisbursments": 453928.28,
-        "cashOnHand": 148063.46,
-        "coverageEndDate": "2024-05-15"
+        "totalReceipts": 631425.21,
+        "totalDisbursments": 631425.21,
+        "cashOnHand": 0,
+        "coverageEndDate": "2024-09-30"
+      },
+      {
+        "displayName": "Stacy Zinn",
+        "party": "R",
+        "candidateCommitteeName": "ZINN FOR MONTANA",
+        "candidateId": "H4MT02106",
+        "totalReceipts": 151449.7,
+        "totalDisbursments": 112747.58,
+        "cashOnHand": 38702.12,
+        "coverageEndDate": "2024-06-30"
       },
       {
         "displayName": "Ed Walker",
@@ -275,79 +285,69 @@
         "candidateCommitteeName": "WALKER FOR MT",
         "candidateId": "H8MT01190",
         "totalReceipts": 113963.42,
-        "totalDisbursments": 89324.84,
-        "cashOnHand": 24638.58,
-        "coverageEndDate": "2024-05-15"
+        "totalDisbursments": 109495.54,
+        "cashOnHand": 4467.88,
+        "coverageEndDate": "2024-06-30"
       },
       {
         "displayName": "Steve Held",
         "party": "D",
         "candidateCommitteeName": "MONTANA HELD",
         "candidateId": "H4MT02148",
-        "totalReceipts": 86570,
-        "totalDisbursments": 67945.68,
-        "cashOnHand": 18624.32,
-        "coverageEndDate": "2024-05-15"
+        "totalReceipts": 96204,
+        "totalDisbursments": 96204,
+        "cashOnHand": 0,
+        "coverageEndDate": "2024-08-11"
       },
       {
         "displayName": "Joel Krautter",
         "party": "R",
         "candidateCommitteeName": "JOEL KRAUTTER FOR MONTANA",
         "candidateId": "H4MT02064",
-        "totalReceipts": 76533.89,
-        "totalDisbursments": 67136.23,
-        "cashOnHand": 9397.66,
-        "coverageEndDate": "2024-05-15"
+        "totalReceipts": 88078.89,
+        "totalDisbursments": 84417.91,
+        "cashOnHand": 3660.98,
+        "coverageEndDate": "2024-06-30"
       },
       {
         "displayName": "Kevin Hamm",
         "party": "D",
         "candidateCommitteeName": "KEVIN HAMM FOR CONGRESS",
         "candidateId": "H4MT02031",
-        "totalReceipts": 62689.41,
-        "totalDisbursments": 57628.12,
-        "cashOnHand": 5061.29,
-        "coverageEndDate": "2024-05-15"
+        "totalReceipts": 67689.41,
+        "totalDisbursments": 65344.92,
+        "cashOnHand": 2344.49,
+        "coverageEndDate": "2024-06-30"
       },
       {
         "displayName": "Ming Cabrera",
         "party": "D",
         "candidateCommitteeName": "MING FOR CONGRESS",
         "candidateId": "H4MT02056",
-        "totalReceipts": 60007,
-        "totalDisbursments": 41424.03,
-        "cashOnHand": 18582.97,
-        "coverageEndDate": "2024-05-22"
+        "totalReceipts": 60947,
+        "totalDisbursments": 59907.55,
+        "cashOnHand": 1636.18,
+        "coverageEndDate": "2024-06-30"
       },
       {
         "displayName": "Ken Bogner",
         "party": "R",
         "candidateCommitteeName": "KEN BOGNER FOR CONGRESS",
         "candidateId": "H4MT02114",
-        "totalReceipts": 54359.09,
-        "totalDisbursments": 43425.82,
-        "cashOnHand": 10933.27,
-        "coverageEndDate": "2024-05-15"
+        "totalReceipts": 55442.49,
+        "totalDisbursments": 55234.44,
+        "cashOnHand": 208.05,
+        "coverageEndDate": "2024-06-30"
       },
       {
         "displayName": "Ric Holden",
         "party": "R",
         "candidateCommitteeName": "RIC HOLDEN FOR MONTANA",
         "candidateId": "H4MT02072",
-        "totalReceipts": 49248.05,
-        "totalDisbursments": 46540.55,
-        "cashOnHand": 2708,
-        "coverageEndDate": "2024-05-15"
-      },
-      {
-        "displayName": "Stacy Zinn",
-        "party": "R",
-        "candidateCommitteeName": "ZINN FOR MONTANA",
-        "candidateId": "H4MT02106",
-        "totalReceipts": 41460.84,
-        "totalDisbursments": 3091.01,
-        "cashOnHand": 38369.83,
-        "coverageEndDate": "2024-05-15"
+        "totalReceipts": 51720.86,
+        "totalDisbursments": 50654.15,
+        "cashOnHand": 1067,
+        "coverageEndDate": "2024-07-01"
       },
       {
         "displayName": "Kyle Austin",
@@ -465,7 +465,7 @@
         "summaryLine": "Incumbent Montana governor",
         "party": "R",
         "hasResponses": true,
-        "numMTFParticles": 17
+        "numMTFParticles": 20
       },
       {
         "slug": "ryan-busse",
@@ -473,7 +473,7 @@
         "summaryLine": "Former firearms sales executive",
         "party": "D",
         "hasResponses": true,
-        "numMTFParticles": 7
+        "numMTFParticles": 8
       },
       {
         "slug": "kaiser-leib",
@@ -518,7 +518,7 @@
         "summaryLine": "Incumbent secretary of state",
         "party": "R",
         "hasResponses": true,
-        "numMTFParticles": 5
+        "numMTFParticles": 6
       },
       {
         "slug": "jesse-mullen",

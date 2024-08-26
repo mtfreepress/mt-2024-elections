@@ -879,7 +879,7 @@
         "party": "D",
         "status": "active",
         "cap_tracker_2023_link": null,
-        "hasResponses": false,
+        "hasResponses": true,
         "numMTFParticles": 0
       }
     ]
@@ -1667,8 +1667,16 @@
         "displayName": "JODEE ETCHART",
         "party": "R",
         "status": "active",
-        "cap_tracker_2023_link": null,
+        "cap_tracker_2023_link": "https://apps.montanafreepress.org/capitol-tracker-2023/lawmakers/Jodee-Etchart/",
         "hasResponses": false,
+        "numMTFParticles": 0
+      },
+      {
+        "slug": "janna-hafer",
+        "displayName": "JANNA HAFER",
+        "party": "I",
+        "status": "active",
+        "cap_tracker_2023_link": null,
         "numMTFParticles": 0
       }
     ]
@@ -1878,7 +1886,7 @@
         "party": "R",
         "status": "active",
         "cap_tracker_2023_link": null,
-        "hasResponses": false,
+        "hasResponses": true,
         "numMTFParticles": 0
       },
       {
@@ -4027,7 +4035,7 @@
         "party": "D",
         "status": "active",
         "cap_tracker_2023_link": null,
-        "hasResponses": false,
+        "hasResponses": true,
         "numMTFParticles": 0
       }
     ]
@@ -4083,7 +4091,7 @@
         "party": "D",
         "status": "active",
         "cap_tracker_2023_link": "https://apps.montanafreepress.org/capitol-tracker-2023/lawmakers/Chris-Pope/",
-        "hasResponses": false,
+        "hasResponses": true,
         "numMTFParticles": 0
       }
     ]
@@ -4438,7 +4446,15 @@
         "party": "D",
         "status": "active",
         "cap_tracker_2023_link": null,
-        "hasResponses": false,
+        "hasResponses": true,
+        "numMTFParticles": 0
+      },
+      {
+        "slug": "kelley-durbin-williams",
+        "displayName": "KELLEY DURBIN-WILLIAMS",
+        "party": "I",
+        "status": "active",
+        "cap_tracker_2023_link": null,
         "numMTFParticles": 0
       }
     ]
