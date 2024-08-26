@@ -379,11 +379,11 @@
     "isIncumbent": false,
     "status": "active",
     "fecId": "S4MT00183",
-    "campaignWebsite": null,
-    "campaignFB": null,
-    "campaignTW": null,
-    "campaignIG": null,
-    "campaignYT": null,
+    "campaignWebsite": "https://timformt.com/",
+    "campaignFB": "https://facebook.com/sheehyformt",
+    "campaignTW": "https://twitter.com/sheehyformt",
+    "campaignIG": "https://instagram.com/sheehyformt",
+    "campaignYT": "https://www.youtube.com/channel/UCehSiAGQ6hCRL13kz56J2Gg",
     "campaignTT": null,
     "raceSlug": "us-senate",
     "raceDisplayName": "U.S. Senate",
@@ -401,15 +401,15 @@
         "party": "R"
       },
       {
-        "slug": "sid-daud",
-        "displayName": "Sid Daud",
+        "slug": "sid-daoud",
+        "displayName": "Sid Daoud",
         "summaryLine": "Kalispell city councilman",
         "party": "L"
       },
       {
-        "slug": "michael-downey",
-        "displayName": "Michael Downey",
-        "summaryLine": "Helena resident",
+        "slug": "robert-barb",
+        "displayName": "Robert Barb",
+        "summaryLine": "Billings resident",
         "party": "G"
       }
     ],
@@ -1130,10 +1130,10 @@
     "isIncumbent": false,
     "status": "active",
     "fecId": null,
-    "campaignWebsite": null,
-    "campaignFB": null,
+    "campaignWebsite": "https://www.susieforschools.com/",
+    "campaignFB": "https://www.facebook.com/p/Susie-for-Schools-100094601234443/",
     "campaignTW": null,
-    "campaignIG": null,
+    "campaignIG": "https://www.instagram.com/susieforschools/",
     "campaignYT": null,
     "campaignTT": null,
     "raceSlug": "superintendent",
@@ -2020,19 +2020,19 @@
     }
   },
   {
-    "slug": "sid-daud",
-    "displayName": "Sid Daud",
-    "lastName": "Daud",
+    "slug": "sid-daoud",
+    "displayName": "Sid Daoud",
+    "lastName": "Daoud",
     "summaryLine": "Kalispell city councilman",
     "summaryNarrative": "Daoud, 57 as of Election Day, is a Libertarian who says he hopes to usher in a new era of representation for Montana in the U.S. Senate.\n\nHe says being a third-party candidate means he won’t be beholden to any major party leader and will vote his conscience no matter who is in the White House, though he acknowledged more alignment with Trump than Biden. \n\n“I will be forced to work with whichever flavor of administration we have, but I will be consistent in upholding and voting my principles,” Daoud said. “Coincidentally my principles align with the principles of Montana and all I need to fall back on are the same lessons I grew up learning in our great state.”\n\nDaoud said he wants to dramatically reduce federal spending, restore the federal appropriations process to regular order and cut government programs. As a Libertarian, he said he also believes in ending American military aid to foreign countries. \n\n“I’m a Montanan with a rich family history, representing two American dreams,” he said. “On my mother’s side, the dream of early settlers in territorial Montana, and on my father’s, that of an Armenian immigrant, coming to America to work hard and make a new life.”\n\nThis biography is based on material Daoud provided to MTFP.\n",
     "party": "L",
     "isIncumbent": false,
     "status": "active",
     "fecId": null,
-    "campaignWebsite": null,
-    "campaignFB": null,
-    "campaignTW": null,
-    "campaignIG": null,
+    "campaignWebsite": "https://libertysid.com/",
+    "campaignFB": "https://www.facebook.com/pg/vote4sid/",
+    "campaignTW": "https://www.twitter.com/Daoud4Liberty",
+    "campaignIG": "https://www.instagram.com/Daoud4Liberty/",
     "campaignYT": null,
     "campaignTT": null,
     "raceSlug": "us-senate",
@@ -2051,15 +2051,15 @@
         "party": "R"
       },
       {
-        "slug": "sid-daud",
-        "displayName": "Sid Daud",
+        "slug": "sid-daoud",
+        "displayName": "Sid Daoud",
         "summaryLine": "Kalispell city councilman",
         "party": "L"
       },
       {
-        "slug": "michael-downey",
-        "displayName": "Michael Downey",
-        "summaryLine": "Helena resident",
+        "slug": "robert-barb",
+        "displayName": "Robert Barb",
+        "summaryLine": "Billings resident",
         "party": "G"
       }
     ],
@@ -2115,49 +2115,7 @@
       }
     ],
     "questionnaire": {
-      "hasResponses": true,
-      "responses": [
-        {
-          "question": "What do you see as the biggest issue Montana is facing that the Senate is in a position to address? How would you address it if elected or re-elected?",
-          "answer": "Our biggest issue is our out-of-control national debt and inflation. We must stop spending, pass an actual budget (which Congress [hasn't] done in 28 years) that includes paying down our debt. We must demand that the Federal Reserve stop printing money until we see deflation. We can cut our budget by reducing the number of federal agencies and programs they administer. All this must be done immediately as we are currently callously spending our future generations’ future.\n"
-        },
-        {
-          "question": "If President Joe Biden is re-elected, how would you want to work with his administration as a senator?",
-          "answer": "I will be forced to work with whichever flavor of administration we have, but I will be consistent in upholding and voting my principles. Coincidentally my principles align with the principles of Montana and all I need to fall back on are the same lessons I grew up learning in our great state. Essentially the ideal of being left alone — less government intervention, more self-reliance. I personally doubt that President Biden is in charge of his own mental faculties let alone the nation.\n"
-        },
-        {
-          "question": "Similarly, if former President Donald Trump is elected, how would you want to work with him?",
-          "answer": "Not being a Republican or Democrat has its advantages, as I am beholden to no party (not even my own) or political personality. Please see my previous response, although I think that I have a bit more alignment with President Trump.\n"
-        },
-        {
-          "question": "Do you regard reining in the federal deficit as a priority? If so, in what budget areas would you support spending cuts or tax increases?",
-          "answer": "It is our number one priority. Absolutely no tax increases whatsoever. We can provide a balanced budget, with cuts across the board. We can also reduce the size of the federal government by reducing the number of federal agencies. I do not see the value in any agency created after 1970. Their roles can be folded into existing agencies. None of this will be fun, but it is necessary to dig us out of the hole we are in and get us all back to adherence to the Constitution.\n"
-        },
-        {
-          "question": "Would you support federal legislation that either restricts abortions or guarantees access on a national basis? With what conditions?",
-          "answer": "I agree with the Supreme Court, abortion is not a federal issue. I however take it further; the government should be completely out of this issue.\n"
-        },
-        {
-          "question": "What if anything should Congress do to ensure Montanans have access to affordable housing?",
-          "answer": "The best thing the federal government can do to address housing access for all is to start correcting our national debt, inflation and out of control spending. The local economy is affected by this critically. I face housing issues all the time on City Council here in Kalispell (the fastest-growing micropolitan city in the U.S.) and the only fix is to increase the number of units. We have done a great job in Kalispell to start addressing this with the units we have coming online. The national lockdown and Covid funding were crippling factors to this problem, and it is going to take bunch of hard work to correct this. The high cost of materials coupled with the scarcity of construction workers is a terrible combination.\n"
-        },
-        {
-          "question": "To what extent do you see climate change as an urgent issue? What if any action should Congress take to address it?",
-          "answer": "Climate change has turned into a power grab by government entities around the world. If we in the U.S. are serious about reducing our impact, we should do it the American way by supporting and getting out of the way of innovation by entrepreneurs. Regulating and taxing will fail as it always does. I am very concerned with the not-so-hidden global effort of depopulation, that scares me more than anything around this issue.\n"
-        },
-        {
-          "question": "What if any action should Congress take to change how the nation controls movement across the U.S.-Mexico border?",
-          "answer": "This is probably the biggest hot button issue facing federal candidates this year. Unfortunately, the leadership of the two big parties have no intention of fixing the issue as it keeps their base in line and focused on the left-right war. I would begin to attack this issue by immediately stopping all social welfare for immigrants. We have not given this in the past and no one should expect tax dollars to be taken and then distributed to non-citizens. If we are going to have a border policy, it should be consistent to every border and consistent between agencies tasked with enforcement (which it is not today). I don’t think anyone would disagree that we need immigration policy reform.\n"
-        },
-        {
-          "question": "The cost of health care is a concern for many Montanans. What if any federal action would you support to improve the U.S. health care system?",
-          "answer": "The government needs to get out of the way. The best outcomes appear when there is little government involvement, and the free market can determine pricing (Lasik eye surgery is a great example of this). This is the only service that we engage with not knowing the cost to us until after the visit or procedure. Let the different providers compete with listed pricing and let insurance companies compete past state borders for a start.\n\n"
-        },
-        {
-          "question": "Under what if any circumstances do you believe the U.S. should be providing military support to parties involved in foreign conflicts?",
-          "answer": "We should not. Period. We can only send aid at this time by increasing our debt or printing money (inflation) in other words we can only send support by hurting Americans to do it. If Congress is determined to support one side or the other, it can do its job and declare war. If we want to support wars in other countries the federal government can issue limited time special bonds, and let Americans decide if they wish to contribute of their own free will. We know when the bonds will mature and can budget for that. Our country cannot sustain all of the endless wars and troop deployments around the world, not to mention the severe impact this has on our veterans that return broken.\n"
-        }
-      ]
+      "responses": []
     },
     "primaryResults": {
       "race": "us-senate",
@@ -2291,11 +2249,11 @@
     "isIncumbent": false,
     "status": "active",
     "fecId": null,
-    "campaignWebsite": null,
-    "campaignFB": null,
-    "campaignTW": null,
-    "campaignIG": null,
-    "campaignYT": null,
+    "campaignWebsite": "https://www.montanansforshannon.com/",
+    "campaignFB": "https://facebook.com/montanansforshannon",
+    "campaignTW": "https://twitter.com/Shannon4Montana",
+    "campaignIG": "https://instagram.com/montanansforshannon",
+    "campaignYT": "https://youtube.com/@montanansforshannon",
     "campaignTT": null,
     "raceSlug": "superintendent",
     "raceDisplayName": "Superintendent of Public Instruction",
@@ -2362,11 +2320,11 @@
     "isIncumbent": true,
     "status": "active",
     "fecId": "H4MT01041",
-    "campaignWebsite": null,
-    "campaignFB": null,
-    "campaignTW": null,
-    "campaignIG": null,
-    "campaignYT": null,
+    "campaignWebsite": "https://www.ryanzinke.com/",
+    "campaignFB": "https://www.facebook.com/ryanzinke",
+    "campaignTW": "https://twitter.com/RyanZinke",
+    "campaignIG": "https://www.instagram.com/zinkeformontana/",
+    "campaignYT": "https://www.youtube.com/channel/UCclJSG2Y6DdU0bFGLv50ikw",
     "campaignTT": null,
     "raceSlug": "us-house-1",
     "raceDisplayName": "U.S. House District 1 (West)",
@@ -2710,12 +2668,12 @@
     "isIncumbent": false,
     "status": "active",
     "fecId": null,
-    "campaignWebsite": null,
-    "campaignFB": null,
-    "campaignTW": null,
-    "campaignIG": null,
+    "campaignWebsite": "https://busseformontana.com/",
+    "campaignFB": "https://www.facebook.com/profile.php?id=61550979818697",
+    "campaignTW": "https://twitter.com/ryandbusse?s=20",
+    "campaignIG": "https://www.instagram.com/ryandbusse/",
     "campaignYT": null,
-    "campaignTT": null,
+    "campaignTT": "https://www.tiktok.com/@ryan.busse",
     "raceSlug": "governor",
     "raceDisplayName": "Governor",
     "opponents": [
@@ -2998,9 +2956,9 @@
     "summaryNarrative": "Barb, a Green Party candidate, says he “walks the walk” when it comes to supporting the environment and living with “ecological wisdom,” one of the party's tenets. “I have lived ‘off the grid’ in the mountains of Western Montana for decades in concert with the environment and with a minimalist footprint,” he wrote on his campaign website. “I mostly hunt and fish, and I grow most of my own food.”\n\nHe says he opposes both major parties because they ignore such wisdom. He supports decriminalizing cannabis and a ceasefire and two-state solution to the Israel-Palestine conflict. \n\n“One of Jon Tester’s greatest failures is his inaction on the continued Israeli assault on Gaza, and his refusal to support a ceasefire,” Barb wrote. “I’m running for the United States Senate to provide an alternative for the hundreds of thousands of Montanans who want to see an end to the Israeli occupation of Gaza and an end to war.”\n\nBarb did not respond to MTFP’s spring 2024 candidate questionnaire. This biography is based on Barb’s campaign website.\n",
     "party": "G",
     "isIncumbent": false,
-    "status": "lost-primary",
+    "status": "active",
     "fecId": null,
-    "campaignWebsite": null,
+    "campaignWebsite": "https://www.robertbarb4ussenate.com/",
     "campaignFB": null,
     "campaignTW": null,
     "campaignIG": null,
@@ -3022,15 +2980,15 @@
         "party": "R"
       },
       {
-        "slug": "sid-daud",
-        "displayName": "Sid Daud",
+        "slug": "sid-daoud",
+        "displayName": "Sid Daoud",
         "summaryLine": "Kalispell city councilman",
         "party": "L"
       },
       {
-        "slug": "michael-downey",
-        "displayName": "Michael Downey",
-        "summaryLine": "Helena resident",
+        "slug": "robert-barb",
+        "displayName": "Robert Barb",
+        "summaryLine": "Billings resident",
         "party": "G"
       }
     ],
@@ -3624,10 +3582,10 @@
     "isIncumbent": false,
     "status": "active",
     "fecId": "H2MT02092",
-    "campaignWebsite": null,
-    "campaignFB": null,
-    "campaignTW": null,
-    "campaignIG": null,
+    "campaignWebsite": "https://www.monicatranel.com/",
+    "campaignFB": "https://www.facebook.com/MonicaTranelForCongress",
+    "campaignTW": "https://twitter.com/MonicaTranel",
+    "campaignIG": "https://www.instagram.com/monica.tranel",
     "campaignYT": null,
     "campaignTT": null,
     "raceSlug": "us-house-1",
@@ -4263,15 +4221,15 @@
         "party": "R"
       },
       {
-        "slug": "sid-daud",
-        "displayName": "Sid Daud",
+        "slug": "sid-daoud",
+        "displayName": "Sid Daoud",
         "summaryLine": "Kalispell city councilman",
         "party": "L"
       },
       {
-        "slug": "michael-downey",
-        "displayName": "Michael Downey",
-        "summaryLine": "Helena resident",
+        "slug": "robert-barb",
+        "displayName": "Robert Barb",
+        "summaryLine": "Billings resident",
         "party": "G"
       }
     ],
@@ -4402,7 +4360,7 @@
     "summaryNarrative": "Downey, a Green Party candidate, is a drought program coordinator at the state Department of Natural Resources and Conservation in Helena. He touts 25 years in natural resource management in the state, according to his LinkedIn page. \n\nDowney did not respond to MTFP’s spring 2024 candidate questionnaire. This biography is based on Downey’s [LinkedIn page](https://www.linkedin.com/in/michael-downey-35880a33/).\n",
     "party": "G",
     "isIncumbent": false,
-    "status": "active",
+    "status": "inactive",
     "fecId": null,
     "campaignWebsite": null,
     "campaignFB": null,
@@ -4426,15 +4384,15 @@
         "party": "R"
       },
       {
-        "slug": "sid-daud",
-        "displayName": "Sid Daud",
+        "slug": "sid-daoud",
+        "displayName": "Sid Daoud",
         "summaryLine": "Kalispell city councilman",
         "party": "L"
       },
       {
-        "slug": "michael-downey",
-        "displayName": "Michael Downey",
-        "summaryLine": "Helena resident",
+        "slug": "robert-barb",
+        "displayName": "Robert Barb",
+        "summaryLine": "Billings resident",
         "party": "G"
       }
     ],
@@ -6172,10 +6130,10 @@
     "isIncumbent": false,
     "status": "active",
     "fecId": null,
-    "campaignWebsite": null,
+    "campaignWebsite": "https://kaiserformontana.us/",
     "campaignFB": null,
-    "campaignTW": null,
-    "campaignIG": null,
+    "campaignTW": "https://twitter.com/KaiserForMT",
+    "campaignIG": "https://www.instagram.com/kaiser.leib/",
     "campaignYT": null,
     "campaignTT": null,
     "raceSlug": "governor",
@@ -6390,15 +6348,15 @@
         "party": "R"
       },
       {
-        "slug": "sid-daud",
-        "displayName": "Sid Daud",
+        "slug": "sid-daoud",
+        "displayName": "Sid Daoud",
         "summaryLine": "Kalispell city councilman",
         "party": "L"
       },
       {
-        "slug": "michael-downey",
-        "displayName": "Michael Downey",
-        "summaryLine": "Helena resident",
+        "slug": "robert-barb",
+        "displayName": "Robert Barb",
+        "summaryLine": "Billings resident",
         "party": "G"
       }
     ],
@@ -6733,10 +6691,10 @@
     "isIncumbent": false,
     "status": "active",
     "fecId": null,
-    "campaignWebsite": null,
-    "campaignFB": null,
+    "campaignWebsite": "https://www.repkeformontana.com/",
+    "campaignFB": "https://www.facebook.com/repkeformt",
     "campaignTW": null,
-    "campaignIG": null,
+    "campaignIG": "https://www.instagram.com/repkeformt/",
     "campaignYT": null,
     "campaignTT": null,
     "raceSlug": "state-auditor",
@@ -7804,9 +7762,9 @@
     "isIncumbent": false,
     "status": "active",
     "fecId": null,
-    "campaignWebsite": null,
-    "campaignFB": null,
-    "campaignTW": null,
+    "campaignWebsite": "https://jessejamesmullen.com/",
+    "campaignFB": "https://www.facebook.com/JesseForMontana",
+    "campaignTW": "https://www.twitter.com/jmullen2",
     "campaignIG": null,
     "campaignYT": null,
     "campaignTT": null,
@@ -8404,8 +8362,8 @@
     "isIncumbent": false,
     "status": "active",
     "fecId": null,
-    "campaignWebsite": null,
-    "campaignFB": null,
+    "campaignWebsite": "https://www.jamesbrownformontana.com/",
+    "campaignFB": "https://www.facebook.com/JamesBrownMontana/",
     "campaignTW": null,
     "campaignIG": null,
     "campaignYT": null,
@@ -8530,11 +8488,11 @@
     "isIncumbent": false,
     "status": "active",
     "fecId": null,
-    "campaignWebsite": null,
-    "campaignFB": null,
-    "campaignTW": null,
-    "campaignIG": null,
-    "campaignYT": null,
+    "campaignWebsite": "https://gregformontana.com/",
+    "campaignFB": "https://www.facebook.com/RepGianforte",
+    "campaignTW": "https://twitter.com/GregForMontana",
+    "campaignIG": "https://www.instagram.com/govgianforte/",
+    "campaignYT": "https://www.youtube.com/RepGianforte",
     "campaignTT": null,
     "raceSlug": "governor",
     "raceDisplayName": "Governor",
@@ -10842,9 +10800,9 @@
     "isIncumbent": true,
     "status": "active",
     "fecId": null,
-    "campaignWebsite": null,
-    "campaignFB": null,
-    "campaignTW": null,
+    "campaignWebsite": "https://christijacobsen.com/",
+    "campaignFB": "https://www.facebook.com/Christi4Montana/",
+    "campaignTW": "https://twitter.com/christi4montana/",
     "campaignIG": null,
     "campaignYT": null,
     "campaignTT": null,
@@ -11034,15 +10992,15 @@
         "party": "R"
       },
       {
-        "slug": "sid-daud",
-        "displayName": "Sid Daud",
+        "slug": "sid-daoud",
+        "displayName": "Sid Daoud",
         "summaryLine": "Kalispell city councilman",
         "party": "L"
       },
       {
-        "slug": "michael-downey",
-        "displayName": "Michael Downey",
-        "summaryLine": "Helena resident",
+        "slug": "robert-barb",
+        "displayName": "Robert Barb",
+        "summaryLine": "Billings resident",
         "party": "G"
       }
     ],
@@ -11308,15 +11266,15 @@
         "party": "R"
       },
       {
-        "slug": "sid-daud",
-        "displayName": "Sid Daud",
+        "slug": "sid-daoud",
+        "displayName": "Sid Daoud",
         "summaryLine": "Kalispell city councilman",
         "party": "L"
       },
       {
-        "slug": "michael-downey",
-        "displayName": "Michael Downey",
-        "summaryLine": "Helena resident",
+        "slug": "robert-barb",
+        "displayName": "Robert Barb",
+        "summaryLine": "Billings resident",
         "party": "G"
       }
     ],
@@ -11580,10 +11538,10 @@
     "isIncumbent": false,
     "status": "active",
     "fecId": null,
-    "campaignWebsite": null,
-    "campaignFB": null,
-    "campaignTW": null,
-    "campaignIG": null,
+    "campaignWebsite": "https://www.alkeformt.com/",
+    "campaignFB": "https://www.facebook.com/benalkeformontana",
+    "campaignTW": "https://x.com/Alke4MontanaAG",
+    "campaignIG": "https://www.instagram.com/alkeformontana/",
     "campaignYT": null,
     "campaignTT": null,
     "raceSlug": "attorney-general",
@@ -11684,8 +11642,8 @@
     "isIncumbent": true,
     "status": "active",
     "fecId": null,
-    "campaignWebsite": null,
-    "campaignFB": null,
+    "campaignWebsite": "https://austinformontana.com/",
+    "campaignFB": "https://www.facebook.com/AustinKnudsenMT",
     "campaignTW": null,
     "campaignIG": null,
     "campaignYT": null,

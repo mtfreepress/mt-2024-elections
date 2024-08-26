@@ -45,7 +45,7 @@ export const WEB_LINKS = [
     {
         key: 'YT',
         icon: youtube,
-        replace: 'youtube.com/user/'
+        replace: 'youtube.com/user'
     },
     {
         key: 'TT',
