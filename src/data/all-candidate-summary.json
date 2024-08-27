@@ -103,6 +103,7 @@
     "race": "U.S. Senate",
     "party": "L",
     "status": "active",
+    "hasResponses": true,
     "numMTFParticles": 0,
     "cap_tracker_2023_link": null
   },
