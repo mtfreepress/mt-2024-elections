@@ -221,9 +221,9 @@
         "candidateCommitteeName": "KEN BOGNER FOR CONGRESS",
         "candidateId": "H4MT02114",
         "totalReceipts": 55442.49,
-        "totalDisbursments": 55234.44,
-        "cashOnHand": 208.05,
-        "coverageEndDate": "2024-06-30",
+        "totalDisbursments": 55442.49,
+        "cashOnHand": 0,
+        "coverageEndDate": "2024-09-30",
         "isThisCandidate": false,
         "candidateStatus": "lost-primary"
       },
@@ -1575,9 +1575,9 @@
         "candidateCommitteeName": "KEN BOGNER FOR CONGRESS",
         "candidateId": "H4MT02114",
         "totalReceipts": 55442.49,
-        "totalDisbursments": 55234.44,
-        "cashOnHand": 208.05,
-        "coverageEndDate": "2024-06-30",
+        "totalDisbursments": 55442.49,
+        "cashOnHand": 0,
+        "coverageEndDate": "2024-09-30",
         "isThisCandidate": false,
         "candidateStatus": "lost-primary"
       },
@@ -1890,9 +1890,9 @@
         "candidateCommitteeName": "KEN BOGNER FOR CONGRESS",
         "candidateId": "H4MT02114",
         "totalReceipts": 55442.49,
-        "totalDisbursments": 55234.44,
-        "cashOnHand": 208.05,
-        "coverageEndDate": "2024-06-30",
+        "totalDisbursments": 55442.49,
+        "cashOnHand": 0,
+        "coverageEndDate": "2024-09-30",
         "isThisCandidate": false,
         "candidateStatus": "lost-primary"
       },
@@ -2134,7 +2134,49 @@
       }
     ],
     "questionnaire": {
-      "responses": []
+      "hasResponses": true,
+      "responses": [
+        {
+          "question": "What do you see as the biggest issue Montana is facing that the Senate is in a position to address? How would you address it if elected or re-elected?",
+          "answer": "Our biggest issue is our out-of-control national debt and inflation. We must stop spending, pass an actual budget (which Congress [hasn't] done in 28 years) that includes paying down our debt. We must demand that the Federal Reserve stop printing money until we see deflation. We can cut our budget by reducing the number of federal agencies and programs they administer. All this must be done immediately as we are currently callously spending our future generations’ future.\n"
+        },
+        {
+          "question": "If President Joe Biden is re-elected, how would you want to work with his administration as a senator?",
+          "answer": "I will be forced to work with whichever flavor of administration we have, but I will be consistent in upholding and voting my principles. Coincidentally my principles align with the principles of Montana and all I need to fall back on are the same lessons I grew up learning in our great state. Essentially the ideal of being left alone — less government intervention, more self-reliance. I personally doubt that President Biden is in charge of his own mental faculties let alone the nation.\n"
+        },
+        {
+          "question": "Similarly, if former President Donald Trump is elected, how would you want to work with him?",
+          "answer": "Not being a Republican or Democrat has its advantages, as I am beholden to no party (not even my own) or political personality. Please see my previous response, although I think that I have a bit more alignment with President Trump.\n"
+        },
+        {
+          "question": "Do you regard reining in the federal deficit as a priority? If so, in what budget areas would you support spending cuts or tax increases?",
+          "answer": "It is our number one priority. Absolutely no tax increases whatsoever. We can provide a balanced budget, with cuts across the board. We can also reduce the size of the federal government by reducing the number of federal agencies. I do not see the value in any agency created after 1970. Their roles can be folded into existing agencies. None of this will be fun, but it is necessary to dig us out of the hole we are in and get us all back to adherence to the Constitution.\n"
+        },
+        {
+          "question": "Would you support federal legislation that either restricts abortions or guarantees access on a national basis? With what conditions?",
+          "answer": "I agree with the Supreme Court, abortion is not a federal issue. I however take it further; the government should be completely out of this issue.\n"
+        },
+        {
+          "question": "What if anything should Congress do to ensure Montanans have access to affordable housing?",
+          "answer": "The best thing the federal government can do to address housing access for all is to start correcting our national debt, inflation and out of control spending. The local economy is affected by this critically. I face housing issues all the time on City Council here in Kalispell (the fastest-growing micropolitan city in the U.S.) and the only fix is to increase the number of units. We have done a great job in Kalispell to start addressing this with the units we have coming online. The national lockdown and Covid funding were crippling factors to this problem, and it is going to take bunch of hard work to correct this. The high cost of materials coupled with the scarcity of construction workers is a terrible combination.\n"
+        },
+        {
+          "question": "To what extent do you see climate change as an urgent issue? What if any action should Congress take to address it?",
+          "answer": "Climate change has turned into a power grab by government entities around the world. If we in the U.S. are serious about reducing our impact, we should do it the American way by supporting and getting out of the way of innovation by entrepreneurs. Regulating and taxing will fail as it always does. I am very concerned with the not-so-hidden global effort of depopulation, that scares me more than anything around this issue.\n"
+        },
+        {
+          "question": "What if any action should Congress take to change how the nation controls movement across the U.S.-Mexico border?",
+          "answer": "This is probably the biggest hot button issue facing federal candidates this year. Unfortunately, the leadership of the two big parties have no intention of fixing the issue as it keeps their base in line and focused on the left-right war. I would begin to attack this issue by immediately stopping all social welfare for immigrants. We have not given this in the past and no one should expect tax dollars to be taken and then distributed to non-citizens. If we are going to have a border policy, it should be consistent to every border and consistent between agencies tasked with enforcement (which it is not today). I don’t think anyone would disagree that we need immigration policy reform.\n"
+        },
+        {
+          "question": "The cost of health care is a concern for many Montanans. What if any federal action would you support to improve the U.S. health care system?",
+          "answer": "The government needs to get out of the way. The best outcomes appear when there is little government involvement, and the free market can determine pricing (Lasik eye surgery is a great example of this). This is the only service that we engage with not knowing the cost to us until after the visit or procedure. Let the different providers compete with listed pricing and let insurance companies compete past state borders for a start.\n\n"
+        },
+        {
+          "question": "Under what if any circumstances do you believe the U.S. should be providing military support to parties involved in foreign conflicts?",
+          "answer": "We should not. Period. We can only send aid at this time by increasing our debt or printing money (inflation) in other words we can only send support by hurting Americans to do it. If Congress is determined to support one side or the other, it can do its job and declare war. If we want to support wars in other countries the federal government can issue limited time special bonds, and let Americans decide if they wish to contribute of their own free will. We know when the bonds will mature and can budget for that. Our country cannot sustain all of the endless wars and troop deployments around the world, not to mention the severe impact this has on our veterans that return broken.\n"
+        }
+      ]
     },
     "primaryResults": {
       "race": "us-senate",
@@ -3479,9 +3521,9 @@
         "candidateCommitteeName": "KEN BOGNER FOR CONGRESS",
         "candidateId": "H4MT02114",
         "totalReceipts": 55442.49,
-        "totalDisbursments": 55234.44,
-        "cashOnHand": 208.05,
-        "coverageEndDate": "2024-06-30",
+        "totalDisbursments": 55442.49,
+        "cashOnHand": 0,
+        "coverageEndDate": "2024-09-30",
         "isThisCandidate": false,
         "candidateStatus": "lost-primary"
       },
@@ -4131,9 +4173,9 @@
         "candidateCommitteeName": "KEN BOGNER FOR CONGRESS",
         "candidateId": "H4MT02114",
         "totalReceipts": 55442.49,
-        "totalDisbursments": 55234.44,
-        "cashOnHand": 208.05,
-        "coverageEndDate": "2024-06-30",
+        "totalDisbursments": 55442.49,
+        "cashOnHand": 0,
+        "coverageEndDate": "2024-09-30",
         "isThisCandidate": false,
         "candidateStatus": "lost-primary"
       },
@@ -5155,9 +5197,9 @@
         "candidateCommitteeName": "KEN BOGNER FOR CONGRESS",
         "candidateId": "H4MT02114",
         "totalReceipts": 55442.49,
-        "totalDisbursments": 55234.44,
-        "cashOnHand": 208.05,
-        "coverageEndDate": "2024-06-30",
+        "totalDisbursments": 55442.49,
+        "cashOnHand": 0,
+        "coverageEndDate": "2024-09-30",
         "isThisCandidate": false,
         "candidateStatus": "lost-primary"
       },
@@ -5655,9 +5697,9 @@
         "candidateCommitteeName": "KEN BOGNER FOR CONGRESS",
         "candidateId": "H4MT02114",
         "totalReceipts": 55442.49,
-        "totalDisbursments": 55234.44,
-        "cashOnHand": 208.05,
-        "coverageEndDate": "2024-06-30",
+        "totalDisbursments": 55442.49,
+        "cashOnHand": 0,
+        "coverageEndDate": "2024-09-30",
         "isThisCandidate": false,
         "candidateStatus": "lost-primary"
       },
@@ -5945,9 +5987,9 @@
         "candidateCommitteeName": "KEN BOGNER FOR CONGRESS",
         "candidateId": "H4MT02114",
         "totalReceipts": 55442.49,
-        "totalDisbursments": 55234.44,
-        "cashOnHand": 208.05,
-        "coverageEndDate": "2024-06-30",
+        "totalDisbursments": 55442.49,
+        "cashOnHand": 0,
+        "coverageEndDate": "2024-09-30",
         "isThisCandidate": true,
         "candidateStatus": "lost-primary"
       },
@@ -7249,9 +7291,9 @@
         "candidateCommitteeName": "KEN BOGNER FOR CONGRESS",
         "candidateId": "H4MT02114",
         "totalReceipts": 55442.49,
-        "totalDisbursments": 55234.44,
-        "cashOnHand": 208.05,
-        "coverageEndDate": "2024-06-30",
+        "totalDisbursments": 55442.49,
+        "cashOnHand": 0,
+        "coverageEndDate": "2024-09-30",
         "isThisCandidate": false,
         "candidateStatus": "lost-primary"
       },
@@ -7581,9 +7623,9 @@
         "candidateCommitteeName": "KEN BOGNER FOR CONGRESS",
         "candidateId": "H4MT02114",
         "totalReceipts": 55442.49,
-        "totalDisbursments": 55234.44,
-        "cashOnHand": 208.05,
-        "coverageEndDate": "2024-06-30",
+        "totalDisbursments": 55442.49,
+        "cashOnHand": 0,
+        "coverageEndDate": "2024-09-30",
         "isThisCandidate": false,
         "candidateStatus": "lost-primary"
       },
@@ -9514,9 +9556,9 @@
         "candidateCommitteeName": "KEN BOGNER FOR CONGRESS",
         "candidateId": "H4MT02114",
         "totalReceipts": 55442.49,
-        "totalDisbursments": 55234.44,
-        "cashOnHand": 208.05,
-        "coverageEndDate": "2024-06-30",
+        "totalDisbursments": 55442.49,
+        "cashOnHand": 0,
+        "coverageEndDate": "2024-09-30",
         "isThisCandidate": false,
         "candidateStatus": "lost-primary"
       },
@@ -9892,9 +9934,9 @@
         "candidateCommitteeName": "KEN BOGNER FOR CONGRESS",
         "candidateId": "H4MT02114",
         "totalReceipts": 55442.49,
-        "totalDisbursments": 55234.44,
-        "cashOnHand": 208.05,
-        "coverageEndDate": "2024-06-30",
+        "totalDisbursments": 55442.49,
+        "cashOnHand": 0,
+        "coverageEndDate": "2024-09-30",
         "isThisCandidate": false,
         "candidateStatus": "lost-primary"
       },
@@ -10342,9 +10384,9 @@
         "candidateCommitteeName": "KEN BOGNER FOR CONGRESS",
         "candidateId": "H4MT02114",
         "totalReceipts": 55442.49,
-        "totalDisbursments": 55234.44,
-        "cashOnHand": 208.05,
-        "coverageEndDate": "2024-06-30",
+        "totalDisbursments": 55442.49,
+        "cashOnHand": 0,
+        "coverageEndDate": "2024-09-30",
         "isThisCandidate": false,
         "candidateStatus": "lost-primary"
       },

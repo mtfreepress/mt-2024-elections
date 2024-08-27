@@ -29,6 +29,7 @@
         "displayName": "Sid Daoud",
         "summaryLine": "Kalispell city councilman",
         "party": "L",
+        "hasResponses": true,
         "numMTFParticles": 0
       },
       {
@@ -335,9 +336,9 @@
         "candidateCommitteeName": "KEN BOGNER FOR CONGRESS",
         "candidateId": "H4MT02114",
         "totalReceipts": 55442.49,
-        "totalDisbursments": 55234.44,
-        "cashOnHand": 208.05,
-        "coverageEndDate": "2024-06-30"
+        "totalDisbursments": 55442.49,
+        "cashOnHand": 0,
+        "coverageEndDate": "2024-09-30"
       },
       {
         "displayName": "Ric Holden",
