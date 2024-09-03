@@ -10,7 +10,8 @@
         "candidate_pcc_name": "MONTANANS FOR TESTER",
         "cash_on_hand_end_period": 10882248.87,
         "committee_ids": [
-          "C00412304"
+          "C00412304",
+          "C00887521"
         ],
         "coverage_end_date": "2024-06-30",
         "incumbent_challenge_full": "Incumbent",
@@ -153,22 +154,6 @@
         "party_full": "REPUBLICAN PARTY",
         "total_disbursements": 0,
         "total_receipts": 0
-      },
-      {
-        "candidate_election_year": 2024,
-        "candidate_id": "H4MT01108",
-        "candidate_name": "HAYES, DENNIS",
-        "candidate_pcc_id": "C00878645",
-        "candidate_pcc_name": "DENNIS HAYES FOR CONGRESS",
-        "cash_on_hand_end_period": 0,
-        "committee_ids": [
-          "C00878645"
-        ],
-        "coverage_end_date": null,
-        "incumbent_challenge_full": "Challenger",
-        "party_full": "LIBERTARIAN PARTY",
-        "total_disbursements": 0,
-        "total_receipts": 0
       }
     ]
   },
@@ -309,15 +294,15 @@
         "candidate_name": "HAMM, KEVIN",
         "candidate_pcc_id": "C00840355",
         "candidate_pcc_name": "KEVIN HAMM FOR CONGRESS",
-        "cash_on_hand_end_period": 2344.49,
+        "cash_on_hand_end_period": 0,
         "committee_ids": [
           "C00840355"
         ],
-        "coverage_end_date": "2024-06-30",
+        "coverage_end_date": "2024-08-30",
         "incumbent_challenge_full": "Open seat",
         "party_full": "DEMOCRATIC PARTY",
-        "total_disbursements": 65344.92,
-        "total_receipts": 67689.41
+        "total_disbursements": 71856.39,
+        "total_receipts": 71856.39
       },
       {
         "candidate_election_year": 2024,

@@ -182,16 +182,6 @@
         "totalDisbursments": 122732.43,
         "cashOnHand": 0,
         "coverageEndDate": "2024-06-30"
-      },
-      {
-        "displayName": "Dennis Hayes",
-        "party": "L",
-        "candidateCommitteeName": "DENNIS HAYES FOR CONGRESS",
-        "candidateId": "H4MT01108",
-        "totalReceipts": 0,
-        "totalDisbursments": 0,
-        "cashOnHand": 0,
-        "coverageEndDate": null
       }
     ],
     "inactiveCandidates": [
@@ -315,10 +305,10 @@
         "party": "D",
         "candidateCommitteeName": "KEVIN HAMM FOR CONGRESS",
         "candidateId": "H4MT02031",
-        "totalReceipts": 67689.41,
-        "totalDisbursments": 65344.92,
-        "cashOnHand": 2344.49,
-        "coverageEndDate": "2024-06-30"
+        "totalReceipts": 71856.39,
+        "totalDisbursments": 71856.39,
+        "cashOnHand": 0,
+        "coverageEndDate": "2024-08-30"
       },
       {
         "displayName": "Ming Cabrera",
@@ -882,7 +872,7 @@
         "displayName": "Elena Evans",
         "summaryLine": "Missoula County environmental health manager",
         "party": "I",
-        "hasResponses": false,
+        "hasResponses": true,
         "numMTFParticles": 1
       }
     ],
