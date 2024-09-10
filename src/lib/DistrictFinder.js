@@ -6,8 +6,8 @@ import { getCorrespondingSenateDistrictNumber } from './utils'
 // const STATE_HOUSE_DISTRICT_API_URL = 'https://gisservicemt.gov/arcgis/rest/services/MSDI_Framework/Boundaries/MapServer/62/query'
 // const CONGRESSIONAL_DISTRICT_API_URL = 'https://gisservicemt.gov/arcgis/rest/services/MSDI_Framework/Boundaries/MapServer/34/query'
 
-const BASE_PATH = 'http://localhost:3000' // change before deploying
-
+// const BASE_PATH = 'http://localhost:3000' // change before deploying
+const BASE_PATH = 'https://39tcu96a0k.execute-api.us-west-2.amazonaws.com/prod'
 const STATE_HOUSE_DISTRICT_API_URL = `${BASE_PATH}/hd-lookup`
 const CONGRESSIONAL_DISTRICT_API_URL = `${BASE_PATH}/congressional-lookup`
 const GEOCODE_API_URL = `${BASE_PATH}/geocode`
