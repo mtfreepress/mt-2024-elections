@@ -1,5 +1,6 @@
 import { useState } from "react";
 import { css } from "@emotion/react";
+import mapDistrictCode from "../lib/mapDistrictCode";
 
 import DistrictFinder from '../lib/DistrictFinder'
 
@@ -10,18 +11,18 @@ export default function AddressLookup({
     selDistricts,
     setSelDistricts,
 }) {
-    const { usHouse, psc, mtHouse, mtSenate, matchedAddress } = selDistricts
-    const [value, setValue] = useState(null)
+    const { usHouse, psc, mtHouse, mtSenate, matchedAddress } = selDistricts;
+    const [value, setValue] = useState(null);
     const [error, setError] = useState(null);
 
-    const districtFinder = new DistrictFinder()
+    const districtFinder = new DistrictFinder();
 
     function handleChange(event) {
         const input = event.target.value;
         setValue(input);
         setError(null); // Reset error on input change
-        console.log(error)
     }
+
     function handleSubmit(event) {
         event.preventDefault();
         const result = districtFinder.matchAddressToDistricts(
@@ -33,17 +34,26 @@ export default function AddressLookup({
             err => setError(` Invalid address, please make sure you enter it in this format: 1301 E 6th Ave, Helena`)
         );
     }
+
     function reset() {
         setSelDistricts({
-            usHouse: null, // 'us-house-1' or 'us-house-2'
-            psc: null, // 'psc-2','psc-3','psc-4'
-            mtHouse: 'HD-1', // e.g. 'HD-1',
-            mtSenate: 'SD-1', // e.g. 'SD-1'
+            usHouse: null,
+            psc: null,
+            mtHouse: 'HD-1',
+            mtSenate: 'SD-1',
             matchedAddress: null
-        })
+        });
         setValue(null);
         setError(null);
     }
+
+    // Convert district codes to full names
+    const mappedDistricts = {
+        usHouse: mapDistrictCode(selDistricts.usHouse),
+        psc: mapDistrictCode(selDistricts.psc),
+        mtHouse: mapDistrictCode(selDistricts.mtHouse),
+        mtSenate: mapDistrictCode(selDistricts.mtSenate)
+    };
 
     return (
         <div css={lookupStyle}>
@@ -62,7 +72,10 @@ export default function AddressLookup({
                 {(matchedAddress !== null && !error) && (
                     <div>
                         <div>Districts for <strong>{matchedAddress}</strong>:</div>
-                        <div>[Results: {usHouse}, {psc}, {mtHouse}, {mtSenate}]</div>
+                        <div>{mappedDistricts.usHouse}</div>
+                        <div>{mappedDistricts.psc}</div>
+                        <div>{mappedDistricts.mtHouse}</div>
+                        <div>{mappedDistricts.mtSenate}</div>
                         <a onClick={reset}>Reset</a>
                     </div>
                 )}
@@ -126,3 +139,16 @@ const lookupStyle = css`
         background-color: var(--link);
     }
 `
+const districtResultsStyle = css`
+    padding: 10px;
+    border-radius: 5px;
+    margin-bottom: 10px;
+    font-size: 16px;
+    font-weight: bold;
+    display: flex;
+    align-items: center;
+    white-space: pre-wrap;
+    svg {
+        margin-right: 10px;
+    }
+`;
