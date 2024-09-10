@@ -20,7 +20,7 @@
     "party": "R",
     "status": "active",
     "hasResponses": true,
-    "numMTFParticles": 18,
+    "numMTFParticles": 19,
     "cap_tracker_2023_link": null
   },
   {
@@ -176,7 +176,7 @@
     "party": "G",
     "status": "active",
     "hasResponses": false,
-    "numMTFParticles": 1,
+    "numMTFParticles": 2,
     "cap_tracker_2023_link": null
   },
   {
@@ -380,7 +380,7 @@
     "party": "D",
     "status": "active",
     "hasResponses": true,
-    "numMTFParticles": 12,
+    "numMTFParticles": 13,
     "cap_tracker_2023_link": null
   },
   {
@@ -548,7 +548,7 @@
     "party": "R",
     "status": "active",
     "hasResponses": true,
-    "numMTFParticles": 20,
+    "numMTFParticles": 21,
     "cap_tracker_2023_link": null
   },
   {
@@ -991,7 +991,7 @@
     "race": "Senate District 20",
     "party": "D",
     "status": "active",
-    "hasResponses": false,
+    "hasResponses": true,
     "numMTFParticles": 0,
     "cap_tracker_2023_link": null
   },
@@ -1231,7 +1231,7 @@
     "race": "Senate District 36",
     "party": "R",
     "status": "active",
-    "hasResponses": false,
+    "hasResponses": true,
     "numMTFParticles": 0,
     "cap_tracker_2023_link": null
   },
@@ -2659,7 +2659,7 @@
     "race": "House District 40",
     "party": "D",
     "status": "active",
-    "hasResponses": false,
+    "hasResponses": true,
     "numMTFParticles": 0,
     "cap_tracker_2023_link": null
   },

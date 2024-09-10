@@ -198,15 +198,15 @@
         "candidate_name": "ARNTZEN, ELSIE",
         "candidate_pcc_id": "C00848119",
         "candidate_pcc_name": "ELSIE ARNTZEN FOR CONGRESS",
-        "cash_on_hand_end_period": 12846.9,
+        "cash_on_hand_end_period": 0,
         "committee_ids": [
           "C00848119"
         ],
-        "coverage_end_date": "2024-06-30",
+        "coverage_end_date": "2024-09-09",
         "incumbent_challenge_full": "Open seat",
         "party_full": "REPUBLICAN PARTY",
-        "total_disbursements": 868741.06,
-        "total_receipts": 881587.96
+        "total_disbursements": 893087.96,
+        "total_receipts": 893087.96
       },
       {
         "candidate_election_year": 2024,

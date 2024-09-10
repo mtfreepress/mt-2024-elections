@@ -1,6 +1,6 @@
 ### When are Montana’s 2024 elections?
 
-Voters will pick which candidates advance to the November general election in the June primary, which is scheduled for Tuesday, June 4. Voters will pick the candidates who will ultimately fill each office on the ballot in the November election, which is set for Tuesday, Nov. 5.
+Voters picked party nominees for the November general election in the June 4 primary. The November General Election that will decide the ultimate winner in each race is set for Tuesday, Nov. 5.
 
 ### Who runs Montana’s elections?
 
@@ -33,7 +33,7 @@ No, that’s not an option in Montana.
 
 Yes, you can sign up as an absentee voter by checking a box on your voter registration form. If you’re already registered to vote, you can fill out a separate form and submit it to your county election office.
 
-If you’re registered as an absentee voter, a ballot should be mailed to you a few weeks in advance of each election day. You can make sure your address is current via the [My Voter page](https://app.mt.gov/voterinfo/). County election officials are slated to mail ballots to voters for the June 2024 primary election May 10.
+If you’re registered as an absentee voter, a ballot should be mailed to you a few weeks in advance of each election day. You can make sure your address is current via the [My Voter page](https://app.mt.gov/voterinfo/). County election officials are slated to mail ballots to voters for the November 2024 General Election Oct. 11.
 
 You can return ballots by mail, or drop them off in person at your county’s election office. Either way, the election office must receive your ballot by 8 p.m. on Election Day in order to count it.
 
@@ -42,7 +42,7 @@ You can return ballots by mail, or drop them off in person at your county’s el
 If you plan to vote at the polls, just be sure you know where your polling location is and head there between 7 a.m. and 8 p.m. on Election Day. You'll need to provide a photo ID and sign the precinct register, at which point you’ll get your ballot and be directed to a voting booth. If you have any technical questions or run into any problems, the election judges at your polling place should be able to help you.
 
 ### I have a friend or family member who isn't able to drop off his or her mail-in ballot. Can I do it for them?
-Yes, you can. The Montana Legislature did make some changes to ballot collection laws in 2021 related to paid ballot collection, those changes have also been blocked by the Montana Supreme Court.
+Yes, you can. The Montana Legislature did make some changes to ballot collection laws in 2021 related to paid ballot collection, but those changes have also been blocked by the Montana Supreme Court.
 
 ### Who should I vote for?
 
