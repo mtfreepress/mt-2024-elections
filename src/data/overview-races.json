@@ -14,7 +14,7 @@
         "summaryLine": "Incumbent U.S. senator",
         "party": "D",
         "hasResponses": true,
-        "numMTFParticles": 12
+        "numMTFParticles": 13
       },
       {
         "slug": "tim-sheehy",
@@ -22,7 +22,7 @@
         "summaryLine": "Bozeman businessman",
         "party": "R",
         "hasResponses": true,
-        "numMTFParticles": 18
+        "numMTFParticles": 19
       },
       {
         "slug": "sid-daoud",
@@ -38,7 +38,7 @@
         "summaryLine": "Billings resident",
         "party": "G",
         "hasResponses": false,
-        "numMTFParticles": 1
+        "numMTFParticles": 2
       }
     ],
     "finance": [
@@ -245,10 +245,10 @@
         "party": "R",
         "candidateCommitteeName": "ELSIE ARNTZEN FOR CONGRESS",
         "candidateId": "H4MT01058",
-        "totalReceipts": 881587.96,
-        "totalDisbursments": 868741.06,
-        "cashOnHand": 12846.9,
-        "coverageEndDate": "2024-06-30"
+        "totalReceipts": 893087.96,
+        "totalDisbursments": 893087.96,
+        "cashOnHand": 0,
+        "coverageEndDate": "2024-09-09"
       },
       {
         "displayName": "Denny Rehberg",
@@ -456,7 +456,7 @@
         "summaryLine": "Incumbent Montana governor",
         "party": "R",
         "hasResponses": true,
-        "numMTFParticles": 20
+        "numMTFParticles": 21
       },
       {
         "slug": "ryan-busse",
