@@ -79,8 +79,7 @@ export default function AddressLookup({
                 {(matchedAddress !== null && !error) && (
                     <div css={resultsContainerStyle}>
                         <div css={headerStyle}>
-                            <div>Districts for <strong>{matchedAddress}</strong>:</div>
-                            <a onClick={reset} css={resetStyle}>Reset</a>
+                            <div css={headerTitleStyle}>Districts for <strong>{matchedAddress}</strong>:</div>
                         </div>
                         <div css={resultsContainerInnerStyle}>
                             <div css={distResStyle}>{mappedDistricts.usHouse}</div>
@@ -88,6 +87,7 @@ export default function AddressLookup({
                             <div css={distResStyle}>{mappedDistricts.mtSenate}</div>
                             <div css={distResStyle}>{mappedDistricts.psc}</div>
                         </div>
+                        <a onClick={reset} css={resetStyle}>Reset</a>
                     </div>
                 )}
             </div>
@@ -104,19 +104,41 @@ const resultsContainerStyle = css`
 
 const headerStyle = css`
     display: flex;
+    flex-wrap: wrap;
     justify-content: space-between;
     align-items: center;
     margin-bottom: 10px;
+
+    @media (max-width: 768px) {
+        flex-direction: column;
+        align-items: flex-start;
+    }
+`;
+
+const headerTitleStyle = css`
+    flex: 1;
+    margin-right: 10px;
+
+    @media (max-width: 768px) {
+        width: 100%;
+        margin-bottom: 10px;
+    }
 `;
 
 const resetStyle = css`
     cursor: pointer;
-    background: var(--link);
+    background: #737373;
     color: white;
-    padding: 3px 10px 3px 10px;
-    transition: box-shadow 0.3s ease;
+    padding: 3px 10px;
+    align-self: flex-end;
+    transition: box-shadow 0.3s ease, background .3s ease;
     &:hover {
         box-shadow: 0px 4px 8px rgba(0, 0, 0, 0.1);
+        background: var(--link);
+    }
+
+    @media (max-width: 768px) {
+       
     }
 `;
 
@@ -124,7 +146,7 @@ const resultsContainerInnerStyle = css`
     display: flex;
     gap: 10px;
     flex-wrap: wrap;
-    justify-content: space-between;
+    justify-content: center;
 `;
 
 const distResStyle = css`
