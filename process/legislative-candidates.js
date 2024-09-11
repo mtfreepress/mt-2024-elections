@@ -34,6 +34,7 @@ const LEGE_QUESTIONS = [
 
 const PARTY_ORDER = ['R', 'D', 'L', 'G', 'I']
 
+
 const MANUAL_ADD_INDEPENDENT_CANDIDATES = [
     {
         'Status': 'FILED',
@@ -49,6 +50,37 @@ const MANUAL_ADD_INDEPENDENT_CANDIDATES = [
         'District': 'HOUSE DISTRICT 51',
         'Party Preference': 'IND',
     },
+]
+const MANUAL_ADD_REPLACEMENT_CANDIDATES = [
+    // TODO
+    {
+        'Status': 'FILED',
+        'Name': 'BRAD SIMONIS',
+        'District Type': 'House',
+        'District': 'HOUSE DISTRICT 2',
+        'Party Preference': 'DEM',
+    },
+    {
+        'Status': 'FILED',
+        'Name': 'DAVID PASSIERI	',
+        'District Type': 'House',
+        'District': 'HOUSE DISTRICT 91',
+        'Party Preference': 'REP',
+    },
+    {
+        'Status': 'FILED',
+        'Name': 'ADAM S HENSON',
+        'District Type': 'House',
+        'District': 'HOUSE DISTRICT 94',
+        'Party Preference': 'REP',
+    },
+]
+const MANUAL_POST_PRIMARY_DROPOUTS = [
+    // TODO - list of names to have status manualy changed
+    // Correspond to replacement candidates
+    'ELIZABETH STORY', // HD 2 dropout
+    'JOE READ', // HD 91 dropout
+    'DELANEY MALMSTEN' // HD 94 dropout
 ]
 
 async function main() {
@@ -70,6 +102,7 @@ async function main() {
 
     // cleaning
     candidates = candidates.concat(MANUAL_ADD_INDEPENDENT_CANDIDATES)
+    candidates = candidates.concat(MANUAL_ADD_REPLACEMENT_CANDIDATES)
     candidates.forEach(d => {
         d.Name = d.Name.trim()
         d.Name = NAME_REPLACE[d.Name] || d.Name
@@ -107,6 +140,7 @@ async function main() {
     const candidateOutput = legislativeCandidates.map(l => {
 
         // TODO - add website/social merge in here
+        // Later self amendment - Not happening in 2024
 
         // Annotations
         const annotationMatch = candidateAnnotations.find(d => d.name === l.Name)
@@ -163,10 +197,14 @@ async function main() {
         if (!candidatePrimaryResult) {
             // console.log('Missing primary result for', l.Name)
             // Fallback for Libertarian candidates w/ no primary in 2024
+            // Also for candidates who were post-primary replacements
             candidatePrimaryResult = { isWinner: true }
         }
-        // Will need to revise for pre-primary workflows
-        const status = candidatePrimaryResult.isWinner ? 'active' : 'lost-primary'
+
+        // Determine current candidate status
+        let status = 'active'
+        if (!candidatePrimaryResult.isWinner) status = 'lost-primary'
+        if (MANUAL_POST_PRIMARY_DROPOUTS.includes(l.Name)) status = 'withdrawn'
 
         return {
             raceSlug: l.raceSlug,

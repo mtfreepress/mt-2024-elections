@@ -61,9 +61,17 @@
         "slug": "elizabeth-story",
         "displayName": "ELIZABETH STORY",
         "party": "D",
-        "status": "active",
+        "status": "withdrawn",
         "cap_tracker_2023_link": null,
         "hasResponses": false,
+        "numMTFParticles": 0
+      },
+      {
+        "slug": "brad-simonis",
+        "displayName": "BRAD SIMONIS",
+        "party": "D",
+        "status": "active",
+        "cap_tracker_2023_link": null,
         "numMTFParticles": 0
       }
     ]
@@ -2063,7 +2071,7 @@
         "party": "R",
         "status": "active",
         "cap_tracker_2023_link": null,
-        "hasResponses": false,
+        "hasResponses": true,
         "numMTFParticles": 0
       },
       {
@@ -2210,7 +2218,7 @@
         "party": "D",
         "status": "active",
         "cap_tracker_2023_link": null,
-        "hasResponses": false,
+        "hasResponses": true,
         "numMTFParticles": 0
       }
     ]
@@ -2378,7 +2386,7 @@
         "party": "D",
         "status": "active",
         "cap_tracker_2023_link": "https://apps.montanafreepress.org/capitol-tracker-2023/lawmakers/Donavon-Hawk/",
-        "hasResponses": false,
+        "hasResponses": true,
         "numMTFParticles": 0
       }
     ]
@@ -3063,9 +3071,17 @@
         "slug": "joe-read",
         "displayName": "JOE READ",
         "party": "R",
-        "status": "active",
+        "status": "withdrawn",
         "cap_tracker_2023_link": "https://apps.montanafreepress.org/capitol-tracker-2023/lawmakers/Joe-Read/",
         "hasResponses": false,
+        "numMTFParticles": 0
+      },
+      {
+        "slug": "david-passieri",
+        "displayName": "DAVID PASSIERI",
+        "party": "R",
+        "status": "active",
+        "cap_tracker_2023_link": null,
         "numMTFParticles": 0
       },
       {
@@ -3134,7 +3150,7 @@
         "party": "D",
         "status": "active",
         "cap_tracker_2023_link": "https://apps.montanafreepress.org/capitol-tracker-2023/lawmakers/Katie-Sullivan/",
-        "hasResponses": false,
+        "hasResponses": true,
         "numMTFParticles": 0
       }
     ]
@@ -3153,9 +3169,17 @@
         "slug": "delaney-malmsten",
         "displayName": "DELANEY MALMSTEN",
         "party": "R",
-        "status": "active",
+        "status": "withdrawn",
         "cap_tracker_2023_link": null,
         "hasResponses": false,
+        "numMTFParticles": 0
+      },
+      {
+        "slug": "adam-s-henson",
+        "displayName": "ADAM S HENSON",
+        "party": "R",
+        "status": "active",
+        "cap_tracker_2023_link": null,
         "numMTFParticles": 0
       },
       {
@@ -3444,7 +3468,7 @@
         "party": "D",
         "status": "active",
         "cap_tracker_2023_link": null,
-        "hasResponses": false,
+        "hasResponses": true,
         "numMTFParticles": 0
       }
     ]

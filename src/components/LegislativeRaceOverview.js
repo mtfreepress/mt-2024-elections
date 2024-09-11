@@ -201,7 +201,6 @@ const District = (props) => {
         holdover_senator, holdover_party, holdover_link,
         candidates } = props
 
-
     let correspondingHouseDistricts = []
     if (chamber === 'senate') {
         correspondingHouseDistricts = getCorrespondingHouseDistrictNumbers(districtKey)
@@ -253,7 +252,7 @@ const District = (props) => {
         </div>
 
         {(inactiveCandidates.length > 0) && <details>
-            <summary>Candidates defeated in June 4 primary election</summary>
+            <summary>Candidates defeated in June 4 primary election or who withdrew post-primary</summary>
             <div>
                 {inactiveCandidates
                     .map(c => <Candidate key={c.slug} {...c} />)}
