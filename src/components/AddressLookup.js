@@ -135,6 +135,7 @@ const resetStyle = css`
     &:hover {
         box-shadow: 0px 4px 8px rgba(0, 0, 0, 0.1);
         background: var(--link);
+        text-decoration: none;
     }
 
     @media (max-width: 768px) {
@@ -159,7 +160,6 @@ const distResStyle = css`
     padding: 10px;
     border: 1px solid var(--gray4);
     background-color: var(--gray0);
-    border-radius: 5px;
     text-align: center;
     box-sizing: border-box;
 `;

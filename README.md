@@ -5,7 +5,13 @@ Code for the [Montana Free Press](https://montanafreepress.org) [2024 Election G
 This is a [Next.js](https://nextjs.org/) project.
 
 ## Local Deployment
-To access the webservice locally run `npm run dev` and navigate to `localhost:3000/election-guide-2024/`
+- To access the webservice locally run `npm run dev` and navigate to `localhost:3000/election-guide-2024/`
+- Set in `DistrictFinder.js` to use AWS CORS proxy deployment 
+- Can use [CORS proxy](https://github.com/mtfreepress/cors-proxy-montana-districts) locally
+    
+    1) Change `BASE_URL` to `localhost:3000` (Don't forget to change it back)
+    2) Start the CORS proxy service ***first***
+    3) Start this service with `npm run dev` as normal (will start on port 3001 instead) and navigate to  `localhost:3001/election-guide-2024/`
 
 ## Structure
 
