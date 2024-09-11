@@ -51,7 +51,7 @@ export default function AddressLookup({
         setValue(null);
         setError(null);
     }
-
+    console.log(selDistricts)
     // Convert district codes to full names
     const mappedDistricts = {
         usHouse: mapDistrictCode(selDistricts.usHouse),

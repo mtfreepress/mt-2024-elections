@@ -76,7 +76,7 @@ export default class DistrictFinder {
             outFields: fields,
         }
         const url = this.makeQuery(apiUrl, payload)
-        console.log(payload, url)
+        console.log(url)
         const data = await fetch(url)
             .then(data => data.json())
             .then(res => res)

@@ -1,28 +1,27 @@
+
+import overviewRaces from '../data/overview-races.json';
+import legislativeCandidates from '../data/legislative-candidates.json';
+
 export default function mapDistrictCode(districtCode) {
     if (!districtCode) return '';
 
-    // Define a mapping for the abbreviations
-    const mappings = {
-        'us-house': number => `U.S. House District ${number} (${number === '1' ? 'West' : 'East'})`,
-        'psc': 'Public Service Commission District',
-        'HD': 'MT House District',
-        'SD': 'MT Senate District'
-    };
-
-    // Use regex to match the abbreviation part and extract the number
-    const match = districtCode.match(/(us-house|psc|HD|SD)-(\d+)/);
-    if (match) {
-        const [, prefix, number] = match;
-        // Use the function if the prefix is 'us-house', otherwise use the string mapping
-        return prefix === 'us-house'
-            ? mappings[prefix](number)
-            : `${mappings[prefix]} ${number}`;
+    // Check US House and PSC districts
+    const overviewRace = overviewRaces.find(race => race.raceSlug === districtCode);
+    if (overviewRace) {
+        console.log(overviewRace.displayName)
+        return overviewRace.displayName;
     }
 
-    // Return as is if it doesn't match
+    // Check State Senate and House districts
+    const legislativeRace = legislativeCandidates.find(candidate => candidate.raceSlug === districtCode);
+    if (legislativeRace) {
+        console.log(legislativeRace.raceDisplayName)
+        return legislativeRace.raceDisplayName;
+    }
+
+    // If not found, return the original districtCode
     return districtCode;
 }
-
 
 const selDistricts = {
     usHouse: 'us-house-2',
@@ -30,12 +29,4 @@ const selDistricts = {
     mtHouse: 'HD-1',
     mtSenate: 'SD-1',
     matchedAddress: null
-};
-
-// Map the districts
-const mappedDistricts = {
-    usHouse: mapDistrictCode(selDistricts.usHouse),
-    psc: mapDistrictCode(selDistricts.psc),
-    mtHouse: mapDistrictCode(selDistricts.mtHouse),
-    mtSenate: mapDistrictCode(selDistricts.mtSenate)
 };
