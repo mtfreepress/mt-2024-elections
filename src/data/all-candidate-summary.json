@@ -799,7 +799,7 @@
     "race": "Senate District 3",
     "party": "D",
     "status": "active",
-    "hasResponses": false,
+    "hasResponses": true,
     "numMTFParticles": 0,
     "cap_tracker_2023_link": null
   },
@@ -1566,7 +1566,7 @@
     "summaryLine": null,
     "race": "House District 2",
     "party": "D",
-    "status": "active",
+    "status": "withdrawn",
     "hasResponses": false,
     "numMTFParticles": 0,
     "cap_tracker_2023_link": null
@@ -3271,7 +3271,7 @@
     "race": "House District 63",
     "party": "R",
     "status": "active",
-    "hasResponses": false,
+    "hasResponses": true,
     "numMTFParticles": 0,
     "cap_tracker_2023_link": null
   },
@@ -3367,7 +3367,7 @@
     "race": "House District 67",
     "party": "D",
     "status": "active",
-    "hasResponses": false,
+    "hasResponses": true,
     "numMTFParticles": 0,
     "cap_tracker_2023_link": null
   },
@@ -3511,7 +3511,7 @@
     "race": "House District 72",
     "party": "D",
     "status": "active",
-    "hasResponses": false,
+    "hasResponses": true,
     "numMTFParticles": 0,
     "cap_tracker_2023_link": "https://apps.montanafreepress.org/capitol-tracker-2023/lawmakers/Donavon-Hawk/"
   },
@@ -4146,7 +4146,7 @@
     "summaryLine": null,
     "race": "House District 91",
     "party": "R",
-    "status": "active",
+    "status": "withdrawn",
     "hasResponses": false,
     "numMTFParticles": 0,
     "cap_tracker_2023_link": "https://apps.montanafreepress.org/capitol-tracker-2023/lawmakers/Joe-Read/"
@@ -4183,7 +4183,7 @@
     "race": "House District 93",
     "party": "D",
     "status": "active",
-    "hasResponses": false,
+    "hasResponses": true,
     "numMTFParticles": 0,
     "cap_tracker_2023_link": "https://apps.montanafreepress.org/capitol-tracker-2023/lawmakers/Katie-Sullivan/"
   },
@@ -4218,7 +4218,7 @@
     "summaryLine": null,
     "race": "House District 94",
     "party": "R",
-    "status": "active",
+    "status": "withdrawn",
     "hasResponses": false,
     "numMTFParticles": 0,
     "cap_tracker_2023_link": null
@@ -4421,6 +4421,39 @@
     "summaryLine": null,
     "race": "House District 51",
     "party": "I",
+    "status": "active",
+    "numMTFParticles": 0,
+    "cap_tracker_2023_link": null
+  },
+  {
+    "slug": "brad-simonis",
+    "path": "legislature",
+    "displayName": "BRAD SIMONIS",
+    "summaryLine": null,
+    "race": "House District 2",
+    "party": "D",
+    "status": "active",
+    "numMTFParticles": 0,
+    "cap_tracker_2023_link": null
+  },
+  {
+    "slug": "david-passieri",
+    "path": "legislature",
+    "displayName": "DAVID PASSIERI",
+    "summaryLine": null,
+    "race": "House District 91",
+    "party": "R",
+    "status": "active",
+    "numMTFParticles": 0,
+    "cap_tracker_2023_link": null
+  },
+  {
+    "slug": "adam-s-henson",
+    "path": "legislature",
+    "displayName": "ADAM S HENSON",
+    "summaryLine": null,
+    "race": "House District 94",
+    "party": "R",
     "status": "active",
     "numMTFParticles": 0,
     "cap_tracker_2023_link": null

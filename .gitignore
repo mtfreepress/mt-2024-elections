@@ -2,6 +2,7 @@
 
 secrets.txt
 .env
+scratchpad.ipynb
 
 inputs/mtfp-questionnaire/raw/* 
 inputs/mtfp-questionnaire/press-contacts.json
