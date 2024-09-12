@@ -1,6 +1,6 @@
 import { useState } from "react";
 import { css } from "@emotion/react";
-import mapDistrictCode from "../lib/mapDistrictCode";
+// import mapDistrictCode from "../lib/mapDistrictCode";
 import DistrictFinder from '../lib/DistrictFinder';
 
 const PLACEHOLDER = 'Enter address (e.g., 1301 E 6th Ave, Helena)';
@@ -51,7 +51,7 @@ export default function AddressLookup({
         setValue(null);
         setError(null);
     }
-    console.log(selDistricts)
+    // console.log("sel", selDistricts)
     // Convert district codes to full names
     const mappedDistricts = {
         usHouse: mapDistrictCode(selDistricts.usHouse),
@@ -59,7 +59,6 @@ export default function AddressLookup({
         mtHouse: mapDistrictCode(selDistricts.mtHouse),
         mtSenate: mapDistrictCode(selDistricts.mtSenate)
     };
-
     return (
         <div css={lookupStyle}>
             <div className="ledein">Show only candidates for your voting address</div>
@@ -95,6 +94,23 @@ export default function AddressLookup({
     );
 }
 
+function mapDistrictCode(districtCode) {
+    if (!districtCode) return '';
+    const mappings = {
+        'us-house': number => `U.S. House District ${number} (${number === '1' ? 'West' : 'East'})`,
+        'psc': 'Public Service Commission District',
+        'HD': 'MT House District',
+        'SD': 'MT Senate District'
+    };
+    const match = districtCode.match(/(us-house|psc|HD|SD)-(\d+)/);
+    if (match) {
+        const [, prefix, number] = match;
+        return prefix === 'us-house'
+            ? mappings[prefix](number)
+            : `${mappings[prefix]} ${number}`;
+    }
+    return districtCode;
+}
 
 const resultsContainerStyle = css`
     display: flex;
