@@ -1,3 +1,5 @@
+// TODO: Decide if we want this here or in AddressLookup
+
 export default function mapDistrictCode(districtCode) {
     if (!districtCode) return '';
 
@@ -23,11 +25,10 @@ export default function mapDistrictCode(districtCode) {
     return districtCode;
 }
 
-
 const selDistricts = {
-    usHouse: 'us-house-2',
-    psc: 'psc-2',
-    mtHouse: 'HD-1',
-    mtSenate: 'SD-1',
+    usHouse: null,
+    psc: null,
+    mtHouse: null,
+    mtSenate: null,
     matchedAddress: null
 };

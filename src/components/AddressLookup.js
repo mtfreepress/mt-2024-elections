@@ -1,116 +1,10 @@
 import { useState } from "react";
 import { css } from "@emotion/react";
-// import mapDistrictCode from "../lib/mapDistrictCode";
+import mapDistrictCode from "../lib/mapDistrictCode";
 import DistrictFinder from '../lib/DistrictFinder';
 
 const PLACEHOLDER = 'Enter address (e.g., 1301 E 6th Ave, Helena)';
 const DEFAULT_MESSAGE = 'Look up districts for your address by entering it above.';
-
-export default function AddressLookup({
-    selDistricts,
-    setSelDistricts,
-}) {
-    const { usHouse, psc, mtHouse, mtSenate, matchedAddress } = selDistricts;
-    const [value, setValue] = useState(null);
-    const [error, setError] = useState(null);
-    const [loading, setLoading] = useState(false);
-
-    const districtFinder = new DistrictFinder();
-
-    function handleChange(event) {
-        const input = event.target.value;
-        setValue(input);
-        setError(null); // Reset error on input change
-    }
-
-    function handleSubmit(event) {
-        event.preventDefault();
-        setLoading(true);
-        const result = districtFinder.matchAddressToDistricts(
-            value,
-            match => {
-                setSelDistricts(match);
-                setError(null);
-                setLoading(false);
-            },
-            err => {
-                setError(` Invalid address, please make sure you enter it in this format: 1301 E 6th Ave, Helena`);
-                setLoading(false);
-            }
-        );
-    }
-
-    function reset() {
-        setSelDistricts({
-            usHouse: null,
-            psc: null,
-            mtHouse: 'HD-1',
-            mtSenate: 'SD-1',
-            matchedAddress: null
-        });
-        setValue(null);
-        setError(null);
-    }
-    // console.log("sel", selDistricts)
-    // Convert district codes to full names
-    const mappedDistricts = {
-        usHouse: mapDistrictCode(selDistricts.usHouse),
-        psc: mapDistrictCode(selDistricts.psc),
-        mtHouse: mapDistrictCode(selDistricts.mtHouse),
-        mtSenate: mapDistrictCode(selDistricts.mtSenate)
-    };
-    return (
-        <div css={lookupStyle}>
-            <div className="ledein">Show only candidates for your voting address</div>
-            <form>
-                <input onChange={handleChange} type="address" value={value || ''} placeholder={PLACEHOLDER} />
-                <button onClick={handleSubmit} disabled={loading} css={buttonStyle}>
-                    {loading ? 'Searching...' : 'Look up'}
-                </button>
-            </form>
-            <div className="message">
-                {error && (
-                    <div css={errorStyle}>
-                        <strong>Error:</strong> {error}
-                    </div>
-                )}
-                {(matchedAddress === null && !error) && <div>{DEFAULT_MESSAGE}</div>}
-                {(matchedAddress !== null && !error) && (
-                    <div css={resultsContainerStyle}>
-                        <div css={headerStyle}>
-                            <div css={headerTitleStyle}>Districts for <strong>{matchedAddress}</strong>:</div>
-                        </div>
-                        <div css={resultsContainerInnerStyle}>
-                            <div css={distResStyle}>{mappedDistricts.usHouse}</div>
-                            <div css={distResStyle}>{mappedDistricts.mtHouse}</div>
-                            <div css={distResStyle}>{mappedDistricts.mtSenate}</div>
-                            <div css={distResStyle}>{mappedDistricts.psc}</div>
-                        </div>
-                        <a onClick={reset} css={resetStyle}>Reset</a>
-                    </div>
-                )}
-            </div>
-        </div>
-    );
-}
-
-function mapDistrictCode(districtCode) {
-    if (!districtCode) return '';
-    const mappings = {
-        'us-house': number => `U.S. House District ${number} (${number === '1' ? 'West' : 'East'})`,
-        'psc': 'Public Service Commission District',
-        'HD': 'MT House District',
-        'SD': 'MT Senate District'
-    };
-    const match = districtCode.match(/(us-house|psc|HD|SD)-(\d+)/);
-    if (match) {
-        const [, prefix, number] = match;
-        return prefix === 'us-house'
-            ? mappings[prefix](number)
-            : `${mappings[prefix]} ${number}`;
-    }
-    return districtCode;
-}
 
 const resultsContainerStyle = css`
     display: flex;
@@ -249,3 +143,109 @@ const buttonStyle = css`
     justify-content: center;
     white-space: nowrap;
 `;
+
+export default function AddressLookup({
+    selDistricts,
+    setSelDistricts,
+}) {
+    const { usHouse, psc, mtHouse, mtSenate, matchedAddress } = selDistricts;
+    const [value, setValue] = useState(null);
+    const [error, setError] = useState(null);
+    const [loading, setLoading] = useState(false);
+
+    const districtFinder = new DistrictFinder();
+
+    function handleChange(event) {
+        const input = event.target.value;
+        setValue(input);
+        setError(null); // Reset error on input change
+    }
+
+    function handleSubmit(event) {
+        event.preventDefault();
+        setLoading(true);
+        const result = districtFinder.matchAddressToDistricts(
+            value,
+            match => {
+                setSelDistricts(match);
+                setError(null);
+                setLoading(false);
+            },
+            err => {
+                setError(` Invalid address, please make sure you enter it in this format: 1301 E 6th Ave, Helena`);
+                setLoading(false);
+            }
+        );
+    }
+
+    function reset() {
+        setSelDistricts({
+            usHouse: null,
+            psc: null,
+            mtHouse: 'HD-1',
+            mtSenate: 'SD-1',
+            matchedAddress: null
+        });
+        setValue(null);
+        setError(null);
+    }
+    const mappedDistricts = {
+        usHouse: mapDistrictCode(selDistricts.usHouse),
+        psc: mapDistrictCode(selDistricts.psc),
+        mtHouse: mapDistrictCode(selDistricts.mtHouse),
+        mtSenate: mapDistrictCode(selDistricts.mtSenate)
+    };
+    return (
+        <div css={lookupStyle}>
+            <div className="ledein">Show only candidates for your voting address</div>
+            <form>
+                <input onChange={handleChange} type="address" value={value || ''} placeholder={PLACEHOLDER} />
+                <button onClick={handleSubmit} disabled={loading} css={buttonStyle}>
+                    {loading ? 'Searching...' : 'Look up'}
+                </button>
+            </form>
+            <div className="message">
+                {error && (
+                    <div css={errorStyle}>
+                        <strong>Error:</strong> {error}
+                    </div>
+                )}
+                {(matchedAddress === null && !error) && <div>{DEFAULT_MESSAGE}</div>}
+                {(matchedAddress !== null && !error) && (
+                    <div css={resultsContainerStyle}>
+                        <div css={headerStyle}>
+                            <div css={headerTitleStyle}>Districts for <strong>{matchedAddress}</strong>:</div>
+                        </div>
+                        <div css={resultsContainerInnerStyle}>
+                            <div css={distResStyle}>{mappedDistricts.usHouse}</div>
+                            <div css={distResStyle}>{mappedDistricts.mtHouse}</div>
+                            <div css={distResStyle}>{mappedDistricts.mtSenate}</div>
+                            <div css={distResStyle}>{mappedDistricts.psc}</div>
+                        </div>
+                        <a onClick={reset} css={resetStyle}>Reset</a>
+                    </div>
+                )}
+            </div>
+        </div>
+    );
+}
+
+// TODO: Decide if we want this in here or in it's own component
+
+// function mapDistrictCode(districtCode) {
+//     if (!districtCode) return '';
+//     const mappings = {
+//         'us-house': number => `U.S. House District ${number} (${number === '1' ? 'West' : 'East'})`,
+//         'psc': 'Public Service Commission District',
+//         'HD': 'MT House District',
+//         'SD': 'MT Senate District'
+//     };
+//     const match = districtCode.match(/(us-house|psc|HD|SD)-(\d+)/);
+//     if (match) {
+//         const [, prefix, number] = match;
+//         return prefix === 'us-house'
+//             ? mappings[prefix](number)
+//             : `${mappings[prefix]} ${number}`;
+//     }
+//     return districtCode;
+// }
