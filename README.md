@@ -21,6 +21,7 @@ This is a [Next.js](https://nextjs.org/) project.
 - `public` - Images and other static content
 
 ## Helpful Commands
+
 - To update all YAML files (so the page updates) run `./update-data.sh` in the command line. 
 
     #### - This will run:
