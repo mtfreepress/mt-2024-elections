@@ -22,6 +22,7 @@ export const getCorrespondingHouseDistrictNumbers = (sd) => {
 }
 
 export const getCorrespondingSenateDistrictNumber = (hd) => {
+    if (hd === null) return null
     const number = getDistrictNumber(hd)
     return Math.ceil(number / 2)
 }

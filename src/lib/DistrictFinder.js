@@ -1,22 +1,12 @@
 import { HD_TO_PSC } from './../data/hd-to-psc'
 import { getCorrespondingSenateDistrictNumber } from './utils'
 
-const GEOCODE_API_URL = 'https://gisservicemt.gov/arcgis/rest/services/MSDI_Framework/MontanaAddressLocator/GeocodeServer/findAddressCandidates'
-
-const STATE_HOUSE_DISTRICT_API_URL = 'https://gisservicemt.gov/arcgis/rest/services/MSDI_Framework/Boundaries/MapServer/62/query'
-const CONGRESSIONAL_DISTRICT_API_URL = 'https://gisservicemt.gov/arcgis/rest/services/MSDI_Framework/Boundaries/MapServer/34/query'
-
-// {
-//             source: '/hd-lookup',
-//             destination: 'https://gisservicemt.gov/arcgis/rest/services/MSDI_Framework/Boundaries/MapServer/62/query',
-//         },
-//         {
-//             source: '/congressional-lookup',
-//             destination: 'https://gisservicemt.gov/arcgis/rest/services/MSDI_Framework/Boundaries/MapServer/34/query'
-//         }
-
-// House test query
-// ?where=&text=&objectIds=&time=&geometry=%7B"x"%3A-12360980.600350775%2C"y"%3A5726894.334985688%2C"spatialReference"%3A%7B"wkid"%3A102100%2C"latestWkid"%3A3857%7D%7D&geometryType=esriGeometryPoint&inSR=&spatialRel=esriSpatialRelIntersects&relationParam=&outFields=*&returnGeometry=false&returnTrueCurves=false&maxAllowableOffset=&geometryPrecision=&outSR=&having=&returnIdsOnly=false&returnCountOnly=false&orderByFields=&groupByFieldsForStatistics=&outStatistics=&returnZ=false&returnM=false&gdbVersion=&historicMoment=&returnDistinctValues=false&resultOffset=&resultRecordCount=&queryByDistance=&returnExtentOnly=false&datumTransformation=&parameterValues=&rangeValues=&quantizationParameters=&f=html
+// Local testing of proxy - change before deploying
+// const BASE_PATH = 'http://localhost:3000' 
+const BASE_PATH = 'https://39tcu96a0k.execute-api.us-west-2.amazonaws.com/prod'
+const STATE_HOUSE_DISTRICT_API_URL = `${BASE_PATH}/hd-lookup`
+const CONGRESSIONAL_DISTRICT_API_URL = `${BASE_PATH}/congressional-lookup`
+const GEOCODE_API_URL = `${BASE_PATH}/geocode`
 
 export default class DistrictFinder {
 
@@ -32,7 +22,9 @@ export default class DistrictFinder {
                 coords: place.location,
                 fields: 'District'
             })
-            const hd = houseDistrictResponse.features[0].attributes['District']
+            const hd = houseDistrictResponse &&
+                houseDistrictResponse.features[0].attributes['District'] ||
+                null
 
             // State senate and PSC districts derived from state house disrict
             const sd = getCorrespondingSenateDistrictNumber(hd)
@@ -43,7 +35,9 @@ export default class DistrictFinder {
                 coords: place.location,
                 fields: 'DistrictNumber'
             })
-            const usHouse = congressionalDistrictResponse.features[0].attributes['DistrictNumber']
+            const usHouse = congressionalDistrictResponse &&
+                congressionalDistrictResponse.features[0].attributes['DistrictNumber'] ||
+                null
 
             callback({
                 matchedAddress,
@@ -82,7 +76,7 @@ export default class DistrictFinder {
             outFields: fields,
         }
         const url = this.makeQuery(apiUrl, payload)
-        console.log(payload, url)
+        console.log(url)
         const data = await fetch(url)
             .then(data => data.json())
             .then(res => res)
@@ -91,12 +85,15 @@ export default class DistrictFinder {
         return data
     }
 
+
     makeQuery = (url, params) => {
         let string = url + '?'
         for (let key in params) {
-            string = string + `${key}=${params[key].replace(/\s/g, '%20')}&`
+            // Encode both key and value
+            string = string + `${encodeURIComponent(key)}=${encodeURIComponent(params[key])}&`
         }
-        return string
+        // Remove trailing '&' if present
+        return string.slice(0, -1)
     }
 
     pickAddress = (locations) => {
