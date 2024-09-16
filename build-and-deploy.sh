@@ -16,5 +16,10 @@ node process/make-candidate-list.js
 npm run build
 
 # Deploy
-aws s3 sync build s3://apps.montanafreepress.org/election-guide-2024 --delete
-aws cloudfront create-invalidation --distribution-id E3LVPS3XLJHLL5 --paths "/election-guide-2024/*"
+aws s3 sync build s3://projects.montanafreepress.org/election-guide-2024 --delete
+aws cloudfront create-invalidation --distribution-id E1G7ISX2SZFY34 --paths "/election-guide-2024/*"
+
+# Leaving in just in case™ we need it before migrating to the new domain entirely
+# Old Deploy
+# aws s3 sync build s3://apps.montanafreepress.org/election-guide-2024 --delete
+# aws cloudfront create-invalidation --distribution-id E3LVPS3XLJHLL5 --paths "/election-guide-2024/*"
