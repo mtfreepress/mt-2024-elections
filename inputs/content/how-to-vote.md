@@ -39,7 +39,7 @@ You can return ballots by mail, or drop them off in person at your county’s el
 
 ### How do I vote in person?
 
-If you plan to vote at the polls, just be sure you know where your polling location is and head there between 7 a.m. and 8 p.m. on Election Day. You'll need to provide a photo ID and sign the precinct register, at which point you’ll get your ballot and be directed to a voting booth. If you have any technical questions or run into any problems, the election judges at your polling place should be able to help you.
+If you plan to vote at the polls, just be sure you know where your polling location is and head there between 7 a.m. and 8 p.m. on Election Day. You'll need to provide a photo ID or other accepted form of identification and sign the precinct register, at which point you’ll get your ballot and be directed to a voting booth. If you have any technical questions or run into any problems, the election judges at your polling place should be able to help you.
 
 ### I have a friend or family member who isn't able to drop off his or her mail-in ballot. Can I do it for them?
 Yes, you can. The Montana Legislature did make some changes to ballot collection laws in 2021 related to paid ballot collection, but those changes have also been blocked by the Montana Supreme Court.
