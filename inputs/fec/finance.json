@@ -367,6 +367,22 @@
         "party_full": "REPUBLICAN PARTY",
         "total_disbursements": 4500,
         "total_receipts": 4550
+      },
+      {
+        "candidate_election_year": 2024,
+        "candidate_id": "H4MT02155",
+        "candidate_name": "NEILL, REILLY",
+        "candidate_pcc_id": "C00886481",
+        "candidate_pcc_name": "NEILL FOR CONGRESS",
+        "cash_on_hand_end_period": 0,
+        "committee_ids": [
+          "C00886481"
+        ],
+        "coverage_end_date": null,
+        "incumbent_challenge_full": null,
+        "party_full": "DEMOCRATIC PARTY",
+        "total_disbursements": 0,
+        "total_receipts": 0
       }
     ]
   }

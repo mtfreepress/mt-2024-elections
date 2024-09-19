@@ -35,6 +35,8 @@ const FEC_DATA_EXCLUDE = [
     'MYGLAND, JEREMY',
     'MORAN, CORY',
     'ROSENDALE, MATT MR.',
+    // Independent candidates who don't have candidate pages
+    'NEILL, REILLY'
 ]
 
 // Clean campaign finance data

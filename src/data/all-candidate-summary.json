@@ -20,7 +20,7 @@
     "party": "R",
     "status": "active",
     "hasResponses": true,
-    "numMTFParticles": 19,
+    "numMTFParticles": 20,
     "cap_tracker_2023_link": null
   },
   {
@@ -152,7 +152,7 @@
     "party": "D",
     "status": "active",
     "hasResponses": true,
-    "numMTFParticles": 8,
+    "numMTFParticles": 9,
     "cap_tracker_2023_link": null
   },
   {
@@ -356,7 +356,7 @@
     "party": "L",
     "status": "active",
     "hasResponses": true,
-    "numMTFParticles": 1,
+    "numMTFParticles": 2,
     "cap_tracker_2023_link": null
   },
   {
@@ -380,7 +380,7 @@
     "party": "D",
     "status": "active",
     "hasResponses": true,
-    "numMTFParticles": 13,
+    "numMTFParticles": 14,
     "cap_tracker_2023_link": null
   },
   {
@@ -548,7 +548,7 @@
     "party": "R",
     "status": "active",
     "hasResponses": true,
-    "numMTFParticles": 21,
+    "numMTFParticles": 22,
     "cap_tracker_2023_link": null
   },
   {
@@ -1615,7 +1615,7 @@
     "race": "House District 4",
     "party": "R",
     "status": "active",
-    "hasResponses": false,
+    "hasResponses": true,
     "numMTFParticles": 0,
     "cap_tracker_2023_link": null
   },
@@ -1855,7 +1855,7 @@
     "race": "House District 12",
     "party": "R",
     "status": "active",
-    "hasResponses": false,
+    "hasResponses": true,
     "numMTFParticles": 0,
     "cap_tracker_2023_link": null
   },
@@ -2539,7 +2539,7 @@
     "race": "House District 35",
     "party": "D",
     "status": "active",
-    "hasResponses": false,
+    "hasResponses": true,
     "numMTFParticles": 0,
     "cap_tracker_2023_link": null
   },
@@ -2947,7 +2947,7 @@
     "race": "House District 52",
     "party": "D",
     "status": "active",
-    "hasResponses": false,
+    "hasResponses": true,
     "numMTFParticles": 0,
     "cap_tracker_2023_link": null
   },
@@ -3355,7 +3355,7 @@
     "race": "House District 66",
     "party": "R",
     "status": "active",
-    "hasResponses": false,
+    "hasResponses": true,
     "numMTFParticles": 0,
     "cap_tracker_2023_link": null
   },
@@ -3571,7 +3571,7 @@
     "race": "House District 74",
     "party": "R",
     "status": "active",
-    "hasResponses": false,
+    "hasResponses": true,
     "numMTFParticles": 0,
     "cap_tracker_2023_link": null
   },
@@ -3619,7 +3619,7 @@
     "race": "House District 76",
     "party": "L",
     "status": "active",
-    "hasResponses": false,
+    "hasResponses": true,
     "numMTFParticles": 0,
     "cap_tracker_2023_link": null
   },
@@ -4411,6 +4411,7 @@
     "race": "Senate District 45",
     "party": "I",
     "status": "active",
+    "hasResponses": false,
     "numMTFParticles": 0,
     "cap_tracker_2023_link": null
   },
@@ -4422,6 +4423,7 @@
     "race": "House District 51",
     "party": "I",
     "status": "active",
+    "hasResponses": true,
     "numMTFParticles": 0,
     "cap_tracker_2023_link": null
   },
@@ -4433,6 +4435,7 @@
     "race": "House District 2",
     "party": "D",
     "status": "active",
+    "hasResponses": false,
     "numMTFParticles": 0,
     "cap_tracker_2023_link": null
   },
@@ -4444,6 +4447,7 @@
     "race": "House District 91",
     "party": "R",
     "status": "active",
+    "hasResponses": true,
     "numMTFParticles": 0,
     "cap_tracker_2023_link": null
   },
@@ -4455,6 +4459,7 @@
     "race": "House District 94",
     "party": "R",
     "status": "active",
+    "hasResponses": false,
     "numMTFParticles": 0,
     "cap_tracker_2023_link": null
   }

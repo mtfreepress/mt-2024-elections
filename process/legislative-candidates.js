@@ -22,6 +22,11 @@ const urlize = str => str.toLowerCase().replaceAll(/\s/g, '-')
 
 const NAME_REPLACE = {
     'JODEE MACDONALD ETCHART': 'JODEE ETCHART',
+    'JAMES G WHITAKER (WRITE-IN)': 'JAMES G WHITAKER',
+    'KATHY HOILAND (WRITE-IN)': 'KATHY HOILAND',
+    'RAE PEPPERS (WRITE-IN)': 'RAE PEPPERS',
+    'KELLY DURBIN-WILLIAMS': 'KELLEY DURBIN-WILLIAMS',
+    'ADAM HENSON': 'ADAM S HENSON',
 }
 
 const LEGE_QUESTIONS = [
@@ -94,10 +99,17 @@ async function main() {
 
     // merging legeQuestions because post-primary updates from LWV don't 
     // include candidates that lost their primaries
-    const legeQuestions = legeQuestionsPrePrimary.map(d => d['Full Name']).map(name => {
+    const mergedQuestionnaireCandidateList = Array.from(new Set(
+        legeQuestionsPrePrimary.concat(legeQuestionsPostPrimary)
+    ))
+        .filter(d => d['Race/Referendum'].includes('MONTANA SENATE') || d['Race/Referendum'].includes('MONTANA HOUSE'))
+        .map(d => d['Full Name'])
+    const legeQuestions = mergedQuestionnaireCandidateList.map(name => {
+        // pull from postPrimary questionnaire first, then fall back to prePrimary 
         const postPrimaryMatch = legeQuestionsPostPrimary.find(d => d['Full Name'] === name)
+        const prePrimaryMarch = legeQuestionsPrePrimary.find(d => d['Full Name'] === name)
         if (postPrimaryMatch) return postPrimaryMatch
-        return legeQuestionsPrePrimary.find(d => d['Full Name'] === name)
+        return prePrimaryMarch
     })
 
     // cleaning
@@ -127,6 +139,7 @@ async function main() {
 
     // Check for mis-matches matches
     const legeNames = legislativeCandidates.map(d => d.Name)
+
     const questionNames = legeQuestions.map(d => d['Full Name'])
     const namesMissingInQuestionData = legeNames.filter(d => !questionNames.includes(d))
     const namesMissingInFilingData = questionNames.filter(d => !legeNames.includes(d))

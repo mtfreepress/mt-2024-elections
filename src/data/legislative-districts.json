@@ -72,6 +72,7 @@
         "party": "D",
         "status": "active",
         "cap_tracker_2023_link": null,
+        "hasResponses": false,
         "numMTFParticles": 0
       }
     ]
@@ -131,7 +132,7 @@
         "party": "R",
         "status": "active",
         "cap_tracker_2023_link": null,
-        "hasResponses": false,
+        "hasResponses": true,
         "numMTFParticles": 0
       },
       {
@@ -407,7 +408,7 @@
         "party": "R",
         "status": "active",
         "cap_tracker_2023_link": null,
-        "hasResponses": false,
+        "hasResponses": true,
         "numMTFParticles": 0
       },
       {
@@ -1196,7 +1197,7 @@
         "party": "D",
         "status": "active",
         "cap_tracker_2023_link": null,
-        "hasResponses": false,
+        "hasResponses": true,
         "numMTFParticles": 0
       }
     ]
@@ -1685,6 +1686,7 @@
         "party": "I",
         "status": "active",
         "cap_tracker_2023_link": null,
+        "hasResponses": true,
         "numMTFParticles": 0
       }
     ]
@@ -1714,7 +1716,7 @@
         "party": "D",
         "status": "active",
         "cap_tracker_2023_link": null,
-        "hasResponses": false,
+        "hasResponses": true,
         "numMTFParticles": 0
       }
     ]
@@ -2179,7 +2181,7 @@
         "party": "R",
         "status": "active",
         "cap_tracker_2023_link": null,
-        "hasResponses": false,
+        "hasResponses": true,
         "numMTFParticles": 0
       },
       {
@@ -2437,7 +2439,7 @@
         "party": "R",
         "status": "active",
         "cap_tracker_2023_link": null,
-        "hasResponses": false,
+        "hasResponses": true,
         "numMTFParticles": 0
       },
       {
@@ -2515,7 +2517,7 @@
         "party": "L",
         "status": "active",
         "cap_tracker_2023_link": null,
-        "hasResponses": false,
+        "hasResponses": true,
         "numMTFParticles": 0
       }
     ]
@@ -3082,6 +3084,7 @@
         "party": "R",
         "status": "active",
         "cap_tracker_2023_link": null,
+        "hasResponses": true,
         "numMTFParticles": 0
       },
       {
@@ -3180,6 +3183,7 @@
         "party": "R",
         "status": "active",
         "cap_tracker_2023_link": null,
+        "hasResponses": false,
         "numMTFParticles": 0
       },
       {
@@ -4479,6 +4483,7 @@
         "party": "I",
         "status": "active",
         "cap_tracker_2023_link": null,
+        "hasResponses": false,
         "numMTFParticles": 0
       }
     ]
