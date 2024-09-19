@@ -14,7 +14,7 @@
         "summaryLine": "Incumbent U.S. senator",
         "party": "D",
         "hasResponses": true,
-        "numMTFParticles": 13
+        "numMTFParticles": 14
       },
       {
         "slug": "tim-sheehy",
@@ -22,7 +22,7 @@
         "summaryLine": "Bozeman businessman",
         "party": "R",
         "hasResponses": true,
-        "numMTFParticles": 19
+        "numMTFParticles": 20
       },
       {
         "slug": "sid-daoud",
@@ -456,7 +456,7 @@
         "summaryLine": "Incumbent Montana governor",
         "party": "R",
         "hasResponses": true,
-        "numMTFParticles": 21
+        "numMTFParticles": 22
       },
       {
         "slug": "ryan-busse",
@@ -464,7 +464,7 @@
         "summaryLine": "Former firearms sales executive",
         "party": "D",
         "hasResponses": true,
-        "numMTFParticles": 8
+        "numMTFParticles": 9
       },
       {
         "slug": "kaiser-leib",
@@ -472,7 +472,7 @@
         "summaryLine": "Tech entrepreneur",
         "party": "L",
         "hasResponses": true,
-        "numMTFParticles": 1
+        "numMTFParticles": 2
       }
     ],
     "finance": null,
