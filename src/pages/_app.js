@@ -4,7 +4,7 @@ import { useRouter } from "next/router";
 
 export default function App({ Component, pageProps }) {
   const router = useRouter();
-  const basePath = "/election-guide-2024"; // have to set this since the base path isn't `/` like most projects
+  const basePath = "/election-guide-2024"; // Setting the base path
 
   useEffect(() => {
     const handleRouteChangeStart = () => {
@@ -19,12 +19,9 @@ export default function App({ Component, pageProps }) {
       setTimeout(() => {
         const currentPath = url.startsWith(basePath) ? url : `${basePath}${url}`;
         const savedPosition = sessionStorage.getItem(currentPath);
-        // if (savedPosition !== null) {
-        //   window.scrollTo(0, parseInt(savedPosition, 10));
-        //   console.log(`Restoring scroll position for ${currentPath}: ${savedPosition}`);
-        // } else {
-        //   console.log(`No saved scroll position for ${currentPath}`);
-        // }
+        if (savedPosition) {
+          window.scrollTo(0, parseInt(savedPosition, 10));
+        }
       }, 0);
     };
 
