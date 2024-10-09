@@ -12,7 +12,6 @@ export default function App({ Component, pageProps }) {
         ? router.asPath 
         : `${basePath}${router.asPath}`;
       sessionStorage.setItem(currentPath, window.scrollY.toString());
-      console.log(`Saving scroll position for ${currentPath}: ${window.scrollY}`);
     };
 
     const handleRouteChangeComplete = (url) => {
@@ -20,12 +19,12 @@ export default function App({ Component, pageProps }) {
       setTimeout(() => {
         const currentPath = url.startsWith(basePath) ? url : `${basePath}${url}`;
         const savedPosition = sessionStorage.getItem(currentPath);
-        if (savedPosition !== null) {
-          window.scrollTo(0, parseInt(savedPosition, 10));
-          console.log(`Restoring scroll position for ${currentPath}: ${savedPosition}`);
-        } else {
-          console.log(`No saved scroll position for ${currentPath}`);
-        }
+        // if (savedPosition !== null) {
+        //   window.scrollTo(0, parseInt(savedPosition, 10));
+        //   console.log(`Restoring scroll position for ${currentPath}: ${savedPosition}`);
+        // } else {
+        //   console.log(`No saved scroll position for ${currentPath}`);
+        // }
       }, 0);
     };
 
