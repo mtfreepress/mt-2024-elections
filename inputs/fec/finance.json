@@ -25,16 +25,16 @@
         "candidate_name": "SHEEHY, TIM",
         "candidate_pcc_id": "C00844159",
         "candidate_pcc_name": "TIM SHEEHY FOR MONTANA",
-        "cash_on_hand_end_period": 3270566.2,
+        "cash_on_hand_end_period": 3242081.59,
         "committee_ids": [
           "C00829465",
           "C00844159"
         ],
-        "coverage_end_date": "2024-06-30",
+        "coverage_end_date": "2024-09-29",
         "incumbent_challenge_full": "Challenger",
         "party_full": "REPUBLICAN PARTY",
-        "total_disbursements": 10795081.65,
-        "total_receipts": 14065647.85
+        "total_disbursements": 10823805.69,
+        "total_receipts": 14065887.28
       },
       {
         "candidate_election_year": 2024,
@@ -278,14 +278,14 @@
         "candidate_name": "KRAUTTER, JOEL",
         "candidate_pcc_id": "C00850552",
         "candidate_pcc_name": "JOEL KRAUTTER FOR MONTANA",
-        "cash_on_hand_end_period": 3660.98,
+        "cash_on_hand_end_period": 0,
         "committee_ids": [
           "C00850552"
         ],
-        "coverage_end_date": "2024-06-30",
+        "coverage_end_date": "2024-09-24",
         "incumbent_challenge_full": "Open seat",
         "party_full": "REPUBLICAN PARTY",
-        "total_disbursements": 84417.91,
+        "total_disbursements": 88078.89,
         "total_receipts": 88078.89
       },
       {
@@ -310,15 +310,15 @@
         "candidate_name": "CABRERA, MING A MR",
         "candidate_pcc_id": "C00849455",
         "candidate_pcc_name": "MING FOR CONGRESS",
-        "cash_on_hand_end_period": 1636.18,
+        "cash_on_hand_end_period": 0,
         "committee_ids": [
           "C00849455"
         ],
-        "coverage_end_date": "2024-06-30",
+        "coverage_end_date": "2024-09-30",
         "incumbent_challenge_full": "Open seat",
         "party_full": "DEMOCRATIC PARTY",
-        "total_disbursements": 59907.55,
-        "total_receipts": 60947
+        "total_disbursements": 61522,
+        "total_receipts": 61522
       },
       {
         "candidate_election_year": 2024,
@@ -354,6 +354,22 @@
       },
       {
         "candidate_election_year": 2024,
+        "candidate_id": "H4MT02155",
+        "candidate_name": "NEILL, REILLY",
+        "candidate_pcc_id": "C00886481",
+        "candidate_pcc_name": "NEILL FOR CONGRESS",
+        "cash_on_hand_end_period": 6363.38,
+        "committee_ids": [
+          "C00886481"
+        ],
+        "coverage_end_date": "2024-09-30",
+        "incumbent_challenge_full": null,
+        "party_full": "DEMOCRATIC PARTY",
+        "total_disbursements": 9460.78,
+        "total_receipts": 15824.16
+      },
+      {
+        "candidate_election_year": 2024,
         "candidate_id": "H2MT02175",
         "candidate_name": "AUSTIN, KYLE",
         "candidate_pcc_id": "C00870352",
@@ -362,27 +378,11 @@
         "committee_ids": [
           "C00870352"
         ],
-        "coverage_end_date": "2024-06-30",
+        "coverage_end_date": "2024-09-30",
         "incumbent_challenge_full": "Open seat",
         "party_full": "REPUBLICAN PARTY",
         "total_disbursements": 4500,
         "total_receipts": 4550
-      },
-      {
-        "candidate_election_year": 2024,
-        "candidate_id": "H4MT02155",
-        "candidate_name": "NEILL, REILLY",
-        "candidate_pcc_id": "C00886481",
-        "candidate_pcc_name": "NEILL FOR CONGRESS",
-        "cash_on_hand_end_period": 0,
-        "committee_ids": [
-          "C00886481"
-        ],
-        "coverage_end_date": null,
-        "incumbent_challenge_full": null,
-        "party_full": "DEMOCRATIC PARTY",
-        "total_disbursements": 0,
-        "total_receipts": 0
       }
     ]
   }

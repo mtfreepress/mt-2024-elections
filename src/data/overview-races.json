@@ -14,7 +14,7 @@
         "summaryLine": "Incumbent U.S. senator",
         "party": "D",
         "hasResponses": true,
-        "numMTFParticles": 14
+        "numMTFParticles": 18
       },
       {
         "slug": "tim-sheehy",
@@ -22,7 +22,7 @@
         "summaryLine": "Bozeman businessman",
         "party": "R",
         "hasResponses": true,
-        "numMTFParticles": 20
+        "numMTFParticles": 24
       },
       {
         "slug": "sid-daoud",
@@ -57,10 +57,10 @@
         "party": "R",
         "candidateCommitteeName": "TIM SHEEHY FOR MONTANA",
         "candidateId": "S4MT00183",
-        "totalReceipts": 14065647.85,
-        "totalDisbursments": 10795081.65,
-        "cashOnHand": 3270566.2,
-        "coverageEndDate": "2024-06-30"
+        "totalReceipts": 14065887.28,
+        "totalDisbursments": 10823805.69,
+        "cashOnHand": 3242081.59,
+        "coverageEndDate": "2024-09-29"
       },
       {
         "displayName": "Brad Johnson",
@@ -133,7 +133,7 @@
         "summaryLine": "Incumbent U.S. representative",
         "party": "R",
         "hasResponses": true,
-        "numMTFParticles": 10
+        "numMTFParticles": 11
       },
       {
         "slug": "monica-tranel",
@@ -141,7 +141,7 @@
         "summaryLine": "Missoula attorney",
         "party": "D",
         "hasResponses": true,
-        "numMTFParticles": 5
+        "numMTFParticles": 6
       },
       {
         "slug": "dennis-hayes",
@@ -218,7 +218,7 @@
         "summaryLine": "State auditor",
         "party": "R",
         "hasResponses": false,
-        "numMTFParticles": 3
+        "numMTFParticles": 4
       },
       {
         "slug": "john-driscoll",
@@ -296,9 +296,9 @@
         "candidateCommitteeName": "JOEL KRAUTTER FOR MONTANA",
         "candidateId": "H4MT02064",
         "totalReceipts": 88078.89,
-        "totalDisbursments": 84417.91,
-        "cashOnHand": 3660.98,
-        "coverageEndDate": "2024-06-30"
+        "totalDisbursments": 88078.89,
+        "cashOnHand": 0,
+        "coverageEndDate": "2024-09-24"
       },
       {
         "displayName": "Kevin Hamm",
@@ -315,10 +315,10 @@
         "party": "D",
         "candidateCommitteeName": "MING FOR CONGRESS",
         "candidateId": "H4MT02056",
-        "totalReceipts": 60947,
-        "totalDisbursments": 59907.55,
-        "cashOnHand": 1636.18,
-        "coverageEndDate": "2024-06-30"
+        "totalReceipts": 61522,
+        "totalDisbursments": 61522,
+        "cashOnHand": 0,
+        "coverageEndDate": "2024-09-30"
       },
       {
         "displayName": "Ken Bogner",
@@ -348,7 +348,7 @@
         "totalReceipts": 4550,
         "totalDisbursments": 4500,
         "cashOnHand": 550,
-        "coverageEndDate": "2024-06-30"
+        "coverageEndDate": "2024-09-30"
       }
     ],
     "inactiveCandidates": [
@@ -456,7 +456,7 @@
         "summaryLine": "Incumbent Montana governor",
         "party": "R",
         "hasResponses": true,
-        "numMTFParticles": 22
+        "numMTFParticles": 23
       },
       {
         "slug": "ryan-busse",
@@ -464,7 +464,7 @@
         "summaryLine": "Former firearms sales executive",
         "party": "D",
         "hasResponses": true,
-        "numMTFParticles": 9
+        "numMTFParticles": 10
       },
       {
         "slug": "kaiser-leib",
@@ -509,7 +509,7 @@
         "summaryLine": "Incumbent secretary of state",
         "party": "R",
         "hasResponses": true,
-        "numMTFParticles": 6
+        "numMTFParticles": 7
       },
       {
         "slug": "jesse-mullen",
@@ -517,7 +517,7 @@
         "summaryLine": "Deer Lodge newspaper owner",
         "party": "D",
         "hasResponses": true,
-        "numMTFParticles": 1
+        "numMTFParticles": 2
       },
       {
         "slug": "john-lamb",
@@ -545,7 +545,7 @@
         "summaryLine": "Incumbent attorney general",
         "party": "R",
         "hasResponses": true,
-        "numMTFParticles": 12
+        "numMTFParticles": 13
       },
       {
         "slug": "ben-alke",
@@ -619,7 +619,7 @@
         "summaryLine": "Public Service Commission president",
         "party": "R",
         "hasResponses": true,
-        "numMTFParticles": 3
+        "numMTFParticles": 4
       },
       {
         "slug": "john-repke",
@@ -627,7 +627,7 @@
         "summaryLine": "Retired business executive",
         "party": "D",
         "hasResponses": true,
-        "numMTFParticles": 0
+        "numMTFParticles": 1
       }
     ],
     "finance": null,
@@ -656,7 +656,7 @@
         "summaryLine": "Former federal magistrate judge",
         "party": "NP",
         "hasResponses": true,
-        "numMTFParticles": 3
+        "numMTFParticles": 4
       },
       {
         "slug": "cory-swanson",
@@ -664,7 +664,7 @@
         "summaryLine": "Broadwater County attorney",
         "party": "NP",
         "hasResponses": true,
-        "numMTFParticles": 3
+        "numMTFParticles": 4
       }
     ],
     "finance": null,
@@ -693,7 +693,7 @@
         "summaryLine": "State district court judge",
         "party": "NP",
         "hasResponses": true,
-        "numMTFParticles": 1
+        "numMTFParticles": 2
       },
       {
         "slug": "dan-wilson",
@@ -701,7 +701,7 @@
         "summaryLine": "State district court judge",
         "party": "NP",
         "hasResponses": true,
-        "numMTFParticles": 1
+        "numMTFParticles": 2
       }
     ],
     "finance": null,
@@ -783,7 +783,7 @@
         "summaryLine": "State senator",
         "party": "R",
         "hasResponses": true,
-        "numMTFParticles": 1
+        "numMTFParticles": 2
       },
       {
         "slug": "susan-bilo",
@@ -791,7 +791,7 @@
         "summaryLine": "Bozeman renewable energy professional",
         "party": "D",
         "hasResponses": true,
-        "numMTFParticles": 0
+        "numMTFParticles": 1
       }
     ],
     "finance": null,
@@ -820,7 +820,7 @@
         "summaryLine": "State senator",
         "party": "R",
         "hasResponses": true,
-        "numMTFParticles": 1
+        "numMTFParticles": 2
       },
       {
         "slug": "leonard-williams",
@@ -828,7 +828,7 @@
         "summaryLine": "Butte electrician and labor organizer",
         "party": "D",
         "hasResponses": false,
-        "numMTFParticles": 0
+        "numMTFParticles": 1
       }
     ],
     "finance": null,
@@ -865,7 +865,7 @@
         "summaryLine": "Incumbent public service commissioner",
         "party": "R",
         "hasResponses": false,
-        "numMTFParticles": 1
+        "numMTFParticles": 2
       },
       {
         "slug": "elena-evans",
@@ -873,7 +873,7 @@
         "summaryLine": "Missoula County environmental health manager",
         "party": "I",
         "hasResponses": true,
-        "numMTFParticles": 1
+        "numMTFParticles": 2
       }
     ],
     "finance": null,

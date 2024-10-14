@@ -8,7 +8,7 @@
     "party": "R",
     "status": "active",
     "hasResponses": false,
-    "numMTFParticles": 3,
+    "numMTFParticles": 4,
     "cap_tracker_2023_link": null
   },
   {
@@ -20,7 +20,7 @@
     "party": "R",
     "status": "active",
     "hasResponses": true,
-    "numMTFParticles": 20,
+    "numMTFParticles": 24,
     "cap_tracker_2023_link": null
   },
   {
@@ -68,7 +68,7 @@
     "party": "D",
     "status": "active",
     "hasResponses": true,
-    "numMTFParticles": 0,
+    "numMTFParticles": 1,
     "cap_tracker_2023_link": null
   },
   {
@@ -140,7 +140,7 @@
     "party": "R",
     "status": "active",
     "hasResponses": true,
-    "numMTFParticles": 10,
+    "numMTFParticles": 11,
     "cap_tracker_2023_link": null
   },
   {
@@ -152,7 +152,7 @@
     "party": "D",
     "status": "active",
     "hasResponses": true,
-    "numMTFParticles": 9,
+    "numMTFParticles": 10,
     "cap_tracker_2023_link": null
   },
   {
@@ -212,7 +212,7 @@
     "party": "D",
     "status": "active",
     "hasResponses": true,
-    "numMTFParticles": 5,
+    "numMTFParticles": 6,
     "cap_tracker_2023_link": null
   },
   {
@@ -284,7 +284,7 @@
     "party": "D",
     "status": "active",
     "hasResponses": false,
-    "numMTFParticles": 0,
+    "numMTFParticles": 1,
     "cap_tracker_2023_link": null
   },
   {
@@ -344,7 +344,7 @@
     "party": "NP",
     "status": "active",
     "hasResponses": true,
-    "numMTFParticles": 1,
+    "numMTFParticles": 2,
     "cap_tracker_2023_link": null
   },
   {
@@ -380,7 +380,7 @@
     "party": "D",
     "status": "active",
     "hasResponses": true,
-    "numMTFParticles": 14,
+    "numMTFParticles": 18,
     "cap_tracker_2023_link": null
   },
   {
@@ -392,7 +392,7 @@
     "party": "D",
     "status": "active",
     "hasResponses": true,
-    "numMTFParticles": 0,
+    "numMTFParticles": 1,
     "cap_tracker_2023_link": null
   },
   {
@@ -464,7 +464,7 @@
     "party": "D",
     "status": "active",
     "hasResponses": true,
-    "numMTFParticles": 1,
+    "numMTFParticles": 2,
     "cap_tracker_2023_link": null
   },
   {
@@ -488,7 +488,7 @@
     "party": "NP",
     "status": "active",
     "hasResponses": true,
-    "numMTFParticles": 3,
+    "numMTFParticles": 4,
     "cap_tracker_2023_link": null
   },
   {
@@ -500,7 +500,7 @@
     "party": "R",
     "status": "active",
     "hasResponses": false,
-    "numMTFParticles": 1,
+    "numMTFParticles": 2,
     "cap_tracker_2023_link": null
   },
   {
@@ -512,7 +512,7 @@
     "party": "R",
     "status": "active",
     "hasResponses": true,
-    "numMTFParticles": 1,
+    "numMTFParticles": 2,
     "cap_tracker_2023_link": null
   },
   {
@@ -536,7 +536,7 @@
     "party": "R",
     "status": "active",
     "hasResponses": true,
-    "numMTFParticles": 3,
+    "numMTFParticles": 4,
     "cap_tracker_2023_link": null
   },
   {
@@ -548,7 +548,7 @@
     "party": "R",
     "status": "active",
     "hasResponses": true,
-    "numMTFParticles": 22,
+    "numMTFParticles": 23,
     "cap_tracker_2023_link": null
   },
   {
@@ -596,7 +596,7 @@
     "party": "I",
     "status": "active",
     "hasResponses": true,
-    "numMTFParticles": 1,
+    "numMTFParticles": 2,
     "cap_tracker_2023_link": null
   },
   {
@@ -656,7 +656,7 @@
     "party": "NP",
     "status": "active",
     "hasResponses": true,
-    "numMTFParticles": 1,
+    "numMTFParticles": 2,
     "cap_tracker_2023_link": null
   },
   {
@@ -668,7 +668,7 @@
     "party": "NP",
     "status": "active",
     "hasResponses": true,
-    "numMTFParticles": 3,
+    "numMTFParticles": 4,
     "cap_tracker_2023_link": null
   },
   {
@@ -680,7 +680,7 @@
     "party": "R",
     "status": "active",
     "hasResponses": true,
-    "numMTFParticles": 6,
+    "numMTFParticles": 7,
     "cap_tracker_2023_link": null
   },
   {
@@ -704,7 +704,7 @@
     "party": "R",
     "status": "active",
     "hasResponses": true,
-    "numMTFParticles": 1,
+    "numMTFParticles": 2,
     "cap_tracker_2023_link": null
   },
   {
@@ -752,7 +752,7 @@
     "party": "R",
     "status": "active",
     "hasResponses": true,
-    "numMTFParticles": 12,
+    "numMTFParticles": 13,
     "cap_tracker_2023_link": null
   },
   {
@@ -848,7 +848,7 @@
     "party": "R",
     "status": "active",
     "hasResponses": false,
-    "numMTFParticles": 0,
+    "numMTFParticles": 1,
     "cap_tracker_2023_link": "https://apps.montanafreepress.org/capitol-tracker-2023/lawmakers/Greg-Hertz/"
   },
   {
@@ -919,7 +919,7 @@
     "race": "Senate District 16",
     "party": "D",
     "status": "active",
-    "hasResponses": false,
+    "hasResponses": true,
     "numMTFParticles": 0,
     "cap_tracker_2023_link": "https://apps.montanafreepress.org/capitol-tracker-2023/lawmakers/Jonathan-Windy-Boy/"
   },
@@ -1243,7 +1243,7 @@
     "race": "Senate District 37",
     "party": "D",
     "status": "active",
-    "hasResponses": false,
+    "hasResponses": true,
     "numMTFParticles": 0,
     "cap_tracker_2023_link": "https://apps.montanafreepress.org/capitol-tracker-2023/lawmakers/Derek-Harvey/"
   },
@@ -1339,7 +1339,7 @@
     "race": "Senate District 40",
     "party": "D",
     "status": "active",
-    "hasResponses": false,
+    "hasResponses": true,
     "numMTFParticles": 0,
     "cap_tracker_2023_link": "https://apps.montanafreepress.org/capitol-tracker-2023/lawmakers/Laura-Smith/"
   },
@@ -1603,7 +1603,7 @@
     "race": "House District 3",
     "party": "R",
     "status": "active",
-    "hasResponses": false,
+    "hasResponses": true,
     "numMTFParticles": 0,
     "cap_tracker_2023_link": null
   },
@@ -1939,7 +1939,7 @@
     "race": "House District 15",
     "party": "D",
     "status": "active",
-    "hasResponses": false,
+    "hasResponses": true,
     "numMTFParticles": 0,
     "cap_tracker_2023_link": null
   },
@@ -3163,7 +3163,7 @@
     "race": "House District 60",
     "party": "R",
     "status": "active",
-    "hasResponses": false,
+    "hasResponses": true,
     "numMTFParticles": 0,
     "cap_tracker_2023_link": null
   },
@@ -3499,7 +3499,7 @@
     "race": "House District 71",
     "party": "D",
     "status": "active",
-    "hasResponses": false,
+    "hasResponses": true,
     "numMTFParticles": 0,
     "cap_tracker_2023_link": null
   },
@@ -3799,7 +3799,7 @@
     "race": "House District 81",
     "party": "D",
     "status": "active",
-    "hasResponses": false,
+    "hasResponses": true,
     "numMTFParticles": 0,
     "cap_tracker_2023_link": "https://apps.montanafreepress.org/capitol-tracker-2023/lawmakers/Mary-Caferro/"
   },
@@ -4411,7 +4411,7 @@
     "race": "Senate District 45",
     "party": "I",
     "status": "active",
-    "hasResponses": false,
+    "hasResponses": true,
     "numMTFParticles": 0,
     "cap_tracker_2023_link": null
   },

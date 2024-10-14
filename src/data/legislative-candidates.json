@@ -681,7 +681,27 @@
         }
       ]
     },
-    "coverage": [],
+    "coverage": [
+      {
+        "title": "Twin constitutional initiatives aim to make Montana elections more competitive",
+        "date": "2024-10-04T13:02:17",
+        "link": "https://montanafreepress.org/2024/10/04/twin-constitutional-initiatives-aim-to-make-montana-elections-more-competitive/",
+        "tags": [
+          "2024 election Guide",
+          "CI-126",
+          "CI-127",
+          "Frank Garner",
+          "Greg Hertz",
+          "Montanans for Election Reform",
+          "Montanans for Fair Elections"
+        ],
+        "categories": [
+          "2024 Elections"
+        ],
+        "featuredImage": "https://montanafreepress.org/2024/10/04/twin-constitutional-initiatives-aim-to-make-montana-elections-more-competitive/ci-126-mailer-collage/",
+        "author": "Alex Sakariassen"
+      }
+    ],
     "primaryResults": {
       "race": "SD-7",
       "party": "R",
@@ -1171,7 +1191,7 @@
     "questionnaire": {
       "race": "SD-16",
       "name": "jonathan-windy-boy",
-      "hasResponses": false,
+      "hasResponses": true,
       "responses": [
         {
           "question": "Please briefly provide the following information: place (town or county and state) of birth, age as of election day 2024, place (town or county) of permanent residency, occupation/employer, and education. How do these things and your other life experiences qualify you to be an effective legislator?",
@@ -1179,19 +1199,19 @@
         },
         {
           "question": "What do you consider to be the most pressing issues facing Montana heading into the 2025 session and what legislation would you propose and/or support to address these issues?",
-          "answer": ""
+          "answer": "Medicaod/Medicaid Expansion. CHAP. Resolution to promote individual voting and remove electoral college voting, switching to popular vote"
         },
         {
           "question": "Many Montanans are concerned about rising residential property taxes, which primarily fund local government services such as schools, counties and city/town programs but are calculated through a system set by the Legislature. What changes to the state tax system, if any, would you support to provide property tax relief while maintaining sufficient revenue for essential services?",
-          "answer": ""
+          "answer": "Tax the rich at a higher rate. Put the rainy day fund in the rainy day fund and not give $2.5 billion yo the rich. Keep the hospital doors open and reopen the rest homes along hiway 2"
         },
         {
           "question": "Considering the state’s role in mental and physical health care services, especially in helping cover the costs of services available to lower-income Montanans, what additional steps, if any, do you believe the Legislature should take to enhance health care access and promote Montanans’ health?",
-          "answer": ""
+          "answer": "Just keep the Medicaid/Medicaid Expansion in place and shore up Medicare. "
         },
         {
           "question": "Many education leaders are concerned that the state’s existing school funding formula isn’t keeping up with the costs of educating students. What proposals, if any, would you support to ensure adequate and sustainable long-term funding is available for public pre-K–12, college/university, and vocational education programs?",
-          "answer": ""
+          "answer": "Raise the teacher wages for retention. Waive the student debt."
         }
       ]
     },
@@ -3445,7 +3465,7 @@
     "isIncumbent": false,
     "cap_tracker_2023_link": null,
     "campaignWebsite": "darleannewmanforsenate36.com",
-    "campaignFB": null,
+    "campaignFB": "www.facebook.com/darleann",
     "campaignTW": null,
     "campaignIG": null,
     "campaignYT": null,
@@ -3475,15 +3495,15 @@
         },
         {
           "question": "Many Montanans are concerned about rising residential property taxes, which primarily fund local government services such as schools, counties and city/town programs but are calculated through a system set by the Legislature. What changes to the state tax system, if any, would you support to provide property tax relief while maintaining sufficient revenue for essential services?",
-          "answer": ""
+          "answer": "The property tax issue in Montana is overly complicated and burdensome. After attending a Local Government Interim Committee meeting in Helena last November, I feel the current property tax structure needs to be revised to account for the increased cost of living conditions, higher home/land prices, and take into consideration economic growth within our communities. I will work with all parties and stakeholders to suggest that we provide an exemption for primary residences back to pre-COVID levels (potentially), while second homes, vacation homes, rental/investment properties, etc be classified at a higher tax level. Additionally, since tourism is as top economic driver for Montana, I will also suggest a separate tax for tourism."
         },
         {
           "question": "Considering the state’s role in mental and physical health care services, especially in helping cover the costs of services available to lower-income Montanans, what additional steps, if any, do you believe the Legislature should take to enhance health care access and promote Montanans’ health?",
-          "answer": ""
+          "answer": "I have personally been impacted by private health care insurance here in Montana, and I believe there needs to be more options provided by major insurance companies in the state. I do not feel that the state or federal government should be the sole provider for mental and physical health are services."
         },
         {
           "question": "Many education leaders are concerned that the state’s existing school funding formula isn’t keeping up with the costs of educating students. What proposals, if any, would you support to ensure adequate and sustainable long-term funding is available for public pre-K–12, college/university, and vocational education programs?",
-          "answer": ""
+          "answer": "I feel that the required 95 mills that homeowners currently pay annually as part of our property taxes is more than sufficient to cover the cost of education for all students in Montana. What I feel we need in Montana is to support more options for parents to choose the best educational environment for their children, whether that be home school, charter school, private/religious schools, etc."
         }
       ]
     },
@@ -3530,7 +3550,7 @@
     "isIncumbent": false,
     "cap_tracker_2023_link": "https://apps.montanafreepress.org/capitol-tracker-2023/lawmakers/Derek-Harvey/",
     "campaignWebsite": null,
-    "campaignFB": null,
+    "campaignFB": "www.facebook.com/Harvey4Senate",
     "campaignTW": null,
     "campaignIG": null,
     "campaignYT": null,
@@ -3548,27 +3568,27 @@
     "questionnaire": {
       "race": "SD-37",
       "name": "derek-j-harvey",
-      "hasResponses": false,
+      "hasResponses": true,
       "responses": [
         {
           "question": "Please briefly provide the following information: place (town or county and state) of birth, age as of election day 2024, place (town or county) of permanent residency, occupation/employer, and education. How do these things and your other life experiences qualify you to be an effective legislator?",
-          "answer": ""
+          "answer": "Born, raised and reside in Butte, Montana. 35 years of old. AAS Degree in Fire Science. Firefighter/ EMT for the Butte- Silver Bow Fire Department with 15 years of service. My experience growing up in Butte and my profession have provided me with a vast knowledge of our community. I have always had a passion for service to community and feel serving in the legislature is a continuation of that passion. In my profession I am tasked with solving problems under pressure and feel that experience translates well in the legislature. "
         },
         {
           "question": "What do you consider to be the most pressing issues facing Montana heading into the 2025 session and what legislation would you propose and/or support to address these issues?",
-          "answer": ""
+          "answer": "Property Taxes are the biggest issue Montanan’s are facing currently. I believe the tax burden needs to be shifted off of the working-class Montanans and placed on the ultra-wealthy and large out of state corporations"
         },
         {
           "question": "Many Montanans are concerned about rising residential property taxes, which primarily fund local government services such as schools, counties and city/town programs but are calculated through a system set by the Legislature. What changes to the state tax system, if any, would you support to provide property tax relief while maintaining sufficient revenue for essential services?",
-          "answer": ""
+          "answer": "Maintaining essential services is a priority to me. I believe the legislature can do more. Adjusting the calculation is necessary and should be done every legislative session. The calculation needs to balance the burdens of tax payers while maintaining the needs of our community. In my opinion the calculation should be address with surgical attention to ensure the balance is correct. "
         },
         {
           "question": "Considering the state’s role in mental and physical health care services, especially in helping cover the costs of services available to lower-income Montanans, what additional steps, if any, do you believe the Legislature should take to enhance health care access and promote Montanans’ health?",
-          "answer": ""
+          "answer": "Funding the programs is key. We need to ensure we are accessing all of the federal funding available for these programs and continue to seek other revenue streams. Gutting local programs and contracting with out of state companies for these services is not right. These programs need to remain local and the state needs to do all it can to support them. "
         },
         {
           "question": "Many education leaders are concerned that the state’s existing school funding formula isn’t keeping up with the costs of educating students. What proposals, if any, would you support to ensure adequate and sustainable long-term funding is available for public pre-K–12, college/university, and vocational education programs?",
-          "answer": ""
+          "answer": "The state needs to step up and prioritize educational funding. We need to work to make trade schools more affordable, if not free. Pre-K needs to be funded trough our public schools to make sure our future Montanans get off to the right start. A robust education system has been shown to save money needed for other state programs. Montana businesses need workers and I believe additional financial support for educational programs can be gained through partnerships. "
         }
       ]
     },
@@ -4251,11 +4271,11 @@
     "summaryNarrative": null,
     "isIncumbent": false,
     "cap_tracker_2023_link": "https://apps.montanafreepress.org/capitol-tracker-2023/lawmakers/Laura-Smith/",
-    "campaignWebsite": null,
-    "campaignFB": null,
-    "campaignTW": null,
+    "campaignWebsite": "www.LauraForLegislature.com",
+    "campaignFB": "www.facebook.com/LauraForLegislature/",
+    "campaignTW": "LauraForMT",
     "campaignIG": null,
-    "campaignYT": null,
+    "campaignYT": "None",
     "campaignTT": null,
     "district": {
       "id": "SD 40",
@@ -4270,27 +4290,27 @@
     "questionnaire": {
       "race": "SD-40",
       "name": "laura-smith",
-      "hasResponses": false,
+      "hasResponses": true,
       "responses": [
         {
           "question": "Please briefly provide the following information: place (town or county and state) of birth, age as of election day 2024, place (town or county) of permanent residency, occupation/employer, and education. How do these things and your other life experiences qualify you to be an effective legislator?",
-          "answer": ""
+          "answer": "I’m 42 and live in Helena with my husband, Mac, and two daughters, 4 and 7. I was born in Salt Lake City, and started my career in Great Falls as a prosecutor. I saw the heart-breaking impact of violence on children and decided to focus my efforts on policies helping kids. I served as the Deputy Director of MT DPHHS, leading state-wide initiatives supporting families.\n\nI am passionate about policies that protect the childhood of every Montana kid, from affordable housing & quality public schools to public safety and a fairer tax system. As the current Representative for House District 79, I championed legislation to protect vulnerable kids and teenagers, support families caring for sick children, and to protect kids from predators. "
         },
         {
           "question": "What do you consider to be the most pressing issues facing Montana heading into the 2025 session and what legislation would you propose and/or support to address these issues?",
-          "answer": ""
+          "answer": "The most pressing issue facing Montana’s families is the cost of living—from skyrocketing property taxes to a profound lack of affordable housing. If I am elected, I will fight for immediate property tax relief and will advocate for a recalibration of the tax system that is fair to working and senior Montanans. \n\nI will advocate for investments in housing that Montanans can actually afford, and I will support the creation of a tax credit to protect families and seniors from being priced out of their homes. \n\nIn addition to addressing these major economic issues, I will continue fighting for reproductive freedom, quality public schools, affordable childcare, public lands, and government transparency/accountability to you, the people."
         },
         {
           "question": "Many Montanans are concerned about rising residential property taxes, which primarily fund local government services such as schools, counties and city/town programs but are calculated through a system set by the Legislature. What changes to the state tax system, if any, would you support to provide property tax relief while maintaining sufficient revenue for essential services?",
-          "answer": ""
+          "answer": "As it stands, property taxes in Montana are not fair: families & seniors are paying more than their fair share, especially compared to large corporations, which saw a massive property tax cut, while residential taxes soared. \n\nIf elected, I will fight for immediate property tax relief for homeowners & small businesses in the form of $50,000 and $200,000 tax exemptions. I will advocate for legislation to recalibrate our tax code to make it fair, and I will fight for a Housing Fairness Tax Credit for working families and seniors to prevent Montanans from being financially pushed out of their homes. \n\nNo Montanan should have to worry that they won't be able to stay in their home because of sky-rocketing property taxes. "
         },
         {
           "question": "Considering the state’s role in mental and physical health care services, especially in helping cover the costs of services available to lower-income Montanans, what additional steps, if any, do you believe the Legislature should take to enhance health care access and promote Montanans’ health?",
-          "answer": ""
+          "answer": "We must continue the Medicaid program – for the health of our community and the economy of rural towns across Montana. I will vote to keep this coverage accessible. \n\nMedicaid provides health care stability for families & children, is critical for small businesses to keep employees healthy and working, and is essential for continued operation of rural hospitals/clinics serving their communities. Continuing the Medicaid program reduces the frequency of uncompensated care, which in turn keeps costs from dramatically rising for all of us.\n\nI will continue to fight for Montanans’ bodily autonomy and reproductive freedoms, including abortion, IVF, and birth control. Our daughters should not have fewer rights than we do."
         },
         {
           "question": "Many education leaders are concerned that the state’s existing school funding formula isn’t keeping up with the costs of educating students. What proposals, if any, would you support to ensure adequate and sustainable long-term funding is available for public pre-K–12, college/university, and vocational education programs?",
-          "answer": ""
+          "answer": "My daughter is in Helena's public schools, and I’ve had conversations with many teachers and staff in our town. These community members pour their hearts and souls into educating the next generation, yet public school funding isn’t keeping up with inflation, rising costs, and the quality of education all children are entitled to under the Montana Constitution.\n\nI support a close examination and recalibration of our schools’ funding formula and removal of the three percent inflation cap to ensure that our local schools can adequately budget for the needs of their individual communities. I do not support draining public school funds to pay for private schools that serve a select number of families who are able to afford it. "
         }
       ]
     },
@@ -6270,27 +6290,27 @@
     "questionnaire": {
       "race": "HD-3",
       "name": "cathy-mitchell",
-      "hasResponses": false,
+      "hasResponses": true,
       "responses": [
         {
           "question": "Please briefly provide the following information: place (town or county and state) of birth, age as of election day 2024, place (town or county) of permanent residency, occupation/employer, and education. How do these things and your other life experiences qualify you to be an effective legislator?",
-          "answer": ""
+          "answer": "Cathy Mitchell, DNP-FNP\nOccupation: Family Nurse Practitioner at an outpatient clinic that provides healthcare to all patients. Married to a retired Marine Corp Fighter Pilot. Our address is Kalispell, and our school system is Whitefish. Born in Youngstown, Ohio\nI believe I would make a great and effect legislator due to my numerous years of education and experience in all types of medical settings. I am organized, responsible, and dependable. I manage my time effectively, prioritize tasks, and follow through on commitments. I am curious, creative, and willing to discuss opposite points of view. I am also personable and respectful of others. "
         },
         {
           "question": "What do you consider to be the most pressing issues facing Montana heading into the 2025 session and what legislation would you propose and/or support to address these issues?",
-          "answer": ""
+          "answer": "Since the 2023 legislative session, a housing task force was created to address the housing crunch. One suggestion was to reduce regulations on building homes and apartments. Forty percent of the cost of building, according to the housing task force, is government regulations. By reducing regulations and increasing supply, the average rent cost would decrease by 24%. Cities would have Master Plans for growth. The master planning would go before a public hearing process. When the Master Plan is approved, builders would not have to go through the process again, as long as they adhere to the requirements in the Master Plan. This would provide affordable housing for employees in our communities."
         },
         {
           "question": "Many Montanans are concerned about rising residential property taxes, which primarily fund local government services such as schools, counties and city/town programs but are calculated through a system set by the Legislature. What changes to the state tax system, if any, would you support to provide property tax relief while maintaining sufficient revenue for essential services?",
-          "answer": ""
+          "answer": "I support Governor Gianforte’s property tax advisory council’s suggestion regarding a homestead exemption. This would give a lower tax rate to Montana residents who own and live in their primary homes. Out-of-staters, with secondary homes in Montana, would be taxed at a higher rate. According to the advisory council, that should decrease the primary Montana residence’s tax bill by 15 – 20%. "
         },
         {
           "question": "Considering the state’s role in mental and physical health care services, especially in helping cover the costs of services available to lower-income Montanans, what additional steps, if any, do you believe the Legislature should take to enhance health care access and promote Montanans’ health?",
-          "answer": ""
+          "answer": "I would like to address the mental health crisis in Flathead County. There are far too many patients with mental health issues and not enough providers or facilities. Governor Gianforte formed a task force to address this issue with a budget of 300 million dollars from a bill passed last legislative session.  Suggestions include building a comprehensive statewide crisis system, investing in clinically appropriate state-run health care settings, expanding the capacity of the adult and children’s behavioral health service delivery systems, expanding the capacity of the “mental” developmental disabilities service delivery system, and enhancing family and caretaker supports. Priority should be hiring more mental health providers."
         },
         {
           "question": "Many education leaders are concerned that the state’s existing school funding formula isn’t keeping up with the costs of educating students. What proposals, if any, would you support to ensure adequate and sustainable long-term funding is available for public pre-K–12, college/university, and vocational education programs?",
-          "answer": ""
+          "answer": "Public K-12 school funding: 42% local sources in FY 2022, 13% federal sources, and 41% from state sources. \nMontana is ranked 27th out of the 50 states by the World Population Review. \na.\tWe should look to other states’, whose education is ranked in the top ten in the nation, sources of funding for their K-12 education. \nb.\tUse an appropriations method, Weight Pupil Unit, that follows each student even if they are not in a public school.  \nc.\tDetermine why numerous families in Montana are choosing to home schooling, Montessori schools, or private/Christian schools. \nd.\tDetermine where current funds are spent. Room for improvement? \ne.\tHold principles, school boards, and teachers accountable.\nf. Encourage parental participation."
         }
       ]
     },
@@ -8706,27 +8726,27 @@
     "questionnaire": {
       "race": "HD-15",
       "name": "thedis-crowe",
-      "hasResponses": false,
+      "hasResponses": true,
       "responses": [
         {
           "question": "Please briefly provide the following information: place (town or county and state) of birth, age as of election day 2024, place (town or county) of permanent residency, occupation/employer, and education. How do these things and your other life experiences qualify you to be an effective legislator?",
-          "answer": ""
+          "answer": "I was born in Browning, MT and raised on the Blackfeet Reservation. I am 63 years old. I retired from public service in 2022 following a successful 33 year career of federal service working for the USDA Natural Resources Conservation Service (19 yrs) and for the Bureau of Indian Affairs (14 yrs). I am actively engaged in a family ranching operation located near the rural community of Heart Butte, MT. I earned a BS degree in Land Resources Sciences (1991), and a Master of Arts degree in Native American Studies with a minor in Mgnt & Public Admin (2003), both from Montana State University. I have years of experience and a skill set that I believe could be an asset to represent constituents in HD15. "
         },
         {
           "question": "What do you consider to be the most pressing issues facing Montana heading into the 2025 session and what legislation would you propose and/or support to address these issues?",
-          "answer": ""
+          "answer": "Based upon the feedback I’ve received, the most pressing issue is the state of the economy and the impacts high prices are having on everyone. This is readily apparent in rural tribal communities, including those communities and outlying rural areas located within the boundaries of HD15 on the Blackfeet and Flathead Reservation. Other pressing issues that are not listed on this questionnaire include reproductive rights, access to health care, and lack of affordable housing. "
         },
         {
           "question": "Many Montanans are concerned about rising residential property taxes, which primarily fund local government services such as schools, counties and city/town programs but are calculated through a system set by the Legislature. What changes to the state tax system, if any, would you support to provide property tax relief while maintaining sufficient revenue for essential services?",
-          "answer": ""
+          "answer": "Our family ranching operation is located in the southern portion of Blackfeet Reservation in Glacier County. It is comprised of a combination of fee lands that we pay property taxes on, Indian trust lands that we own trust interest in and a grazing permit that we lease through the BIA. We’ve personally experienced the recent increase in property taxes that were implemented this past year, along with other folks in Glacier County. The Blackfeet Tribe and the Confederated Salish & Kootenai Tribes are owners of Fee property, as well as several individual tribal members on both reservations. I am researching the taxation issues and how the tax increase has impacted the Blackfeet Tribe & Confederated Salish & Kootenai Tribes directly."
         },
         {
           "question": "Considering the state’s role in mental and physical health care services, especially in helping cover the costs of services available to lower-income Montanans, what additional steps, if any, do you believe the Legislature should take to enhance health care access and promote Montanans’ health?",
-          "answer": ""
+          "answer": "Efforts need to be made to revamp the enrollment/re-enrollment process for Medicaid.\tTo promote and improve access the Montana Legislature needs to tackle and resolve issues with Medicaid Expansion that resulted in negative/detrimental impacts including loss of coverage and health care benefits Expansion in rural areas, for low-income population and the most vulnerable citizens who are confined to Nursing Homes, group homes and long term care facilities. "
         },
         {
           "question": "Many education leaders are concerned that the state’s existing school funding formula isn’t keeping up with the costs of educating students. What proposals, if any, would you support to ensure adequate and sustainable long-term funding is available for public pre-K–12, college/university, and vocational education programs?",
-          "answer": ""
+          "answer": "I reviewed the Governor’s proposed budget for 2025, and subsequent budget years, focusing on the section specifically devoted to education. It appears that the State’s current budget plan for education in 2025 is stagnant and was actually cut in some areas, based upon funding levels allocated over the past 3 to 5 years. We need to re-evaluate the priority that the State is assigning to the educational services including k-12, higher education and vocational training that are funded under the state budget that is specifically allocated for educational purposes and adjust that budget accordingly to address educational priorities in order to recruit and retain teachers in our rural schools. \n"
         }
       ]
     },
@@ -17811,27 +17831,27 @@
     "questionnaire": {
       "race": "HD-60",
       "name": "jerry-johnson",
-      "hasResponses": false,
+      "hasResponses": true,
       "responses": [
         {
           "question": "Please briefly provide the following information: place (town or county and state) of birth, age as of election day 2024, place (town or county) of permanent residency, occupation/employer, and education. How do these things and your other life experiences qualify you to be an effective legislator?",
-          "answer": ""
+          "answer": "Glasgow, Mt. , 64 , West Yellowstone Mt. , self employed, property manager, BS from Montana State University,. I served 24 years on the West Yellowstone Town Council along with many years as the Mayor. I serve and have served on numerous civic committees and have worked directly with Federal, State, County and local agencies, to solve local issues."
         },
         {
           "question": "What do you consider to be the most pressing issues facing Montana heading into the 2025 session and what legislation would you propose and/or support to address these issues?",
-          "answer": ""
+          "answer": "Rising costs of property taxes and property insurance. Work with the legislature to come up with other means of income for the state and county government, which could curb the need to put more financial burdens on the backs of property owners and in turn those that rent.\nTry to find legal ways to cap the increases of property insurance."
         },
         {
           "question": "Many Montanans are concerned about rising residential property taxes, which primarily fund local government services such as schools, counties and city/town programs but are calculated through a system set by the Legislature. What changes to the state tax system, if any, would you support to provide property tax relief while maintaining sufficient revenue for essential services?",
-          "answer": ""
+          "answer": "I will need to get to Helena and educate myself on the systems in place and how they can be improved."
         },
         {
           "question": "Considering the state’s role in mental and physical health care services, especially in helping cover the costs of services available to lower-income Montanans, what additional steps, if any, do you believe the Legislature should take to enhance health care access and promote Montanans’ health?",
-          "answer": ""
+          "answer": "We need to work with providers, to learn where they most need assistance. Next look at the states roll and determine how the state can help with these issues."
         },
         {
           "question": "Many education leaders are concerned that the state’s existing school funding formula isn’t keeping up with the costs of educating students. What proposals, if any, would you support to ensure adequate and sustainable long-term funding is available for public pre-K–12, college/university, and vocational education programs?",
-          "answer": ""
+          "answer": "The bottom line is that a good education, should be one of our states top priorities. I will need to assess how the system is working and where the state can make changes to improve it. "
         }
       ]
     },
@@ -18162,15 +18182,15 @@
       "responses": [
         {
           "question": "Please briefly provide the following information: place (town or county and state) of birth, age as of election day 2024, place (town or county) of permanent residency, occupation/employer, and education. How do these things and your other life experiences qualify you to be an effective legislator?",
-          "answer": "Josh was born in Florida, raised in Wisconsin, and moved to Montana at 23 after attending the University of Wisconsin—Madison. He will be 38 years old on election day and has lived in the Gallatin Valley for fifteen years. Josh is a fly-fishing guide in the Bozeman area and works seasonal jobs over the winter months. \n\n\n                                                      If elected to the legislature, Josh would be one of the few members of the seasonal outdoor recreation workforce ever to serve. This industry generates $2.2 billion and employs 26,000 people statewide. His unique perspective would provide a valuable voice in the legislature from one of the state's largest industries."
+          "answer": "Josh was born in Florida, raised in Wisconsin, and moved to Montana at 23 after attending the University of Wisconsin—Madison. He will be 39 years old on election day and has lived in the Gallatin Valley for fifteen years. Josh is a fly-fishing guide in the Bozeman area and works seasonal jobs over the winter months. \n\nIf elected to the legislature, Josh would be one of the few members of the seasonal outdoor recreation workforce ever to serve. This industry generates $2.2 billion and employs 26,000 people statewide. His unique perspective would provide a valuable voice in the legislature from one of the state's largest industries."
         },
         {
           "question": "What do you consider to be the most pressing issues facing Montana heading into the 2025 session and what legislation would you propose and/or support to address these issues?",
-          "answer": "Tax reform. Women's Reproductive Freedoms. Protecting Public Education. Protecting and Preserving Public Access to Public Lands.     \nWomen's Reproductive Freedoms will hopefully be enshrined into the state constitution by CI-128. Still, I will always defend a woman's right to bodily autonomy for the attacks that are sure to come following the adoption of CI-128.         \nAccess to public lands is a topic that is getting increasingly sensitive every year. I propose raising the fine for blocking public access to public lands to an excruciating level for those attempting to keep us off our land. Additionally, I would oppose any attempted transfer of any federal land to the state.  (All other points are addressed below.)\n\n"
+          "answer": "Tax reform. Women's Reproductive Freedoms. Protecting Public Education. Protecting and Preserving Public Access to Public Lands.\n          Women's Reproductive Freedoms will hopefully be enshrined into the state constitution by CI-128. Still, I will always defend a woman's right to bodily autonomy for the attacks that are sure to come following the adoption of CI-128.\n        Access to public lands is a topic that is getting increasingly sensitive every year. I propose raising the fine for blocking public access to public lands to an excruciating level for those attempting to keep us off our land. Additionally, I would oppose any attempted transfer of any federal land to the state.   (All other points are addressed below.)"
         },
         {
           "question": "Many Montanans are concerned about rising residential property taxes, which primarily fund local government services such as schools, counties and city/town programs but are calculated through a system set by the Legislature. What changes to the state tax system, if any, would you support to provide property tax relief while maintaining sufficient revenue for essential services?",
-          "answer": "I propose returning to 2022 property tax levels, increasing property taxes on homes with a taxable value over $1.5 million, and increasing property taxes on commercial and industrial properties. Additionally, income taxes need to be restructured so that those at the top pay their fair share.\n"
+          "answer": "I would support a tiered property tax system with a homestead exemption for primary residences and the goal of getting as close to 2022 property tax levels as possible. We also need to reassess commercial and industrial property value on the same two-year cycle as residential property; just because there may not be any comparable sales does not mean that the value of commercial and industrial property has not increased as well. \n\n\nAdditionally, income taxes need to be restructured and tiered so that those at the top pay their fair share.\n"
         },
         {
           "question": "Considering the state’s role in mental and physical health care services, especially in helping cover the costs of services available to lower-income Montanans, what additional steps, if any, do you believe the Legislature should take to enhance health care access and promote Montanans’ health?",
@@ -19320,19 +19340,19 @@
         },
         {
           "question": "What do you consider to be the most pressing issues facing Montana heading into the 2025 session and what legislation would you propose and/or support to address these issues?",
-          "answer": ""
+          "answer": "Some of the most pressing issues are the rising costs of housing, the associated costs of property taxes, and infrastructure. I would support fair taxation of all Montanans to alleviate these issues."
         },
         {
           "question": "Many Montanans are concerned about rising residential property taxes, which primarily fund local government services such as schools, counties and city/town programs but are calculated through a system set by the Legislature. What changes to the state tax system, if any, would you support to provide property tax relief while maintaining sufficient revenue for essential services?",
-          "answer": ""
+          "answer": "Support fair taxation as outlined in the proposed legislation from the Democratic Legislative leadership. "
         },
         {
           "question": "Considering the state’s role in mental and physical health care services, especially in helping cover the costs of services available to lower-income Montanans, what additional steps, if any, do you believe the Legislature should take to enhance health care access and promote Montanans’ health?",
-          "answer": ""
+          "answer": "Renew the Montana Medicaid legislation and work to further expand and improve those programs. I have spoken to members of my district and have heard from the people who would be effected if these programs are discontinued. "
         },
         {
           "question": "Many education leaders are concerned that the state’s existing school funding formula isn’t keeping up with the costs of educating students. What proposals, if any, would you support to ensure adequate and sustainable long-term funding is available for public pre-K–12, college/university, and vocational education programs?",
-          "answer": ""
+          "answer": "The Montana Constitution guarantees every Montana a quality education and we have not always lived up to that standard. I would be open to considering alternative forms of taxation which would best fit individual communities in Montana. "
         }
       ]
     },
@@ -20289,7 +20309,7 @@
     "isIncumbent": false,
     "cap_tracker_2023_link": null,
     "campaignWebsite": null,
-    "campaignFB": null,
+    "campaignFB": "www.facebook.com/scottdemaroisforhousedistrict71",
     "campaignTW": null,
     "campaignIG": null,
     "campaignYT": null,
@@ -20307,27 +20327,27 @@
     "questionnaire": {
       "race": "HD-71",
       "name": "scott-p-demarois",
-      "hasResponses": false,
+      "hasResponses": true,
       "responses": [
         {
           "question": "Please briefly provide the following information: place (town or county and state) of birth, age as of election day 2024, place (town or county) of permanent residency, occupation/employer, and education. How do these things and your other life experiences qualify you to be an effective legislator?",
-          "answer": ""
+          "answer": "I was born and raised in Anaconda, MT in 1972 and I am 52 years old. Anaconda is my home and my permanent residence. I retired from the Anaconda Fire Department 5 months ago after a 29 year career. I retired at the rank of Captain. I think being in the fire service and helping humans when they are having their worst day has helped me build communication and listening skills. It has honed my ability to work in stressful environments in execution of quick concise orders in very hazardous conditions. I work well with a team and understand and learn my roles quickly. "
         },
         {
           "question": "What do you consider to be the most pressing issues facing Montana heading into the 2025 session and what legislation would you propose and/or support to address these issues?",
-          "answer": ""
+          "answer": "I believe a few things are on the horizon, taxes, affordable housing and medicare expansion. I will work diligently with all members of the House of Representatives to build good policy for the middle class tax payers of this state. I will push to renew medicaid expansion and work with lawmakers to find solutions to the housing crisis. "
         },
         {
           "question": "Many Montanans are concerned about rising residential property taxes, which primarily fund local government services such as schools, counties and city/town programs but are calculated through a system set by the Legislature. What changes to the state tax system, if any, would you support to provide property tax relief while maintaining sufficient revenue for essential services?",
-          "answer": ""
+          "answer": "I believe we need to address the funding formula for schools, we need to increase the amount of funding that public schools are able to receive. I think the burden of taxes needs to be shifted back to the large property and high profit businesses we have in MT and off of the family's tax liability. "
         },
         {
           "question": "Considering the state’s role in mental and physical health care services, especially in helping cover the costs of services available to lower-income Montanans, what additional steps, if any, do you believe the Legislature should take to enhance health care access and promote Montanans’ health?",
-          "answer": ""
+          "answer": "We need to renew medicaid expansion and create a robust mental health component to all health care services. In my opinion, by design, Montana State Hospital is in trouble and has been kept in trouble to show that it will fail. We need to address the emergency at Warm Springs, and fund this vital and very important service. We need to bring Montana home grown administration back to the MSH campus, this includes reducing the amount of traveling nurses making 3x what a contracted nurse makes. This provides for a more stable atmosphere for some of our most at risk humans. "
         },
         {
           "question": "Many education leaders are concerned that the state’s existing school funding formula isn’t keeping up with the costs of educating students. What proposals, if any, would you support to ensure adequate and sustainable long-term funding is available for public pre-K–12, college/university, and vocational education programs?",
-          "answer": ""
+          "answer": "I have been reaching out to the professionals in this field to help me formulate a plan for this session. I agree we are underfunding schools and have not kept up with the current needs that schools need. Students in Montana deserve a quality education free of political party influence. We need to move the needle in for education and get the resources to the district that they need. "
         }
       ]
     },
@@ -22502,9 +22522,9 @@
     "isIncumbent": false,
     "cap_tracker_2023_link": "https://apps.montanafreepress.org/capitol-tracker-2023/lawmakers/Mary-Caferro/",
     "campaignWebsite": null,
-    "campaignFB": null,
-    "campaignTW": null,
-    "campaignIG": null,
+    "campaignFB": "www.facebook.com/repmarycaferro",
+    "campaignTW": "@marycaferro",
+    "campaignIG": "www.instagram.com/marycaferro9/",
     "campaignYT": null,
     "campaignTT": null,
     "district": {
@@ -22520,27 +22540,27 @@
     "questionnaire": {
       "race": "HD-81",
       "name": "mary-m-caferro",
-      "hasResponses": false,
+      "hasResponses": true,
       "responses": [
         {
           "question": "Please briefly provide the following information: place (town or county and state) of birth, age as of election day 2024, place (town or county) of permanent residency, occupation/employer, and education. How do these things and your other life experiences qualify you to be an effective legislator?",
-          "answer": ""
+          "answer": "I was born into a working-class Whitefish neighborhood fondly known as “Little Italy.” Most were family, and all were immigrants. They built the dams, kept the trains on the track, took care of all the kids, and were deeply involved in the union and politics.\nDad was a railroader and Mom was an Irish woman who raised the six of us. We were expected to help family, neighbors, and yes, strangers. It was our responsibility, period. My childhood prepared me for the challenges to come and eventually the legislature. I raised my four children as a single mother struggling to make ends meet. I attended our local treasure, Helena College, and currently live in Helena and work at the Montana Democratic Party. \n"
         },
         {
           "question": "What do you consider to be the most pressing issues facing Montana heading into the 2025 session and what legislation would you propose and/or support to address these issues?",
-          "answer": ""
+          "answer": "Homeowners' and small businesses' property tax rates need to be reduced to what they were before this hyperinflation of housing costs. Once the rates are reduced, other mitigations can be implemented to avoid another property tax crisis in the future. Continuing MT’s Medicaid will be one of my top priorities. I will sponsor legislation to bring Montanan's jobs back to MT and to reopen businesses like Career Training Institute. We need to stop the Governor from outsourcing good jobs and taxpayers’ money to east coast, high paid consultants. Also, develop training programs that connect people who need jobs with the jobs the new economy needs. I will support solutions to funding public education and developing affordable housing. "
         },
         {
           "question": "Many Montanans are concerned about rising residential property taxes, which primarily fund local government services such as schools, counties and city/town programs but are calculated through a system set by the Legislature. What changes to the state tax system, if any, would you support to provide property tax relief while maintaining sufficient revenue for essential services?",
-          "answer": ""
+          "answer": "It is a false narrative that there is not enough revenue to fund services and provide property tax relief for homeowners.\n\nA fair tax system provides for sufficient revenue to meet the responsibility of government. Property taxes were shifted from corporations onto the backs of small businesses and homeowners. It’s a simple fix, corporations need to pay their fair share of property taxes. An income tax break was passed resulting in millions of dollars in lost revenue benefiting the top and leaving the middle class with about enough for a tank of gas. Whether Montanans earn their living from the sweat off their back or investments, it is only fair that our tax system values work and investments with an equal income tax rate for both. \n"
         },
         {
           "question": "Considering the state’s role in mental and physical health care services, especially in helping cover the costs of services available to lower-income Montanans, what additional steps, if any, do you believe the Legislature should take to enhance health care access and promote Montanans’ health?",
-          "answer": ""
+          "answer": "Continuing MT’s Medicaid is key. MT’s Medicaid stabilizes people who have mental illness and supports their caregivers by providing insurance. Work plays an essential role for folks in recovery. 76% of Montanans who are covered by Medicaid work or are in school. Nearly all the remainder are taking care of a family member or living with an illness or disability. People who have disabilities and live in a state that has expanded Medicaid work at a higher rate than the states that have not. A success story, I met a father whose son suffers from mental illness, for the first time in his son’s adult life, he has the medications he needs and is holding down a steady job. "
         },
         {
           "question": "Many education leaders are concerned that the state’s existing school funding formula isn’t keeping up with the costs of educating students. What proposals, if any, would you support to ensure adequate and sustainable long-term funding is available for public pre-K–12, college/university, and vocational education programs?",
-          "answer": ""
+          "answer": "I am not an education expert therefore I appreciate that the education experts are working on solutions to the underfunding of education, and I look forward to supporting their work. There is an intersection between health and human services and education. CSCT, school-based services for students who have disabilities is a resource for families, students, teachers, and the school system. CSCT was nearly dismantled, but Helena found a way to make it work. I will work for a system that works for all students. My grandparents came over from Italy for the opportunities of America’s public education. My Irish grandma taught school in a one-room schoolhouse. We need to work together to ensure that Montana’s children have the future they deserve. "
         }
       ]
     },
@@ -27010,8 +27030,8 @@
     "summaryNarrative": null,
     "isIncumbent": false,
     "cap_tracker_2023_link": null,
-    "campaignWebsite": null,
-    "campaignFB": null,
+    "campaignWebsite": "kdwformt.com",
+    "campaignFB": "www.facebook.com/profile.php?id=61558422461073",
     "campaignTW": null,
     "campaignIG": null,
     "campaignYT": null,
@@ -27029,27 +27049,27 @@
     "questionnaire": {
       "race": "SD-45",
       "name": "kelley-durbin-williams",
-      "hasResponses": false,
+      "hasResponses": true,
       "responses": [
         {
           "question": "Please briefly provide the following information: place (town or county and state) of birth, age as of election day 2024, place (town or county) of permanent residency, occupation/employer, and education. How do these things and your other life experiences qualify you to be an effective legislator?",
-          "answer": ""
+          "answer": "Born: Kansas City, Missouri Age 54\nHome: Huson, MT (MT resident for 25 yrs)\nOwner/Founder of Mismo Gymnastics 23 yrs\nBachelor of Science in Exercise Science - FHSU, Hays, Kansas 1994\n\nMy experience as a business owner in Missoula has uniquely prepared me to serve as a legislator. With my dedicated team, I have successfully navigated recessions, a pandemic, and significant shifts in the business landscape. Mismo employs 42 individuals serving over 1,000 families annually. \n\nMy life's work has focused on serving people, grounded in the core values of integrity, hard work, and courage. As your Senator for SD 45, I will prioritize our community's needs over party interests, unite on common ground, and keep Montana independent and strong!\n\n"
         },
         {
           "question": "What do you consider to be the most pressing issues facing Montana heading into the 2025 session and what legislation would you propose and/or support to address these issues?",
-          "answer": ""
+          "answer": "As I engage with community members, I consistently hear about the pressing issues of housing and property tax. Gianforte's task forces have developed several promising proposals that I support as potential legislation for 2025.\n\nMedicaid expansion is critical to the well-being of many individuals and families in our district. This program must continue until we can implement a viable alternative that meets the needs of our residents. Originally passed by a narrow margin, If we fail to renew it, the repercussions will be felt acutely in SD 45. \n\nOther critical issues; school funding, public safety, support for small businesses, and mental health. Montana is precious, it will take courage to maintain the freedom and civility we treasure."
         },
         {
           "question": "Many Montanans are concerned about rising residential property taxes, which primarily fund local government services such as schools, counties and city/town programs but are calculated through a system set by the Legislature. What changes to the state tax system, if any, would you support to provide property tax relief while maintaining sufficient revenue for essential services?",
-          "answer": ""
+          "answer": "The latest report from the Governor’s Housing Task Force, dated August 21, 2024, presents 23 new recommendations focused on building regulation reform and financial solutions. After reviewing the initial report, I believe the greater challenge lies in finding a balance between state government recommendations and local government support.\n\nIt is crucial that any laws enacted align with the needs and desires of the communities they impact. I lean towards keeping decisions as local as possible, ensuring that our solutions reflect the unique characteristics of each community.\n\nI also recognize the importance of carefully considering whether subsidies are appropriate in this context."
         },
         {
           "question": "Considering the state’s role in mental and physical health care services, especially in helping cover the costs of services available to lower-income Montanans, what additional steps, if any, do you believe the Legislature should take to enhance health care access and promote Montanans’ health?",
-          "answer": ""
+          "answer": "For the past 40 years, I’ve dedicated my life to promoting physical and mental health through sports. The draft version of the Montana State Health Improvement Plan focuses on critical areas like behavioral health, cardiovascular health, and maternal health—issues that are very close to my heart.\nSolutions often come down to simple but powerful choices: getting enough sleep, staying hydrated, exercising regularly, practicing meditation, and managing stress.\n\nHowever, we must be cautious about the influence of big pharmaceutical companies and large agricultural interests on our health policies. Their agendas can sometimes overshadow the needs of everyday people. Let's create policy to, \"Make America Healthy Again.\" RFK"
         },
         {
           "question": "Many education leaders are concerned that the state’s existing school funding formula isn’t keeping up with the costs of educating students. What proposals, if any, would you support to ensure adequate and sustainable long-term funding is available for public pre-K–12, college/university, and vocational education programs?",
-          "answer": ""
+          "answer": "It’s clear that the current school funding formula is not meeting the financial demands necessary to operate quality schools in Montana. To attract and retain the best educators, we need to offer competitive salaries that also reflect the rising housing costs in our state. At the same time, we cannot keep relying on local families to bear the financial burden through levies, which only serve to drive young people out of our communities.\n\nAs we approach the Decennial Study of School Funding in 2025, it’s crucial that we elect representatives who share a commitment to ensuring a free and robust public education for all. Together, we can work toward a system that supports both our educators and our students."
         }
       ]
     },

@@ -23,7 +23,7 @@ Yes, you will be required to present identification when voting at the polls. Ho
 
 ### Are there situations where I wouldn't be eligible to vote?
 
-According to state law, you can't vote if you'll be under age 18 on Election Day, are not a U.S. citizen, or have lived in Montana less than 30 days. Convicted felons who are currently incarcerated in a penal facility and people whom judges have ruled to be of unsound mind are also ineligible to vote. Otherwise, you're good to go.
+According to state law, you can't vote if you'll be under age 18 on Election Day, are not a U.S. citizen, or have lived in Montana less than 30 days. Convicted felons who are currently incarcerated in a penal facility and people whom judges have ruled to be of "unsound mind" are also ineligible to vote. Otherwise, you're good to go.
 
 ### Can I vote online?
 

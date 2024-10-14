@@ -33,6 +33,26 @@
     ],
     "coverage": [
       {
+        "title": "Surging insurance rates put spotlight on race for state auditor",
+        "date": "2024-10-11T15:27:12",
+        "link": "https://montanafreepress.org/2024/10/11/surging-insurance-rates-put-spotlight-on-race-for-state-auditor/",
+        "tags": [
+          "2024 Election",
+          "2024 election Guide",
+          "Commissioner of Insurance and Securities",
+          "James Brown",
+          "John Repke",
+          "Montana Public Service Commission",
+          "Montana State Auditor",
+          "Troy Downing"
+        ],
+        "categories": [
+          "2024 Elections"
+        ],
+        "featuredImage": "https://montanafreepress.org/2024-elections-state-auditor-profile/",
+        "author": "Amanda Eggert"
+      },
+      {
         "title": "Current utility board commissioner and insurance salesman square off in GOP primary for state auditor",
         "date": "2024-05-22T15:35:05",
         "link": "https://montanafreepress.org/2024/05/22/current-utility-board-commissioner-and-insurance-salesman-square-off-in-gop-primary-for-state-auditor/",
@@ -185,9 +205,9 @@
         "candidateCommitteeName": "JOEL KRAUTTER FOR MONTANA",
         "candidateId": "H4MT02064",
         "totalReceipts": 88078.89,
-        "totalDisbursments": 84417.91,
-        "cashOnHand": 3660.98,
-        "coverageEndDate": "2024-06-30",
+        "totalDisbursments": 88078.89,
+        "cashOnHand": 0,
+        "coverageEndDate": "2024-09-24",
         "isThisCandidate": false,
         "candidateStatus": "lost-primary"
       },
@@ -208,10 +228,10 @@
         "party": "D",
         "candidateCommitteeName": "MING FOR CONGRESS",
         "candidateId": "H4MT02056",
-        "totalReceipts": 60947,
-        "totalDisbursments": 59907.55,
-        "cashOnHand": 1636.18,
-        "coverageEndDate": "2024-06-30",
+        "totalReceipts": 61522,
+        "totalDisbursments": 61522,
+        "cashOnHand": 0,
+        "coverageEndDate": "2024-09-30",
         "isThisCandidate": false,
         "candidateStatus": "lost-primary"
       },
@@ -247,7 +267,7 @@
         "totalReceipts": 4550,
         "totalDisbursments": 4500,
         "cashOnHand": 550,
-        "coverageEndDate": "2024-06-30",
+        "coverageEndDate": "2024-09-30",
         "isThisCandidate": false,
         "candidateStatus": "lost-primary"
       }
@@ -414,6 +434,70 @@
       }
     ],
     "coverage": [
+      {
+        "title": "Tim Sheehy’s business chops",
+        "date": "2024-10-08T13:20:32",
+        "link": "https://montanafreepress.org/2024/10/08/tim-sheehys-business-chops/",
+        "tags": [
+          "2024 election Guide",
+          "2024 elections",
+          "Tim Sheehy"
+        ],
+        "categories": [
+          "2024 Elections",
+          "No Republish"
+        ],
+        "featuredImage": "https://montanafreepress.org/election-2024-senate-montana-3/",
+        "author": "Stephanie Farmer"
+      },
+      {
+        "title": "Is Tester’s time up?",
+        "date": "2024-10-08T10:22:57",
+        "link": "https://montanafreepress.org/2024/10/08/is-jon-tester-time-in-the-senate-finally-up/",
+        "tags": [
+          "2024 election Guide",
+          "Election 2024",
+          "Jon Tester",
+          "Tim Sheehy"
+        ],
+        "categories": [
+          "2024 Elections"
+        ],
+        "featuredImage": "https://montanafreepress.org/jon-tester-in-his-office_1200x675/",
+        "author": "Tom Lutey"
+      },
+      {
+        "title": "Tester, Sheehy make closing arguments at Missoula debate",
+        "date": "2024-10-01T10:58:28",
+        "link": "https://montanafreepress.org/2024/10/01/tester-sheehy-make-closing-arguments-missoula-debate/",
+        "tags": [
+          "2024 election Guide",
+          "2024 elections",
+          "Jon Tester",
+          "Tim Sheehy"
+        ],
+        "categories": [
+          "2024 Elections"
+        ],
+        "featuredImage": "https://montanafreepress.org/2024/10/01/tester-sheehy-make-closing-arguments-missoula-debate/add-a-heading/",
+        "author": "Tom Lutey"
+      },
+      {
+        "title": "About that ‘white farmer’ ad",
+        "date": "2024-09-20T10:02:19",
+        "link": "https://montanafreepress.org/2024/09/20/real-story-about-jon-tester-excluding-white-farmers/",
+        "tags": [
+          "2024 election Guide",
+          "2024 elections",
+          "Jon Tester",
+          "Tim Sheehy"
+        ],
+        "categories": [
+          "2024 Elections"
+        ],
+        "featuredImage": "https://montanafreepress.org/jon-tester-in-his-office_1200x675/",
+        "author": "Tom Lutey"
+      },
       {
         "title": "Watchdog challenges pro-Tester committee’s financial reporting",
         "date": "2024-09-13T10:42:41",
@@ -783,10 +867,10 @@
         "party": "R",
         "candidateCommitteeName": "TIM SHEEHY FOR MONTANA",
         "candidateId": "S4MT00183",
-        "totalReceipts": 14065647.85,
-        "totalDisbursments": 10795081.65,
-        "cashOnHand": 3270566.2,
-        "coverageEndDate": "2024-06-30",
+        "totalReceipts": 14065887.28,
+        "totalDisbursments": 10823805.69,
+        "cashOnHand": 3242081.59,
+        "coverageEndDate": "2024-09-29",
         "isThisCandidate": true,
         "candidateStatus": "active"
       },
@@ -1333,7 +1417,32 @@
         "party": "D"
       }
     ],
-    "coverage": [],
+    "coverage": [
+      {
+        "title": "Colstrip, climate and electricity rates loom large in utility board race",
+        "date": "2024-10-08T16:15:34",
+        "link": "https://montanafreepress.org/2024/10/08/colstrip-climate-and-electricity-rates-loom-large-in-utility-board-race/",
+        "tags": [
+          "2021 Legislature",
+          "2023 Legsilature",
+          "2024 election Guide",
+          "Brad Molnar",
+          "Held v. Montana",
+          "Inflation Reduction Act",
+          "Jeff Welborn",
+          "Leonard Williams",
+          "Montana Public Service Commission",
+          "NorthWestern Energy",
+          "Susan Bilo",
+          "U.S. Environmental Protection Agency"
+        ],
+        "categories": [
+          "2024 Elections"
+        ],
+        "featuredImage": "https://montanafreepress.org/2024/10/08/colstrip-climate-and-electricity-rates-loom-large-in-utility-board-race/psc-3/",
+        "author": "Amanda Eggert"
+      }
+    ],
     "finance": null,
     "questionnaire": {
       "hasResponses": true,
@@ -1570,9 +1679,9 @@
         "candidateCommitteeName": "JOEL KRAUTTER FOR MONTANA",
         "candidateId": "H4MT02064",
         "totalReceipts": 88078.89,
-        "totalDisbursments": 84417.91,
-        "cashOnHand": 3660.98,
-        "coverageEndDate": "2024-06-30",
+        "totalDisbursments": 88078.89,
+        "cashOnHand": 0,
+        "coverageEndDate": "2024-09-24",
         "isThisCandidate": false,
         "candidateStatus": "lost-primary"
       },
@@ -1593,10 +1702,10 @@
         "party": "D",
         "candidateCommitteeName": "MING FOR CONGRESS",
         "candidateId": "H4MT02056",
-        "totalReceipts": 60947,
-        "totalDisbursments": 59907.55,
-        "cashOnHand": 1636.18,
-        "coverageEndDate": "2024-06-30",
+        "totalReceipts": 61522,
+        "totalDisbursments": 61522,
+        "cashOnHand": 0,
+        "coverageEndDate": "2024-09-30",
         "isThisCandidate": false,
         "candidateStatus": "lost-primary"
       },
@@ -1632,7 +1741,7 @@
         "totalReceipts": 4550,
         "totalDisbursments": 4500,
         "cashOnHand": 550,
-        "coverageEndDate": "2024-06-30",
+        "coverageEndDate": "2024-09-30",
         "isThisCandidate": false,
         "candidateStatus": "lost-primary"
       }
@@ -1885,9 +1994,9 @@
         "candidateCommitteeName": "JOEL KRAUTTER FOR MONTANA",
         "candidateId": "H4MT02064",
         "totalReceipts": 88078.89,
-        "totalDisbursments": 84417.91,
-        "cashOnHand": 3660.98,
-        "coverageEndDate": "2024-06-30",
+        "totalDisbursments": 88078.89,
+        "cashOnHand": 0,
+        "coverageEndDate": "2024-09-24",
         "isThisCandidate": false,
         "candidateStatus": "lost-primary"
       },
@@ -1908,10 +2017,10 @@
         "party": "D",
         "candidateCommitteeName": "MING FOR CONGRESS",
         "candidateId": "H4MT02056",
-        "totalReceipts": 60947,
-        "totalDisbursments": 59907.55,
-        "cashOnHand": 1636.18,
-        "coverageEndDate": "2024-06-30",
+        "totalReceipts": 61522,
+        "totalDisbursments": 61522,
+        "cashOnHand": 0,
+        "coverageEndDate": "2024-09-30",
         "isThisCandidate": false,
         "candidateStatus": "lost-primary"
       },
@@ -1947,7 +2056,7 @@
         "totalReceipts": 4550,
         "totalDisbursments": 4500,
         "cashOnHand": 550,
-        "coverageEndDate": "2024-06-30",
+        "coverageEndDate": "2024-09-30",
         "isThisCandidate": false,
         "candidateStatus": "lost-primary"
       }
@@ -2132,10 +2241,10 @@
         "party": "R",
         "candidateCommitteeName": "TIM SHEEHY FOR MONTANA",
         "candidateId": "S4MT00183",
-        "totalReceipts": 14065647.85,
-        "totalDisbursments": 10795081.65,
-        "cashOnHand": 3270566.2,
-        "coverageEndDate": "2024-06-30",
+        "totalReceipts": 14065887.28,
+        "totalDisbursments": 10823805.69,
+        "cashOnHand": 3242081.59,
+        "coverageEndDate": "2024-09-29",
         "isThisCandidate": false,
         "candidateStatus": "active"
       },
@@ -2441,6 +2550,23 @@
       }
     ],
     "coverage": [
+      {
+        "title": "Montana’s undercard U.S. House race",
+        "date": "2024-09-20T16:37:02",
+        "link": "https://montanafreepress.org/2024/09/20/zinke-tranel-rematch-western-montana-house-race/",
+        "tags": [
+          "2024 election Guide",
+          "2024 elections",
+          "Monica Tranel",
+          "Ryan Zinke",
+          "U.S. House of Representatives"
+        ],
+        "categories": [
+          "2024 Elections"
+        ],
+        "featuredImage": "https://montanafreepress.org/2024/09/20/zinke-tranel-rematch-western-montana-house-race/20240810_mtfp_zinke_0018_res/",
+        "author": "Justin Franz"
+      },
       {
         "title": "Western House district set for Zinke, Tranel rematch ",
         "date": "2024-06-05T08:34:48",
@@ -2777,6 +2903,23 @@
       }
     ],
     "coverage": [
+      {
+        "title": "In reelection bid, Gianforte’s economic record is on the ballot",
+        "date": "2024-10-10T14:48:23",
+        "link": "https://montanafreepress.org/2024/10/10/reelection-bid-montana-governor-gianforte-economic-record-on-ballot/",
+        "tags": [
+          "2024 Election",
+          "2024 election Guide",
+          "Greg Gianforte",
+          "Ryan Busse"
+        ],
+        "categories": [
+          "2024 Elections",
+          "Economy"
+        ],
+        "featuredImage": "https://montanafreepress.org/2024/10/10/reelection-bid-montana-governor-gianforte-economic-record-on-ballot/gianforte_busse_10/",
+        "author": "Eric Dietrich"
+      },
       {
         "title": "Gianforte, Busse negotiate October debate",
         "date": "2024-09-16T17:40:46",
@@ -3158,10 +3301,10 @@
         "party": "R",
         "candidateCommitteeName": "TIM SHEEHY FOR MONTANA",
         "candidateId": "S4MT00183",
-        "totalReceipts": 14065647.85,
-        "totalDisbursments": 10795081.65,
-        "cashOnHand": 3270566.2,
-        "coverageEndDate": "2024-06-30",
+        "totalReceipts": 14065887.28,
+        "totalDisbursments": 10823805.69,
+        "cashOnHand": 3242081.59,
+        "coverageEndDate": "2024-09-29",
         "isThisCandidate": false,
         "candidateStatus": "active"
       },
@@ -3535,9 +3678,9 @@
         "candidateCommitteeName": "JOEL KRAUTTER FOR MONTANA",
         "candidateId": "H4MT02064",
         "totalReceipts": 88078.89,
-        "totalDisbursments": 84417.91,
-        "cashOnHand": 3660.98,
-        "coverageEndDate": "2024-06-30",
+        "totalDisbursments": 88078.89,
+        "cashOnHand": 0,
+        "coverageEndDate": "2024-09-24",
         "isThisCandidate": false,
         "candidateStatus": "lost-primary"
       },
@@ -3558,10 +3701,10 @@
         "party": "D",
         "candidateCommitteeName": "MING FOR CONGRESS",
         "candidateId": "H4MT02056",
-        "totalReceipts": 60947,
-        "totalDisbursments": 59907.55,
-        "cashOnHand": 1636.18,
-        "coverageEndDate": "2024-06-30",
+        "totalReceipts": 61522,
+        "totalDisbursments": 61522,
+        "cashOnHand": 0,
+        "coverageEndDate": "2024-09-30",
         "isThisCandidate": false,
         "candidateStatus": "lost-primary"
       },
@@ -3597,7 +3740,7 @@
         "totalReceipts": 4550,
         "totalDisbursments": 4500,
         "cashOnHand": 550,
-        "coverageEndDate": "2024-06-30",
+        "coverageEndDate": "2024-09-30",
         "isThisCandidate": false,
         "candidateStatus": "lost-primary"
       }
@@ -3758,6 +3901,23 @@
       }
     ],
     "coverage": [
+      {
+        "title": "Montana’s undercard U.S. House race",
+        "date": "2024-09-20T16:37:02",
+        "link": "https://montanafreepress.org/2024/09/20/zinke-tranel-rematch-western-montana-house-race/",
+        "tags": [
+          "2024 election Guide",
+          "2024 elections",
+          "Monica Tranel",
+          "Ryan Zinke",
+          "U.S. House of Representatives"
+        ],
+        "categories": [
+          "2024 Elections"
+        ],
+        "featuredImage": "https://montanafreepress.org/2024/09/20/zinke-tranel-rematch-western-montana-house-race/20240810_mtfp_zinke_0018_res/",
+        "author": "Justin Franz"
+      },
       {
         "title": "Western House district set for Zinke, Tranel rematch ",
         "date": "2024-06-05T08:34:48",
@@ -4175,9 +4335,9 @@
         "candidateCommitteeName": "JOEL KRAUTTER FOR MONTANA",
         "candidateId": "H4MT02064",
         "totalReceipts": 88078.89,
-        "totalDisbursments": 84417.91,
-        "cashOnHand": 3660.98,
-        "coverageEndDate": "2024-06-30",
+        "totalDisbursments": 88078.89,
+        "cashOnHand": 0,
+        "coverageEndDate": "2024-09-24",
         "isThisCandidate": false,
         "candidateStatus": "lost-primary"
       },
@@ -4198,10 +4358,10 @@
         "party": "D",
         "candidateCommitteeName": "MING FOR CONGRESS",
         "candidateId": "H4MT02056",
-        "totalReceipts": 60947,
-        "totalDisbursments": 59907.55,
-        "cashOnHand": 1636.18,
-        "coverageEndDate": "2024-06-30",
+        "totalReceipts": 61522,
+        "totalDisbursments": 61522,
+        "cashOnHand": 0,
+        "coverageEndDate": "2024-09-30",
         "isThisCandidate": true,
         "candidateStatus": "lost-primary"
       },
@@ -4237,7 +4397,7 @@
         "totalReceipts": 4550,
         "totalDisbursments": 4500,
         "cashOnHand": 550,
-        "coverageEndDate": "2024-06-30",
+        "coverageEndDate": "2024-09-30",
         "isThisCandidate": false,
         "candidateStatus": "lost-primary"
       }
@@ -4387,10 +4547,10 @@
         "party": "R",
         "candidateCommitteeName": "TIM SHEEHY FOR MONTANA",
         "candidateId": "S4MT00183",
-        "totalReceipts": 14065647.85,
-        "totalDisbursments": 10795081.65,
-        "cashOnHand": 3270566.2,
-        "coverageEndDate": "2024-06-30",
+        "totalReceipts": 14065887.28,
+        "totalDisbursments": 10823805.69,
+        "cashOnHand": 3242081.59,
+        "coverageEndDate": "2024-09-29",
         "isThisCandidate": false,
         "candidateStatus": "active"
       },
@@ -4570,10 +4730,10 @@
         "party": "R",
         "candidateCommitteeName": "TIM SHEEHY FOR MONTANA",
         "candidateId": "S4MT00183",
-        "totalReceipts": 14065647.85,
-        "totalDisbursments": 10795081.65,
-        "cashOnHand": 3270566.2,
-        "coverageEndDate": "2024-06-30",
+        "totalReceipts": 14065887.28,
+        "totalDisbursments": 10823805.69,
+        "cashOnHand": 3242081.59,
+        "coverageEndDate": "2024-09-29",
         "isThisCandidate": false,
         "candidateStatus": "active"
       },
@@ -4978,7 +5138,32 @@
         "party": "D"
       }
     ],
-    "coverage": [],
+    "coverage": [
+      {
+        "title": "Colstrip, climate and electricity rates loom large in utility board race",
+        "date": "2024-10-08T16:15:34",
+        "link": "https://montanafreepress.org/2024/10/08/colstrip-climate-and-electricity-rates-loom-large-in-utility-board-race/",
+        "tags": [
+          "2021 Legislature",
+          "2023 Legsilature",
+          "2024 election Guide",
+          "Brad Molnar",
+          "Held v. Montana",
+          "Inflation Reduction Act",
+          "Jeff Welborn",
+          "Leonard Williams",
+          "Montana Public Service Commission",
+          "NorthWestern Energy",
+          "Susan Bilo",
+          "U.S. Environmental Protection Agency"
+        ],
+        "categories": [
+          "2024 Elections"
+        ],
+        "featuredImage": "https://montanafreepress.org/2024/10/08/colstrip-climate-and-electricity-rates-loom-large-in-utility-board-race/psc-3/",
+        "author": "Amanda Eggert"
+      }
+    ],
     "finance": null,
     "questionnaire": {
       "hasResponses": false,
@@ -5187,9 +5372,9 @@
         "candidateCommitteeName": "JOEL KRAUTTER FOR MONTANA",
         "candidateId": "H4MT02064",
         "totalReceipts": 88078.89,
-        "totalDisbursments": 84417.91,
-        "cashOnHand": 3660.98,
-        "coverageEndDate": "2024-06-30",
+        "totalDisbursments": 88078.89,
+        "cashOnHand": 0,
+        "coverageEndDate": "2024-09-24",
         "isThisCandidate": false,
         "candidateStatus": "lost-primary"
       },
@@ -5210,10 +5395,10 @@
         "party": "D",
         "candidateCommitteeName": "MING FOR CONGRESS",
         "candidateId": "H4MT02056",
-        "totalReceipts": 60947,
-        "totalDisbursments": 59907.55,
-        "cashOnHand": 1636.18,
-        "coverageEndDate": "2024-06-30",
+        "totalReceipts": 61522,
+        "totalDisbursments": 61522,
+        "cashOnHand": 0,
+        "coverageEndDate": "2024-09-30",
         "isThisCandidate": false,
         "candidateStatus": "lost-primary"
       },
@@ -5249,7 +5434,7 @@
         "totalReceipts": 4550,
         "totalDisbursments": 4500,
         "cashOnHand": 550,
-        "coverageEndDate": "2024-06-30",
+        "coverageEndDate": "2024-09-30",
         "isThisCandidate": true,
         "candidateStatus": "lost-primary"
       }
@@ -5687,9 +5872,9 @@
         "candidateCommitteeName": "JOEL KRAUTTER FOR MONTANA",
         "candidateId": "H4MT02064",
         "totalReceipts": 88078.89,
-        "totalDisbursments": 84417.91,
-        "cashOnHand": 3660.98,
-        "coverageEndDate": "2024-06-30",
+        "totalDisbursments": 88078.89,
+        "cashOnHand": 0,
+        "coverageEndDate": "2024-09-24",
         "isThisCandidate": false,
         "candidateStatus": "lost-primary"
       },
@@ -5710,10 +5895,10 @@
         "party": "D",
         "candidateCommitteeName": "MING FOR CONGRESS",
         "candidateId": "H4MT02056",
-        "totalReceipts": 60947,
-        "totalDisbursments": 59907.55,
-        "cashOnHand": 1636.18,
-        "coverageEndDate": "2024-06-30",
+        "totalReceipts": 61522,
+        "totalDisbursments": 61522,
+        "cashOnHand": 0,
+        "coverageEndDate": "2024-09-30",
         "isThisCandidate": false,
         "candidateStatus": "lost-primary"
       },
@@ -5749,7 +5934,7 @@
         "totalReceipts": 4550,
         "totalDisbursments": 4500,
         "cashOnHand": 550,
-        "coverageEndDate": "2024-06-30",
+        "coverageEndDate": "2024-09-30",
         "isThisCandidate": false,
         "candidateStatus": "lost-primary"
       }
@@ -5977,9 +6162,9 @@
         "candidateCommitteeName": "JOEL KRAUTTER FOR MONTANA",
         "candidateId": "H4MT02064",
         "totalReceipts": 88078.89,
-        "totalDisbursments": 84417.91,
-        "cashOnHand": 3660.98,
-        "coverageEndDate": "2024-06-30",
+        "totalDisbursments": 88078.89,
+        "cashOnHand": 0,
+        "coverageEndDate": "2024-09-24",
         "isThisCandidate": false,
         "candidateStatus": "lost-primary"
       },
@@ -6000,10 +6185,10 @@
         "party": "D",
         "candidateCommitteeName": "MING FOR CONGRESS",
         "candidateId": "H4MT02056",
-        "totalReceipts": 60947,
-        "totalDisbursments": 59907.55,
-        "cashOnHand": 1636.18,
-        "coverageEndDate": "2024-06-30",
+        "totalReceipts": 61522,
+        "totalDisbursments": 61522,
+        "cashOnHand": 0,
+        "coverageEndDate": "2024-09-30",
         "isThisCandidate": false,
         "candidateStatus": "lost-primary"
       },
@@ -6039,7 +6224,7 @@
         "totalReceipts": 4550,
         "totalDisbursments": 4500,
         "cashOnHand": 550,
-        "coverageEndDate": "2024-06-30",
+        "coverageEndDate": "2024-09-30",
         "isThisCandidate": false,
         "candidateStatus": "lost-primary"
       }
@@ -6194,6 +6379,25 @@
       }
     ],
     "coverage": [
+      {
+        "title": "Supreme Court candidates dodge, and leverage, political rhetoric",
+        "date": "2024-10-03T13:56:43",
+        "link": "https://montanafreepress.org/2024/10/03/montana-supreme-court-candidates-dodge-and-leverage-political-rhetoric/",
+        "tags": [
+          "2024 election Guide",
+          "2024 elections",
+          "Cory Swanson",
+          "dan wilson",
+          "Jerry Lynch",
+          "Katherine Bidegaray",
+          "Montana Supreme Court"
+        ],
+        "categories": [
+          "2024 Elections"
+        ],
+        "featuredImage": "https://montanafreepress.org/img_2720/",
+        "author": "Mara Silvers"
+      },
       {
         "title": "The race to replace Supreme Court Justice Dirk Sandefur",
         "date": "2024-03-15T15:53:09",
@@ -6521,6 +6725,71 @@
     ],
     "coverage": [
       {
+        "title": "Is Tester’s time up?",
+        "date": "2024-10-08T10:22:57",
+        "link": "https://montanafreepress.org/2024/10/08/is-jon-tester-time-in-the-senate-finally-up/",
+        "tags": [
+          "2024 election Guide",
+          "Election 2024",
+          "Jon Tester",
+          "Tim Sheehy"
+        ],
+        "categories": [
+          "2024 Elections"
+        ],
+        "featuredImage": "https://montanafreepress.org/jon-tester-in-his-office_1200x675/",
+        "author": "Tom Lutey"
+      },
+      {
+        "title": "Tester, Sheehy make closing arguments at Missoula debate",
+        "date": "2024-10-01T10:58:28",
+        "link": "https://montanafreepress.org/2024/10/01/tester-sheehy-make-closing-arguments-missoula-debate/",
+        "tags": [
+          "2024 election Guide",
+          "2024 elections",
+          "Jon Tester",
+          "Tim Sheehy"
+        ],
+        "categories": [
+          "2024 Elections"
+        ],
+        "featuredImage": "https://montanafreepress.org/2024/10/01/tester-sheehy-make-closing-arguments-missoula-debate/add-a-heading/",
+        "author": "Tom Lutey"
+      },
+      {
+        "title": "Fact-check: Democrat Jon Tester misleads on Republican Tim Sheehy’s abortion stance",
+        "date": "2024-09-26T12:56:11",
+        "link": "https://montanafreepress.org/2024/09/26/politifact-tester-misleads-on-republican-tim-sheehy-abortion-stance/",
+        "tags": [
+          "2024 election Guide",
+          "2024 elections",
+          "abortion",
+          "Jon Tester",
+          "Tom Sheehy"
+        ],
+        "categories": [
+          "2024 Elections"
+        ],
+        "featuredImage": "https://montanafreepress.org/2023/02/22/tester-announces-2024-reelection-bid/untitled-design-1-13/",
+        "author": "Stephanie Farmer"
+      },
+      {
+        "title": "About that ‘white farmer’ ad",
+        "date": "2024-09-20T10:02:19",
+        "link": "https://montanafreepress.org/2024/09/20/real-story-about-jon-tester-excluding-white-farmers/",
+        "tags": [
+          "2024 election Guide",
+          "2024 elections",
+          "Jon Tester",
+          "Tim Sheehy"
+        ],
+        "categories": [
+          "2024 Elections"
+        ],
+        "featuredImage": "https://montanafreepress.org/jon-tester-in-his-office_1200x675/",
+        "author": "Tom Lutey"
+      },
+      {
         "title": "Watchdog challenges pro-Tester committee’s financial reporting",
         "date": "2024-09-13T10:42:41",
         "link": "https://montanafreepress.org/2024/09/13/watchdog-challenges-pro-tester-committees-financial-reporting/",
@@ -6790,10 +7059,10 @@
         "party": "R",
         "candidateCommitteeName": "TIM SHEEHY FOR MONTANA",
         "candidateId": "S4MT00183",
-        "totalReceipts": 14065647.85,
-        "totalDisbursments": 10795081.65,
-        "cashOnHand": 3270566.2,
-        "coverageEndDate": "2024-06-30",
+        "totalReceipts": 14065887.28,
+        "totalDisbursments": 10823805.69,
+        "cashOnHand": 3242081.59,
+        "coverageEndDate": "2024-09-29",
         "isThisCandidate": false,
         "candidateStatus": "active"
       },
@@ -6922,7 +7191,28 @@
         "party": "D"
       }
     ],
-    "coverage": [],
+    "coverage": [
+      {
+        "title": "Surging insurance rates put spotlight on race for state auditor",
+        "date": "2024-10-11T15:27:12",
+        "link": "https://montanafreepress.org/2024/10/11/surging-insurance-rates-put-spotlight-on-race-for-state-auditor/",
+        "tags": [
+          "2024 Election",
+          "2024 election Guide",
+          "Commissioner of Insurance and Securities",
+          "James Brown",
+          "John Repke",
+          "Montana Public Service Commission",
+          "Montana State Auditor",
+          "Troy Downing"
+        ],
+        "categories": [
+          "2024 Elections"
+        ],
+        "featuredImage": "https://montanafreepress.org/2024-elections-state-auditor-profile/",
+        "author": "Amanda Eggert"
+      }
+    ],
     "finance": null,
     "questionnaire": {
       "hasResponses": true,
@@ -7328,9 +7618,9 @@
         "candidateCommitteeName": "JOEL KRAUTTER FOR MONTANA",
         "candidateId": "H4MT02064",
         "totalReceipts": 88078.89,
-        "totalDisbursments": 84417.91,
-        "cashOnHand": 3660.98,
-        "coverageEndDate": "2024-06-30",
+        "totalDisbursments": 88078.89,
+        "cashOnHand": 0,
+        "coverageEndDate": "2024-09-24",
         "isThisCandidate": false,
         "candidateStatus": "lost-primary"
       },
@@ -7351,10 +7641,10 @@
         "party": "D",
         "candidateCommitteeName": "MING FOR CONGRESS",
         "candidateId": "H4MT02056",
-        "totalReceipts": 60947,
-        "totalDisbursments": 59907.55,
-        "cashOnHand": 1636.18,
-        "coverageEndDate": "2024-06-30",
+        "totalReceipts": 61522,
+        "totalDisbursments": 61522,
+        "cashOnHand": 0,
+        "coverageEndDate": "2024-09-30",
         "isThisCandidate": false,
         "candidateStatus": "lost-primary"
       },
@@ -7390,7 +7680,7 @@
         "totalReceipts": 4550,
         "totalDisbursments": 4500,
         "cashOnHand": 550,
-        "coverageEndDate": "2024-06-30",
+        "coverageEndDate": "2024-09-30",
         "isThisCandidate": false,
         "candidateStatus": "lost-primary"
       }
@@ -7660,9 +7950,9 @@
         "candidateCommitteeName": "JOEL KRAUTTER FOR MONTANA",
         "candidateId": "H4MT02064",
         "totalReceipts": 88078.89,
-        "totalDisbursments": 84417.91,
-        "cashOnHand": 3660.98,
-        "coverageEndDate": "2024-06-30",
+        "totalDisbursments": 88078.89,
+        "cashOnHand": 0,
+        "coverageEndDate": "2024-09-24",
         "isThisCandidate": true,
         "candidateStatus": "lost-primary"
       },
@@ -7683,10 +7973,10 @@
         "party": "D",
         "candidateCommitteeName": "MING FOR CONGRESS",
         "candidateId": "H4MT02056",
-        "totalReceipts": 60947,
-        "totalDisbursments": 59907.55,
-        "cashOnHand": 1636.18,
-        "coverageEndDate": "2024-06-30",
+        "totalReceipts": 61522,
+        "totalDisbursments": 61522,
+        "cashOnHand": 0,
+        "coverageEndDate": "2024-09-30",
         "isThisCandidate": false,
         "candidateStatus": "lost-primary"
       },
@@ -7722,7 +8012,7 @@
         "totalReceipts": 4550,
         "totalDisbursments": 4500,
         "cashOnHand": 550,
-        "coverageEndDate": "2024-06-30",
+        "coverageEndDate": "2024-09-30",
         "isThisCandidate": false,
         "candidateStatus": "lost-primary"
       }
@@ -8001,6 +8291,22 @@
     ],
     "coverage": [
       {
+        "title": "Kamala Harris back on Montana’s overseas ballot",
+        "date": "2024-09-23T16:41:20",
+        "link": "https://montanafreepress.org/2024/09/23/harris-briefly-left-off-digital-ballots-for-overseas-montana-voters/",
+        "tags": [
+          "2024 election Guide",
+          "Christi Jacobsen",
+          "Jesse Mullen",
+          "secretary of state"
+        ],
+        "categories": [
+          "2024 Elections"
+        ],
+        "featuredImage": "https://montanafreepress.org/montana-state-capitol-110/",
+        "author": "Alex Sakariassen"
+      },
+      {
         "title": "Jacobsen announces re-election bid for top election office",
         "date": "2023-11-13T16:46:39",
         "link": "https://montanafreepress.org/2023/11/13/christ-jacobsen-montana-secretary-of-state-reelection-announcement/",
@@ -8166,6 +8472,25 @@
     ],
     "coverage": [
       {
+        "title": "Supreme Court candidates dodge, and leverage, political rhetoric",
+        "date": "2024-10-03T13:56:43",
+        "link": "https://montanafreepress.org/2024/10/03/montana-supreme-court-candidates-dodge-and-leverage-political-rhetoric/",
+        "tags": [
+          "2024 election Guide",
+          "2024 elections",
+          "Cory Swanson",
+          "dan wilson",
+          "Jerry Lynch",
+          "Katherine Bidegaray",
+          "Montana Supreme Court"
+        ],
+        "categories": [
+          "2024 Elections"
+        ],
+        "featuredImage": "https://montanafreepress.org/img_2720/",
+        "author": "Mara Silvers"
+      },
+      {
         "title": "The politics and philosophy behind the race for chief justice of the Montana Supreme Court ",
         "date": "2023-12-14T12:00:21",
         "link": "https://montanafreepress.org/2023/12/14/the-politics-and-philosophy-behind-the-race-for-chief-justice-of-the-montana-supreme-court/",
@@ -8268,7 +8593,7 @@
     "displayName": "Jennifer Fielder",
     "lastName": "Fielder",
     "summaryLine": "Incumbent public service commissioner",
-    "summaryNarrative": "Fielder is a former Montana senator who is running unopposed as she seeks election to a second four-year term on the PSC.\n\nFielder said she has helped the “once beleaguered” PSC “become a model of good governance” during her tenure at the agency.\n\nFielder argues on her campaign website that her oversight of complex regulatory matters before the PSC has saved Montana utility customers millions of dollars. \n\nFielder says she spearheaded the agency’s strategic planning initiatives, modernized the agency’s software and overhauled its internal policies and procedures. “All of which,” she wrote on her website, “have created higher standards of service, performance and conduct throughout the agency.”\n\nLike her colleagues on the commission, Fielder voted to approve [NorthWestern Energy’s rate increase](https://montanafreepress.org/2023/10/25/public-service-commission-approves-northwestern-energy-rate-hike/) in 2023, a decision that has drawn criticism from NorthWestern’s customers. Fielder defended that vote in a later proceeding that upheld the rate increase.\n\n​​“I wish that prices across the board were not up so high in this country the way they are, but I believe the commission did its best that it could with the parameters that have been given to use under the law,” Fielder said. \n\nFielder didn’t respond to MTFP’s spring 2024 candidate questionnaire. This biography is based on material from Fielder’s campaign website and media coverage of commission proceedings.\n",
+    "summaryNarrative": "Fielder is a former Montana senator who is running against an independent candidate as she seeks election to a second four-year term on the PSC.\n\nFielder said she has helped the “once beleaguered” PSC “become a model of good governance” during her tenure at the agency.\n\nFielder argues on her campaign website that her oversight of complex regulatory matters before the PSC has saved Montana utility customers millions of dollars. \n\nFielder says she spearheaded the agency’s strategic planning initiatives, modernized the agency’s software and overhauled its internal policies and procedures. “All of which,” she wrote on her website, “have created higher standards of service, performance and conduct throughout the agency.”\n\nLike her colleagues on the commission, Fielder voted to approve [NorthWestern Energy’s rate increase](https://montanafreepress.org/2023/10/25/public-service-commission-approves-northwestern-energy-rate-hike/) in 2023, a decision that has drawn criticism from NorthWestern’s customers. Fielder defended that vote in a later proceeding that upheld the rate increase.\n\n​​“I wish that prices across the board were not up so high in this country the way they are, but I believe the commission did its best that it could with the parameters that have been given to use under the law,” Fielder said. \n\nFielder didn’t respond to MTFP’s spring 2024 candidate questionnaire. This biography is based on material from Fielder’s campaign website and media coverage of commission proceedings.\n",
     "party": "R",
     "isIncumbent": true,
     "status": "active",
@@ -8296,6 +8621,24 @@
       }
     ],
     "coverage": [
+      {
+        "title": "Independent candidate challenges incumbent Republican for Montana utility board seat",
+        "date": "2024-10-01T14:43:30",
+        "link": "https://montanafreepress.org/2024/10/01/independent-candidate-challenges-incumbent-republican-for-montana-utility-board-seat/",
+        "tags": [
+          "2024 election Guide",
+          "2024 elections",
+          "Elena Evans",
+          "Jennifer Fielder",
+          "Montana Public Service Commission",
+          "NorthWestern Energy"
+        ],
+        "categories": [
+          "2024 Elections"
+        ],
+        "featuredImage": "https://montanafreepress.org/2024/10/01/independent-candidate-challenges-incumbent-republican-for-montana-utility-board-seat/psc-race/",
+        "author": "Amanda Eggert"
+      },
       {
         "title": "Public Service Commission approves NorthWestern Energy rate hike",
         "date": "2023-10-25T17:22:25",
@@ -8388,6 +8731,30 @@
       }
     ],
     "coverage": [
+      {
+        "title": "Colstrip, climate and electricity rates loom large in utility board race",
+        "date": "2024-10-08T16:15:34",
+        "link": "https://montanafreepress.org/2024/10/08/colstrip-climate-and-electricity-rates-loom-large-in-utility-board-race/",
+        "tags": [
+          "2021 Legislature",
+          "2023 Legsilature",
+          "2024 election Guide",
+          "Brad Molnar",
+          "Held v. Montana",
+          "Inflation Reduction Act",
+          "Jeff Welborn",
+          "Leonard Williams",
+          "Montana Public Service Commission",
+          "NorthWestern Energy",
+          "Susan Bilo",
+          "U.S. Environmental Protection Agency"
+        ],
+        "categories": [
+          "2024 Elections"
+        ],
+        "featuredImage": "https://montanafreepress.org/2024/10/08/colstrip-climate-and-electricity-rates-loom-large-in-utility-board-race/psc-3/",
+        "author": "Amanda Eggert"
+      },
       {
         "title": "The GOP-heavy primary for Montana’s utility-regulating PSC",
         "date": "2024-05-21T12:41:21",
@@ -8595,6 +8962,26 @@
     ],
     "coverage": [
       {
+        "title": "Surging insurance rates put spotlight on race for state auditor",
+        "date": "2024-10-11T15:27:12",
+        "link": "https://montanafreepress.org/2024/10/11/surging-insurance-rates-put-spotlight-on-race-for-state-auditor/",
+        "tags": [
+          "2024 Election",
+          "2024 election Guide",
+          "Commissioner of Insurance and Securities",
+          "James Brown",
+          "John Repke",
+          "Montana Public Service Commission",
+          "Montana State Auditor",
+          "Troy Downing"
+        ],
+        "categories": [
+          "2024 Elections"
+        ],
+        "featuredImage": "https://montanafreepress.org/2024-elections-state-auditor-profile/",
+        "author": "Amanda Eggert"
+      },
+      {
         "title": "Brown wins GOP primary race for Montana state auditor",
         "date": "2024-06-05T10:45:13",
         "link": "https://montanafreepress.org/2024/06/05/brown-wins-gop-primary-race-for-montana-state-auditor/",
@@ -8727,6 +9114,23 @@
     ],
     "coverage": [
       {
+        "title": "In reelection bid, Gianforte’s economic record is on the ballot",
+        "date": "2024-10-10T14:48:23",
+        "link": "https://montanafreepress.org/2024/10/10/reelection-bid-montana-governor-gianforte-economic-record-on-ballot/",
+        "tags": [
+          "2024 Election",
+          "2024 election Guide",
+          "Greg Gianforte",
+          "Ryan Busse"
+        ],
+        "categories": [
+          "2024 Elections",
+          "Economy"
+        ],
+        "featuredImage": "https://montanafreepress.org/2024/10/10/reelection-bid-montana-governor-gianforte-economic-record-on-ballot/gianforte_busse_10/",
+        "author": "Eric Dietrich"
+      },
+      {
         "title": "Gianforte, Busse negotiate October debate",
         "date": "2024-09-16T17:40:46",
         "link": "https://montanafreepress.org/2024/09/16/montana-governor-candidates-negotiate-october-debate/",
@@ -8747,7 +9151,9 @@
         "date": "2024-09-04T16:10:17",
         "link": "https://montanafreepress.org/2024/09/04/how-montana-governor-gianforte-gave-away-57-million-of-his-family-wealth/",
         "tags": [
+          "2024 Election",
           "2024 election Guide",
+          "2024 elections",
           "Greg Gianforte"
         ],
         "categories": [
@@ -9611,9 +10017,9 @@
         "candidateCommitteeName": "JOEL KRAUTTER FOR MONTANA",
         "candidateId": "H4MT02064",
         "totalReceipts": 88078.89,
-        "totalDisbursments": 84417.91,
-        "cashOnHand": 3660.98,
-        "coverageEndDate": "2024-06-30",
+        "totalDisbursments": 88078.89,
+        "cashOnHand": 0,
+        "coverageEndDate": "2024-09-24",
         "isThisCandidate": false,
         "candidateStatus": "lost-primary"
       },
@@ -9634,10 +10040,10 @@
         "party": "D",
         "candidateCommitteeName": "MING FOR CONGRESS",
         "candidateId": "H4MT02056",
-        "totalReceipts": 60947,
-        "totalDisbursments": 59907.55,
-        "cashOnHand": 1636.18,
-        "coverageEndDate": "2024-06-30",
+        "totalReceipts": 61522,
+        "totalDisbursments": 61522,
+        "cashOnHand": 0,
+        "coverageEndDate": "2024-09-30",
         "isThisCandidate": false,
         "candidateStatus": "lost-primary"
       },
@@ -9673,7 +10079,7 @@
         "totalReceipts": 4550,
         "totalDisbursments": 4500,
         "cashOnHand": 550,
-        "coverageEndDate": "2024-06-30",
+        "coverageEndDate": "2024-09-30",
         "isThisCandidate": false,
         "candidateStatus": "lost-primary"
       }
@@ -9828,6 +10234,24 @@
       }
     ],
     "coverage": [
+      {
+        "title": "Independent candidate challenges incumbent Republican for Montana utility board seat",
+        "date": "2024-10-01T14:43:30",
+        "link": "https://montanafreepress.org/2024/10/01/independent-candidate-challenges-incumbent-republican-for-montana-utility-board-seat/",
+        "tags": [
+          "2024 election Guide",
+          "2024 elections",
+          "Elena Evans",
+          "Jennifer Fielder",
+          "Montana Public Service Commission",
+          "NorthWestern Energy"
+        ],
+        "categories": [
+          "2024 Elections"
+        ],
+        "featuredImage": "https://montanafreepress.org/2024/10/01/independent-candidate-challenges-incumbent-republican-for-montana-utility-board-seat/psc-race/",
+        "author": "Amanda Eggert"
+      },
       {
         "title": "Independent candidate Elena Evans cleared to run for PSC",
         "date": "2024-06-28T12:07:12",
@@ -9989,9 +10413,9 @@
         "candidateCommitteeName": "JOEL KRAUTTER FOR MONTANA",
         "candidateId": "H4MT02064",
         "totalReceipts": 88078.89,
-        "totalDisbursments": 84417.91,
-        "cashOnHand": 3660.98,
-        "coverageEndDate": "2024-06-30",
+        "totalDisbursments": 88078.89,
+        "cashOnHand": 0,
+        "coverageEndDate": "2024-09-24",
         "isThisCandidate": false,
         "candidateStatus": "lost-primary"
       },
@@ -10012,10 +10436,10 @@
         "party": "D",
         "candidateCommitteeName": "MING FOR CONGRESS",
         "candidateId": "H4MT02056",
-        "totalReceipts": 60947,
-        "totalDisbursments": 59907.55,
-        "cashOnHand": 1636.18,
-        "coverageEndDate": "2024-06-30",
+        "totalReceipts": 61522,
+        "totalDisbursments": 61522,
+        "cashOnHand": 0,
+        "coverageEndDate": "2024-09-30",
         "isThisCandidate": false,
         "candidateStatus": "lost-primary"
       },
@@ -10051,7 +10475,7 @@
         "totalReceipts": 4550,
         "totalDisbursments": 4500,
         "cashOnHand": 550,
-        "coverageEndDate": "2024-06-30",
+        "coverageEndDate": "2024-09-30",
         "isThisCandidate": false,
         "candidateStatus": "lost-primary"
       }
@@ -10439,9 +10863,9 @@
         "candidateCommitteeName": "JOEL KRAUTTER FOR MONTANA",
         "candidateId": "H4MT02064",
         "totalReceipts": 88078.89,
-        "totalDisbursments": 84417.91,
-        "cashOnHand": 3660.98,
-        "coverageEndDate": "2024-06-30",
+        "totalDisbursments": 88078.89,
+        "cashOnHand": 0,
+        "coverageEndDate": "2024-09-24",
         "isThisCandidate": false,
         "candidateStatus": "lost-primary"
       },
@@ -10462,10 +10886,10 @@
         "party": "D",
         "candidateCommitteeName": "MING FOR CONGRESS",
         "candidateId": "H4MT02056",
-        "totalReceipts": 60947,
-        "totalDisbursments": 59907.55,
-        "cashOnHand": 1636.18,
-        "coverageEndDate": "2024-06-30",
+        "totalReceipts": 61522,
+        "totalDisbursments": 61522,
+        "cashOnHand": 0,
+        "coverageEndDate": "2024-09-30",
         "isThisCandidate": false,
         "candidateStatus": "lost-primary"
       },
@@ -10501,7 +10925,7 @@
         "totalReceipts": 4550,
         "totalDisbursments": 4500,
         "cashOnHand": 550,
-        "coverageEndDate": "2024-06-30",
+        "coverageEndDate": "2024-09-30",
         "isThisCandidate": false,
         "candidateStatus": "lost-primary"
       }
@@ -10847,6 +11271,25 @@
     ],
     "coverage": [
       {
+        "title": "Supreme Court candidates dodge, and leverage, political rhetoric",
+        "date": "2024-10-03T13:56:43",
+        "link": "https://montanafreepress.org/2024/10/03/montana-supreme-court-candidates-dodge-and-leverage-political-rhetoric/",
+        "tags": [
+          "2024 election Guide",
+          "2024 elections",
+          "Cory Swanson",
+          "dan wilson",
+          "Jerry Lynch",
+          "Katherine Bidegaray",
+          "Montana Supreme Court"
+        ],
+        "categories": [
+          "2024 Elections"
+        ],
+        "featuredImage": "https://montanafreepress.org/img_2720/",
+        "author": "Mara Silvers"
+      },
+      {
         "title": "The race to replace Supreme Court Justice Dirk Sandefur",
         "date": "2024-03-15T15:53:09",
         "link": "https://montanafreepress.org/2024/03/15/the-race-to-replace-supreme-court-justice-dirk-sandefur/",
@@ -10948,6 +11391,25 @@
       }
     ],
     "coverage": [
+      {
+        "title": "Supreme Court candidates dodge, and leverage, political rhetoric",
+        "date": "2024-10-03T13:56:43",
+        "link": "https://montanafreepress.org/2024/10/03/montana-supreme-court-candidates-dodge-and-leverage-political-rhetoric/",
+        "tags": [
+          "2024 election Guide",
+          "2024 elections",
+          "Cory Swanson",
+          "dan wilson",
+          "Jerry Lynch",
+          "Katherine Bidegaray",
+          "Montana Supreme Court"
+        ],
+        "categories": [
+          "2024 Elections"
+        ],
+        "featuredImage": "https://montanafreepress.org/img_2720/",
+        "author": "Mara Silvers"
+      },
       {
         "title": "The race to replace Supreme Court Justice Dirk Sandefur",
         "date": "2024-03-15T15:53:09",
@@ -11091,6 +11553,22 @@
       }
     ],
     "coverage": [
+      {
+        "title": "Kamala Harris back on Montana’s overseas ballot",
+        "date": "2024-09-23T16:41:20",
+        "link": "https://montanafreepress.org/2024/09/23/harris-briefly-left-off-digital-ballots-for-overseas-montana-voters/",
+        "tags": [
+          "2024 election Guide",
+          "Christi Jacobsen",
+          "Jesse Mullen",
+          "secretary of state"
+        ],
+        "categories": [
+          "2024 Elections"
+        ],
+        "featuredImage": "https://montanafreepress.org/montana-state-capitol-110/",
+        "author": "Alex Sakariassen"
+      },
       {
         "title": "Abortion initiative to appear on November ballot",
         "date": "2024-08-20T20:54:54",
@@ -11303,10 +11781,10 @@
         "party": "R",
         "candidateCommitteeName": "TIM SHEEHY FOR MONTANA",
         "candidateId": "S4MT00183",
-        "totalReceipts": 14065647.85,
-        "totalDisbursments": 10795081.65,
-        "cashOnHand": 3270566.2,
-        "coverageEndDate": "2024-06-30",
+        "totalReceipts": 14065887.28,
+        "totalDisbursments": 10823805.69,
+        "cashOnHand": 3242081.59,
+        "coverageEndDate": "2024-09-29",
         "isThisCandidate": false,
         "candidateStatus": "active"
       },
@@ -11443,6 +11921,30 @@
       }
     ],
     "coverage": [
+      {
+        "title": "Colstrip, climate and electricity rates loom large in utility board race",
+        "date": "2024-10-08T16:15:34",
+        "link": "https://montanafreepress.org/2024/10/08/colstrip-climate-and-electricity-rates-loom-large-in-utility-board-race/",
+        "tags": [
+          "2021 Legislature",
+          "2023 Legsilature",
+          "2024 election Guide",
+          "Brad Molnar",
+          "Held v. Montana",
+          "Inflation Reduction Act",
+          "Jeff Welborn",
+          "Leonard Williams",
+          "Montana Public Service Commission",
+          "NorthWestern Energy",
+          "Susan Bilo",
+          "U.S. Environmental Protection Agency"
+        ],
+        "categories": [
+          "2024 Elections"
+        ],
+        "featuredImage": "https://montanafreepress.org/2024/10/08/colstrip-climate-and-electricity-rates-loom-large-in-utility-board-race/psc-3/",
+        "author": "Amanda Eggert"
+      },
       {
         "title": "The GOP-heavy primary for Montana’s utility-regulating PSC",
         "date": "2024-05-21T12:41:21",
@@ -11606,10 +12108,10 @@
         "party": "R",
         "candidateCommitteeName": "TIM SHEEHY FOR MONTANA",
         "candidateId": "S4MT00183",
-        "totalReceipts": 14065647.85,
-        "totalDisbursments": 10795081.65,
-        "cashOnHand": 3270566.2,
-        "coverageEndDate": "2024-06-30",
+        "totalReceipts": 14065887.28,
+        "totalDisbursments": 10823805.69,
+        "cashOnHand": 3242081.59,
+        "coverageEndDate": "2024-09-29",
         "isThisCandidate": false,
         "candidateStatus": "active"
       },
@@ -11945,6 +12447,23 @@
       }
     ],
     "coverage": [
+      {
+        "title": "Attorney General Austin Knudsen testifies before Commission on Practice",
+        "date": "2024-10-09T19:41:44",
+        "link": "https://montanafreepress.org/2024/10/09/montana-attorney-general-austin-knudsen-testifies-before-state-commission-on-practice/",
+        "tags": [
+          "2024 election Guide",
+          "Austin Knudsen",
+          "Judicial Standards Commission",
+          "Montana Department of Justice",
+          "Montana Supreme Court"
+        ],
+        "categories": [
+          "Courts"
+        ],
+        "featuredImage": "https://montanafreepress.org/2024/10/09/montana-attorney-general-austin-knudsen-testifies-before-state-commission-on-practice/untitled-design-345/",
+        "author": "Tom Lutey"
+      },
       {
         "title": "Knudsen camp calls for dismissal of political practices complaint",
         "date": "2024-05-24T13:33:24",
