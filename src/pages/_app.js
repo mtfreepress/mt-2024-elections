@@ -4,7 +4,7 @@ import { useRouter } from "next/router";
 
 export default function App({ Component, pageProps }) {
   const router = useRouter();
-  const basePath = "/election-guide-2024"; // Setting the base path
+  const basePath = router.basePath; // Setting the base path
 
   useEffect(() => {
     const handleRouteChangeStart = () => {
