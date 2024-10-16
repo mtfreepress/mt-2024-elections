@@ -133,7 +133,7 @@
         "summaryLine": "Incumbent U.S. representative",
         "party": "R",
         "hasResponses": true,
-        "numMTFParticles": 11
+        "numMTFParticles": 13
       },
       {
         "slug": "monica-tranel",
@@ -141,7 +141,7 @@
         "summaryLine": "Missoula attorney",
         "party": "D",
         "hasResponses": true,
-        "numMTFParticles": 6
+        "numMTFParticles": 8
       },
       {
         "slug": "dennis-hayes",
@@ -218,7 +218,7 @@
         "summaryLine": "State auditor",
         "party": "R",
         "hasResponses": false,
-        "numMTFParticles": 4
+        "numMTFParticles": 5
       },
       {
         "slug": "john-driscoll",
@@ -226,7 +226,7 @@
         "summaryLine": "Former public service commissioner",
         "party": "D",
         "hasResponses": true,
-        "numMTFParticles": 4
+        "numMTFParticles": 5
       }
     ],
     "finance": [
@@ -278,7 +278,7 @@
         "totalReceipts": 113963.42,
         "totalDisbursments": 109495.54,
         "cashOnHand": 4467.88,
-        "coverageEndDate": "2024-06-30"
+        "coverageEndDate": "2024-09-30"
       },
       {
         "displayName": "Steve Held",
