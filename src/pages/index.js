@@ -116,7 +116,7 @@ export default function Home({ races, legislativeRaces, ballotIssues, text, voti
             relativePath='/'
             pageTitle={"Montana's 2024 Candidates | 2024 Montana Election Guide"}
             pageDescription={pageDescription}
-            siteSeoTitle={"Montana's 2024 Candidates | MFTP 2024 Election Guide"}
+            siteSeoTitle={"Montana's 2024 Candidates | 2024 MTFP Election Guide"}
             seoDescription={pageDescription}
             socialTitle={"The MTFP 2024 Election Guide"}
             socialDescription={"Federal, state and legislative candidates seeking Montana office in 2024."}

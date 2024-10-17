@@ -14,7 +14,7 @@
         "summaryLine": "Incumbent U.S. senator",
         "party": "D",
         "hasResponses": true,
-        "numMTFParticles": 18
+        "numMTFParticles": 19
       },
       {
         "slug": "tim-sheehy",
@@ -22,7 +22,7 @@
         "summaryLine": "Bozeman businessman",
         "party": "R",
         "hasResponses": true,
-        "numMTFParticles": 24
+        "numMTFParticles": 25
       },
       {
         "slug": "sid-daoud",
@@ -47,10 +47,10 @@
         "party": "D",
         "candidateCommitteeName": "MONTANANS FOR TESTER",
         "candidateId": "S6MT00162",
-        "totalReceipts": 43775556.22,
-        "totalDisbursments": 33373881.22,
-        "cashOnHand": 10882248.87,
-        "coverageEndDate": "2024-06-30"
+        "totalReceipts": 77909909.2,
+        "totalDisbursments": 70966248.84,
+        "cashOnHand": 7424234.23,
+        "coverageEndDate": "2024-09-30"
       },
       {
         "displayName": "Tim Sheehy",
@@ -158,10 +158,10 @@
         "party": "R",
         "candidateCommitteeName": "ZINKE FOR CONGRESS",
         "candidateId": "H4MT01041",
-        "totalReceipts": 6795218.18,
-        "totalDisbursments": 3797356.14,
-        "cashOnHand": 3107910.16,
-        "coverageEndDate": "2024-06-30"
+        "totalReceipts": 8797224.27,
+        "totalDisbursments": 6577512.51,
+        "cashOnHand": 2329759.88,
+        "coverageEndDate": "2024-09-30"
       },
       {
         "displayName": "Monica Tranel",
@@ -456,7 +456,7 @@
         "summaryLine": "Incumbent Montana governor",
         "party": "R",
         "hasResponses": true,
-        "numMTFParticles": 23
+        "numMTFParticles": 24
       },
       {
         "slug": "ryan-busse",
@@ -464,7 +464,7 @@
         "summaryLine": "Former firearms sales executive",
         "party": "D",
         "hasResponses": true,
-        "numMTFParticles": 10
+        "numMTFParticles": 11
       },
       {
         "slug": "kaiser-leib",
@@ -509,7 +509,7 @@
         "summaryLine": "Incumbent secretary of state",
         "party": "R",
         "hasResponses": true,
-        "numMTFParticles": 7
+        "numMTFParticles": 8
       },
       {
         "slug": "jesse-mullen",
@@ -517,7 +517,7 @@
         "summaryLine": "Deer Lodge newspaper owner",
         "party": "D",
         "hasResponses": true,
-        "numMTFParticles": 2
+        "numMTFParticles": 3
       },
       {
         "slug": "john-lamb",
@@ -525,7 +525,7 @@
         "summaryLine": "Libertarian activist",
         "party": "L",
         "hasResponses": false,
-        "numMTFParticles": 0
+        "numMTFParticles": 1
       }
     ],
     "finance": null,

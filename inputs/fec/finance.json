@@ -8,16 +8,16 @@
         "candidate_name": "TESTER, R. JON",
         "candidate_pcc_id": "C00412304",
         "candidate_pcc_name": "MONTANANS FOR TESTER",
-        "cash_on_hand_end_period": 10882248.87,
+        "cash_on_hand_end_period": 7424234.23,
         "committee_ids": [
           "C00412304",
           "C00887521"
         ],
-        "coverage_end_date": "2024-06-30",
+        "coverage_end_date": "2024-09-30",
         "incumbent_challenge_full": "Incumbent",
         "party_full": "DEMOCRATIC PARTY",
-        "total_disbursements": 33373881.22,
-        "total_receipts": 43775556.22
+        "total_disbursements": 70966248.84,
+        "total_receipts": 77909909.2
       },
       {
         "candidate_election_year": 2024,
@@ -95,16 +95,16 @@
         "candidate_name": "ZINKE, RYAN K",
         "candidate_pcc_id": "C00778159",
         "candidate_pcc_name": "ZINKE FOR CONGRESS",
-        "cash_on_hand_end_period": 3107910.16,
+        "cash_on_hand_end_period": 2329759.88,
         "committee_ids": [
           "C00778159",
           "C00798454"
         ],
-        "coverage_end_date": "2024-06-30",
+        "coverage_end_date": "2024-09-30",
         "incumbent_challenge_full": "Incumbent",
         "party_full": "REPUBLICAN PARTY",
-        "total_disbursements": 3797356.14,
-        "total_receipts": 6795218.18
+        "total_disbursements": 6577512.51,
+        "total_receipts": 8797224.27
       },
       {
         "candidate_election_year": 2024,
@@ -182,15 +182,15 @@
         "candidate_name": "ROSENDALE, MATT MR.",
         "candidate_pcc_id": "C00548289",
         "candidate_pcc_name": "MATT ROSENDALE FOR MONTANA",
-        "cash_on_hand_end_period": 958619.63,
+        "cash_on_hand_end_period": 930605.37,
         "committee_ids": [
           "C00548289"
         ],
-        "coverage_end_date": "2024-06-30",
+        "coverage_end_date": "2024-09-30",
         "incumbent_challenge_full": "Incumbent",
         "party_full": "REPUBLICAN PARTY",
-        "total_disbursements": 1326169.13,
-        "total_receipts": 1067015.84
+        "total_disbursements": 1354859.71,
+        "total_receipts": 1067692.16
       },
       {
         "candidate_election_year": 2024,
