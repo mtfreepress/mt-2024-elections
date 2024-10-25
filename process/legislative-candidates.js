@@ -92,8 +92,8 @@ async function main() {
     let candidates = await getCsv('./inputs/filings/CandidateList.csv',) // Includes manually added independent candidates
     const candidateAnnotations = await getCsv('./inputs/content/lege-candidate-annotations.csv',)
     const legeDistricts = await getCsv('./inputs/legislative-districts/districts.csv',)
-    const legeQuestionsPrePrimary = await getCsv('./inputs/lvw-questionnaire/pre-primary-lwvmt24-races.csv',)
-    const legeQuestionsPostPrimary = await getCsv('./inputs/lvw-questionnaire/lwvmt24-races.csv',)
+    const legeQuestionsPrePrimary = await getCsv('./inputs/lwv-questionnaire/pre-primary-lwvmt24-races.csv',)
+    const legeQuestionsPostPrimary = await getCsv('./inputs/lwv-questionnaire/lwvmt24-races.csv',)
     const coverage = getJson('./inputs/coverage/articles.json')
     const primaryResultListing = getJson('./inputs/results/cleaned/2024-primary-legislative.json')
 

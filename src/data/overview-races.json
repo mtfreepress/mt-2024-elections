@@ -14,7 +14,7 @@
         "summaryLine": "Incumbent U.S. senator",
         "party": "D",
         "hasResponses": true,
-        "numMTFParticles": 19
+        "numMTFParticles": 20
       },
       {
         "slug": "tim-sheehy",
@@ -22,7 +22,7 @@
         "summaryLine": "Bozeman businessman",
         "party": "R",
         "hasResponses": true,
-        "numMTFParticles": 25
+        "numMTFParticles": 26
       },
       {
         "slug": "sid-daoud",
@@ -47,20 +47,20 @@
         "party": "D",
         "candidateCommitteeName": "MONTANANS FOR TESTER",
         "candidateId": "S6MT00162",
-        "totalReceipts": 77909909.2,
-        "totalDisbursments": 70966248.84,
-        "cashOnHand": 7424234.23,
-        "coverageEndDate": "2024-09-30"
+        "totalReceipts": 88163151,
+        "totalDisbursments": 84499372.13,
+        "cashOnHand": 4144352.74,
+        "coverageEndDate": "2024-10-16"
       },
       {
         "displayName": "Tim Sheehy",
         "party": "R",
         "candidateCommitteeName": "TIM SHEEHY FOR MONTANA",
         "candidateId": "S4MT00183",
-        "totalReceipts": 14065887.28,
-        "totalDisbursments": 10823805.69,
-        "cashOnHand": 3242081.59,
-        "coverageEndDate": "2024-09-29"
+        "totalReceipts": 23791442.11,
+        "totalDisbursments": 19753617.34,
+        "cashOnHand": 4037824.77,
+        "coverageEndDate": "2024-09-30"
       },
       {
         "displayName": "Brad Johnson",
@@ -158,20 +158,20 @@
         "party": "R",
         "candidateCommitteeName": "ZINKE FOR CONGRESS",
         "candidateId": "H4MT01041",
-        "totalReceipts": 8797224.27,
-        "totalDisbursments": 6577512.51,
-        "cashOnHand": 2329759.88,
-        "coverageEndDate": "2024-09-30"
+        "totalReceipts": 9366073.48,
+        "totalDisbursments": 7601939.2,
+        "cashOnHand": 1874182.4,
+        "coverageEndDate": "2024-10-16"
       },
       {
         "displayName": "Monica Tranel",
         "party": "D",
         "candidateCommitteeName": "MONICA TRANEL FOR MONTANA",
         "candidateId": "H2MT02092",
-        "totalReceipts": 3114477.64,
-        "totalDisbursments": 1009866.97,
-        "cashOnHand": 2114496.32,
-        "coverageEndDate": "2024-06-30"
+        "totalReceipts": 5274798.23,
+        "totalDisbursments": 3907155.41,
+        "cashOnHand": 1377528.47,
+        "coverageEndDate": "2024-09-30"
       },
       {
         "displayName": "Mary Todd",
@@ -235,10 +235,10 @@
         "party": "R",
         "candidateCommitteeName": "TROY DOWNING FOR CONGRESS",
         "candidateId": "H4MT02098",
-        "totalReceipts": 2107242.87,
-        "totalDisbursments": 2010881.73,
-        "cashOnHand": 96361.14,
-        "coverageEndDate": "2024-06-30"
+        "totalReceipts": 2727359.44,
+        "totalDisbursments": 2522821.01,
+        "cashOnHand": 204538.43,
+        "coverageEndDate": "2024-10-16"
       },
       {
         "displayName": "Elsie Arntzen",
@@ -265,10 +265,10 @@
         "party": "R",
         "candidateCommitteeName": "ZINN FOR MONTANA",
         "candidateId": "H4MT02106",
-        "totalReceipts": 151449.7,
-        "totalDisbursments": 112747.58,
-        "cashOnHand": 38702.12,
-        "coverageEndDate": "2024-06-30"
+        "totalReceipts": 154182.2,
+        "totalDisbursments": 151013.48,
+        "cashOnHand": 3168.72,
+        "coverageEndDate": "2024-09-30"
       },
       {
         "displayName": "Ed Walker",
@@ -278,7 +278,7 @@
         "totalReceipts": 113963.42,
         "totalDisbursments": 109495.54,
         "cashOnHand": 4467.88,
-        "coverageEndDate": "2024-09-30"
+        "coverageEndDate": "2024-10-16"
       },
       {
         "displayName": "Steve Held",
@@ -545,7 +545,7 @@
         "summaryLine": "Incumbent attorney general",
         "party": "R",
         "hasResponses": true,
-        "numMTFParticles": 13
+        "numMTFParticles": 14
       },
       {
         "slug": "ben-alke",
@@ -553,7 +553,7 @@
         "summaryLine": "Bozeman attorney",
         "party": "D",
         "hasResponses": true,
-        "numMTFParticles": 2
+        "numMTFParticles": 3
       }
     ],
     "finance": null,
@@ -582,7 +582,7 @@
         "summaryLine": "Townsend School District superintendent",
         "party": "R",
         "hasResponses": true,
-        "numMTFParticles": 3
+        "numMTFParticles": 4
       },
       {
         "slug": "shannon-obrien",
